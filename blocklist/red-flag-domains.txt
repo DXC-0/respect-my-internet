@@ -461,6 +461,7 @@
 0.0.0.0 abonnements-iptv-france.fr
 0.0.0.0 abonnements-net.fr
 0.0.0.0 abonnements-netflix.fr
+0.0.0.0 abonnements-prime.fr
 0.0.0.0 abonnements-reactivation.fr
 0.0.0.0 abonnements-renouvellement.fr
 0.0.0.0 abonnements-services.fr
@@ -5842,6 +5843,7 @@
 0.0.0.0 betory-casino.fr
 0.0.0.0 betory-fr.fr
 0.0.0.0 betorycasino.fr
+0.0.0.0 betoryfrance.fr
 0.0.0.0 betospin.fr
 0.0.0.0 betovo.fr
 0.0.0.0 betpanda-casino.fr
@@ -6891,6 +6893,7 @@
 0.0.0.0 brokercargo-group.fr
 0.0.0.0 brokking.fr
 0.0.0.0 brooks-france.fr
+0.0.0.0 brooks-soldes.fr
 0.0.0.0 brooksbrothersfrance.fr
 0.0.0.0 brookschaussures.fr
 0.0.0.0 brooksfr.fr
@@ -7027,6 +7030,7 @@
 0.0.0.0 bvlgaris.fr
 0.0.0.0 bvvaq.yt
 0.0.0.0 bwbdbd.fr
+0.0.0.0 bwebmail-orange.fr
 0.0.0.0 bwin-casino.fr
 0.0.0.0 bwin-official.fr
 0.0.0.0 bwincasinofrance.fr
@@ -9386,6 +9390,7 @@
 0.0.0.0 checkout-prime.fr
 0.0.0.0 checkout-secure3ds.fr
 0.0.0.0 checkout3dsecure.fr
+0.0.0.0 checkverif.fr
 0.0.0.0 chemise-milano.fr
 0.0.0.0 chemise-polo.fr
 0.0.0.0 chemiselamartina.fr
@@ -10687,6 +10692,7 @@
 0.0.0.0 cofinaga.fr
 0.0.0.0 coflix-streaming.fr
 0.0.0.0 coforama.fr
+0.0.0.0 coiiege-de-france.fr
 0.0.0.0 coiis-chronopost.fr
 0.0.0.0 coiis-suivis-reiivraison.fr
 0.0.0.0 coilissimo.fr
@@ -13879,6 +13885,7 @@
 0.0.0.0 eartrumpet.fr
 0.0.0.0 easalia.fr
 0.0.0.0 eastpak-france.fr
+0.0.0.0 eastpak-sac.fr
 0.0.0.0 eastpakfrance.fr
 0.0.0.0 easucash.fr
 0.0.0.0 easycarfr.fr
@@ -14302,6 +14309,7 @@
 0.0.0.0 enregistrementvignette.fr
 0.0.0.0 enrolement-prime.fr
 0.0.0.0 ens-louislumiere.fr
+0.0.0.0 ens-paris-saciay.fr
 0.0.0.0 ensap-connect.fr
 0.0.0.0 ensapgouv.fr
 0.0.0.0 ensemble-24.fr
@@ -16770,6 +16778,7 @@
 0.0.0.0 gangstasino-france.fr
 0.0.0.0 gangstasinos-fr.fr
 0.0.0.0 gangstasinos.fr
+0.0.0.0 ganni-soldes.fr
 0.0.0.0 gannifr.fr
 0.0.0.0 gannioutlet.fr
 0.0.0.0 gant-france.fr
@@ -18312,6 +18321,7 @@
 0.0.0.0 holister.fr
 0.0.0.0 hollister-abercrombiefitch.fr
 0.0.0.0 hollister-france.fr
+0.0.0.0 hollister-soldes.fr
 0.0.0.0 hollisterfr.fr
 0.0.0.0 hollisterfrance.fr
 0.0.0.0 hollistersoldes.fr
@@ -22520,9 +22530,11 @@
 0.0.0.0 lucky7evencasino.fr
 0.0.0.0 lucky8-app.fr
 0.0.0.0 lucky8-bonus.fr
+0.0.0.0 lucky8-casino-france.fr
 0.0.0.0 lucky8-casino.fr
 0.0.0.0 lucky8-casinos.fr
 0.0.0.0 lucky8-code.fr
+0.0.0.0 lucky8-connexion.fr
 0.0.0.0 lucky8-en-ligne.fr
 0.0.0.0 lucky8-enligne.fr
 0.0.0.0 lucky8-fr.fr
@@ -22537,6 +22549,7 @@
 0.0.0.0 lucky8-play-olline.fr
 0.0.0.0 lucky8-promo.fr
 0.0.0.0 lucky8casino-fr.fr
+0.0.0.0 lucky8casino-france.fr
 0.0.0.0 lucky8casino.fr
 0.0.0.0 lucky8casinofr.fr
 0.0.0.0 lucky8casinofrance.fr
@@ -22549,6 +22562,7 @@
 0.0.0.0 lucky8enligne.fr
 0.0.0.0 lucky8fr.fr
 0.0.0.0 lucky8fr8.fr
+0.0.0.0 lucky8fra.fr
 0.0.0.0 lucky8france.fr
 0.0.0.0 lucky8france1.fr
 0.0.0.0 lucky8licence.fr
@@ -23313,6 +23327,7 @@
 0.0.0.0 maillot-officiel-euro-2024.fr
 0.0.0.0 maillot-psg.fr
 0.0.0.0 maillot2foot.fr
+0.0.0.0 maillot2fou.fr
 0.0.0.0 maillotaddict.fr
 0.0.0.0 maillotaumeilleurprix.fr
 0.0.0.0 maillotbenfica.fr
@@ -28076,6 +28091,7 @@
 0.0.0.0 paiements-en-ligne.fr
 0.0.0.0 paiements-leboncoin.fr
 0.0.0.0 paiements-leboncoins.fr
+0.0.0.0 paiements-prime.fr
 0.0.0.0 paiements-secur.fr
 0.0.0.0 paiements-securiseleboncoin.fr
 0.0.0.0 paiements-sfr.fr
@@ -29454,6 +29470,7 @@
 0.0.0.0 polene-parisoutlet.fr
 0.0.0.0 polene-sac.fr
 0.0.0.0 polene-sacs.fr
+0.0.0.0 polene-soldes.fr
 0.0.0.0 polenefr.fr
 0.0.0.0 polenefrance.fr
 0.0.0.0 polenefrancefr.fr
@@ -29663,6 +29680,7 @@
 0.0.0.0 portailopposition.fr
 0.0.0.0 portailorange.fr
 0.0.0.0 portailpompiersparis.fr
+0.0.0.0 portailprivelcl.fr
 0.0.0.0 portailpublicdefacturation.fr
 0.0.0.0 portailpublicfacturation.fr
 0.0.0.0 portailretraite.fr
@@ -30470,6 +30488,7 @@
 0.0.0.0 quick-winz.fr
 0.0.0.0 quickchess.fr
 0.0.0.0 quickenloans.fr
+0.0.0.0 quickpay.fr
 0.0.0.0 quickslot.fr
 0.0.0.0 quickwin-app.fr
 0.0.0.0 quickwin-en-ligne.fr
@@ -33480,6 +33499,7 @@
 0.0.0.0 service-ants-identite.fr
 0.0.0.0 service-ants.fr
 0.0.0.0 service-apresvente.fr
+0.0.0.0 service-ar24.fr
 0.0.0.0 service-assistance-client.fr
 0.0.0.0 service-assistance-livraison.fr
 0.0.0.0 service-assistance-netflix.fr
@@ -38313,6 +38333,7 @@
 0.0.0.0 universite-lyon1.fr
 0.0.0.0 universite-lyon3.fr
 0.0.0.0 universite-mlp.fr
+0.0.0.0 universite-paris-saciay.fr
 0.0.0.0 universite-paris-salay.fr
 0.0.0.0 universite-paris-sud.fr
 0.0.0.0 universite-paris13.fr
