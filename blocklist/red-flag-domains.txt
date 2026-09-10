@@ -107,6 +107,7 @@
 0.0.0.0 1tortuga.fr
 0.0.0.0 1win-1.fr
 0.0.0.0 1win-bonus.fr
+0.0.0.0 1win-casino.fr
 0.0.0.0 1win-casinos.fr
 0.0.0.0 1win-club.fr
 0.0.0.0 1win-fr.fr
@@ -1442,6 +1443,7 @@
 0.0.0.0 air-pods-fr.fr
 0.0.0.0 air-up-fr.fr
 0.0.0.0 air-up-france.fr
+0.0.0.0 air-upfrance.fr
 0.0.0.0 air-vignette.fr
 0.0.0.0 airabreeze.fr
 0.0.0.0 airafrance.fr
@@ -1763,6 +1765,7 @@
 0.0.0.0 allyspin-casino.fr
 0.0.0.0 allyspin-casino1.fr
 0.0.0.0 allyspin-casinoofficiel.fr
+0.0.0.0 allyspin-com.fr
 0.0.0.0 allyspin-fr.fr
 0.0.0.0 allyspin-france.fr
 0.0.0.0 allyspin.fr
@@ -3094,6 +3097,7 @@
 0.0.0.0 amonbe-t.fr
 0.0.0.0 amonbet-casino.fr
 0.0.0.0 amonbet-casinos.fr
+0.0.0.0 amonbet-com.fr
 0.0.0.0 amonbet-fr.fr
 0.0.0.0 amonbet-france.fr
 0.0.0.0 amonbet-official.fr
@@ -5157,6 +5161,7 @@
 0.0.0.0 banque-edei.fr
 0.0.0.0 banque-federale.fr
 0.0.0.0 banque-france-aide.fr
+0.0.0.0 banque-france-assistance.fr
 0.0.0.0 banque-france-controle.fr
 0.0.0.0 banque-france-dsp2.fr
 0.0.0.0 banque-france-en-ligne-service-fr.fr
@@ -5507,6 +5512,7 @@
 0.0.0.0 bet-hall-casino.fr
 0.0.0.0 bet-hall.fr
 0.0.0.0 bet-hallcasino.fr
+0.0.0.0 bet-ify9.fr
 0.0.0.0 bet-logibat.fr
 0.0.0.0 bet-master.fr
 0.0.0.0 bet-on-red-casino-official.fr
@@ -5865,6 +5871,7 @@
 0.0.0.0 betpandacasinobonus.fr
 0.0.0.0 betpandacasinologin.fr
 0.0.0.0 betpandacasinopromocode.fr
+0.0.0.0 betpandaonline.fr
 0.0.0.0 betphoenix.fr
 0.0.0.0 betplays-casino.fr
 0.0.0.0 betplays-fr.fr
@@ -6927,6 +6934,7 @@
 0.0.0.0 brso-client-espace.fr
 0.0.0.0 brso-deblocage-clients.fr
 0.0.0.0 brso-espace-certif.fr
+0.0.0.0 bruno-casino-com.fr
 0.0.0.0 bruno-casinofr.fr
 0.0.0.0 bruno-fra.fr
 0.0.0.0 bruno-online.fr
@@ -7929,6 +7937,7 @@
 0.0.0.0 casino-casombie.fr
 0.0.0.0 casino-cat.fr
 0.0.0.0 casino-celsius.fr
+0.0.0.0 casino-cheri-fr.fr
 0.0.0.0 casino-classic.fr
 0.0.0.0 casino-clic.fr
 0.0.0.0 casino-coin.fr
@@ -7977,8 +7986,10 @@
 0.0.0.0 casino-gxmble.fr
 0.0.0.0 casino-hermes.fr
 0.0.0.0 casino-horus.fr
+0.0.0.0 casino-hugobets.fr
 0.0.0.0 casino-igobet.fr
 0.0.0.0 casino-ilede.fr
+0.0.0.0 casino-incognito.fr
 0.0.0.0 casino-infinite.fr
 0.0.0.0 casino-infinity-france.fr
 0.0.0.0 casino-instant-france.fr
@@ -8271,6 +8282,7 @@
 0.0.0.0 casinohorus.fr
 0.0.0.0 casinohouse.fr
 0.0.0.0 casinohugo.fr
+0.0.0.0 casinohugobets.fr
 0.0.0.0 casinoigobet.fr
 0.0.0.0 casinoincognito.fr
 0.0.0.0 casinoinfinite.fr
@@ -8302,6 +8314,7 @@
 0.0.0.0 casinoking.fr
 0.0.0.0 casinokingdom.fr
 0.0.0.0 casinokingmaker.fr
+0.0.0.0 casinolab-casinos.fr
 0.0.0.0 casinolab-en-ligne.fr
 0.0.0.0 casinolab-enligne.fr
 0.0.0.0 casinolab-officiel.fr
@@ -11222,6 +11235,7 @@
 0.0.0.0 concours-adobe-max-2022.fr
 0.0.0.0 concours-adobe-max.fr
 0.0.0.0 concours-adobemax.fr
+0.0.0.0 concours-disney-clubmed.fr
 0.0.0.0 conditiongenerale2023.fr
 0.0.0.0 conditioninfo.fr
 0.0.0.0 condorcet-immo.fr
@@ -11855,6 +11869,7 @@
 0.0.0.0 corashop.fr
 0.0.0.0 coreglpshop.fr
 0.0.0.0 coretemp.fr
+0.0.0.0 corgi-bet-casino.fr
 0.0.0.0 corgibe-t.fr
 0.0.0.0 corgibet-enligne.fr
 0.0.0.0 corgibet-fr.fr
@@ -19771,6 +19786,7 @@
 0.0.0.0 instanttcasinoss.fr
 0.0.0.0 instaqram.fr
 0.0.0.0 instasino-casino-fr.fr
+0.0.0.0 instasino-casinos.fr
 0.0.0.0 instasino-fr.fr
 0.0.0.0 instasino-online.fr
 0.0.0.0 instasino.fr
@@ -21165,6 +21181,7 @@
 0.0.0.0 lbcsecurepay.fr
 0.0.0.0 lbcsecurise.fr
 0.0.0.0 lbcsecuriser.fr
+0.0.0.0 lbcsequestre.fr
 0.0.0.0 lbcsite.fr
 0.0.0.0 lbctransportmoto.fr
 0.0.0.0 lbctrustpay.fr
@@ -22489,6 +22506,7 @@
 0.0.0.0 ltfc.fr
 0.0.0.0 lucia-caminos.fr
 0.0.0.0 luciacaminos.fr
+0.0.0.0 luck-casino.fr
 0.0.0.0 luck-fr.fr
 0.0.0.0 luckcasino.fr
 0.0.0.0 lucki.fr
@@ -22582,6 +22600,7 @@
 0.0.0.0 lucky8-casino-france.fr
 0.0.0.0 lucky8-casino.fr
 0.0.0.0 lucky8-casinos.fr
+0.0.0.0 lucky8-club.fr
 0.0.0.0 lucky8-code.fr
 0.0.0.0 lucky8-connexion.fr
 0.0.0.0 lucky8-en-ligne.fr
@@ -22591,6 +22610,7 @@
 0.0.0.0 lucky8-fra.fr
 0.0.0.0 lucky8-france.fr
 0.0.0.0 lucky8-jeux.fr
+0.0.0.0 lucky8-jouer.fr
 0.0.0.0 lucky8-la-france.fr
 0.0.0.0 lucky8-login.fr
 0.0.0.0 lucky8-official.fr
@@ -22612,6 +22632,7 @@
 0.0.0.0 lucky8fr.fr
 0.0.0.0 lucky8fr8.fr
 0.0.0.0 lucky8fra.fr
+0.0.0.0 lucky8francais.fr
 0.0.0.0 lucky8france.fr
 0.0.0.0 lucky8france1.fr
 0.0.0.0 lucky8licence.fr
@@ -23274,6 +23295,7 @@
 0.0.0.0 magic-flight.fr
 0.0.0.0 magic-win.fr
 0.0.0.0 magical-spin-casino.fr
+0.0.0.0 magical-spin-casinos.fr
 0.0.0.0 magical-spincasino.fr
 0.0.0.0 magical-spinfr.fr
 0.0.0.0 magical-spins.fr
@@ -24307,6 +24329,7 @@
 0.0.0.0 milleis-espace-clients.fr
 0.0.0.0 million-fr.fr
 0.0.0.0 millioncasino.fr
+0.0.0.0 millioner-casino-france.fr
 0.0.0.0 millioner-casinos.fr
 0.0.0.0 millioner-cassino.fr
 0.0.0.0 millioner-play.fr
@@ -26985,6 +27008,7 @@
 0.0.0.0 normandie-actusinfos.fr
 0.0.0.0 normandie-cci.fr
 0.0.0.0 normandle-tourlsme.fr
+0.0.0.0 normes-ants.fr
 0.0.0.0 normes-interieurgouv.fr
 0.0.0.0 norronafrance.fr
 0.0.0.0 nortaires.fr
@@ -27831,7 +27855,9 @@
 0.0.0.0 osonscomprendre.fr
 0.0.0.0 osprey-france.fr
 0.0.0.0 ospreyparis.fr
+0.0.0.0 ostal-services.fr
 0.0.0.0 ostalgie.fr
+0.0.0.0 ostalservices.fr
 0.0.0.0 ot-marchiennes.fr
 0.0.0.0 otobet.fr
 0.0.0.0 otrange.fr
@@ -33571,6 +33597,7 @@
 0.0.0.0 service-authsecure.fr
 0.0.0.0 service-banque-bnp-paribas.fr
 0.0.0.0 service-banque-bnpparibas.fr
+0.0.0.0 service-banque.fr
 0.0.0.0 service-blic.fr
 0.0.0.0 service-bnp-paribas.fr
 0.0.0.0 service-bnpparibas.fr
@@ -34015,6 +34042,7 @@
 0.0.0.0 servicerelaycolis.fr
 0.0.0.0 serviceremboursement.fr
 0.0.0.0 servicerenouvellement.fr
+0.0.0.0 serviceresiliation.fr
 0.0.0.0 serviceretraite.fr
 0.0.0.0 servicerh-sncf.fr
 0.0.0.0 servicerhlaposte.fr
@@ -35324,6 +35352,7 @@
 0.0.0.0 sofastream.fr
 0.0.0.0 sofico-credits.fr
 0.0.0.0 sofinco-caconsumerfinance.fr
+0.0.0.0 sofinco-client.fr
 0.0.0.0 sofinco-financement.fr
 0.0.0.0 sofinco-finances.fr
 0.0.0.0 sofinco-france.fr
@@ -36963,6 +36992,7 @@
 0.0.0.0 supportups.fr
 0.0.0.0 supportusers.fr
 0.0.0.0 supportvideo2392.fr
+0.0.0.0 supportvinted.fr
 0.0.0.0 supportvitale-ameli.fr
 0.0.0.0 supportvitaleameli.fr
 0.0.0.0 supportwindows.fr
@@ -38327,6 +38357,7 @@
 0.0.0.0 univ-lacatholille.fr
 0.0.0.0 univ-le-havre.fr
 0.0.0.0 univ-leman.fr
+0.0.0.0 univ-liiie.fr
 0.0.0.0 univ-lille-med.fr
 0.0.0.0 univ-llile.fr
 0.0.0.0 univ-loiret45.fr
