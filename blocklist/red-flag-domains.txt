@@ -5247,6 +5247,7 @@
 0.0.0.0 banquesg.fr
 0.0.0.0 banquesocietegenerales.fr
 0.0.0.0 banquespopulaire.fr
+0.0.0.0 banquetangerine.fr
 0.0.0.0 banqupopulaire-verification.fr
 0.0.0.0 banqupopulaire.fr
 0.0.0.0 bantu-cash.fr
@@ -6741,6 +6742,7 @@
 0.0.0.0 boutiquesfr.fr
 0.0.0.0 boutiquestussyparis.fr
 0.0.0.0 boutiqueugg.fr
+0.0.0.0 bouttiqueoffresetpromotionsfr.fr
 0.0.0.0 bouyg.fr
 0.0.0.0 bouyges-telecom.fr
 0.0.0.0 bouyghestelecom.fr
@@ -7033,6 +7035,7 @@
 0.0.0.0 bureaufiscal.fr
 0.0.0.0 bureauprime.fr
 0.0.0.0 burgerking-antilles.fr
+0.0.0.0 burgerking-roue.fr
 0.0.0.0 burgundywineservice.fr
 0.0.0.0 burkina24.fr
 0.0.0.0 burley.fr
@@ -7240,6 +7243,7 @@
 0.0.0.0 caf-regularisation.fr
 0.0.0.0 caf-remboursement.fr
 0.0.0.0 caf-seinesaintdenis.fr
+0.0.0.0 caf33.fr
 0.0.0.0 caf94.fr
 0.0.0.0 cafcharleville.fr
 0.0.0.0 cafconnect.fr
@@ -7791,6 +7795,7 @@
 0.0.0.0 cartparis.fr
 0.0.0.0 cas-etu-bordeaux.fr
 0.0.0.0 cas-ino-sans-verification.fr
+0.0.0.0 cas-service-cle.fr
 0.0.0.0 cas1nozer.fr
 0.0.0.0 cas1nozerzz.fr
 0.0.0.0 casa-outlet.fr
@@ -7950,6 +7955,7 @@
 0.0.0.0 casino-classic.fr
 0.0.0.0 casino-clic.fr
 0.0.0.0 casino-coin.fr
+0.0.0.0 casino-crazyking.fr
 0.0.0.0 casino-cresus-enligne.fr
 0.0.0.0 casino-crownplay.fr
 0.0.0.0 casino-deloro.fr
@@ -8109,6 +8115,7 @@
 0.0.0.0 casino-vice-fr.fr
 0.0.0.0 casino-viggoslots.fr
 0.0.0.0 casino-viperwin.fr
+0.0.0.0 casino-vival-spar.fr
 0.0.0.0 casino-wazamba.fr
 0.0.0.0 casino-west-ace.fr
 0.0.0.0 casino-westace.fr
@@ -8615,6 +8622,7 @@
 0.0.0.0 casinovice-online.fr
 0.0.0.0 casinovice1.fr
 0.0.0.0 casinovipluck.fr
+0.0.0.0 casinovivalspar.fr
 0.0.0.0 casinowild-sultan.fr
 0.0.0.0 casinowilddice.fr
 0.0.0.0 casinowildrobin.fr
@@ -11281,6 +11289,7 @@
 0.0.0.0 confirmation-carte.fr
 0.0.0.0 confirmation-client-paypal.fr
 0.0.0.0 confirmation-credit-agri.fr
+0.0.0.0 confirmation-de-vos-rendez-vous-remise-secu-leboncoin.fr
 0.0.0.0 confirmation-de-vos-rendez-vous-remise-securise-leboncoin.fr
 0.0.0.0 confirmation-de-vos-rendez-vous-securise-leboncoin.fr
 0.0.0.0 confirmation-de-vos-rendezvous-securise-leboncoin.fr
@@ -13109,6 +13118,7 @@
 0.0.0.0 dgfpfinancegouv.fr
 0.0.0.0 dgfpfinancesgouv.fr
 0.0.0.0 dgfpi-finances.fr
+0.0.0.0 dgfpubliques.fr
 0.0.0.0 dghs.fr
 0.0.0.0 dgifamendeservice.fr
 0.0.0.0 dgifp-remboursement.fr
@@ -15242,6 +15252,8 @@
 0.0.0.0 exepdia.fr
 0.0.0.0 exertis-conect.fr
 0.0.0.0 exmark.fr
+0.0.0.0 exoedia.fr
+0.0.0.0 expadia.fr
 0.0.0.0 exparint.fr
 0.0.0.0 expedie.fr
 0.0.0.0 expedier-ameli.fr
@@ -15259,6 +15271,7 @@
 0.0.0.0 expeditionchronopost.fr
 0.0.0.0 expeditionmondialrelay.fr
 0.0.0.0 expeditions-fnac.fr
+0.0.0.0 expedoa.fr
 0.0.0.0 expeida.fr
 0.0.0.0 experience-clients.fr
 0.0.0.0 expert-chronopost.fr
@@ -16151,6 +16164,7 @@
 0.0.0.0 fr-infraction.fr
 0.0.0.0 fr-ingrammmicro.fr
 0.0.0.0 fr-instagram.fr
+0.0.0.0 fr-instant-casino.fr
 0.0.0.0 fr-instantcasino.fr
 0.0.0.0 fr-instasino.fr
 0.0.0.0 fr-isagri.fr
@@ -16271,6 +16285,7 @@
 0.0.0.0 fr-spinfin.fr
 0.0.0.0 fr-spingranny.fr
 0.0.0.0 fr-spinsy.fr
+0.0.0.0 fr-sportaza.fr
 0.0.0.0 fr-staci.fr
 0.0.0.0 fr-starburst.fr
 0.0.0.0 fr-startpeople.fr
@@ -16409,6 +16424,7 @@
 0.0.0.0 france-securite-multibanque.fr
 0.0.0.0 france-services.fr
 0.0.0.0 france-soir.fr
+0.0.0.0 france-sportaza.fr
 0.0.0.0 france-suivi-colis.fr
 0.0.0.0 france-supermarchesmatch.fr
 0.0.0.0 france-telecom-swiss.fr
@@ -17273,7 +17289,9 @@
 0.0.0.0 goldenlion-fr.fr
 0.0.0.0 goldenlion-online.fr
 0.0.0.0 goldenmina-casino.fr
+0.0.0.0 goldenmina-fr.fr
 0.0.0.0 goldenmina.fr
+0.0.0.0 goldenmina1.fr
 0.0.0.0 goldenminacasino.fr
 0.0.0.0 goldenminaenligne.fr
 0.0.0.0 goldenoutlet.fr
@@ -17715,6 +17733,7 @@
 0.0.0.0 gransino-official.fr
 0.0.0.0 gransino-officiel.fr
 0.0.0.0 gransino-online.fr
+0.0.0.0 gransino-play.fr
 0.0.0.0 gransino.fr
 0.0.0.0 gransino1.fr
 0.0.0.0 gransinocasino-fr.fr
@@ -19856,6 +19875,7 @@
 0.0.0.0 intensecasinos.fr
 0.0.0.0 intenses-casino.fr
 0.0.0.0 interacepaiements.fr
+0.0.0.0 intercasinoeuro.fr
 0.0.0.0 intercom-guyane.fr
 0.0.0.0 interencher.fr
 0.0.0.0 intereur.fr
@@ -19914,6 +19934,7 @@
 0.0.0.0 intimissimi-fr.fr
 0.0.0.0 intimissimi-france.fr
 0.0.0.0 intimissimi-paris.fr
+0.0.0.0 intimissimifr.fr
 0.0.0.0 intimissimifrance-fr.fr
 0.0.0.0 intimissimilyon.fr
 0.0.0.0 intimissimiparis.fr
@@ -20163,6 +20184,7 @@
 0.0.0.0 jemlitcasino.fr
 0.0.0.0 jerkroulette-fr.fr
 0.0.0.0 jerseymaillot.fr
+0.0.0.0 jerseymaxstore.fr
 0.0.0.0 jessemccartney.fr
 0.0.0.0 jessieu.fr
 0.0.0.0 jesuislola.fr
@@ -20406,6 +20428,7 @@
 0.0.0.0 k-waystore.fr
 0.0.0.0 kaasino-casino.fr
 0.0.0.0 kaasinocasino.fr
+0.0.0.0 kaasinofrance.fr
 0.0.0.0 kabanquepostale.fr
 0.0.0.0 kabookk.fr
 0.0.0.0 kacontrevoie.fr
@@ -20957,6 +20980,7 @@
 0.0.0.0 lanista-france.fr
 0.0.0.0 lanista-officiel.fr
 0.0.0.0 lanistacasino.fr
+0.0.0.0 lanouvelle-republique.fr
 0.0.0.0 lanouvellecartevitale.fr
 0.0.0.0 lanutration.fr
 0.0.0.0 lanvinfrance.fr
@@ -26828,6 +26852,7 @@
 0.0.0.0 niketn.fr
 0.0.0.0 niketnpascher2017.fr
 0.0.0.0 niketnrequin-pascher.fr
+0.0.0.0 nimes-aeroport.fr
 0.0.0.0 nimes-olympique.fr
 0.0.0.0 nimes-stationnement-usager-tefps.fr
 0.0.0.0 nincecasino1.fr
@@ -26854,6 +26879,7 @@
 0.0.0.0 ninecas-ino.fr
 0.0.0.0 ninecas1no-play.fr
 0.0.0.0 ninecas1no-win.fr
+0.0.0.0 ninecas1no.fr
 0.0.0.0 ninecasin0.fr
 0.0.0.0 ninecasinno.fr
 0.0.0.0 ninecasino-app.fr
@@ -29483,6 +29509,7 @@
 0.0.0.0 point-relais-2025.fr
 0.0.0.0 point-relais-pickupcolis.fr
 0.0.0.0 point-relais2025.fr
+0.0.0.0 point-s-champagnole.fr
 0.0.0.0 pointchronopost-suivi.fr
 0.0.0.0 pointchronopost.fr
 0.0.0.0 pointdevueactu.fr
@@ -30287,6 +30314,7 @@
 0.0.0.0 princealicasinos-fr.fr
 0.0.0.0 princealicasinos-france.fr
 0.0.0.0 princealifrance.fr
+0.0.0.0 princealionline.fr
 0.0.0.0 princess-casino.fr
 0.0.0.0 princesscasino.fr
 0.0.0.0 princesspollyfr.fr
@@ -31968,6 +31996,7 @@
 0.0.0.0 retraitenupes.fr
 0.0.0.0 retraitepublic.fr
 0.0.0.0 retraitlockermondial.fr
+0.0.0.0 retraitrapide.fr
 0.0.0.0 retrate.fr
 0.0.0.0 retrite.fr
 0.0.0.0 retro-casino.fr
@@ -37700,6 +37729,7 @@
 0.0.0.0 tobscasino.fr
 0.0.0.0 tocketmaster.fr
 0.0.0.0 today-prime.fr
+0.0.0.0 todsfr.fr
 0.0.0.0 todsparis.fr
 0.0.0.0 todspascher.fr
 0.0.0.0 todsreplique.fr
@@ -40196,6 +40226,7 @@
 0.0.0.0 winamax-parrainage.fr
 0.0.0.0 winamax-sport.fr
 0.0.0.0 winamaxcasinofrance.fr
+0.0.0.0 winamaxfrance.fr
 0.0.0.0 winamaxparis.fr
 0.0.0.0 winamaxr.fr
 0.0.0.0 winamaxx.fr
