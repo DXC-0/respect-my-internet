@@ -5213,6 +5213,7 @@
 0.0.0.0 banquepop-tour.fr
 0.0.0.0 banquepoplaire.fr
 0.0.0.0 banquepopuiaire.fr
+0.0.0.0 banquepopulair.fr
 0.0.0.0 banquepopulaire-annulation.fr
 0.0.0.0 banquepopulaire-appdemo.fr
 0.0.0.0 banquepopulaire-connexion.fr
@@ -7065,6 +7066,7 @@
 0.0.0.0 bwebmail-orange.fr
 0.0.0.0 bwin-casino.fr
 0.0.0.0 bwin-official.fr
+0.0.0.0 bwincasino.fr
 0.0.0.0 bwincasinofrance.fr
 0.0.0.0 bwincodepromo.fr
 0.0.0.0 bwinn.fr
@@ -7927,6 +7929,7 @@
 0.0.0.0 casino-amunra.fr
 0.0.0.0 casino-aquawin.fr
 0.0.0.0 casino-argent-reel.fr
+0.0.0.0 casino-arlequinfrance.fr
 0.0.0.0 casino-astral.fr
 0.0.0.0 casino-banque.fr
 0.0.0.0 casino-banzai.fr
@@ -8099,10 +8102,12 @@
 0.0.0.0 casino-together-fr.fr
 0.0.0.0 casino-togethers.fr
 0.0.0.0 casino-touch.fr
+0.0.0.0 casino-tropeziapalace.fr
 0.0.0.0 casino-trueluck.fr
 0.0.0.0 casino-tucan.fr
 0.0.0.0 casino-turbo-wins.fr
 0.0.0.0 casino-twin-fr.fr
+0.0.0.0 casino-unibetfrance.fr
 0.0.0.0 casino-unique1.fr
 0.0.0.0 casino-vale.fr
 0.0.0.0 casino-vasy.fr
@@ -16462,6 +16467,7 @@
 0.0.0.0 francecadstre.fr
 0.0.0.0 francecanal.fr
 0.0.0.0 francecasher.fr
+0.0.0.0 francecasinobetify.fr
 0.0.0.0 francecertif.fr
 0.0.0.0 francechronique.fr
 0.0.0.0 franceconcerts.fr
@@ -16493,6 +16499,7 @@
 0.0.0.0 francelogistiquesuivit.fr
 0.0.0.0 franceloisir.fr
 0.0.0.0 francelucky8.fr
+0.0.0.0 francemagicalspin.fr
 0.0.0.0 francenumgouv.fr
 0.0.0.0 franceparebrice.fr
 0.0.0.0 franceparis-sports.fr
@@ -20011,6 +20018,7 @@
 0.0.0.0 irishluckcasinologin.fr
 0.0.0.0 irmo.fr
 0.0.0.0 irobot-france.fr
+0.0.0.0 irobotfr.fr
 0.0.0.0 irobotfrance.fr
 0.0.0.0 ironpro-officiel.fr
 0.0.0.0 ironstore.fr
@@ -20094,6 +20102,7 @@
 0.0.0.0 jackpotbob-online.fr
 0.0.0.0 jackpotbobcasino-fr.fr
 0.0.0.0 jackpotbobcasinofrance.fr
+0.0.0.0 jackpotbobfrance.fr
 0.0.0.0 jackpotcash.fr
 0.0.0.0 jackpotcasino-fr.fr
 0.0.0.0 jackpotcasino-france.fr
@@ -28307,6 +28316,7 @@
 0.0.0.0 pampersfrance.fr
 0.0.0.0 pampersonline.fr
 0.0.0.0 pampersstore.fr
+0.0.0.0 panamajackfr.fr
 0.0.0.0 panamajackparis.fr
 0.0.0.0 panda-casino.fr
 0.0.0.0 pandacasino-fr.fr
@@ -34759,6 +34769,7 @@
 0.0.0.0 sivoisegouv.fr
 0.0.0.0 sivprefectureants.fr
 0.0.0.0 sixers-france.fr
+0.0.0.0 sixt-france.fr
 0.0.0.0 sjb.pm
 0.0.0.0 sjocd.yt
 0.0.0.0 sjssk.yt
@@ -37789,6 +37800,7 @@
 0.0.0.0 tortue-casino.fr
 0.0.0.0 tortuga-1.fr
 0.0.0.0 tortuga-casino-fr.fr
+0.0.0.0 tortuga-casino-fra.fr
 0.0.0.0 tortuga-casino-online.fr
 0.0.0.0 tortuga-casinos.fr
 0.0.0.0 tortuga-casinotortuga.fr
@@ -37968,6 +37980,7 @@
 0.0.0.0 transcash-services.fr
 0.0.0.0 transcashattestation.fr
 0.0.0.0 transcashlogin.fr
+0.0.0.0 transcashmastercard.fr
 0.0.0.0 transcashrecharge.fr
 0.0.0.0 transcilien.fr
 0.0.0.0 transconnecet.fr
@@ -38367,6 +38380,7 @@
 0.0.0.0 unique-casino-pari.fr
 0.0.0.0 unique-casino1.fr
 0.0.0.0 unique-casinofr.fr
+0.0.0.0 unique-casinofrance.fr
 0.0.0.0 unique-casinoonline.fr
 0.0.0.0 unique-mobile.fr
 0.0.0.0 uniquebonus.fr
@@ -39105,6 +39119,7 @@
 0.0.0.0 verificationppl.fr
 0.0.0.0 verificationprime.fr
 0.0.0.0 verificationrdv-leboncoin.fr
+0.0.0.0 verificationrecharge.fr
 0.0.0.0 verifications-amendes.fr
 0.0.0.0 verifications-identites.fr
 0.0.0.0 verifications-infos.fr
@@ -40379,6 +40394,7 @@
 0.0.0.0 winoui-club.fr
 0.0.0.0 winoui-enligne.fr
 0.0.0.0 winoui-fr.fr
+0.0.0.0 winoui-fra.fr
 0.0.0.0 winoui-france.fr
 0.0.0.0 winoui-frbonus.fr
 0.0.0.0 winoui-game.fr
@@ -40389,6 +40405,7 @@
 0.0.0.0 winoui1.fr
 0.0.0.0 winouibet.fr
 0.0.0.0 winouicasino-fr.fr
+0.0.0.0 winouicasino-france.fr
 0.0.0.0 winouicasino1.fr
 0.0.0.0 winouicasinofr.fr
 0.0.0.0 winouicasinofrance.fr
@@ -40575,6 +40592,7 @@
 0.0.0.0 wqnqdoo.fr
 0.0.0.0 wqwjd.yt
 0.0.0.0 wranglerfr.fr
+0.0.0.0 wranglerfrance.fr
 0.0.0.0 wrhrh.tf
 0.0.0.0 wrrpc.yt
 0.0.0.0 wrycf.yt
