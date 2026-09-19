@@ -8051,6 +8051,7 @@
 0.0.0.0 casino-hadesbet.fr
 0.0.0.0 casino-hermes.fr
 0.0.0.0 casino-horus.fr
+0.0.0.0 casino-housebets.fr
 0.0.0.0 casino-hugobets.fr
 0.0.0.0 casino-igobet.fr
 0.0.0.0 casino-ilede.fr
@@ -8357,6 +8358,7 @@
 0.0.0.0 casinoherospin.fr
 0.0.0.0 casinohorus.fr
 0.0.0.0 casinohouse.fr
+0.0.0.0 casinohousebets.fr
 0.0.0.0 casinohugo.fr
 0.0.0.0 casinohugobets.fr
 0.0.0.0 casinoigobet.fr
@@ -9200,6 +9202,7 @@
 0.0.0.0 cetelel.fr
 0.0.0.0 cetelem-bnpparibas.fr
 0.0.0.0 cetelem-connecte.fr
+0.0.0.0 cetelem-contact.fr
 0.0.0.0 cetelem-financement.fr
 0.0.0.0 cetelem-particulier-notifications.fr
 0.0.0.0 ceteleme.fr
@@ -11361,6 +11364,7 @@
 0.0.0.0 confirmation-de-vos-rendez-vous-securise-leboncoin.fr
 0.0.0.0 confirmation-de-vos-rendezvous-securise-leboncoin.fr
 0.0.0.0 confirmation-de-votre-rendez-vous-auto-securise-leboncoin.fr
+0.0.0.0 confirmation-de-votre-rendez-vous-secu-via-leboncoin.fr
 0.0.0.0 confirmation-details-rdv-leboncoin.fr
 0.0.0.0 confirmation-devotre-rendez-vous-securise-leboncoin.fr
 0.0.0.0 confirmation-du-rendez-vous-securise-leboncoin.fr
@@ -16681,6 +16685,7 @@
 0.0.0.0 fredperry-france.fr
 0.0.0.0 fredperryfrance.fr
 0.0.0.0 fredperrysoldes.fr
+0.0.0.0 free-assistance.fr
 0.0.0.0 free-box.fr
 0.0.0.0 free-come.fr
 0.0.0.0 free-connect.fr
@@ -18552,6 +18557,7 @@
 0.0.0.0 hoora-france.fr
 0.0.0.0 hootlook.fr
 0.0.0.0 hopacasino.fr
+0.0.0.0 hopital-ensisheim.fr
 0.0.0.0 hopital-nord-alsace.fr
 0.0.0.0 hopitalrennes.fr
 0.0.0.0 horizon-activities.fr
@@ -20179,6 +20185,7 @@
 0.0.0.0 jacadi-outlet.fr
 0.0.0.0 jack-bit.fr
 0.0.0.0 jack-casino.fr
+0.0.0.0 jack-wolfskinfrance.fr
 0.0.0.0 jack21casino.fr
 0.0.0.0 jackbit-casino.fr
 0.0.0.0 jackbit-online.fr
@@ -23402,8 +23409,10 @@
 0.0.0.0 mafia-casinos.fr
 0.0.0.0 mafia-en-ligne.fr
 0.0.0.0 mafia-enligne.fr
+0.0.0.0 mafia-online-play.fr
 0.0.0.0 mafia-online.fr
 0.0.0.0 mafia-play.fr
+0.0.0.0 mafia2-online.fr
 0.0.0.0 mafiacasino-fr.fr
 0.0.0.0 mafiacasino-france.fr
 0.0.0.0 mafiacasino.fr
@@ -27282,6 +27291,7 @@
 0.0.0.0 notif-webmail-prime.fr
 0.0.0.0 notifbonus.fr
 0.0.0.0 notifcationmail.fr
+0.0.0.0 notife-ar24.fr
 0.0.0.0 notification-achat.fr
 0.0.0.0 notification-ameli.fr
 0.0.0.0 notification-assurance.fr
@@ -41397,6 +41407,7 @@
 0.0.0.0 xn--le-bguin-e1a.fr
 0.0.0.0 xn--leboncoin-paiement-securis-direct-purchase-fr-07d.fr
 0.0.0.0 xn--leboncoinfranais-opb.fr
+0.0.0.0 xn--leboncoinscuris-knbf.fr
 0.0.0.0 xn--leboncon-i2a.fr
 0.0.0.0 xn--lecanardenchain-pnb.fr
 0.0.0.0 xn--lettrerecommandelectronique-pocb.fr
