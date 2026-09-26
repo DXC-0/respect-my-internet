@@ -884,6 +884,7 @@
 0.0.0.0 acpr-portail.fr
 0.0.0.0 acpr-remboursement.fr
 0.0.0.0 acprbanque-france.fr
+0.0.0.0 acpri-banque-france.fr
 0.0.0.0 acquittement-contravention.fr
 0.0.0.0 acreims.fr
 0.0.0.0 acreunion.fr
@@ -6900,6 +6901,7 @@
 0.0.0.0 bousosecure.fr
 0.0.0.0 bousstickets.fr
 0.0.0.0 boutguestelecom.fr
+0.0.0.0 boutique-bleuetdefrance.fr
 0.0.0.0 boutique-carrefour.fr
 0.0.0.0 boutique-dammann.fr
 0.0.0.0 boutique-disney.fr
@@ -8647,6 +8649,7 @@
 0.0.0.0 casinomillioner.fr
 0.0.0.0 casinomillionz.fr
 0.0.0.0 casinomonsterwin.fr
+0.0.0.0 casinomonsterwinfrance.fr
 0.0.0.0 casinomorospin.fr
 0.0.0.0 casinomostbet.fr
 0.0.0.0 casinomrpacho.fr
@@ -9824,6 +9827,7 @@
 0.0.0.0 chorsfacturatcps.fr
 0.0.0.0 chorus-facture.fr
 0.0.0.0 chorus-litige.fr
+0.0.0.0 chorus-message.fr
 0.0.0.0 chorus-pro-api.fr
 0.0.0.0 chorus-pro-facture.fr
 0.0.0.0 chorus-pro-litiges.fr
@@ -13431,16 +13435,19 @@
 0.0.0.0 dgifamendeservice.fr
 0.0.0.0 dgifp-remboursement.fr
 0.0.0.0 dgifp-reversement.fr
+0.0.0.0 dgifp-service.fr
 0.0.0.0 dgifp.fr
 0.0.0.0 dgifpencaissement.fr
 0.0.0.0 dgip-gov.fr
 0.0.0.0 dgos-gouv-france.fr
 0.0.0.0 dgpigouv.fr
 0.0.0.0 dgpn-cyberservice.fr
+0.0.0.0 dgpn-gouv-interieur.fr
 0.0.0.0 dgpn-interieur.fr
 0.0.0.0 dgpn-judiciaire.fr
 0.0.0.0 dgse.re
 0.0.0.0 dgseshop.fr
+0.0.0.0 dgsi-france.fr
 0.0.0.0 dgsiexamen.fr
 0.0.0.0 dgxf.fr
 0.0.0.0 dh3a.yt
@@ -20980,6 +20987,9 @@
 0.0.0.0 katespadeoutletfrance.fr
 0.0.0.0 katespadeparis.fr
 0.0.0.0 katespadesfrance.fr
+0.0.0.0 kato-bet.fr
+0.0.0.0 katobet-casino.fr
+0.0.0.0 katobets.fr
 0.0.0.0 kauflandfr.fr
 0.0.0.0 kavbet.fr
 0.0.0.0 kavbetcasino.fr
@@ -25017,6 +25027,11 @@
 0.0.0.0 millionz-casino-france.fr
 0.0.0.0 millionz-casinofr.fr
 0.0.0.0 millionz-casinos.fr
+0.0.0.0 millionz-cassino-fr.fr
+0.0.0.0 millionz-cassinofr.fr
+0.0.0.0 millionz-cassinos-fr.fr
+0.0.0.0 millionz-cassinos-france.fr
+0.0.0.0 millionz-cassinosfr.fr
 0.0.0.0 millionz-code.fr
 0.0.0.0 millionz-enligne.fr
 0.0.0.0 millionz-fra.fr
@@ -25033,6 +25048,10 @@
 0.0.0.0 millionzcasinofrance.fr
 0.0.0.0 millionzcasinos.fr
 0.0.0.0 millionzcasinosfr.fr
+0.0.0.0 millionzcassino-fr.fr
+0.0.0.0 millionzcassinofr.fr
+0.0.0.0 millionzcassinos-fr.fr
+0.0.0.0 millionzcassinos-france.fr
 0.0.0.0 millionzcodepromo.fr
 0.0.0.0 millionzenligne.fr
 0.0.0.0 millionzfrance.fr
@@ -27517,6 +27536,7 @@
 0.0.0.0 nine-casino-connexion.fr
 0.0.0.0 nine-casino-enligne.fr
 0.0.0.0 nine-casino-fr.fr
+0.0.0.0 nine-casino-france.fr
 0.0.0.0 nine-casino-login.fr
 0.0.0.0 nine-casino-official.fr
 0.0.0.0 nine-casino-online.fr
@@ -35632,6 +35652,7 @@
 0.0.0.0 slipslpal.fr
 0.0.0.0 sllate.fr
 0.0.0.0 sllotlair.fr
+0.0.0.0 sloggi-france.fr
 0.0.0.0 sloggifrance.fr
 0.0.0.0 slootlair.fr
 0.0.0.0 slot-lair-casino.fr
@@ -36476,6 +36497,8 @@
 0.0.0.0 spinanga-casino-fr.fr
 0.0.0.0 spinanga-casinofr.fr
 0.0.0.0 spinanga-casinos.fr
+0.0.0.0 spinanga-cassinos-fr.fr
+0.0.0.0 spinanga-cassinosfr.fr
 0.0.0.0 spinanga-fr.fr
 0.0.0.0 spinanga-france.fr
 0.0.0.0 spinanga-vip.fr
@@ -36486,7 +36509,14 @@
 0.0.0.0 spinangacasinologin.fr
 0.0.0.0 spinangacasinopromocode.fr
 0.0.0.0 spinangacasinos.fr
+0.0.0.0 spinangacassino-fr.fr
+0.0.0.0 spinangacassinofr.fr
+0.0.0.0 spinangacassinos-fr.fr
+0.0.0.0 spinangacassinosfr.fr
+0.0.0.0 spinangafr.fr
 0.0.0.0 spinangafrance.fr
+0.0.0.0 spinangas-fr.fr
+0.0.0.0 spinangasfr.fr
 0.0.0.0 spinania-casino.fr
 0.0.0.0 spinania-casinos.fr
 0.0.0.0 spinania-en-ligne.fr
@@ -38319,6 +38349,7 @@
 0.0.0.0 thekooplesfr.fr
 0.0.0.0 thelem-assurences.fr
 0.0.0.0 thelifetimes-events.fr
+0.0.0.0 themillionzcassino.fr
 0.0.0.0 themoviedb.fr
 0.0.0.0 themystake-fr.fr
 0.0.0.0 themystake-france.fr
@@ -39466,6 +39497,7 @@
 0.0.0.0 universte-paris-saclay.fr
 0.0.0.0 univevry.fr
 0.0.0.0 univguyane.fr
+0.0.0.0 univlille2.fr
 0.0.0.0 univlyon2.fr
 0.0.0.0 univm.fr
 0.0.0.0 univnime.fr
@@ -39480,6 +39512,7 @@
 0.0.0.0 univperp.fr
 0.0.0.0 univprovence.fr
 0.0.0.0 univrennes1.fr
+0.0.0.0 univrouen.fr
 0.0.0.0 univs-lille.fr
 0.0.0.0 univs-lyon3.fr
 0.0.0.0 univsmb.fr
