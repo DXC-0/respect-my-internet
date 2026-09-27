@@ -2959,6 +2959,7 @@
 0.0.0.0 amendes-gouv-info.fr
 0.0.0.0 amendes-gouv-majoration.fr
 0.0.0.0 amendes-gouv-paiement.fr
+0.0.0.0 amendes-gouv-pay.fr
 0.0.0.0 amendes-gouv-portail.fr
 0.0.0.0 amendes-gouv-regularisation.fr
 0.0.0.0 amendes-gouv-regularisations.fr
@@ -6955,6 +6956,7 @@
 0.0.0.0 bouygues-groupes.fr
 0.0.0.0 bouygues-info.fr
 0.0.0.0 bouygues-moncompte-a-jour.fr
+0.0.0.0 bouygues-remboursement.fr
 0.0.0.0 bouygues-renouvellement.fr
 0.0.0.0 bouygues-sa.fr
 0.0.0.0 bouygues-tel.fr
@@ -17070,6 +17072,7 @@
 0.0.0.0 frumzibet.fr
 0.0.0.0 frumzicasina.fr
 0.0.0.0 frumzicasino-fr.fr
+0.0.0.0 frumzicasino-france.fr
 0.0.0.0 frumzicasino-official.fr
 0.0.0.0 frumzicasino1.fr
 0.0.0.0 frumzicasinofr.fr
@@ -36976,6 +36979,7 @@
 0.0.0.0 stackedcasino.fr
 0.0.0.0 stadebrestois29.fr
 0.0.0.0 stadedefrance-billetterie.fr
+0.0.0.0 stadedefrance-kaaris.fr
 0.0.0.0 stadedefrance-niska.fr
 0.0.0.0 stadedefrance-sch.fr
 0.0.0.0 staderennaisfc.fr
