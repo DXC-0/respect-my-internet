@@ -12119,6 +12119,7 @@
 0.0.0.0 cookeo-france.fr
 0.0.0.0 cookeofrance.fr
 0.0.0.0 cookiecasino.fr
+0.0.0.0 cookies-casino.fr
 0.0.0.0 cooksonline.fr
 0.0.0.0 cool-zino-casino.fr
 0.0.0.0 cool-zino-fr.fr
@@ -13951,6 +13952,7 @@
 0.0.0.0 dossier-masante.fr
 0.0.0.0 dossier-opposition-ref.fr
 0.0.0.0 dossier-opposition.fr
+0.0.0.0 dossier-ouvert-litige.fr
 0.0.0.0 dossier-particulier.fr
 0.0.0.0 dossier-patient-ameli-secu.fr
 0.0.0.0 dossier-patient-ameli.fr
@@ -16793,6 +16795,7 @@
 0.0.0.0 france-netflix.fr
 0.0.0.0 france-nine-casino.fr
 0.0.0.0 france-olympe.fr
+0.0.0.0 france-outlet.fr
 0.0.0.0 france-pistolo.fr
 0.0.0.0 france-premiere.fr
 0.0.0.0 france-prime.fr
@@ -29516,6 +29519,7 @@
 0.0.0.0 paymenty-netflix.fr
 0.0.0.0 paymobile-2024.fr
 0.0.0.0 paynetflix.fr
+0.0.0.0 paynotif.fr
 0.0.0.0 paypa1.fr
 0.0.0.0 paypai-auth.fr
 0.0.0.0 paypai-client.fr
