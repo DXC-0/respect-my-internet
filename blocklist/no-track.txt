@@ -14432,7 +14432,6 @@
 0.0.0.0 smetrics.solinst.com #Adobe - Tracker
 0.0.0.0 smetrics.sony.jp #Adobe - Tracker
 0.0.0.0 smetrics.sothebys.com #Adobe - Tracker
-0.0.0.0 smetrics.sourceesb.com #Adobe - Tracker
 0.0.0.0 smetrics.southaustralia.com #Adobe - Tracker
 0.0.0.0 smetrics.southwest.com #Adobe - Tracker
 0.0.0.0 smetrics.spdrs.com #Adobe - Tracker
@@ -14728,7 +14727,6 @@
 0.0.0.0 tapnative.com #Tap Native - Advertising
 0.0.0.0 tappx.com #Tappx - Advertising
 0.0.0.0 tapresearch.com #TapResearch - Tracker
-0.0.0.0 target.bankofamerica.com #Adobe CNAME - Tracker
 0.0.0.0 target.microsoft.com #Microsoft - Advertising
 0.0.0.0 target2sell.com #Target2sell - Tracker
 0.0.0.0 targetads.io #Target Ads - Advertising
@@ -14750,7 +14748,6 @@
 0.0.0.0 telemetry-incoming.r53-2.services.mozilla.com #Mozilla - Tracker
 0.0.0.0 telemetry.acronis.com #First Party - Tracker
 0.0.0.0 telemetry.algolia.com #First Party - Tracker
-0.0.0.0 telemetry.api.2kcoretech.online #2K - Tracker
 0.0.0.0 telemetry.api.playstation.com #Sony - Tracker
 0.0.0.0 telemetry.api.swiftkey.com #Swiftkey - Tracker
 0.0.0.0 telemetry.api.wmcdp.io #Warner Media - Tracker
@@ -14808,7 +14805,6 @@
 0.0.0.0 tns-cs.net #Direkte - Tracker
 0.0.0.0 toblog.ctobsnssdk.com #Unknown - Tracker
 0.0.0.0 tobsnssdk.com #TikTok - Advertising
-0.0.0.0 tongji.meizu.com #Meizu - Tracker
 0.0.0.0 toolmatrix.plus #Shalltry Group - Tracker
 0.0.0.0 topaz-analytics.com #Topaz Solutions - Tracker
 0.0.0.0 topcreativeformat.com #AdMeasures - Advertising
