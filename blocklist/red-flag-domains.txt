@@ -111,6 +111,7 @@
 0.0.0.0 1win-casino.fr
 0.0.0.0 1win-casinos.fr
 0.0.0.0 1win-club.fr
+0.0.0.0 1win-enligne.fr
 0.0.0.0 1win-fr.fr
 0.0.0.0 1win-france.fr
 0.0.0.0 1win-login.fr
@@ -3188,6 +3189,7 @@
 0.0.0.0 amunbet-casino.fr
 0.0.0.0 amunbet-fr.fr
 0.0.0.0 amunbetcasino.fr
+0.0.0.0 amunra-casinos.fr
 0.0.0.0 amunra-en-ligne.fr
 0.0.0.0 amunra-enligne.fr
 0.0.0.0 amunra-fr.fr
@@ -3786,10 +3788,12 @@
 0.0.0.0 applepro.fr
 0.0.0.0 applepromo.fr
 0.0.0.0 appleprovision.fr
+0.0.0.0 appleroom.fr
 0.0.0.0 appleservice.fr
 0.0.0.0 appleservices.fr
 0.0.0.0 appleshopp.fr
 0.0.0.0 applestare.fr
+0.0.0.0 applestore-support.fr
 0.0.0.0 applestoreparis.fr
 0.0.0.0 appleverifier.fr
 0.0.0.0 applevision.fr
@@ -4989,6 +4993,7 @@
 0.0.0.0 avis-penal.fr
 0.0.0.0 avis-penalite.fr
 0.0.0.0 avis-penalites.fr
+0.0.0.0 avis-stationnement-telepaiement.fr
 0.0.0.0 avis-susp.fr
 0.0.0.0 avisclient-gbdh.fr
 0.0.0.0 aviscontravention.fr
@@ -5804,6 +5809,7 @@
 0.0.0.0 betify-casino0.fr
 0.0.0.0 betify-casino1.fr
 0.0.0.0 betify-casino2.fr
+0.0.0.0 betify-casinofr.fr
 0.0.0.0 betify-casinologin.fr
 0.0.0.0 betify-casinos.fr
 0.0.0.0 betify-casinos1.fr
@@ -5814,6 +5820,7 @@
 0.0.0.0 betify-fr-casino.fr
 0.0.0.0 betify-fra.fr
 0.0.0.0 betify-france.fr
+0.0.0.0 betify-frcasino.fr
 0.0.0.0 betify-game.fr
 0.0.0.0 betify-games.fr
 0.0.0.0 betify-ios.fr
@@ -5868,6 +5875,8 @@
 0.0.0.0 betifycasinos.fr
 0.0.0.0 betifycasinos1.fr
 0.0.0.0 betifyfr.fr
+0.0.0.0 betifyfrancecasino.fr
+0.0.0.0 betifyfrcasino.fr
 0.0.0.0 betifygame.fr
 0.0.0.0 betifyjeu.fr
 0.0.0.0 betifyjeux.fr
@@ -8377,6 +8386,7 @@
 0.0.0.0 casino770-france.fr
 0.0.0.0 casino770com.fr
 0.0.0.0 casino770fr.fr
+0.0.0.0 casino770france.fr
 0.0.0.0 casino770slot.fr
 0.0.0.0 casino777enligne.fr
 0.0.0.0 casinoadrenaline.fr
@@ -10794,6 +10804,7 @@
 0.0.0.0 clients-prime.fr
 0.0.0.0 clients-service.fr
 0.0.0.0 clients-sfr.fr
+0.0.0.0 clients-sg.fr
 0.0.0.0 clients-societegenerale.fr
 0.0.0.0 clients-support.fr
 0.0.0.0 clients-supports.fr
@@ -12139,6 +12150,7 @@
 0.0.0.0 coolshoes.fr
 0.0.0.0 coolwaychaussures.fr
 0.0.0.0 coolwayfrance.fr
+0.0.0.0 coolz1no-fra.fr
 0.0.0.0 coolz1no.fr
 0.0.0.0 coolzi.fr
 0.0.0.0 coolzino-1.fr
@@ -12641,6 +12653,7 @@
 0.0.0.0 criscounicaen.fr
 0.0.0.0 crispi-frances.fr
 0.0.0.0 crispichaussure.fr
+0.0.0.0 cristalticket.fr
 0.0.0.0 crit-air-attestation.fr
 0.0.0.0 crit-air-certificat.fr
 0.0.0.0 crit-air-certiflcats.fr
@@ -13936,6 +13949,7 @@
 0.0.0.0 dossier-caf.fr
 0.0.0.0 dossier-carte-vitale.fr
 0.0.0.0 dossier-clients.fr
+0.0.0.0 dossier-contestation-fr.fr
 0.0.0.0 dossier-contravention.fr
 0.0.0.0 dossier-contraventions.fr
 0.0.0.0 dossier-de-sante.fr
@@ -15920,6 +15934,7 @@
 0.0.0.0 fedex-invoice.fr
 0.0.0.0 fedex-tracking.fr
 0.0.0.0 fedexexpress.fr
+0.0.0.0 fedexgroupement.fr
 0.0.0.0 feee.fr
 0.0.0.0 feelgroundsshoes.fr
 0.0.0.0 feelingbet-casino.fr
@@ -18010,6 +18025,7 @@
 0.0.0.0 gouv-facturations.fr
 0.0.0.0 gouv-financementenergies.fr
 0.0.0.0 gouv-finances.fr
+0.0.0.0 gouv-fr.fr
 0.0.0.0 gouv-france-connect.fr
 0.0.0.0 gouv-france.fr
 0.0.0.0 gouv-francediplomatie.fr
@@ -18974,6 +18990,7 @@
 0.0.0.0 housebets-casino.fr
 0.0.0.0 housebets.fr
 0.0.0.0 housebetscasino.fr
+0.0.0.0 housebetsfr.fr
 0.0.0.0 houseofkids.fr
 0.0.0.0 houssardmobiliersas.fr
 0.0.0.0 howmetfixationssimmondssas.fr
@@ -20741,6 +20758,7 @@
 0.0.0.0 jeuxolympiqueparis2024.fr
 0.0.0.0 jeuxparis2024.fr
 0.0.0.0 jevalidemonnina.fr
+0.0.0.0 jewelly-jeans.fr
 0.0.0.0 jfu-prime.fr
 0.0.0.0 jhgy.yt
 0.0.0.0 jimgreen.fr
@@ -23041,6 +23059,7 @@
 0.0.0.0 loovo.fr
 0.0.0.0 lorabetcasino.fr
 0.0.0.0 loreal-groupe.fr
+0.0.0.0 lorealfrance.fr
 0.0.0.0 loreals.fr
 0.0.0.0 lornajane-france.fr
 0.0.0.0 lornajaneparis.fr
@@ -23853,6 +23872,7 @@
 0.0.0.0 mafia-enligne.fr
 0.0.0.0 mafia-jouer-argentreel.fr
 0.0.0.0 mafia-jouer-enligne.fr
+0.0.0.0 mafia-official.fr
 0.0.0.0 mafia-online-play.fr
 0.0.0.0 mafia-online.fr
 0.0.0.0 mafia-onlinecasin0.fr
@@ -26679,6 +26699,7 @@
 0.0.0.0 mysolde-pcs.fr
 0.0.0.0 mystake-casino-fr.fr
 0.0.0.0 mystake-casino.fr
+0.0.0.0 mystake-enligne.fr
 0.0.0.0 mystake-fr-casino.fr
 0.0.0.0 mystake-fr.fr
 0.0.0.0 mystake-france.fr
@@ -28035,6 +28056,7 @@
 0.0.0.0 oakleyoutlet.fr
 0.0.0.0 oakleysfrance.fr
 0.0.0.0 oaou.fr
+0.0.0.0 oarnge.fr
 0.0.0.0 object-store.fr
 0.0.0.0 objetetprivilege.fr
 0.0.0.0 objets-voles-police-bergerac.fr
@@ -28303,6 +28325,7 @@
 0.0.0.0 onlinecasinoextra2.fr
 0.0.0.0 onlinefastslots-fr.fr
 0.0.0.0 onlinefastslots.fr
+0.0.0.0 onlinegransino.fr
 0.0.0.0 onlinel.fr
 0.0.0.0 onlineleon-casino.fr
 0.0.0.0 onlineorange.fr
@@ -28351,6 +28374,7 @@
 0.0.0.0 onlyspinss-fr.fr
 0.0.0.0 onlyspinss-france.fr
 0.0.0.0 onlyspinss.fr
+0.0.0.0 onlyspinz.fr
 0.0.0.0 onmicrosoft.fr
 0.0.0.0 onn-off.fr
 0.0.0.0 onoutlet.fr
@@ -31529,6 +31553,7 @@
 0.0.0.0 randolphlunettesparis.fr
 0.0.0.0 randstacd.fr
 0.0.0.0 randstaddigitalfrance.fr
+0.0.0.0 randstade.fr
 0.0.0.0 randstadt.fr
 0.0.0.0 rann.fr
 0.0.0.0 rantcasino.fr
@@ -33237,6 +33262,7 @@
 0.0.0.0 rucolabetcasino.fr
 0.0.0.0 ruedecommerce.fr
 0.0.0.0 rueducommerde.fr
+0.0.0.0 ruffwearfrance.fr
 0.0.0.0 rugby-maillot.fr
 0.0.0.0 run-prime.fr
 0.0.0.0 run4win-casino.fr
@@ -33644,6 +33670,7 @@
 0.0.0.0 savaspinfrance.fr
 0.0.0.0 savaspins-fr.fr
 0.0.0.0 savaspinscasino.fr
+0.0.0.0 savaspyn.fr
 0.0.0.0 savchronopost.fr
 0.0.0.0 save-gaza.fr
 0.0.0.0 savoirtout.fr
@@ -34668,6 +34695,7 @@
 0.0.0.0 service-particulier.fr
 0.0.0.0 service-particuliers-sg.fr
 0.0.0.0 service-pass-securite-societegenerale.fr
+0.0.0.0 service-passeport.fr
 0.0.0.0 service-patient-ameli.fr
 0.0.0.0 service-pay.fr
 0.0.0.0 service-paypal-inc.fr
@@ -35558,6 +35586,7 @@
 0.0.0.0 simsinosonline.fr
 0.0.0.0 simsinoss-france.fr
 0.0.0.0 simssinos.fr
+0.0.0.0 simsyno.fr
 0.0.0.0 simulateur-finances-publiques.fr
 0.0.0.0 sinamax.fr
 0.0.0.0 singaporeairlines.fr
@@ -36381,6 +36410,7 @@
 0.0.0.0 sp1nformula-fr.fr
 0.0.0.0 sp1nformula-fra.fr
 0.0.0.0 sp1nformula-plays.fr
+0.0.0.0 sp1nsboss.fr
 0.0.0.0 sp1nsy-fr.fr
 0.0.0.0 space-contravention.fr
 0.0.0.0 space-fortuna-casino.fr
@@ -36401,6 +36431,7 @@
 0.0.0.0 spacehillscasino.fr
 0.0.0.0 spacesypl.fr
 0.0.0.0 spacex.yt
+0.0.0.0 spakefortuna.fr
 0.0.0.0 spankbang.re
 0.0.0.0 sparkassecredit-md-eu.fr
 0.0.0.0 spartans-casino.fr
@@ -36657,6 +36688,7 @@
 0.0.0.0 spingrannycasino-fr.fr
 0.0.0.0 spingrannyfr.fr
 0.0.0.0 spingrannyfrance.fr
+0.0.0.0 spingrannyy.fr
 0.0.0.0 spingreen.fr
 0.0.0.0 spinhub-casino.fr
 0.0.0.0 spinhubcasino.fr
@@ -42599,6 +42631,7 @@
 0.0.0.0 xoex.fr
 0.0.0.0 xonbet.fr
 0.0.0.0 xonderbox.fr
+0.0.0.0 xoom-service-dossier.fr
 0.0.0.0 xpm-prime.fr
 0.0.0.0 xpya.yt
 0.0.0.0 xpye.yt
