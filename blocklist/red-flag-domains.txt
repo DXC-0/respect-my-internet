@@ -4834,6 +4834,7 @@
 0.0.0.0 authentification-vitale.fr
 0.0.0.0 authentificationdesrecharges.fr
 0.0.0.0 authentificationpaiement-securise.fr
+0.0.0.0 authentificationrecharge.fr
 0.0.0.0 authentifications-courriers-ar24.fr
 0.0.0.0 authentifications.fr
 0.0.0.0 authentificationsg.fr
@@ -6565,6 +6566,7 @@
 0.0.0.0 blstore.fr
 0.0.0.0 bluepartner.fr
 0.0.0.0 bluewin.fr
+0.0.0.0 blundstone-outlet.fr
 0.0.0.0 blushconceptstore.fr
 0.0.0.0 bnbhotel.fr
 0.0.0.0 bnbhotels.fr
@@ -8288,6 +8290,7 @@
 0.0.0.0 casino-pampago.fr
 0.0.0.0 casino-park.fr
 0.0.0.0 casino-peaches-fr.fr
+0.0.0.0 casino-peaches-france.fr
 0.0.0.0 casino-pistolo-fr.fr
 0.0.0.0 casino-pistolo.fr
 0.0.0.0 casino-playregal.fr
@@ -8988,7 +8991,16 @@
 0.0.0.0 caspero1.fr
 0.0.0.0 casquetteoutlet.fr
 0.0.0.0 cassert-financement.fr
+0.0.0.0 cassino-extra-fr.fr
+0.0.0.0 cassino-extra-france.fr
+0.0.0.0 cassino-extrafr.fr
+0.0.0.0 cassino-extras-fr.fr
+0.0.0.0 cassino-extras-france.fr
+0.0.0.0 cassino-extrasfr.fr
 0.0.0.0 cassino770.fr
+0.0.0.0 cassinoextras-fr.fr
+0.0.0.0 cassinoextras-france.fr
+0.0.0.0 cassinoextrasfr.fr
 0.0.0.0 castanerchaussures.fr
 0.0.0.0 castanerfrance.fr
 0.0.0.0 castaneroutlet.fr
@@ -9071,6 +9083,7 @@
 0.0.0.0 cazeus-login.fr
 0.0.0.0 cazeus-official.fr
 0.0.0.0 cazeus-officiel.fr
+0.0.0.0 cazeus.fr
 0.0.0.0 cazeus1.fr
 0.0.0.0 cazeuscasino-fr.fr
 0.0.0.0 cazeuscasino.fr
@@ -15258,6 +15271,7 @@
 0.0.0.0 espaceclient-netflx.fr
 0.0.0.0 espaceclient-prime.fr
 0.0.0.0 espaceclient-service.fr
+0.0.0.0 espaceclient-sfam.fr
 0.0.0.0 espaceclient-sfr.fr
 0.0.0.0 espaceclient-sg.fr
 0.0.0.0 espaceclient-societegenerale.fr
@@ -15826,6 +15840,9 @@
 0.0.0.0 fashion-outlet.fr
 0.0.0.0 fashion-ventes-privees.fr
 0.0.0.0 fasola.fr
+0.0.0.0 fast-sllot-fr.fr
+0.0.0.0 fast-sllot-france.fr
+0.0.0.0 fast-sllots-france.fr
 0.0.0.0 fast-slot-casino.fr
 0.0.0.0 fast-slotcasino.fr
 0.0.0.0 fast-slots-casino.fr
@@ -15841,6 +15858,8 @@
 0.0.0.0 fastlot.fr
 0.0.0.0 fastpay-casino.fr
 0.0.0.0 fastpaycasino.fr
+0.0.0.0 fastsllot-fr.fr
+0.0.0.0 fastsllot-france.fr
 0.0.0.0 fastslot-casino.fr
 0.0.0.0 fastslotcasino.fr
 0.0.0.0 fastslots-casino.fr
@@ -20686,6 +20705,7 @@
 0.0.0.0 je-prime.fr
 0.0.0.0 je-regularise-mon-abonnnement.fr
 0.0.0.0 jean-airbus.fr
+0.0.0.0 jeanbrun-gouv-2027.fr
 0.0.0.0 jeansetbottines.fr
 0.0.0.0 jedemenageaveclaposte.fr
 0.0.0.0 jeetbuzzcasino.fr
@@ -20713,7 +20733,12 @@
 0.0.0.0 jetem.fr
 0.0.0.0 jeton-rouge-casino.fr
 0.0.0.0 jeton-rouge-fr.fr
+0.0.0.0 jeton-rouge-france.fr
+0.0.0.0 jeton-rougefr.fr
+0.0.0.0 jeton-rouges-fr.fr
+0.0.0.0 jeton-rouges-france.fr
 0.0.0.0 jeton-rouges.fr
+0.0.0.0 jeton-rougesfr.fr
 0.0.0.0 jeton-rougex.fr
 0.0.0.0 jetonrouge-enligne.fr
 0.0.0.0 jetonrouge-fr.fr
@@ -20725,7 +20750,12 @@
 0.0.0.0 jetonrougecasinobonus.fr
 0.0.0.0 jetonrougecasinocodepromo.fr
 0.0.0.0 jetonrougecasinologin.fr
+0.0.0.0 jetonrougecassinos.fr
 0.0.0.0 jetonrougefrance.fr
+0.0.0.0 jetonrouges-fr.fr
+0.0.0.0 jetonrouges-france.fr
+0.0.0.0 jetonrouges.fr
+0.0.0.0 jetonrougesfr.fr
 0.0.0.0 jetton-casino.fr
 0.0.0.0 jetton.fr
 0.0.0.0 jettoncasino.fr
@@ -21838,6 +21868,7 @@
 0.0.0.0 ld-prime.fr
 0.0.0.0 ldboncoin.fr
 0.0.0.0 lddf.pm
+0.0.0.0 ldlcgroupe.fr
 0.0.0.0 ldlcloud.fr
 0.0.0.0 ldzlt.pm
 0.0.0.0 le-bon-compte.fr
@@ -25052,6 +25083,7 @@
 0.0.0.0 millionz-casino-fr.fr
 0.0.0.0 millionz-casino-france.fr
 0.0.0.0 millionz-casinofr.fr
+0.0.0.0 millionz-casinofrance.fr
 0.0.0.0 millionz-casinos.fr
 0.0.0.0 millionz-cassino-fr.fr
 0.0.0.0 millionz-cassinofr.fr
@@ -34522,6 +34554,7 @@
 0.0.0.0 service-cetelem-enligne.fr
 0.0.0.0 service-cgu-chr0n0-post.fr
 0.0.0.0 service-changement-esim.fr
+0.0.0.0 service-chorus.fr
 0.0.0.0 service-chrono-colis.fr
 0.0.0.0 service-chrono-en-ligne.fr
 0.0.0.0 service-chrono-post-livraison.fr
@@ -34871,6 +34904,7 @@
 0.0.0.0 serviceclientnetflix.fr
 0.0.0.0 serviceclientnickel.fr
 0.0.0.0 serviceclientprime.fr
+0.0.0.0 serviceclients-leclerc.fr
 0.0.0.0 serviceclientscofidis.fr
 0.0.0.0 serviceclientsecuripass.fr
 0.0.0.0 servicecolis.fr
@@ -35687,7 +35721,12 @@
 0.0.0.0 slingo-casino.fr
 0.0.0.0 slipslpal.fr
 0.0.0.0 sllate.fr
+0.0.0.0 sllot-lair-fr.fr
+0.0.0.0 sllot-lairs.fr
+0.0.0.0 sllotlair-france.fr
 0.0.0.0 sllotlair.fr
+0.0.0.0 sllotlairs-fr.fr
+0.0.0.0 sllotlairs-france.fr
 0.0.0.0 sloggi-france.fr
 0.0.0.0 sloggifrance.fr
 0.0.0.0 slootlair.fr
@@ -36048,6 +36087,7 @@
 0.0.0.0 sneakers-shop.fr
 0.0.0.0 sneakers-supply.fr
 0.0.0.0 sneakers-world.fr
+0.0.0.0 sneakersavenue.fr
 0.0.0.0 sneakerscompany.fr
 0.0.0.0 sneakersdealer.fr
 0.0.0.0 sneakersdestock.fr
@@ -38500,6 +38540,7 @@
 0.0.0.0 ticketflow-support.fr
 0.0.0.0 ticketflows.fr
 0.0.0.0 ticketforchange.fr
+0.0.0.0 ticketfranceconciergerie.fr
 0.0.0.0 ticketgate.fr
 0.0.0.0 tickethellfest.fr
 0.0.0.0 ticketjoparis2024.fr
@@ -38858,6 +38899,7 @@
 0.0.0.0 toulousemagasincybertek.fr
 0.0.0.0 toupagel.fr
 0.0.0.0 tour-ticket.fr
+0.0.0.0 tourdefrance2031.fr
 0.0.0.0 toureifell.fr
 0.0.0.0 tourfrance.fr
 0.0.0.0 tourismegouv.fr
