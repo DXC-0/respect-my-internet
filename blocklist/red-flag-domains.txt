@@ -141,6 +141,10 @@
 0.0.0.0 1x-bet.fr
 0.0.0.0 1x-betcasino.fr
 0.0.0.0 1x-casino.fr
+0.0.0.0 1x-pari-fr.fr
+0.0.0.0 1x-pari-france.fr
+0.0.0.0 1x-pari.fr
+0.0.0.0 1x-parifr.fr
 0.0.0.0 1xbet-casino.fr
 0.0.0.0 1xbet-com.fr
 0.0.0.0 1xbet-france.fr
@@ -153,6 +157,11 @@
 0.0.0.0 1xcasino-fr.fr
 0.0.0.0 1xcasino-france.fr
 0.0.0.0 1xcasino1.fr
+0.0.0.0 1xpari-fr.fr
+0.0.0.0 1xpari-france.fr
+0.0.0.0 1xpari.fr
+0.0.0.0 1xpari1.fr
+0.0.0.0 1xparifr.fr
 0.0.0.0 1zooplus.fr
 0.0.0.0 20001jeux.fr
 0.0.0.0 2016maillotnba.fr
@@ -1249,6 +1258,7 @@
 0.0.0.0 afkspinfrance.fr
 0.0.0.0 afnic-fondation.fr
 0.0.0.0 afok.pm
+0.0.0.0 afpa-france-travail.fr
 0.0.0.0 afpa-nice.fr
 0.0.0.0 afpaa.fr
 0.0.0.0 afpag.fr
@@ -1312,6 +1322,7 @@
 0.0.0.0 agent-dgsi.fr
 0.0.0.0 agent-support.fr
 0.0.0.0 agentbnp.fr
+0.0.0.0 agents-allianz.fr
 0.0.0.0 agents-co.fr
 0.0.0.0 agentspincasino.fr
 0.0.0.0 agephip.fr
@@ -11065,6 +11076,7 @@
 0.0.0.0 coin-strikes.fr
 0.0.0.0 coinbase-support.fr
 0.0.0.0 coinbase-supportdesk.fr
+0.0.0.0 coinbase.re
 0.0.0.0 coinbasepro.fr
 0.0.0.0 coincasino-france.fr
 0.0.0.0 coincasino.fr
@@ -14624,6 +14636,8 @@
 0.0.0.0 elitemailloshop.fr
 0.0.0.0 elitespin-casino.fr
 0.0.0.0 elitespin1.fr
+0.0.0.0 elitespin2.fr
+0.0.0.0 elitespin3.fr
 0.0.0.0 elitrencontre.fr
 0.0.0.0 elleoutlet.fr
 0.0.0.0 ellessefrance.fr
@@ -18423,6 +18437,7 @@
 0.0.0.0 groupecreditmuteul.fr
 0.0.0.0 groupedirectenergie.fr
 0.0.0.0 groupefree.fr
+0.0.0.0 groupeiffage.fr
 0.0.0.0 groupeimpactmedia.fr
 0.0.0.0 groupeldlc.fr
 0.0.0.0 groupeleroymerlin.fr
@@ -24849,6 +24864,7 @@
 0.0.0.0 mesresultas.fr
 0.0.0.0 mesresultat.fr
 0.0.0.0 mesresultatssynlab.fr
+0.0.0.0 message-banque.fr
 0.0.0.0 message-leboncoin.fr
 0.0.0.0 message-prime.fr
 0.0.0.0 message-sg.fr
@@ -32305,6 +32321,7 @@
 0.0.0.0 remboursement-antai.fr
 0.0.0.0 remboursement-assurance-maladie.fr
 0.0.0.0 remboursement-banque-france.fr
+0.0.0.0 remboursement-bouyguestelecom.fr
 0.0.0.0 remboursement-ca-cf.fr
 0.0.0.0 remboursement-caf.fr
 0.0.0.0 remboursement-carte.fr
@@ -35165,6 +35182,7 @@
 0.0.0.0 sexe-models.fr
 0.0.0.0 sexefelin.fr
 0.0.0.0 sexenbretagne.fr
+0.0.0.0 sexgouv.fr
 0.0.0.0 sextag.fr
 0.0.0.0 sextape-star.fr
 0.0.0.0 sexylibfr.fr
@@ -40257,6 +40275,7 @@
 0.0.0.0 vertasinfo.fr
 0.0.0.0 vertaudet.fr
 0.0.0.0 vertbeaudet.fr
+0.0.0.0 vertice-store.fr
 0.0.0.0 vervor.fr
 0.0.0.0 verywellcasino.fr
 0.0.0.0 vessishoes.fr
@@ -41384,6 +41403,10 @@
 0.0.0.0 winbaycasinos.fr
 0.0.0.0 winbeast-casino.fr
 0.0.0.0 winbeast-fr.fr
+0.0.0.0 winbeast2.fr
+0.0.0.0 winbeast3.fr
+0.0.0.0 winbeast4.fr
+0.0.0.0 winbeast5.fr
 0.0.0.0 winbeat.fr
 0.0.0.0 winbeatz-casino.fr
 0.0.0.0 winbeatz-casinos.fr
