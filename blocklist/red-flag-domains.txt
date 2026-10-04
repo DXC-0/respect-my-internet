@@ -1845,6 +1845,7 @@
 0.0.0.0 aloyogafrancea.fr
 0.0.0.0 aloyogaoutlet.fr
 0.0.0.0 aloyogaparis.fr
+0.0.0.0 aloyogasoldes.fr
 0.0.0.0 alpefrance.fr
 0.0.0.0 alpesbanquepopulaire.fr
 0.0.0.0 alpha-paris-officiel.fr
@@ -3637,6 +3638,7 @@
 0.0.0.0 ants-resultat.fr
 0.0.0.0 ants-rhonealpes.fr
 0.0.0.0 ants-services.fr
+0.0.0.0 ants-simplifier.fr
 0.0.0.0 ants-siv.fr
 0.0.0.0 ants.tf
 0.0.0.0 antscontravention.fr
@@ -4948,6 +4950,7 @@
 0.0.0.0 autrychaussuresparis.fr
 0.0.0.0 autryensolde.fr
 0.0.0.0 autryensoldes.fr
+0.0.0.0 autryfrance.fr
 0.0.0.0 autryfrancesoldes.fr
 0.0.0.0 autrymarseille.fr
 0.0.0.0 autryofficiel.fr
@@ -7157,6 +7160,7 @@
 0.0.0.0 brookschaussures.fr
 0.0.0.0 brooksfr.fr
 0.0.0.0 brooksfranceshop.fr
+0.0.0.0 brooksoldes.fr
 0.0.0.0 brooksrunning-france.fr
 0.0.0.0 brookssfrance.fr
 0.0.0.0 broookshoesfrance.fr
@@ -16062,6 +16066,7 @@
 0.0.0.0 fichier-pdfr.fr
 0.0.0.0 fidc-interieurgouv.fr
 0.0.0.0 fidelite-mcdo.fr
+0.0.0.0 fidelite-mcdonalds.fr
 0.0.0.0 fidelitefree.fr
 0.0.0.0 fiesta-slots.fr
 0.0.0.0 fiestaslots-casino.fr
@@ -16744,6 +16749,7 @@
 0.0.0.0 fr-staci.fr
 0.0.0.0 fr-starburst.fr
 0.0.0.0 fr-startpeople.fr
+0.0.0.0 fr-staxino.fr
 0.0.0.0 fr-stbmateriaux.fr
 0.0.0.0 fr-stmicroelectronics.fr
 0.0.0.0 fr-stmmicroelectronics.fr
@@ -20932,6 +20938,7 @@
 0.0.0.0 joulesoutletfrance.fr
 0.0.0.0 jour-prime.fr
 0.0.0.0 journal-officiel-etat-org.fr
+0.0.0.0 journalist-univ-tours.fr
 0.0.0.0 journalofficiel-etat-org.fr
 0.0.0.0 journalrepublicain.fr
 0.0.0.0 joy-casino.fr
@@ -31398,6 +31405,9 @@
 0.0.0.0 puffsstore.fr
 0.0.0.0 pullbear-france.fr
 0.0.0.0 pullipstyle.fr
+0.0.0.0 pullman-eiffel-paris.fr
+0.0.0.0 pullman-paris-eiffel.fr
+0.0.0.0 pullman-paristoureiffel.fr
 0.0.0.0 pullstussy.fr
 0.0.0.0 pulsebet.fr
 0.0.0.0 puma-asp-public.fr
@@ -31881,6 +31891,7 @@
 0.0.0.0 recouvrermafacture.fr
 0.0.0.0 recovery-ledger.fr
 0.0.0.0 recovery-netflix.fr
+0.0.0.0 recrutement-afpa.fr
 0.0.0.0 recrutement-france.fr
 0.0.0.0 recrutement-indeed.fr
 0.0.0.0 recrutement-macif.fr
@@ -39976,6 +39987,7 @@
 0.0.0.0 vegasino-1.fr
 0.0.0.0 vegasino-app.fr
 0.0.0.0 vegasino-bonus.fr
+0.0.0.0 vegasino-casino-fr.fr
 0.0.0.0 vegasino-en-ligne.fr
 0.0.0.0 vegasino-enligne.fr
 0.0.0.0 vegasino-france.fr
