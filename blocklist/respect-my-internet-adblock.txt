@@ -4506,6 +4506,7 @@
 ||1win-bonus.fr^
 ||1win-casino.fr^
 ||1win-casinos.fr^
+||1win-cassino-fr.fr^
 ||1win-club.fr^
 ||1win-enligne.fr^
 ||1win-fr.fr^
@@ -4521,9 +4522,14 @@
 ||1winappcasino.fr^
 ||1winbonus.fr^
 ||1wincasino.fr^
+||1wincassino-fr.fr^
+||1wincassino-france.fr^
+||1wincassinos-fr.fr^
+||1wincassinos-france.fr^
 ||1wincryptocasino.fr^
 ||1winenligne.fr^
 ||1winfr-app.fr^
+||1winfr.fr^
 ||1winfrance.fr^
 ||1wingains.fr^
 ||1winlbonuscasino.fr^
@@ -4533,6 +4539,9 @@
 ||1winpro.fr^
 ||1winpromocode.fr^
 ||1wins-app.fr^
+||1wins-fr.fr^
+||1wins-france.fr^
+||1winsfr.fr^
 ||1winsportbets.fr^
 ||1wxyun.com^
 ||1x-bet.fr^
@@ -16930,6 +16939,7 @@
 ||ac-studios-eur-sales.com^
 ||ac-toulouse31.fr^
 ||ac-tours-tours.fr^
+||ac-tours.fr^
 ||ac-uadeloupe.fr^
 ||ac-verdailles.fr^
 ||ac-versaile.fr^
@@ -45938,6 +45948,11 @@
 ||atefia-casino.fr^
 ||atefia-online.fr^
 ||atefia-play.fr^
+||atefiafr.fr^
+||atefias-fr.fr^
+||atefias-france.fr^
+||atefias.fr^
+||atefiasfr.fr^
 ||ateliefidalga.com^
 ||ateliehrliving.shop^
 ||atelier-lesoon.fr^
@@ -53174,6 +53189,7 @@
 ||betify-site.fr^
 ||betify.wf^
 ||betify10.fr^
+||betify10sh.fr^
 ||betify3.fr^
 ||betify5sh.fr^
 ||betify6.fr^
@@ -54226,6 +54242,8 @@
 ||bifronsholdings.com^
 ||bifuhye.com^
 ||big-bit.com^
+||big-cash.fr^
+||big-cashs.fr^
 ||big-clash-casino.fr^
 ||big-clash-casinos.fr^
 ||big-clash-fr.fr^
@@ -54269,6 +54287,9 @@
 ||bigcakegame.com^
 ||bigcandyofficial.fr^
 ||bigcandywin.fr^
+||bigcash-fr.fr^
+||bigcash-france.fr^
+||bigcashs.fr^
 ||bigcasino.fr^
 ||bigcasinos.fr^
 ||bigcat.com^
@@ -66205,6 +66226,7 @@
 ||casinacasino.fr^
 ||casinacho-casino.fr^
 ||casinacho-fr.fr^
+||casinacho-france.fr^
 ||casinacho1.fr^
 ||casinado-enligne.fr^
 ||casinado-fr.fr^
@@ -66455,6 +66477,7 @@
 ||casino-wildrobin-fr.fr^
 ||casino-wildzy.fr^
 ||casino-win-airlines.fr^
+||casino-winairlines.fr^
 ||casino-winkingdom.fr^
 ||casino-winner.fr^
 ||casino-winoui.fr^
@@ -66508,6 +66531,7 @@
 ||casinobetonred.fr^
 ||casinobetriot.fr^
 ||casinobetsio.fr^
+||casinobetwarts.fr^
 ||casinobillionairespin.fr^
 ||casinobingo.fr^
 ||casinobit.fr^
@@ -66619,6 +66643,7 @@
 ||casinogodofcoins-fr.fr^
 ||casinogodofcoins.fr^
 ||casinogokong.fr^
+||casinogolazzo.fr^
 ||casinogoldbet.fr^
 ||casinogolden-panda.fr^
 ||casinogoldenbet.fr^
@@ -66651,6 +66676,7 @@
 ||casinoinfinity-fr.fr^
 ||casinoinfinity-france.fr^
 ||casinoinfinity-official.fr^
+||casinoinfinityofficiel.fr^
 ||casinoinfinityy.fr^
 ||casinoinstant-fr.fr^
 ||casinoinstant1.fr^
@@ -66717,6 +66743,7 @@
 ||casinolucky8.fr^
 ||casinoluckyblock.fr^
 ||casinoluckyfr.fr^
+||casinoluckygem.fr^
 ||casinoluckytreasure.fr^
 ||casinolunubet.fr^
 ||casinoly-casino.fr^
@@ -66889,6 +66916,7 @@
 ||casinoslot1.fr^
 ||casinoslotlair.fr^
 ||casinoslotrush.fr^
+||casinoslotsdj.fr^
 ||casinoslott.fr^
 ||casinosmadnix.fr^
 ||casinosmafia.fr^
@@ -66997,6 +67025,7 @@
 ||casinowinningz.fr^
 ||casinowino.fr^
 ||casinowinstler.fr^
+||casinowinunique.fr^
 ||casinowinzter.fr^
 ||casinowonaco.fr^
 ||casinowyns.fr^
@@ -99833,6 +99862,7 @@
 ||edfcontact.fr^
 ||edfcorse.fr^
 ||edfdepannage.fr^
+||edfdepannge.fr^
 ||edfentreprises-audit.fr^
 ||edfentreprises-enr.fr^
 ||edfentreprises-er.fr^
@@ -110331,6 +110361,7 @@
 ||fianzoralio.net^
 ||fiar-international.com^
 ||fiasdnk.cyou^
+||fiat500-support.fr^
 ||fiataushy.cyou^
 ||fiatemmeci.com^
 ||fiawj.yt^
@@ -116513,6 +116544,7 @@
 ||fr-monsterwin.fr^
 ||fr-mrxbet.fr^
 ||fr-mystake.fr^
+||fr-n7neo.fr^
 ||fr-navigo.fr^
 ||fr-neon54.fr^
 ||fr-neosoftservices.fr^
@@ -116639,6 +116671,7 @@
 ||fr-winbeatz.fr^
 ||fr-winoui.fr^
 ||fr-winspark.fr^
+||fr-x7casino.fr^
 ||fr-yarafrance.fr^
 ||fr.advertisercommunity.com^
 ||fr.blog.twitch.tv^
@@ -117445,6 +117478,8 @@
 ||frictionlesssales.com^
 ||fridabar-6fbe1.firebaseio.com^
 ||fridayjonespublishing.com^
+||fridayroll-fr.fr^
+||fridayroll2.fr^
 ||fridaysa.shop^
 ||fridgemodern.com^
 ||fridgester.cyou^
@@ -123394,6 +123429,7 @@
 ||glittering-echo.com^
 ||glittering-income.com^
 ||glitterixcoin.org^
+||glitzbets-fr.fr^
 ||glitzrushfy.de^
 ||glive.yzcdn.cn.livecdn.liveplay.myqcloud.com^
 ||glizauvo.net^#Unknown^-^Advertising^
@@ -140766,9 +140802,19 @@
 ||hufangyun.com^
 ||hufe.cc^
 ||hufent.digital^
+||huff-n-puff-sllot.fr^
+||huff-n-puff-sllots.fr^
 ||huffigtonpost.fr^
 ||huffingtopost.fr^
 ||hufflstarn.cyou^
+||huffn-puff-sllot.fr^
+||huffn-puff-sllots.fr^
+||huffnpuffsllot-fr.fr^
+||huffnpuffsllot-france.fr^
+||huffnpuffsllot.fr^
+||huffnpuffsllots-fr.fr^
+||huffnpuffsllots-france.fr^
+||huffnpuffsllots.fr^
 ||huforiumiqtrade.com^
 ||hufugu.info^
 ||hufywoi.pro^
@@ -141532,6 +141578,11 @@
 ||huuhoo.com^
 ||huuing.com^
 ||huuor.yt^
+||huuuge-cassino.fr^
+||huuuge-cassinos.fr^
+||huuugecassino-fr.fr^
+||huuugecassino-france.fr^
+||huuugecassinos.fr^
 ||huvateo.pro^
 ||huwaibbs.com^
 ||huway.com^
@@ -143466,6 +143517,8 @@
 ||icdream.com^
 ||icdt-conf.com^
 ||ice-casino.fr^
+||ice-fishing-sllot.fr^
+||ice-fishing-sllots.fr^
 ||ice-fr.fr^
 ||ice.work^
 ||ice1000.org^
@@ -143495,6 +143548,9 @@
 ||iceesyou.com^
 ||icefallless.info^
 ||icefire.in^
+||icefishing-sllot.fr^
+||icefishing-sllots.fr^
+||icefishingsllots.fr^
 ||iceflowsoft.com^
 ||icefoxgame.com^
 ||icefreenyc.com^
@@ -173715,6 +173771,9 @@
 ||lol99.com^
 ||lola-cardosi.mvt.so^
 ||lola-jack-casino.fr^
+||lola-jack-fr.fr^
+||lola-jack-france.fr^
+||lola-jacks-fr.fr^
 ||lola-jacks.fr^
 ||lolajack-casino-fr.fr^
 ||lolajack-casino.fr^
@@ -173738,6 +173797,7 @@
 ||lolajackofficial.fr^
 ||lolajackplay.fr^
 ||lolajacks-fr.fr^
+||lolajacks-france.fr^
 ||lolaroseglobal.com^
 ||lolbuku.com^
 ||lolcouplestherapy.com^
@@ -223280,7 +223340,17 @@
 ||penainveranza.com^
 ||penainveranza.digital^
 ||penainweransa.com^
+||penalty-shoot-out-sllotcassinofr1.fr^
+||penalty-shoot-out-sllotcassinosfr1.fr^
 ||penalty-traffic.com^
+||penaltyshoot-out-sllot-cassino-fr1.fr^
+||penaltyshoot-out-sllot-cassino-france1.fr^
+||penaltyshoot-out-sllot-cassinos-fr1.fr^
+||penaltyshoot-out-sllot-cassinos-france1.fr^
+||penaltyshootoutsllot-cassinofr1.fr^
+||penaltyshootoutsllot-cassinosfr1.fr^
+||penaltyshootoutsllotcassinofr1.fr^
+||penaltyshootoutsllotcassinosfr1.fr^
 ||penananglo.rest^
 ||penangmodalspire.click^
 ||penangmodalspire.org^
@@ -235893,9 +235963,11 @@
 ||pullbear-france.fr^
 ||pullidesign.shop^
 ||pullipstyle.fr^
+||pullman-accor.fr^
 ||pullman-eiffel-paris.fr^
 ||pullman-paris-eiffel.fr^
 ||pullman-paristoureiffel.fr^
+||pullmanpariseiffeltour.fr^
 ||pullstussy.fr^
 ||pulltwist.greekscholar.com^
 ||pullufrate.cyou^
@@ -262341,6 +262413,7 @@
 ||siperliklimaske.com^
 ||sipexternal.messenger.com^
 ||sipexternal.tts.messenger.com^
+||sipfinance-france.fr^
 ||sipgl-lcl.com^
 ||sipgzct.com^
 ||siphrd.com^
@@ -267429,6 +267502,7 @@
 ||spacefortuna-en-ligne.fr^
 ||spacefortuna-enligne.fr^
 ||spacefortuna-fr.fr^
+||spacefortuna2.fr^
 ||spacefortunacasinos.fr^
 ||spacefortunafr.fr^
 ||spaceglobalventures.org^
@@ -268189,6 +268263,7 @@
 ||spinfin1.fr^
 ||spinfin2.fr^
 ||spinfin24.fr^
+||spinfin3.fr^
 ||spinfinenligne.fr^
 ||spinfinfrance.fr^
 ||spinfinity.fr^
@@ -268198,6 +268273,7 @@
 ||spingenie.fr^
 ||spingranny-france.fr^
 ||spingranny1-fr.fr^
+||spingranny2.fr^
 ||spingrannycasino-fr.fr^
 ||spingrannyfr.fr^
 ||spingrannyfrance.fr^
@@ -268335,6 +268411,7 @@
 ||spinpolo-casino.fr^
 ||spinpolocasino.fr^
 ||spinpulsecore.site^
+||spinrate.fr^
 ||spinreelz.fr^
 ||spinreelzcasino.fr^
 ||spinrisecasino.fr^
@@ -270713,12 +270790,22 @@
 ||stavic.top^
 ||staxino-casino-101.fr^
 ||staxino-casino-888.fr^
+||staxino-cassino-fr.fr^
+||staxino-cassino-france.fr^
 ||staxino-en-ligne.fr^
 ||staxino-enligne.fr^
 ||staxino-france.fr^
 ||staxinocasino.fr^
+||staxinocassino-fr.fr^
+||staxinocassino-france.fr^
+||staxinocassinos-fr.fr^
+||staxinocassinos-france.fr^
+||staxinocassinos.fr^
 ||staxinofrance.fr^
 ||staxinologin.fr^
+||staxinos-fr.fr^
+||staxinos-france.fr^
+||staxinosfr.fr^
 ||stay-10044332.cos.myqcloud.com^
 ||stay-and-relax.com^
 ||stay-book-now.com^
@@ -274968,6 +275055,7 @@
 ||swatchaj.shop^
 ||swatcheu.com^
 ||swatchfrance.fr^
+||swatchoutlet.fr^
 ||swatchparis.fr^
 ||swatou.com^
 ||swattlucre.cyou^
@@ -283385,6 +283473,7 @@
 ||the-veneziaprimegpt.org^
 ||the-vortexiontrade.com^
 ||the-voxrenda.com^
+||the-winbeatz.fr^
 ||the-word-kitchen.com^
 ||the-xenvorpulse.com^
 ||the-xenvorpulse.org^
@@ -284323,6 +284412,8 @@
 ||thewhitedragons.com^
 ||thewholeplateclub.com^
 ||thewiccaschool.com^
+||thewinbeatz-fr.fr^
+||thewinbeatz.fr^
 ||thewinenapkincompany.com^
 ||thewitchshouse.com^
 ||thewojasofficialonline.com^
@@ -287370,6 +287461,10 @@
 ||tortuga-casino-online.fr^
 ||tortuga-casinos.fr^
 ||tortuga-casinotortuga.fr^
+||tortuga-cassino-fr2.fr^
+||tortuga-cassino-france2.fr^
+||tortuga-cassinos-fr2.fr^
+||tortuga-cassinos-france2.fr^
 ||tortuga-code.fr^
 ||tortuga-codes.fr^
 ||tortuga-connexion.fr^
@@ -287397,6 +287492,12 @@
 ||tortugacasinofrance.fr^
 ||tortugacasinologin.fr^
 ||tortugacasinoo.fr^
+||tortugacassinobonus.fr^
+||tortugacassinofr2.fr^
+||tortugacassinofrance2.fr^
+||tortugacassinogames.fr^
+||tortugacassinosfr2.fr^
+||tortugacassinosfrance2.fr^
 ||tortugafrance-fr.fr^
 ||tortugafrance.fr^
 ||tortugai.fr^
@@ -287704,6 +287805,8 @@
 ||towavephone.com^
 ||towelltech.com^
 ||tower-casino.fr^
+||tower-rush-sllot.fr^
+||tower-rush-sllots.fr^
 ||tower-rushgratuit.fr^
 ||tower-rushjeu.fr^
 ||tower-rushjeux.fr^
@@ -287718,11 +287821,19 @@
 ||towercas1no-fr.fr^
 ||towercasinos.fr^
 ||towergalatapub.com^
+||towerrush-sllot.fr^
+||towerrush-sllots.fr^
 ||towerrushargent.fr^
 ||towerrushjeux.fr^
 ||towerrushmachine.fr^
 ||towerrushofficiel.fr^
 ||towerrushoriginal.fr^
+||towerrushsllot-fr.fr^
+||towerrushsllot-france.fr^
+||towerrushsllot.fr^
+||towerrushsllots-fr.fr^
+||towerrushsllots-france.fr^
+||towerrushsllots.fr^
 ||towertopin.com^
 ||towinor.com^
 ||towkkedteaser.info^
@@ -289599,7 +289710,9 @@
 ||trixeon83.site^
 ||trixiehull.shop^
 ||trixino-france.fr^
+||trixino-officiel.fr^
 ||trixino.fr^
+||trixino7.fr^
 ||trixinocasino.fr^
 ||trixofundtrade.com^
 ||trixonixpro-tech.com^
@@ -309360,8 +309473,15 @@
 ||win-grep.online^
 ||win-haoxiang-win.com^
 ||win-kingdom-casino.fr^
+||win-kingdom-fr.fr^
+||win-kingdom-france.fr^
 ||win-kingdom.fr^
 ||win-kingdom1.fr^
+||win-kingdomfr.fr^
+||win-kingdoms-fr.fr^
+||win-kingdoms-france.fr^
+||win-kingdoms.fr^
+||win-kingdomsfr.fr^
 ||win-line.net^
 ||win-man.com^
 ||win-oui-casino.fr^
@@ -309471,6 +309591,7 @@
 ||winbeat.fr^
 ||winbeatz-casino.fr^
 ||winbeatz-casinos.fr^
+||winbeatz-cassino.fr^
 ||winbeatz-france.fr^
 ||winbeatz-officielle.fr^
 ||winbeatz-paris.fr^
@@ -309740,7 +309861,10 @@
 ||winkingdombonus.fr^
 ||winkingdomfr.fr^
 ||winkingdomfrance.fr^
+||winkingdoms-fr.fr^
+||winkingdoms-france.fr^
 ||winkingdoms.fr^
+||winkingdomsfr.fr^
 ||winkingworks.com^
 ||winkkie.com^
 ||winksbeautylondon.live^
