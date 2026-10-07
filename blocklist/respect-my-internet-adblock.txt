@@ -16624,11 +16624,14 @@
 ||abnotebook.com^
 ||abo-annulation-sfr.fr^
 ||abo-disney.fr^
+||abo-dna.fr^
+||abo-leprogres.fr^
 ||abo-mise-a-jour.fr^
 ||abo-navigo.fr^
 ||abo-netflx.fr^
 ||abo-prime.fr^
 ||abo-primevid.fr^
+||abo-republicain-lorrain.fr^
 ||abo-service.fr^
 ||abo-videop.fr^
 ||abo-videoprime.fr^
@@ -53366,6 +53369,7 @@
 ||betovo.fr^
 ||betovocasino.fr^
 ||betpanda-casino.fr^
+||betpanda-fr.fr^
 ||betpanda.fr^
 ||betpandacas.fr^
 ||betpandacasino.fr^
@@ -66712,6 +66716,7 @@
 ||casinolo-france.fr^
 ||casinolo.fr^
 ||casinolo1.fr^
+||casinolocowin.fr^
 ||casinololajack.fr^
 ||casinolollybet.fr^
 ||casinoloots-en-ligne.fr^
@@ -66986,6 +66991,7 @@
 ||casinovice-officiel.fr^
 ||casinovice-online.fr^
 ||casinovice1.fr^
+||casinoviggoslots.fr^
 ||casinovipluck.fr^
 ||casinovivalspar.fr^
 ||casinowild-sultan.fr^
@@ -83137,6 +83143,7 @@
 ||creditagdepotplainte.fr^
 ||creditagrcole.fr^
 ||creditagri-securpass.fr^
+||creditagri.fr^
 ||creditagricole-activation.bolt.host^
 ||creditagricole-activation.fr^
 ||creditagricole-alpesprovence.fr^
@@ -160624,6 +160631,8 @@
 ||keepcdn.com^
 ||keepchen.com^
 ||keepcho.xyz^
+||keepcool-mayotte.yt^
+||keepcool.yt^
 ||keepdginger.ecom-staging-nad.com^
 ||keeperstone.fit^
 ||keepfightinghxz.xyz^
@@ -172461,6 +172470,7 @@
 ||lnteria.icu^
 ||lnteria.top^
 ||lnterieurgouv.fr^
+||lnterpol.fr^
 ||lntgr.com^
 ||lntinfotech.m.facebook.com^
 ||lntongyu.com^
@@ -177787,6 +177797,7 @@
 ||magasin-monoprix.fr^
 ||magasin-paucybertek.fr^
 ||magasin-super-u.fr^
+||magasin-super-u.yt^
 ||magasin-ufrance.fr^
 ||magasinanekkefrance.fr^
 ||magasinautrymarseille.fr^
@@ -177821,9 +177832,12 @@
 ||magasinpumafrance.fr^
 ||magasinreebokfrance.fr^
 ||magasins-cybertek.fr^
+||magasins-hyper-u.yt^
 ||magasins-monoprix.fr^
+||magasins-super-u.yt^
 ||magasins-u-groupe.fr^
 ||magasins-u-groupes.fr^
+||magasins-u.yt^
 ||magasinscosparis.fr^
 ||magasinskechers.fr^
 ||magasinskiplingparis.fr^
@@ -182582,6 +182596,8 @@
 ||metabet.fr^
 ||metaboard.site^
 ||metabolicshiftsystem.com^
+||metabolik-mayotte.yt^
+||metabolik.yt^
 ||metabolizizzngstatuaries.info^
 ||metabsimul.store^
 ||metabunper.cyou^
@@ -184375,6 +184391,9 @@
 ||minlojma.com^
 ||minmetals.com^
 ||minniweps.cyou^
+||mino-casino-france.fr^
+||minocasino-fr.fr^
+||minocasino-france.fr^
 ||minolayn.com^
 ||minor-tech.com^
 ||minorityservicenetwork.com^
@@ -184412,6 +184431,7 @@
 ||mintprov.lol^
 ||mintrust.com^
 ||mints-id.com^
+||minuit-casino.fr^
 ||minuitsurterre.fr^
 ||minunix.com^
 ||minutcrane.cyou^
@@ -198553,6 +198573,7 @@
 ||monopolylivecasino.fr^
 ||monopris.fr^
 ||monoprix-exploitation.fr^
+||monoprix-mayotte.yt^
 ||monoprixn.fr^
 ||monopspons.cyou^
 ||monoption-creneaumr.help^
@@ -203557,6 +203578,8 @@
 ||neonbuify.site^
 ||neoncapybara.com^
 ||neoncasino.fr^
+||neoness-mayotte.yt^
+||neoness.yt^
 ||neonexano.site^
 ||neonglitch.shop^
 ||neongravej.shop^
@@ -215948,6 +215971,8 @@
 ||on-wangcai28.com^
 ||on.google.com^
 ||on42309fk3.shop^
+||onair-mayotte.yt^
+||onair.yt^
 ||onaliyun.com^
 ||onaltuning.com^
 ||onaudience.com^#OnAudience^-^Tracker^
@@ -247109,6 +247134,7 @@
 ||rivocasino-fr.fr^
 ||rivocasino.fr^
 ||rivocasino1.fr^
+||rivocasinofrance.fr^
 ||rivocean.com^
 ||rivocfeny.online^
 ||rivolunpit.store^
@@ -273459,6 +273485,7 @@
 ||super-traderappsolution.com^
 ||super-u-perdis.fr^
 ||super-u-u.fr^
+||super-u.yt^
 ||superabonnes.fr^
 ||superace.com^
 ||superachieversaward.org^
@@ -273620,6 +273647,7 @@
 ||superrece.digital^
 ||superredtigerstore.fr^
 ||superroas.digital^
+||supers-u.yt^
 ||supers.ltd^
 ||supersafed.standard.us-east-1.oortstorages.com^
 ||supersalepl.shop^
@@ -284875,6 +284903,7 @@
 ||ticketmadter.fr^
 ||ticketmall.fr^
 ||ticketmania.fr^
+||ticketmarketplace.fr^
 ||ticketmars.com^
 ||ticketmasster.zip^
 ||ticketmast.fr^
@@ -292393,6 +292422,7 @@
 ||uggstore.fr^
 ||uggstyle.fr^
 ||uggunivers.fr^
+||uggystore.fr^
 ||uginvestment.com^
 ||ugirls.tv^
 ||uglicapa.autos^

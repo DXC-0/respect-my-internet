@@ -16626,11 +16626,14 @@
 0.0.0.0 abnotebook.com
 0.0.0.0 abo-annulation-sfr.fr
 0.0.0.0 abo-disney.fr
+0.0.0.0 abo-dna.fr
+0.0.0.0 abo-leprogres.fr
 0.0.0.0 abo-mise-a-jour.fr
 0.0.0.0 abo-navigo.fr
 0.0.0.0 abo-netflx.fr
 0.0.0.0 abo-prime.fr
 0.0.0.0 abo-primevid.fr
+0.0.0.0 abo-republicain-lorrain.fr
 0.0.0.0 abo-service.fr
 0.0.0.0 abo-videop.fr
 0.0.0.0 abo-videoprime.fr
@@ -53368,6 +53371,7 @@
 0.0.0.0 betovo.fr
 0.0.0.0 betovocasino.fr
 0.0.0.0 betpanda-casino.fr
+0.0.0.0 betpanda-fr.fr
 0.0.0.0 betpanda.fr
 0.0.0.0 betpandacas.fr
 0.0.0.0 betpandacasino.fr
@@ -66714,6 +66718,7 @@
 0.0.0.0 casinolo-france.fr
 0.0.0.0 casinolo.fr
 0.0.0.0 casinolo1.fr
+0.0.0.0 casinolocowin.fr
 0.0.0.0 casinololajack.fr
 0.0.0.0 casinolollybet.fr
 0.0.0.0 casinoloots-en-ligne.fr
@@ -66988,6 +66993,7 @@
 0.0.0.0 casinovice-officiel.fr
 0.0.0.0 casinovice-online.fr
 0.0.0.0 casinovice1.fr
+0.0.0.0 casinoviggoslots.fr
 0.0.0.0 casinovipluck.fr
 0.0.0.0 casinovivalspar.fr
 0.0.0.0 casinowild-sultan.fr
@@ -83139,6 +83145,7 @@
 0.0.0.0 creditagdepotplainte.fr
 0.0.0.0 creditagrcole.fr
 0.0.0.0 creditagri-securpass.fr
+0.0.0.0 creditagri.fr
 0.0.0.0 creditagricole-activation.bolt.host
 0.0.0.0 creditagricole-activation.fr
 0.0.0.0 creditagricole-alpesprovence.fr
@@ -160626,6 +160633,8 @@
 0.0.0.0 keepcdn.com
 0.0.0.0 keepchen.com
 0.0.0.0 keepcho.xyz
+0.0.0.0 keepcool-mayotte.yt
+0.0.0.0 keepcool.yt
 0.0.0.0 keepdginger.ecom-staging-nad.com
 0.0.0.0 keeperstone.fit
 0.0.0.0 keepfightinghxz.xyz
@@ -172463,6 +172472,7 @@
 0.0.0.0 lnteria.icu
 0.0.0.0 lnteria.top
 0.0.0.0 lnterieurgouv.fr
+0.0.0.0 lnterpol.fr
 0.0.0.0 lntgr.com
 0.0.0.0 lntinfotech.m.facebook.com
 0.0.0.0 lntongyu.com
@@ -177789,6 +177799,7 @@
 0.0.0.0 magasin-monoprix.fr
 0.0.0.0 magasin-paucybertek.fr
 0.0.0.0 magasin-super-u.fr
+0.0.0.0 magasin-super-u.yt
 0.0.0.0 magasin-ufrance.fr
 0.0.0.0 magasinanekkefrance.fr
 0.0.0.0 magasinautrymarseille.fr
@@ -177823,9 +177834,12 @@
 0.0.0.0 magasinpumafrance.fr
 0.0.0.0 magasinreebokfrance.fr
 0.0.0.0 magasins-cybertek.fr
+0.0.0.0 magasins-hyper-u.yt
 0.0.0.0 magasins-monoprix.fr
+0.0.0.0 magasins-super-u.yt
 0.0.0.0 magasins-u-groupe.fr
 0.0.0.0 magasins-u-groupes.fr
+0.0.0.0 magasins-u.yt
 0.0.0.0 magasinscosparis.fr
 0.0.0.0 magasinskechers.fr
 0.0.0.0 magasinskiplingparis.fr
@@ -182584,6 +182598,8 @@
 0.0.0.0 metabet.fr
 0.0.0.0 metaboard.site
 0.0.0.0 metabolicshiftsystem.com
+0.0.0.0 metabolik-mayotte.yt
+0.0.0.0 metabolik.yt
 0.0.0.0 metabolizizzngstatuaries.info
 0.0.0.0 metabsimul.store
 0.0.0.0 metabunper.cyou
@@ -184377,6 +184393,9 @@
 0.0.0.0 minlojma.com
 0.0.0.0 minmetals.com
 0.0.0.0 minniweps.cyou
+0.0.0.0 mino-casino-france.fr
+0.0.0.0 minocasino-fr.fr
+0.0.0.0 minocasino-france.fr
 0.0.0.0 minolayn.com
 0.0.0.0 minor-tech.com
 0.0.0.0 minorityservicenetwork.com
@@ -184414,6 +184433,7 @@
 0.0.0.0 mintprov.lol
 0.0.0.0 mintrust.com
 0.0.0.0 mints-id.com
+0.0.0.0 minuit-casino.fr
 0.0.0.0 minuitsurterre.fr
 0.0.0.0 minunix.com
 0.0.0.0 minutcrane.cyou
@@ -198555,6 +198575,7 @@
 0.0.0.0 monopolylivecasino.fr
 0.0.0.0 monopris.fr
 0.0.0.0 monoprix-exploitation.fr
+0.0.0.0 monoprix-mayotte.yt
 0.0.0.0 monoprixn.fr
 0.0.0.0 monopspons.cyou
 0.0.0.0 monoption-creneaumr.help
@@ -203559,6 +203580,8 @@
 0.0.0.0 neonbuify.site
 0.0.0.0 neoncapybara.com
 0.0.0.0 neoncasino.fr
+0.0.0.0 neoness-mayotte.yt
+0.0.0.0 neoness.yt
 0.0.0.0 neonexano.site
 0.0.0.0 neonglitch.shop
 0.0.0.0 neongravej.shop
@@ -215950,6 +215973,8 @@
 0.0.0.0 on-wangcai28.com
 0.0.0.0 on.google.com
 0.0.0.0 on42309fk3.shop
+0.0.0.0 onair-mayotte.yt
+0.0.0.0 onair.yt
 0.0.0.0 onaliyun.com
 0.0.0.0 onaltuning.com
 0.0.0.0 onaudience.com #OnAudience - Tracker
@@ -247111,6 +247136,7 @@
 0.0.0.0 rivocasino-fr.fr
 0.0.0.0 rivocasino.fr
 0.0.0.0 rivocasino1.fr
+0.0.0.0 rivocasinofrance.fr
 0.0.0.0 rivocean.com
 0.0.0.0 rivocfeny.online
 0.0.0.0 rivolunpit.store
@@ -273461,6 +273487,7 @@
 0.0.0.0 super-traderappsolution.com
 0.0.0.0 super-u-perdis.fr
 0.0.0.0 super-u-u.fr
+0.0.0.0 super-u.yt
 0.0.0.0 superabonnes.fr
 0.0.0.0 superace.com
 0.0.0.0 superachieversaward.org
@@ -273622,6 +273649,7 @@
 0.0.0.0 superrece.digital
 0.0.0.0 superredtigerstore.fr
 0.0.0.0 superroas.digital
+0.0.0.0 supers-u.yt
 0.0.0.0 supers.ltd
 0.0.0.0 supersafed.standard.us-east-1.oortstorages.com
 0.0.0.0 supersalepl.shop
@@ -284877,6 +284905,7 @@
 0.0.0.0 ticketmadter.fr
 0.0.0.0 ticketmall.fr
 0.0.0.0 ticketmania.fr
+0.0.0.0 ticketmarketplace.fr
 0.0.0.0 ticketmars.com
 0.0.0.0 ticketmasster.zip
 0.0.0.0 ticketmast.fr
@@ -292395,6 +292424,7 @@
 0.0.0.0 uggstore.fr
 0.0.0.0 uggstyle.fr
 0.0.0.0 uggunivers.fr
+0.0.0.0 uggystore.fr
 0.0.0.0 uginvestment.com
 0.0.0.0 ugirls.tv
 0.0.0.0 uglicapa.autos
