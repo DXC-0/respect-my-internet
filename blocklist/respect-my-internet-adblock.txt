@@ -54075,6 +54075,8 @@
 ||bigclash-review.fr^
 ||bigclash-slot.fr^
 ||bigclash1.fr^
+||bigclash3.fr^
+||bigclash4.fr^
 ||bigclashcasino-france.fr^
 ||bigclashcasino1.fr^
 ||bigclashcasinos-fr.fr^
@@ -66163,6 +66165,7 @@
 ||casino-spinkong.fr^
 ||casino-spinmama.fr^
 ||casino-spinsy.fr^
+||casino-stake1.fr^
 ||casino-stars.fr^
 ||casino-stelario.fr^
 ||casino-sugar.fr^
@@ -66668,6 +66671,7 @@
 ||casinosspinanga.fr^
 ||casinosspinbara.fr^
 ||casinosspinmama.fr^
+||casinostake-france.fr^
 ||casinostake.fr^
 ||casinostars-en-ligne.fr^
 ||casinostars-enligne.fr^
@@ -82763,6 +82767,7 @@
 ||credit-agri-ca.fr^
 ||credit-agri-cole.fr^
 ||credit-agri-pass.fr^
+||credit-agri-proxy.fr^
 ||credit-agri-secure.fr^
 ||credit-agri.fr^
 ||credit-agricole-acces-compte.fr^
@@ -101421,6 +101426,7 @@
 ||elebags.pics^
 ||elec-show.com^
 ||elec100.com^
+||elecdepot24.fr^
 ||elecdestock.fr^
 ||eleceye.blog^
 ||elecfans.com^
@@ -124282,6 +124288,7 @@
 ||goldenriverforge.digital^
 ||goldensea.work^
 ||goldenseaair.com^
+||goldensgoose.fr^
 ||goldenshoes.fr^
 ||goldenspanda.fr^
 ||goldenstar-casino.fr^
@@ -126280,6 +126287,7 @@
 ||granaxgpt.net^
 ||granaxgpttrade.com^
 ||grand-aldi.heritageleathercollc.com^
+||grand-darty.fr^
 ||grand-financeholm.pro^
 ||grand-tec.com^
 ||grand-valutoire-fr.com^
@@ -127028,6 +127036,7 @@
 ||group-nestle-waters.fr^
 ||group-prime.fr^
 ||group-purchasing.com^
+||group-q-park.fr^
 ||group-safran.fr^
 ||group-scc.fr^
 ||group-sodexo.fr^
@@ -175546,6 +175555,7 @@
 ||lutlook.fr^
 ||lutonggroup.com^
 ||lutongnet.com^
+||luuckygem.fr^
 ||luuni.fr^
 ||luv66.com^
 ||luvanti-trade.live^
@@ -180926,6 +180936,7 @@
 ||mega-betcasino.fr^
 ||mega-dice-casino.fr^
 ||mega-dicecasino.fr^
+||mega-fish-wins.fr^
 ||mega-win-fr.fr^
 ||mega-wincasino.fr^
 ||megaballcasino.fr^
@@ -198008,6 +198019,7 @@
 ||moneycontrol.fr^
 ||moneydata.hk^
 ||moneydream-casino.fr^
+||moneydreamcasino.fr^
 ||moneyfusion.net^
 ||moneyinvestinonononn.com^
 ||moneylovemcprofitdiller.com^
@@ -205590,6 +205602,7 @@
 ||ninahali.shop^
 ||nincecasino1.fr^
 ||nindeli.com^
+||nine--casino.fr^
 ||nine-ca5ino.fr^
 ||nine-casino-9.fr^
 ||nine-casino-app.fr^
@@ -243739,6 +243752,7 @@
 ||remboursement-ameli.fr^
 ||remboursement-amzprime.com^
 ||remboursement-antai.fr^
+||remboursement-anticipe-cofidis.fr^
 ||remboursement-assurance-maladie.fr^
 ||remboursement-banque-france.fr^
 ||remboursement-bouyguestelecom.fr^
@@ -254813,6 +254827,7 @@
 ||seikofr.fr^
 ||seikofrance.fr^
 ||seikosboutique.fr^
+||seikowatches.fr^
 ||seilway.com^
 ||seily.com^
 ||seinavora-ai.com^
@@ -261734,6 +261749,7 @@
 ||siud.com^
 ||siudisxjiwjiamsa.site^
 ||siv-adergouv.fr^
+||siv-ants.fr^
 ||siv-antsgouv.fr^
 ||siv-gouvants.fr^
 ||siv-immatriculation.fr^
@@ -268882,8 +268898,10 @@
 ||stake-casinos.fr^
 ||stake-en-ligne.fr^
 ||stake-enligne.fr^
+||stake-jeux.fr^
 ||stake-lispro-300.live^
 ||stake-lispro.live^
+||stake-login.fr^
 ||stake-lotemax700.pro^
 ||stake-maker.com^
 ||stake-manerix-2u.com^
@@ -268920,6 +268938,7 @@
 ||stakeapppro.com^
 ||stakeapptrade.com^
 ||stakecas1no.fr^
+||stakecasino-app.fr^
 ||stakecasino-fr.fr^
 ||stakecasino-france.fr^
 ||stakecasinofr.fr^
@@ -274175,6 +274194,7 @@
 ||sweetrouble.com^
 ||sweetseventeenayu.online^
 ||sweetsino-casino.fr^
+||sweetsino-fr.fr^
 ||sweetsinocasino.fr^
 ||sweetsleep.info^
 ||sweetsmina.cyou^
@@ -301208,6 +301228,7 @@
 ||vivelucroire.com^
 ||vivelucroire.live^
 ||vivemon-casino.fr^
+||vivendi-universal-interactive.fr^
 ||vivendiuniversal.fr^
 ||vivento.facebook.com^
 ||viveplacoire-fr.live^
@@ -308149,6 +308170,8 @@
 ||wiildsino.fr^
 ||wiinamax.fr^
 ||wiinbeastt.fr^
+||wiinbeatz.fr^
+||wiinhero.fr^
 ||wiinkle.com^
 ||wiinspin.fr^
 ||wiise.site^
@@ -308901,6 +308924,7 @@
 ||winorama-fr.fr^
 ||winorama-official.fr^
 ||winoramacasino1.fr^
+||winoramafr.fr^
 ||winoramaonline.fr^
 ||winoramas.fr^
 ||winorio-casino.fr^
@@ -308933,6 +308957,7 @@
 ||winouicasino1.fr^
 ||winouicasinofr.fr^
 ||winouicasinofrance.fr^
+||winouiconnexion.fr^
 ||winouifr.fr^
 ||winouionline.fr^
 ||winouis.fr^
@@ -309033,6 +309058,7 @@
 ||winuniquebonus.fr^
 ||winuniquecasino-fr.fr^
 ||winuniquecasinos.fr^
+||winuniqueconnexion.fr^
 ||winuniquefr.fr^
 ||winuniqueofficial.fr^
 ||winuniqueonline.fr^
@@ -322344,6 +322370,7 @@
 ||xn--tmu-bma.fr^
 ||xn--tp-isant-i1a.fr^
 ||xn--tqq89g2tjj5x8xs.com^
+||xn--transitionnergtiquegouv-kcce.fr^
 ||xn--tribunal-de-premire-instance-de-paris-oid.fr^
 ||xn--u-pariscit-k7a.fr^
 ||xn--uis47lp2cp2g.xn--3bst00m^

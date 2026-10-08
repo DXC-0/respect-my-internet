@@ -54077,6 +54077,8 @@
 0.0.0.0 bigclash-review.fr
 0.0.0.0 bigclash-slot.fr
 0.0.0.0 bigclash1.fr
+0.0.0.0 bigclash3.fr
+0.0.0.0 bigclash4.fr
 0.0.0.0 bigclashcasino-france.fr
 0.0.0.0 bigclashcasino1.fr
 0.0.0.0 bigclashcasinos-fr.fr
@@ -66165,6 +66167,7 @@
 0.0.0.0 casino-spinkong.fr
 0.0.0.0 casino-spinmama.fr
 0.0.0.0 casino-spinsy.fr
+0.0.0.0 casino-stake1.fr
 0.0.0.0 casino-stars.fr
 0.0.0.0 casino-stelario.fr
 0.0.0.0 casino-sugar.fr
@@ -66670,6 +66673,7 @@
 0.0.0.0 casinosspinanga.fr
 0.0.0.0 casinosspinbara.fr
 0.0.0.0 casinosspinmama.fr
+0.0.0.0 casinostake-france.fr
 0.0.0.0 casinostake.fr
 0.0.0.0 casinostars-en-ligne.fr
 0.0.0.0 casinostars-enligne.fr
@@ -82765,6 +82769,7 @@
 0.0.0.0 credit-agri-ca.fr
 0.0.0.0 credit-agri-cole.fr
 0.0.0.0 credit-agri-pass.fr
+0.0.0.0 credit-agri-proxy.fr
 0.0.0.0 credit-agri-secure.fr
 0.0.0.0 credit-agri.fr
 0.0.0.0 credit-agricole-acces-compte.fr
@@ -101423,6 +101428,7 @@
 0.0.0.0 elebags.pics
 0.0.0.0 elec-show.com
 0.0.0.0 elec100.com
+0.0.0.0 elecdepot24.fr
 0.0.0.0 elecdestock.fr
 0.0.0.0 eleceye.blog
 0.0.0.0 elecfans.com
@@ -124284,6 +124290,7 @@
 0.0.0.0 goldenriverforge.digital
 0.0.0.0 goldensea.work
 0.0.0.0 goldenseaair.com
+0.0.0.0 goldensgoose.fr
 0.0.0.0 goldenshoes.fr
 0.0.0.0 goldenspanda.fr
 0.0.0.0 goldenstar-casino.fr
@@ -126282,6 +126289,7 @@
 0.0.0.0 granaxgpt.net
 0.0.0.0 granaxgpttrade.com
 0.0.0.0 grand-aldi.heritageleathercollc.com
+0.0.0.0 grand-darty.fr
 0.0.0.0 grand-financeholm.pro
 0.0.0.0 grand-tec.com
 0.0.0.0 grand-valutoire-fr.com
@@ -127030,6 +127038,7 @@
 0.0.0.0 group-nestle-waters.fr
 0.0.0.0 group-prime.fr
 0.0.0.0 group-purchasing.com
+0.0.0.0 group-q-park.fr
 0.0.0.0 group-safran.fr
 0.0.0.0 group-scc.fr
 0.0.0.0 group-sodexo.fr
@@ -175548,6 +175557,7 @@
 0.0.0.0 lutlook.fr
 0.0.0.0 lutonggroup.com
 0.0.0.0 lutongnet.com
+0.0.0.0 luuckygem.fr
 0.0.0.0 luuni.fr
 0.0.0.0 luv66.com
 0.0.0.0 luvanti-trade.live
@@ -180928,6 +180938,7 @@
 0.0.0.0 mega-betcasino.fr
 0.0.0.0 mega-dice-casino.fr
 0.0.0.0 mega-dicecasino.fr
+0.0.0.0 mega-fish-wins.fr
 0.0.0.0 mega-win-fr.fr
 0.0.0.0 mega-wincasino.fr
 0.0.0.0 megaballcasino.fr
@@ -198010,6 +198021,7 @@
 0.0.0.0 moneycontrol.fr
 0.0.0.0 moneydata.hk
 0.0.0.0 moneydream-casino.fr
+0.0.0.0 moneydreamcasino.fr
 0.0.0.0 moneyfusion.net
 0.0.0.0 moneyinvestinonononn.com
 0.0.0.0 moneylovemcprofitdiller.com
@@ -205592,6 +205604,7 @@
 0.0.0.0 ninahali.shop
 0.0.0.0 nincecasino1.fr
 0.0.0.0 nindeli.com
+0.0.0.0 nine--casino.fr
 0.0.0.0 nine-ca5ino.fr
 0.0.0.0 nine-casino-9.fr
 0.0.0.0 nine-casino-app.fr
@@ -243741,6 +243754,7 @@
 0.0.0.0 remboursement-ameli.fr
 0.0.0.0 remboursement-amzprime.com
 0.0.0.0 remboursement-antai.fr
+0.0.0.0 remboursement-anticipe-cofidis.fr
 0.0.0.0 remboursement-assurance-maladie.fr
 0.0.0.0 remboursement-banque-france.fr
 0.0.0.0 remboursement-bouyguestelecom.fr
@@ -254815,6 +254829,7 @@
 0.0.0.0 seikofr.fr
 0.0.0.0 seikofrance.fr
 0.0.0.0 seikosboutique.fr
+0.0.0.0 seikowatches.fr
 0.0.0.0 seilway.com
 0.0.0.0 seily.com
 0.0.0.0 seinavora-ai.com
@@ -261736,6 +261751,7 @@
 0.0.0.0 siud.com
 0.0.0.0 siudisxjiwjiamsa.site
 0.0.0.0 siv-adergouv.fr
+0.0.0.0 siv-ants.fr
 0.0.0.0 siv-antsgouv.fr
 0.0.0.0 siv-gouvants.fr
 0.0.0.0 siv-immatriculation.fr
@@ -268884,8 +268900,10 @@
 0.0.0.0 stake-casinos.fr
 0.0.0.0 stake-en-ligne.fr
 0.0.0.0 stake-enligne.fr
+0.0.0.0 stake-jeux.fr
 0.0.0.0 stake-lispro-300.live
 0.0.0.0 stake-lispro.live
+0.0.0.0 stake-login.fr
 0.0.0.0 stake-lotemax700.pro
 0.0.0.0 stake-maker.com
 0.0.0.0 stake-manerix-2u.com
@@ -268922,6 +268940,7 @@
 0.0.0.0 stakeapppro.com
 0.0.0.0 stakeapptrade.com
 0.0.0.0 stakecas1no.fr
+0.0.0.0 stakecasino-app.fr
 0.0.0.0 stakecasino-fr.fr
 0.0.0.0 stakecasino-france.fr
 0.0.0.0 stakecasinofr.fr
@@ -274177,6 +274196,7 @@
 0.0.0.0 sweetrouble.com
 0.0.0.0 sweetseventeenayu.online
 0.0.0.0 sweetsino-casino.fr
+0.0.0.0 sweetsino-fr.fr
 0.0.0.0 sweetsinocasino.fr
 0.0.0.0 sweetsleep.info
 0.0.0.0 sweetsmina.cyou
@@ -301210,6 +301230,7 @@
 0.0.0.0 vivelucroire.com
 0.0.0.0 vivelucroire.live
 0.0.0.0 vivemon-casino.fr
+0.0.0.0 vivendi-universal-interactive.fr
 0.0.0.0 vivendiuniversal.fr
 0.0.0.0 vivento.facebook.com
 0.0.0.0 viveplacoire-fr.live
@@ -308151,6 +308172,8 @@
 0.0.0.0 wiildsino.fr
 0.0.0.0 wiinamax.fr
 0.0.0.0 wiinbeastt.fr
+0.0.0.0 wiinbeatz.fr
+0.0.0.0 wiinhero.fr
 0.0.0.0 wiinkle.com
 0.0.0.0 wiinspin.fr
 0.0.0.0 wiise.site
@@ -308903,6 +308926,7 @@
 0.0.0.0 winorama-fr.fr
 0.0.0.0 winorama-official.fr
 0.0.0.0 winoramacasino1.fr
+0.0.0.0 winoramafr.fr
 0.0.0.0 winoramaonline.fr
 0.0.0.0 winoramas.fr
 0.0.0.0 winorio-casino.fr
@@ -308935,6 +308959,7 @@
 0.0.0.0 winouicasino1.fr
 0.0.0.0 winouicasinofr.fr
 0.0.0.0 winouicasinofrance.fr
+0.0.0.0 winouiconnexion.fr
 0.0.0.0 winouifr.fr
 0.0.0.0 winouionline.fr
 0.0.0.0 winouis.fr
@@ -309035,6 +309060,7 @@
 0.0.0.0 winuniquebonus.fr
 0.0.0.0 winuniquecasino-fr.fr
 0.0.0.0 winuniquecasinos.fr
+0.0.0.0 winuniqueconnexion.fr
 0.0.0.0 winuniquefr.fr
 0.0.0.0 winuniqueofficial.fr
 0.0.0.0 winuniqueonline.fr
@@ -322346,6 +322372,7 @@
 0.0.0.0 xn--tmu-bma.fr
 0.0.0.0 xn--tp-isant-i1a.fr
 0.0.0.0 xn--tqq89g2tjj5x8xs.com
+0.0.0.0 xn--transitionnergtiquegouv-kcce.fr
 0.0.0.0 xn--tribunal-de-premire-instance-de-paris-oid.fr
 0.0.0.0 xn--u-pariscit-k7a.fr
 0.0.0.0 xn--uis47lp2cp2g.xn--3bst00m
