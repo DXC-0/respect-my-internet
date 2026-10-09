@@ -39503,6 +39503,7 @@
 0.0.0.0 amende-sms-antai.fr
 0.0.0.0 amende-stationnement.fr
 0.0.0.0 amende-suivi.fr
+0.0.0.0 amende-support.fr
 0.0.0.0 amende-ulys.fr
 0.0.0.0 amendeantai.fr
 0.0.0.0 amendeantaiddgif.fr
@@ -55095,6 +55096,7 @@
 0.0.0.0 bit-starz-casino.fr
 0.0.0.0 bit-starz.fr
 0.0.0.0 bit-starzcasino.fr
+0.0.0.0 bit-starzfr.fr
 0.0.0.0 bit-trader.app
 0.0.0.0 bit-vortax.live
 0.0.0.0 bit10bumex-engine.com
@@ -65869,6 +65871,7 @@
 0.0.0.0 casino-148.fr
 0.0.0.0 casino-770-fr.fr
 0.0.0.0 casino-770fr.fr
+0.0.0.0 casino-7signs.fr
 0.0.0.0 casino-afkspin.fr
 0.0.0.0 casino-alexanderonline.fr
 0.0.0.0 casino-allyspin.fr
@@ -65890,13 +65893,16 @@
 0.0.0.0 casino-betriviera.fr
 0.0.0.0 casino-betsio.fr
 0.0.0.0 casino-betting-news.fr
+0.0.0.0 casino-bety.fr
 0.0.0.0 casino-betzino.fr
 0.0.0.0 casino-blitz.fr
+0.0.0.0 casino-bonuskong.fr
 0.0.0.0 casino-cafeteria.fr
 0.0.0.0 casino-candyspinz.fr
 0.0.0.0 casino-captainjack.fr
 0.0.0.0 casino-casea.fr
 0.0.0.0 casino-casinoextra.fr
+0.0.0.0 casino-casinolab.fr
 0.0.0.0 casino-casinozer-fr.fr
 0.0.0.0 casino-casinozer.fr
 0.0.0.0 casino-casombie.fr
@@ -65913,6 +65919,7 @@
 0.0.0.0 casino-divaspin.fr
 0.0.0.0 casino-dracula.fr
 0.0.0.0 casino-dragonia.fr
+0.0.0.0 casino-duel.fr
 0.0.0.0 casino-duospin.fr
 0.0.0.0 casino-elysees-club.fr
 0.0.0.0 casino-en-ligne-argen-treel.fr
@@ -65939,6 +65946,7 @@
 0.0.0.0 casino-gambloria.fr
 0.0.0.0 casino-game.fr
 0.0.0.0 casino-game770.fr
+0.0.0.0 casino-godz.fr
 0.0.0.0 casino-goldbet.fr
 0.0.0.0 casino-golden-panda.fr
 0.0.0.0 casino-golden.fr
@@ -65970,6 +65978,7 @@
 0.0.0.0 casino-komobet.fr
 0.0.0.0 casino-lab-fr.fr
 0.0.0.0 casino-labofficiel.fr
+0.0.0.0 casino-legendplay.fr
 0.0.0.0 casino-legiano-fr.fr
 0.0.0.0 casino-legiano.fr
 0.0.0.0 casino-legionbet.fr
@@ -66018,6 +66027,7 @@
 0.0.0.0 casino-princeali.fr
 0.0.0.0 casino-prive-fr.fr
 0.0.0.0 casino-prive-france.fr
+0.0.0.0 casino-ragnaro.fr
 0.0.0.0 casino-repere.fr
 0.0.0.0 casino-reveryplay.fr
 0.0.0.0 casino-revolut.fr
@@ -66050,12 +66060,15 @@
 0.0.0.0 casino-spingranny.fr
 0.0.0.0 casino-spinit.fr
 0.0.0.0 casino-spinkong.fr
+0.0.0.0 casino-spinmacho.fr
 0.0.0.0 casino-spinmama.fr
 0.0.0.0 casino-spinsy.fr
 0.0.0.0 casino-stake1.fr
 0.0.0.0 casino-stars.fr
 0.0.0.0 casino-stelario.fr
 0.0.0.0 casino-sugar.fr
+0.0.0.0 casino-supabet.fr
+0.0.0.0 casino-superspin.fr
 0.0.0.0 casino-tenbet.fr
 0.0.0.0 casino-thor.fr
 0.0.0.0 casino-thorfortune.fr
@@ -66070,6 +66083,7 @@
 0.0.0.0 casino-twin-fr.fr
 0.0.0.0 casino-unibetfrance.fr
 0.0.0.0 casino-unique1.fr
+0.0.0.0 casino-uspinme.fr
 0.0.0.0 casino-vale.fr
 0.0.0.0 casino-vasy.fr
 0.0.0.0 casino-vave-online.fr
@@ -66087,13 +66101,18 @@
 0.0.0.0 casino-westace.fr
 0.0.0.0 casino-wilddice.fr
 0.0.0.0 casino-wildrobin-fr.fr
+0.0.0.0 casino-wildsino.fr
 0.0.0.0 casino-wildzy.fr
 0.0.0.0 casino-win-airlines.fr
 0.0.0.0 casino-winairlines.fr
+0.0.0.0 casino-winbeast.fr
 0.0.0.0 casino-winkingdom.fr
 0.0.0.0 casino-winner.fr
 0.0.0.0 casino-winoui.fr
+0.0.0.0 casino-winplace.fr
+0.0.0.0 casino-winshark.fr
 0.0.0.0 casino-winunique.fr
+0.0.0.0 casino-winwin.fr
 0.0.0.0 casino-wonaco.fr
 0.0.0.0 casino-x3bet.fr
 0.0.0.0 casino-x7.fr
@@ -66170,6 +66189,7 @@
 0.0.0.0 casinocazimbo.fr
 0.0.0.0 casinochan.fr
 0.0.0.0 casinoclassic1.fr
+0.0.0.0 casinocleparis.fr
 0.0.0.0 casinoclic1.fr
 0.0.0.0 casinoclicapp.fr
 0.0.0.0 casinoclicbonus.fr
@@ -77992,6 +78012,7 @@
 0.0.0.0 coffeezara.com
 0.0.0.0 coffefaler.cyou
 0.0.0.0 cofferxm.com
+0.0.0.0 coffre-ants.fr
 0.0.0.0 coffrefort-ants.fr
 0.0.0.0 coffrencia.live
 0.0.0.0 coffrncia.com
@@ -78477,6 +78498,7 @@
 0.0.0.0 collectorsfit.com
 0.0.0.0 collecttho.sisuware.com
 0.0.0.0 collectwhite.basece.com
+0.0.0.0 college-defrance.fr
 0.0.0.0 college-ing.com
 0.0.0.0 college.globalsign.com
 0.0.0.0 collegeaimecesaire.fr
@@ -116412,6 +116434,7 @@
 0.0.0.0 francetitres-ants.fr
 0.0.0.0 francetonet.fr
 0.0.0.0 francetonner.fr
+0.0.0.0 francetravai.fr
 0.0.0.0 francetravaililedefrance.fr
 0.0.0.0 francetravaill.fr
 0.0.0.0 francetravailparis.fr
@@ -124029,6 +124052,8 @@
 0.0.0.0 goldengooses.fr
 0.0.0.0 goldengoosesoldes.fr
 0.0.0.0 goldengreengolf.com
+0.0.0.0 goldengun-casino.fr
+0.0.0.0 goldengun.fr
 0.0.0.0 goldenharboralchemy.info
 0.0.0.0 goldenhighway-chem.com
 0.0.0.0 goldenholiday.com
@@ -124050,6 +124075,8 @@
 0.0.0.0 goldenmina1.fr
 0.0.0.0 goldenminacasino.fr
 0.0.0.0 goldenminaenligne.fr
+0.0.0.0 goldenminafr.fr
+0.0.0.0 goldenminafrance.fr
 0.0.0.0 goldenmistworks.digital
 0.0.0.0 goldenmooncraft.live
 0.0.0.0 goldenname.com
@@ -127425,6 +127452,7 @@
 0.0.0.0 gtbet-casino1.fr
 0.0.0.0 gtbet-casinos.fr
 0.0.0.0 gtbet-francais.fr
+0.0.0.0 gtbetcasino-fr.fr
 0.0.0.0 gtbetcasino.fr
 0.0.0.0 gtbetfrance.fr
 0.0.0.0 gtbets-fr.fr
@@ -200293,6 +200321,7 @@
 0.0.0.0 myeladereg.cyou
 0.0.0.0 myempire-casinos.fr
 0.0.0.0 myempire-fr.fr
+0.0.0.0 myempirecasino-fr.fr
 0.0.0.0 myempirecasino1.fr
 0.0.0.0 myempirecasinofrance.fr
 0.0.0.0 myempirefr.fr
@@ -207822,6 +207851,7 @@
 0.0.0.0 notification-assurance.fr
 0.0.0.0 notification-auto.fr
 0.0.0.0 notification-booking.com
+0.0.0.0 notification-ca-aquitaine.fr
 0.0.0.0 notification-carefour.fr
 0.0.0.0 notification-chronopost.fr
 0.0.0.0 notification-email.fr
@@ -251968,6 +251998,7 @@
 0.0.0.0 sciencehr.net
 0.0.0.0 scienceoforgasm.com
 0.0.0.0 sciencep.com
+0.0.0.0 sciences-po-aix.fr
 0.0.0.0 sciencesetlavenir.fr
 0.0.0.0 sciencespo-finance.fr
 0.0.0.0 sciencespo-lyon-admin.fr
@@ -262432,6 +262463,8 @@
 0.0.0.0 slot-dunyasi.com
 0.0.0.0 slot-gid.online
 0.0.0.0 slot-lair-casino.fr
+0.0.0.0 slot-lair-fr.fr
+0.0.0.0 slot-lair-france.fr
 0.0.0.0 slot-lair.fr
 0.0.0.0 slot-n-bet.fr
 0.0.0.0 slot-rush-casino.fr
@@ -262465,6 +262498,7 @@
 0.0.0.0 slotit-casino.fr
 0.0.0.0 slotit.fr
 0.0.0.0 slotitcasino.fr
+0.0.0.0 slotlair-casino-en-ligne.fr
 0.0.0.0 slotlair-casino.fr
 0.0.0.0 slotlair-casinos.fr
 0.0.0.0 slotlair-fr.fr
@@ -266864,6 +266898,8 @@
 0.0.0.0 spin-auras-fr.fr
 0.0.0.0 spin-auras.fr
 0.0.0.0 spin-bara-casino.fr
+0.0.0.0 spin-bara-fr.fr
+0.0.0.0 spin-bara-france.fr
 0.0.0.0 spin-bara-online.fr
 0.0.0.0 spin-boss-casino.fr
 0.0.0.0 spin-boss-france.fr
@@ -267024,6 +267060,7 @@
 0.0.0.0 spinbit-casino.fr
 0.0.0.0 spinbos.fr
 0.0.0.0 spinboss-2026.fr
+0.0.0.0 spinboss-casino-fr.fr
 0.0.0.0 spinboss-casinos.fr
 0.0.0.0 spinboss-fr.fr
 0.0.0.0 spinboss-france.fr
@@ -306649,6 +306686,8 @@
 0.0.0.0 westace-casino-777.fr
 0.0.0.0 westace-casino-888.fr
 0.0.0.0 westace-casinos.fr
+0.0.0.0 westace-official.fr
+0.0.0.0 westacecasino-fr.fr
 0.0.0.0 westacecasinos.fr
 0.0.0.0 westaces-fr.fr
 0.0.0.0 westacescasino.fr
