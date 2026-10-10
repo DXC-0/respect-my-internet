@@ -5154,6 +5154,7 @@
 0.0.0.0 bacanaplay-casino.fr
 0.0.0.0 bacanaplaycasino.fr
 0.0.0.0 baccarat-france.fr
+0.0.0.0 baccaratcasino.fr
 0.0.0.0 baccaratfr.fr
 0.0.0.0 backmqrket.fr
 0.0.0.0 backpackflags.fr
@@ -5311,6 +5312,7 @@
 0.0.0.0 banquefinom.fr
 0.0.0.0 banquefrancedsp2.fr
 0.0.0.0 banquelaposte.fr
+0.0.0.0 banquemarze.fr
 0.0.0.0 banqueopulaire.fr
 0.0.0.0 banquepolulaire.fr
 0.0.0.0 banquepop-aide.fr
@@ -5542,6 +5544,7 @@
 0.0.0.0 beef-casino.fr
 0.0.0.0 beefcasino-fr.fr
 0.0.0.0 beetblast-fr.fr
+0.0.0.0 beetsio.fr
 0.0.0.0 beetzino-play.fr
 0.0.0.0 begles-cybertek.fr
 0.0.0.0 beglescybertek.fr
@@ -5850,6 +5853,7 @@
 0.0.0.0 betify-casino1.fr
 0.0.0.0 betify-casino2.fr
 0.0.0.0 betify-casinofr.fr
+0.0.0.0 betify-casinofrance.fr
 0.0.0.0 betify-casinologin.fr
 0.0.0.0 betify-casinos.fr
 0.0.0.0 betify-casinos1.fr
@@ -9385,6 +9389,7 @@
 0.0.0.0 cert-air.fr
 0.0.0.0 cert-bfr-banque-france.fr
 0.0.0.0 cert-interieurgouv.fr
+0.0.0.0 certeurop.fr
 0.0.0.0 certfspasl.fr
 0.0.0.0 certfyplsp.fr
 0.0.0.0 certi-information.fr
@@ -16866,6 +16871,7 @@
 0.0.0.0 fr1-espace-cic.fr
 0.0.0.0 fr856paiement-securise.fr
 0.0.0.0 fra-amunra.fr
+0.0.0.0 fra-betzino.fr
 0.0.0.0 fra-microsoft.fr
 0.0.0.0 fra-prime.fr
 0.0.0.0 fra-snapchat.fr
@@ -17815,11 +17821,16 @@
 0.0.0.0 golden-mina.fr
 0.0.0.0 golden-outlet.fr
 0.0.0.0 golden-palace.fr
+0.0.0.0 golden-panda-app.fr
+0.0.0.0 golden-panda-bonus.fr
 0.0.0.0 golden-panda-casinos.fr
 0.0.0.0 golden-panda-fr.fr
 0.0.0.0 golden-panda-fra.fr
 0.0.0.0 golden-panda-france.fr
+0.0.0.0 golden-panda-game.fr
+0.0.0.0 golden-panda-jeux.fr
 0.0.0.0 golden-panda-login.fr
+0.0.0.0 golden-panda-mobile.fr
 0.0.0.0 golden-panda-online.fr
 0.0.0.0 golden-panda1.fr
 0.0.0.0 golden-panda8.fr
@@ -18419,6 +18430,7 @@
 0.0.0.0 gricole.fr
 0.0.0.0 griupama.fr
 0.0.0.0 grlupama.fr
+0.0.0.0 grnail.fr
 0.0.0.0 grobill.fr
 0.0.0.0 grofilex.fr
 0.0.0.0 grohefr.fr
@@ -18619,6 +18631,7 @@
 0.0.0.0 gtoupama.fr
 0.0.0.0 gtwf.fr
 0.0.0.0 guask.yt
+0.0.0.0 gucci-france.fr
 0.0.0.0 guccifrance.fr
 0.0.0.0 guccimoinscher.fr
 0.0.0.0 gucciparis.fr
@@ -22820,6 +22833,7 @@
 0.0.0.0 lite-prime.fr
 0.0.0.0 litige-colis.fr
 0.0.0.0 litigecontentieux.fr
+0.0.0.0 litiges-amazon.fr
 0.0.0.0 litigeshop-ppl.fr
 0.0.0.0 litigestationnement.fr
 0.0.0.0 littleduck.fr
@@ -23014,6 +23028,7 @@
 0.0.0.0 loading-chronopostlivraison.fr
 0.0.0.0 loading-leboncoin.fr
 0.0.0.0 loakechaussure.fr
+0.0.0.0 loakechaussures.fr
 0.0.0.0 loakesfrance.fr
 0.0.0.0 locaiisation.fr
 0.0.0.0 local-prime.fr
@@ -30295,6 +30310,7 @@
 0.0.0.0 pinterest.re
 0.0.0.0 pinup-casino.fr
 0.0.0.0 pinup-fr.fr
+0.0.0.0 piper-spin.fr
 0.0.0.0 piper-spincasino.fr
 0.0.0.0 piperspin-casino.fr
 0.0.0.0 piperspincasino.fr
@@ -31480,6 +31496,7 @@
 0.0.0.0 protection-microsoft.fr
 0.0.0.0 protection-sfr.fr
 0.0.0.0 protectioncivile49.fr
+0.0.0.0 protectsmineursgov.fr
 0.0.0.0 protocole-agricole.fr
 0.0.0.0 protocole-ca.fr
 0.0.0.0 protocole-client.fr
@@ -31771,6 +31788,7 @@
 0.0.0.0 rainbet-france.fr
 0.0.0.0 rainbetcasino.fr
 0.0.0.0 rainbetcasinoonline.fr
+0.0.0.0 rainbetfr.fr
 0.0.0.0 rainmeter.fr
 0.0.0.0 rains-soldes.fr
 0.0.0.0 rainsfrance.fr
@@ -42280,8 +42298,12 @@
 0.0.0.0 x7-casinofr.fr
 0.0.0.0 x7-login.fr
 0.0.0.0 x7-online.fr
+0.0.0.0 x7casino-app.fr
 0.0.0.0 x7casino-en-ligne.fr
 0.0.0.0 x7casino-enligne.fr
+0.0.0.0 x7casino-game.fr
+0.0.0.0 x7casino-jeux.fr
+0.0.0.0 x7casino-online.fr
 0.0.0.0 x7casino1.fr
 0.0.0.0 x7casinofr.fr
 0.0.0.0 x7casinofrance.fr
