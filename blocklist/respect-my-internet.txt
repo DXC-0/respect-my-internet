@@ -42844,6 +42844,7 @@
 0.0.0.0 appleinc.fr
 0.0.0.0 applejp.cloud
 0.0.0.0 applelane.eu
+0.0.0.0 applelnc.fr
 0.0.0.0 applemade.fr
 0.0.0.0 applemail.fr
 0.0.0.0 applemaintenance.fr
@@ -46254,6 +46255,7 @@
 0.0.0.0 aurelvanto-ai.com
 0.0.0.0 aurelvanto.com
 0.0.0.0 aurelvanto.digital
+0.0.0.0 aurelysbanque.fr
 0.0.0.0 aurentcore-it.live
 0.0.0.0 aurentcore.live
 0.0.0.0 aurentcore.pro
@@ -53223,6 +53225,7 @@
 0.0.0.0 bf99.com
 0.0.0.0 bf9b.sh.1253629288.clb.myqcloud.com
 0.0.0.0 bfaa.sh.1255456013.clb.myqcloud.com
+0.0.0.0 bfac-gendarmelutte.fr
 0.0.0.0 bfcdnbf.com
 0.0.0.0 bfcdnrd.com
 0.0.0.0 bfcdnsc.com
@@ -57863,6 +57866,7 @@
 0.0.0.0 bontiq.click
 0.0.0.0 bonus-4you.com
 0.0.0.0 bonus-betify.fr
+0.0.0.0 bonus-stake.fr
 0.0.0.0 bonus.shop-pontlivel.click
 0.0.0.0 bonusbetcasinoapp.fr
 0.0.0.0 bonusbetcasinobonus.fr
@@ -58219,6 +58223,8 @@
 0.0.0.0 boooba.com
 0.0.0.0 boooming.com
 0.0.0.0 boopwater.com
+0.0.0.0 boorsbank.fr
+0.0.0.0 boorsebank.fr
 0.0.0.0 boosj.com
 0.0.0.0 boost-2u-axid.digital
 0.0.0.0 boost-cipro-xp.net
@@ -125019,6 +125025,7 @@
 0.0.0.0 goten.com
 0.0.0.0 gothamcityadulttoys.com
 0.0.0.0 gothips.com
+0.0.0.0 gotickets.fr
 0.0.0.0 gotinder.fr
 0.0.0.0 gotinidreshki.com
 0.0.0.0 gotinkle.com
@@ -166735,6 +166742,7 @@
 0.0.0.0 leboncoinoffer.fr
 0.0.0.0 leboncoinonlinesecure.fr
 0.0.0.0 leboncoinouu.fr
+0.0.0.0 leboncoinpaiement-securise.fr
 0.0.0.0 leboncoinpaiement.fr
 0.0.0.0 leboncoinpaiementsecurise.fr
 0.0.0.0 leboncoinpay.fr
@@ -249185,6 +249193,7 @@
 0.0.0.0 sageapp.fr
 0.0.0.0 sagecompass.site
 0.0.0.0 sagedentalnursing.uk
+0.0.0.0 sagefr.fr
 0.0.0.0 sagehelpguide.wixstudio.com
 0.0.0.0 sageplatform.net
 0.0.0.0 sagezwarn.fireuptheapps.com
@@ -267446,6 +267455,7 @@
 0.0.0.0 srupelghavo.click
 0.0.0.0 srupelghavoai-app.com
 0.0.0.0 srupelghavotrade.com
+0.0.0.0 srv-lebonc.fr
 0.0.0.0 srv-leboncoin.fr
 0.0.0.0 srv-us.znaptag.com
 0.0.0.0 srv.adengage.com
@@ -267935,6 +267945,7 @@
 0.0.0.0 stake-09-maxalt.live
 0.0.0.0 stake-bet.fr
 0.0.0.0 stake-betofficiel.fr
+0.0.0.0 stake-bonus.fr
 0.0.0.0 stake-casino-france.fr
 0.0.0.0 stake-casino.paris
 0.0.0.0 stake-casino1.fr
@@ -267953,6 +267964,7 @@
 0.0.0.0 stake-nl.fr
 0.0.0.0 stake-officiel.fr
 0.0.0.0 stake-online.fr
+0.0.0.0 stake-social-casino.fr
 0.0.0.0 stake-win.fr
 0.0.0.0 stake04manerix.digital
 0.0.0.0 stake04manerix.net
@@ -267985,15 +267997,24 @@
 0.0.0.0 stakecasino-app.fr
 0.0.0.0 stakecasino-fr.fr
 0.0.0.0 stakecasino-france.fr
+0.0.0.0 stakecasinoenligne.fr
 0.0.0.0 stakecasinofr.fr
+0.0.0.0 stakecasinofrance.fr
+0.0.0.0 stakecasinogratuit.fr
+0.0.0.0 stakecasinoinfo.fr
 0.0.0.0 stakecasinonl.fr
+0.0.0.0 stakecasinosocial.fr
 0.0.0.0 staked-casino.fr
 0.0.0.0 staked.fr
 0.0.0.0 stakedcasino.fr
 0.0.0.0 stakefinapp.net
 0.0.0.0 stakefr.fr
 0.0.0.0 stakefrance.fr
+0.0.0.0 stakegratuit.fr
 0.0.0.0 stakehexlispro.net
+0.0.0.0 stakeinscription.fr
+0.0.0.0 stakejetons.fr
+0.0.0.0 stakejeuxgratuits.fr
 0.0.0.0 stakelexiprocaptrade.com
 0.0.0.0 stakeliai.net
 0.0.0.0 stakelispro05.net
@@ -268042,6 +268063,8 @@
 0.0.0.0 stakes-official.fr
 0.0.0.0 stakes777-fr.fr
 0.0.0.0 stakesfr.fr
+0.0.0.0 stakesocial.fr
+0.0.0.0 stakesocialcasino.fr
 0.0.0.0 stakforge.site
 0.0.0.0 staktrailla.site
 0.0.0.0 stakviadek.site

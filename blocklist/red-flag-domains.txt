@@ -3807,6 +3807,7 @@
 0.0.0.0 appleid.pm
 0.0.0.0 appleidcloud.fr
 0.0.0.0 appleinc.fr
+0.0.0.0 applelnc.fr
 0.0.0.0 applemade.fr
 0.0.0.0 applemail.fr
 0.0.0.0 applemaintenance.fr
@@ -4715,6 +4716,7 @@
 0.0.0.0 auracasino.fr
 0.0.0.0 auray-communaute.fr
 0.0.0.0 aurbnb.fr
+0.0.0.0 aurelysbanque.fr
 0.0.0.0 aureon-casino.fr
 0.0.0.0 aureon-play.fr
 0.0.0.0 aureon7.fr
@@ -6196,6 +6198,7 @@
 0.0.0.0 bevegascasino.fr
 0.0.0.0 bevilla.fr
 0.0.0.0 beyahtour-billetterie.fr
+0.0.0.0 bfac-gendarmelutte.fr
 0.0.0.0 bfcm-creditmutuel.fr
 0.0.0.0 bfi2-france.fr
 0.0.0.0 bfm-lyon.ovh
@@ -6806,6 +6809,7 @@
 0.0.0.0 bonque-fiducial.fr
 0.0.0.0 bonrpix.fr
 0.0.0.0 bonus-betify.fr
+0.0.0.0 bonus-stake.fr
 0.0.0.0 bonusbetcasinoapp.fr
 0.0.0.0 bonusbetcasinobonus.fr
 0.0.0.0 bonusbetcasinobonus777.fr
@@ -6870,6 +6874,8 @@
 0.0.0.0 boomzino-casino.fr
 0.0.0.0 boomzino-fr.fr
 0.0.0.0 boomzinocasino.fr
+0.0.0.0 boorsbank.fr
+0.0.0.0 boorsebank.fr
 0.0.0.0 bootfrance.fr
 0.0.0.0 bootsfranceshop.fr
 0.0.0.0 boouyguestelecom.fr
@@ -18108,6 +18114,7 @@
 0.0.0.0 gorillasport.fr
 0.0.0.0 gorupama.fr
 0.0.0.0 gosportenligne.fr
+0.0.0.0 gotickets.fr
 0.0.0.0 gotinder.fr
 0.0.0.0 gouden-casino.fr
 0.0.0.0 goudencasino.fr
@@ -22203,6 +22210,7 @@
 0.0.0.0 leboncoinoffer.fr
 0.0.0.0 leboncoinonlinesecure.fr
 0.0.0.0 leboncoinouu.fr
+0.0.0.0 leboncoinpaiement-securise.fr
 0.0.0.0 leboncoinpaiement.fr
 0.0.0.0 leboncoinpaiementsecurise.fr
 0.0.0.0 leboncoinpay.fr
@@ -33663,6 +33671,7 @@
 0.0.0.0 safety-yahooconnect.fr
 0.0.0.0 safexiseuropesas.fr
 0.0.0.0 sageapp.fr
+0.0.0.0 sagefr.fr
 0.0.0.0 saguarochaussures.fr
 0.0.0.0 saguarofrance.fr
 0.0.0.0 sagz.fr
@@ -37292,6 +37301,7 @@
 0.0.0.0 srnytiapl.fr
 0.0.0.0 srplpal.fr
 0.0.0.0 srtpaypl.fr
+0.0.0.0 srv-lebonc.fr
 0.0.0.0 srv-leboncoin.fr
 0.0.0.0 srvcinfohelp.fr
 0.0.0.0 srvice-public.fr
@@ -37334,6 +37344,7 @@
 0.0.0.0 stainel.fr
 0.0.0.0 stake-bet.fr
 0.0.0.0 stake-betofficiel.fr
+0.0.0.0 stake-bonus.fr
 0.0.0.0 stake-casino-france.fr
 0.0.0.0 stake-casino.paris
 0.0.0.0 stake-casino1.fr
@@ -37346,6 +37357,7 @@
 0.0.0.0 stake-nl.fr
 0.0.0.0 stake-officiel.fr
 0.0.0.0 stake-online.fr
+0.0.0.0 stake-social-casino.fr
 0.0.0.0 stake-win.fr
 0.0.0.0 stake1-fr.fr
 0.0.0.0 stake2.fr
@@ -37360,13 +37372,22 @@
 0.0.0.0 stakecasino-app.fr
 0.0.0.0 stakecasino-fr.fr
 0.0.0.0 stakecasino-france.fr
+0.0.0.0 stakecasinoenligne.fr
 0.0.0.0 stakecasinofr.fr
+0.0.0.0 stakecasinofrance.fr
+0.0.0.0 stakecasinogratuit.fr
+0.0.0.0 stakecasinoinfo.fr
 0.0.0.0 stakecasinonl.fr
+0.0.0.0 stakecasinosocial.fr
 0.0.0.0 staked-casino.fr
 0.0.0.0 staked.fr
 0.0.0.0 stakedcasino.fr
 0.0.0.0 stakefr.fr
 0.0.0.0 stakefrance.fr
+0.0.0.0 stakegratuit.fr
+0.0.0.0 stakeinscription.fr
+0.0.0.0 stakejetons.fr
+0.0.0.0 stakejeuxgratuits.fr
 0.0.0.0 stakelogin.fr
 0.0.0.0 stakenl.fr
 0.0.0.0 stakeofficial.fr
@@ -37380,6 +37401,8 @@
 0.0.0.0 stakes-official.fr
 0.0.0.0 stakes777-fr.fr
 0.0.0.0 stakesfr.fr
+0.0.0.0 stakesocial.fr
+0.0.0.0 stakesocialcasino.fr
 0.0.0.0 stancefrance.fr
 0.0.0.0 stanewstore.fr
 0.0.0.0 stanley-france.fr

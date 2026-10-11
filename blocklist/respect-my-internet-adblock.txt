@@ -42842,6 +42842,7 @@
 ||appleinc.fr^
 ||applejp.cloud^
 ||applelane.eu^
+||applelnc.fr^
 ||applemade.fr^
 ||applemail.fr^
 ||applemaintenance.fr^
@@ -46252,6 +46253,7 @@
 ||aurelvanto-ai.com^
 ||aurelvanto.com^
 ||aurelvanto.digital^
+||aurelysbanque.fr^
 ||aurentcore-it.live^
 ||aurentcore.live^
 ||aurentcore.pro^
@@ -53221,6 +53223,7 @@
 ||bf99.com^
 ||bf9b.sh.1253629288.clb.myqcloud.com^
 ||bfaa.sh.1255456013.clb.myqcloud.com^
+||bfac-gendarmelutte.fr^
 ||bfcdnbf.com^
 ||bfcdnrd.com^
 ||bfcdnsc.com^
@@ -57861,6 +57864,7 @@
 ||bontiq.click^
 ||bonus-4you.com^
 ||bonus-betify.fr^
+||bonus-stake.fr^
 ||bonus.shop-pontlivel.click^
 ||bonusbetcasinoapp.fr^
 ||bonusbetcasinobonus.fr^
@@ -58217,6 +58221,8 @@
 ||boooba.com^
 ||boooming.com^
 ||boopwater.com^
+||boorsbank.fr^
+||boorsebank.fr^
 ||boosj.com^
 ||boost-2u-axid.digital^
 ||boost-cipro-xp.net^
@@ -125017,6 +125023,7 @@
 ||goten.com^
 ||gothamcityadulttoys.com^
 ||gothips.com^
+||gotickets.fr^
 ||gotinder.fr^
 ||gotinidreshki.com^
 ||gotinkle.com^
@@ -166733,6 +166740,7 @@
 ||leboncoinoffer.fr^
 ||leboncoinonlinesecure.fr^
 ||leboncoinouu.fr^
+||leboncoinpaiement-securise.fr^
 ||leboncoinpaiement.fr^
 ||leboncoinpaiementsecurise.fr^
 ||leboncoinpay.fr^
@@ -249183,6 +249191,7 @@
 ||sageapp.fr^
 ||sagecompass.site^
 ||sagedentalnursing.uk^
+||sagefr.fr^
 ||sagehelpguide.wixstudio.com^
 ||sageplatform.net^
 ||sagezwarn.fireuptheapps.com^
@@ -267444,6 +267453,7 @@
 ||srupelghavo.click^
 ||srupelghavoai-app.com^
 ||srupelghavotrade.com^
+||srv-lebonc.fr^
 ||srv-leboncoin.fr^
 ||srv-us.znaptag.com^
 ||srv.adengage.com^
@@ -267933,6 +267943,7 @@
 ||stake-09-maxalt.live^
 ||stake-bet.fr^
 ||stake-betofficiel.fr^
+||stake-bonus.fr^
 ||stake-casino-france.fr^
 ||stake-casino.paris^
 ||stake-casino1.fr^
@@ -267951,6 +267962,7 @@
 ||stake-nl.fr^
 ||stake-officiel.fr^
 ||stake-online.fr^
+||stake-social-casino.fr^
 ||stake-win.fr^
 ||stake04manerix.digital^
 ||stake04manerix.net^
@@ -267983,15 +267995,24 @@
 ||stakecasino-app.fr^
 ||stakecasino-fr.fr^
 ||stakecasino-france.fr^
+||stakecasinoenligne.fr^
 ||stakecasinofr.fr^
+||stakecasinofrance.fr^
+||stakecasinogratuit.fr^
+||stakecasinoinfo.fr^
 ||stakecasinonl.fr^
+||stakecasinosocial.fr^
 ||staked-casino.fr^
 ||staked.fr^
 ||stakedcasino.fr^
 ||stakefinapp.net^
 ||stakefr.fr^
 ||stakefrance.fr^
+||stakegratuit.fr^
 ||stakehexlispro.net^
+||stakeinscription.fr^
+||stakejetons.fr^
+||stakejeuxgratuits.fr^
 ||stakelexiprocaptrade.com^
 ||stakeliai.net^
 ||stakelispro05.net^
@@ -268040,6 +268061,8 @@
 ||stakes-official.fr^
 ||stakes777-fr.fr^
 ||stakesfr.fr^
+||stakesocial.fr^
+||stakesocialcasino.fr^
 ||stakforge.site^
 ||staktrailla.site^
 ||stakviadek.site^
