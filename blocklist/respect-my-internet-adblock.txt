@@ -62864,6 +62864,7 @@
 ||ca-cerntreloire.fr^
 ||ca-client-infofr.com^
 ||ca-coatesdarmor.fr^
+||ca-coeurdelille.fr^
 ||ca-connexion-clients.fr^
 ||ca-cybertek.fr^
 ||ca-czntrefrance.fr^
@@ -115737,6 +115738,7 @@
 ||francetelecomcable.fr^
 ||francetelee.fr^
 ||francetelevisons.fr^
+||francetinfo.fr^
 ||francetitres-ants.fr^
 ||francetonet.fr^
 ||francetonner.fr^
@@ -262787,6 +262789,7 @@
 ||sneakrworld.fr^
 ||sneakrz.fr^
 ||sneaks.dorgahings.info^
+||sneakstore.fr^
 ||sneakysocials.com^
 ||sneb3.com^
 ||snecksinter.com^
