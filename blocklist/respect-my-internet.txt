@@ -1753,6 +1753,7 @@
 0.0.0.0 1-sakuracat.com
 0.0.0.0 1-straussvipeu-online.shop
 0.0.0.0 1-undefined.messenger.com
+0.0.0.0 1-win.fr
 0.0.0.0 1-wins.fr
 0.0.0.0 1-yuan.net
 0.0.0.0 1.biz
@@ -52518,6 +52519,7 @@
 0.0.0.0 banqueccic.fr
 0.0.0.0 banquecentraleeuropeene.fr
 0.0.0.0 banquecentraleeuropeenne.fr
+0.0.0.0 banquechalus.fr
 0.0.0.0 banquede-france.fr
 0.0.0.0 banquedebourse.fr
 0.0.0.0 banquedefr-assistance.fr
@@ -54874,6 +54876,7 @@
 0.0.0.0 bergerda.com
 0.0.0.0 bergeresdefrance.fr
 0.0.0.0 berghaus.top
+0.0.0.0 berghausfrance.fr
 0.0.0.0 berghoff-outlets.shop
 0.0.0.0 berghoffshop.fr
 0.0.0.0 berghofftools.fr
@@ -55500,6 +55503,7 @@
 0.0.0.0 betic-casino.fr
 0.0.0.0 beticcasino.fr
 0.0.0.0 betico.fr
+0.0.0.0 betify--fr.fr
 0.0.0.0 betify-1.fr
 0.0.0.0 betify-android.fr
 0.0.0.0 betify-apk.fr
@@ -61361,6 +61365,7 @@
 0.0.0.0 bordereau-paysecurise.fr
 0.0.0.0 bordereaudedepostsecurise.com
 0.0.0.0 bordereaudedepotsecurise.fr
+0.0.0.0 bordereaudepotsecuriser.fr
 0.0.0.0 borderlessbd.com
 0.0.0.0 bordqika.vip
 0.0.0.0 boreal-capstead.com
@@ -69949,6 +69954,7 @@
 0.0.0.0 casinos-simsinos.fr
 0.0.0.0 casinos-spinanga.fr
 0.0.0.0 casinos-spinmama.fr
+0.0.0.0 casinos-stake.fr
 0.0.0.0 casinos-vegasplus.fr
 0.0.0.0 casinos247.fr
 0.0.0.0 casinos770.fr
@@ -81101,6 +81107,7 @@
 0.0.0.0 cnoutdoor.com
 0.0.0.0 cnovirt.com
 0.0.0.0 cnovtec-chamber.com
+0.0.0.0 cnp--assurance.fr
 0.0.0.0 cnpaf.net
 0.0.0.0 cnpaiwei.com
 0.0.0.0 cnpaiwo.com
@@ -89200,6 +89207,7 @@
 0.0.0.0 cwre1t0kenofficial.com
 0.0.0.0 cwre1t0kentrade.com
 0.0.0.0 cwre1token.net
+0.0.0.0 cws-bnpparibas.fr
 0.0.0.0 cwsing.tsmusic.kg.qq.com
 0.0.0.0 cwst.net
 0.0.0.0 cwtc.com
@@ -122638,6 +122646,7 @@
 0.0.0.0 france-critair.fr
 0.0.0.0 france-cybertek.fr
 0.0.0.0 france-diplomatie.fr
+0.0.0.0 france-discowin.fr
 0.0.0.0 france-dragonia.fr
 0.0.0.0 france-droite.fr
 0.0.0.0 france-electrodepot.fr
@@ -173357,6 +173366,7 @@
 0.0.0.0 lafybjy.com
 0.0.0.0 lagasbo.net
 0.0.0.0 lagazette-dgi.fr
+0.0.0.0 lagendarmerie.fr
 0.0.0.0 lagerthabarclub.com
 0.0.0.0 laggom.shop
 0.0.0.0 lagniappeless.info
@@ -192816,6 +192826,7 @@
 0.0.0.0 millioner-casinos.fr
 0.0.0.0 millioner-cassino.fr
 0.0.0.0 millioner-play.fr
+0.0.0.0 millioner1-casino.fr
 0.0.0.0 millionerbonus.fr
 0.0.0.0 millionercasino-bonus.fr
 0.0.0.0 millionercasino-fr.fr
@@ -208822,6 +208833,7 @@
 0.0.0.0 msndvr.com
 0.0.0.0 msnencarta.com
 0.0.0.0 msnexpo.com
+0.0.0.0 msnfr.fr
 0.0.0.0 msngamecenter.net
 0.0.0.0 msngamecenter.org
 0.0.0.0 msngamescenter.net
@@ -208831,6 +208843,7 @@
 0.0.0.0 msnmessenger.fr
 0.0.0.0 msnmobile.in
 0.0.0.0 msnn.fr
+0.0.0.0 msnnews.fr
 0.0.0.0 msntest.serving-sys.com
 0.0.0.0 msnupdate.bz
 0.0.0.0 msnusers.com
@@ -211100,6 +211113,7 @@
 0.0.0.0 n6q3zr.lat
 0.0.0.0 n6v3.kerviw.casa
 0.0.0.0 n6ybke.shop
+0.0.0.0 n7-neo-france.fr
 0.0.0.0 n78785.com
 0.0.0.0 n7aas7.info
 0.0.0.0 n7ba4c.hair
@@ -266452,6 +266466,7 @@
 0.0.0.0 security-auth-device.web.app
 0.0.0.0 security-bot.digital
 0.0.0.0 security-check-secure.cfd
+0.0.0.0 security-creditagricoles.fr
 0.0.0.0 security-deliveroo.fr
 0.0.0.0 security-index-verix.weebly.com
 0.0.0.0 security-indexer--adamlee160686.replit.app
@@ -275379,6 +275394,7 @@
 0.0.0.0 slurvenixtrade.com
 0.0.0.0 slutcmasti.cyou
 0.0.0.0 sluyu.com
+0.0.0.0 slv-ants.fr
 0.0.0.0 slwh-dfh.com
 0.0.0.0 slwofal.com
 0.0.0.0 slwwedding.com
@@ -303125,6 +303141,7 @@
 0.0.0.0 trueledgewick.digital
 0.0.0.0 trueledgewick.pro
 0.0.0.0 truelstyca.com
+0.0.0.0 trueluck-casino-fr.fr
 0.0.0.0 trueluck-casino-france.fr
 0.0.0.0 trueluck-casino.fr
 0.0.0.0 trueluck-fr.fr
@@ -332382,6 +332399,7 @@
 0.0.0.0 wwwfullcopnos.top
 0.0.0.0 wwwgemo.fr
 0.0.0.0 wwwgeneration.fr
+0.0.0.0 wwwgmail.fr
 0.0.0.0 wwwgmf.fr
 0.0.0.0 wwwgmx.fr
 0.0.0.0 wwwgouv.fr
@@ -332464,6 +332482,7 @@
 0.0.0.0 wwwsg.fr
 0.0.0.0 wwwsmc.fr
 0.0.0.0 wwwsofinco.fr
+0.0.0.0 wwwsosh.fr
 0.0.0.0 wwwt.twitch.tv
 0.0.0.0 wwwtempsl.fr
 0.0.0.0 wwwtnt.fr
@@ -352214,6 +352233,7 @@
 0.0.0.0 zombie-games.xyz
 0.0.0.0 zombierealtor.com
 0.0.0.0 zombiescat.com
+0.0.0.0 zombillion-casino.fr
 0.0.0.0 zombillioncasino.fr
 0.0.0.0 zomderlonix-engine.com
 0.0.0.0 zomelqari.pro

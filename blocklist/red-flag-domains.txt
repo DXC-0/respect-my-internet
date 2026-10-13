@@ -20,6 +20,7 @@
 0.0.0.0 0utlook.fr
 0.0.0.0 0xbet.fr
 0.0.0.0 1-coolzino.fr
+0.0.0.0 1-win.fr
 0.0.0.0 1-wins.fr
 0.0.0.0 1000pneus.fr
 0.0.0.0 1001paixnidia.fr
@@ -5297,6 +5298,7 @@
 0.0.0.0 banqueccic.fr
 0.0.0.0 banquecentraleeuropeene.fr
 0.0.0.0 banquecentraleeuropeenne.fr
+0.0.0.0 banquechalus.fr
 0.0.0.0 banquede-france.fr
 0.0.0.0 banquedebourse.fr
 0.0.0.0 banquedefr-assistance.fr
@@ -5599,6 +5601,7 @@
 0.0.0.0 berat04amazo.fr
 0.0.0.0 berdocksandals.fr
 0.0.0.0 bergeresdefrance.fr
+0.0.0.0 berghausfrance.fr
 0.0.0.0 berghoffshop.fr
 0.0.0.0 berghofftools.fr
 0.0.0.0 berlinale.fr
@@ -5812,6 +5815,7 @@
 0.0.0.0 betic-casino.fr
 0.0.0.0 beticcasino.fr
 0.0.0.0 betico.fr
+0.0.0.0 betify--fr.fr
 0.0.0.0 betify-1.fr
 0.0.0.0 betify-android.fr
 0.0.0.0 betify-apk.fr
@@ -6889,6 +6893,7 @@
 0.0.0.0 bordereau-leboncoin.fr
 0.0.0.0 bordereau-paysecurise.fr
 0.0.0.0 bordereaudedepotsecurise.fr
+0.0.0.0 bordereaudepotsecuriser.fr
 0.0.0.0 bornprix.fr
 0.0.0.0 borsalinofrance.fr
 0.0.0.0 bose-fr.fr
@@ -8859,6 +8864,7 @@
 0.0.0.0 casinos-simsinos.fr
 0.0.0.0 casinos-spinanga.fr
 0.0.0.0 casinos-spinmama.fr
+0.0.0.0 casinos-stake.fr
 0.0.0.0 casinos-vegasplus.fr
 0.0.0.0 casinos247.fr
 0.0.0.0 casinos770.fr
@@ -11108,6 +11114,7 @@
 0.0.0.0 cnilfrance.fr
 0.0.0.0 cnis-interieurgouv.fr
 0.0.0.0 cnnews.fr
+0.0.0.0 cnp--assurance.fr
 0.0.0.0 cnracl-retraite.fr
 0.0.0.0 cnrs-interieurgouv.fr
 0.0.0.0 cntrl.fr
@@ -13001,6 +13008,7 @@
 0.0.0.0 cwebmail-orange.fr
 0.0.0.0 cwinz-casino.fr
 0.0.0.0 cwinzcasino.fr
+0.0.0.0 cws-bnpparibas.fr
 0.0.0.0 cxaf.fr
 0.0.0.0 cyber-psn.fr
 0.0.0.0 cyber-renseignement.fr
@@ -16933,6 +16941,7 @@
 0.0.0.0 france-critair.fr
 0.0.0.0 france-cybertek.fr
 0.0.0.0 france-diplomatie.fr
+0.0.0.0 france-discowin.fr
 0.0.0.0 france-dragonia.fr
 0.0.0.0 france-droite.fr
 0.0.0.0 france-electrodepot.fr
@@ -21705,6 +21714,7 @@
 0.0.0.0 lafrancesouveraine.fr
 0.0.0.0 lafumamobiliersas.fr
 0.0.0.0 lagazette-dgi.fr
+0.0.0.0 lagendarmerie.fr
 0.0.0.0 lagranderecr.fr
 0.0.0.0 lahalleauxvetements.fr
 0.0.0.0 lahh.pm
@@ -25279,6 +25289,7 @@
 0.0.0.0 millioner-casinos.fr
 0.0.0.0 millioner-cassino.fr
 0.0.0.0 millioner-play.fr
+0.0.0.0 millioner1-casino.fr
 0.0.0.0 millionerbonus.fr
 0.0.0.0 millionercasino-bonus.fr
 0.0.0.0 millionercasino-fr.fr
@@ -26720,9 +26731,11 @@
 0.0.0.0 msmsfr.fr
 0.0.0.0 msn.pm
 0.0.0.0 msnc-interieurgouv.fr
+0.0.0.0 msnfr.fr
 0.0.0.0 msnhotmail.fr
 0.0.0.0 msnmessenger.fr
 0.0.0.0 msnn.fr
+0.0.0.0 msnnews.fr
 0.0.0.0 msoffice.pm
 0.0.0.0 msssante.fr
 0.0.0.0 mt-caisse-epargne.fr
@@ -27027,6 +27040,7 @@
 0.0.0.0 n26-groupe.fr
 0.0.0.0 n26-support.fr
 0.0.0.0 n26bank.fr
+0.0.0.0 n7-neo-france.fr
 0.0.0.0 na-prime.fr
 0.0.0.0 nadoz.fr
 0.0.0.0 naisance.fr
@@ -34534,6 +34548,7 @@
 0.0.0.0 securitesocialeamelie.fr
 0.0.0.0 securitesocietegenerale.fr
 0.0.0.0 securitevitale.fr
+0.0.0.0 security-creditagricoles.fr
 0.0.0.0 security-deliveroo.fr
 0.0.0.0 security-instagram.fr
 0.0.0.0 security-lebonc.fr
@@ -36148,6 +36163,7 @@
 0.0.0.0 slotwinocasino.fr
 0.0.0.0 slpjgouv.fr
 0.0.0.0 slsate.fr
+0.0.0.0 slv-ants.fr
 0.0.0.0 sma-espace-en-ligne.fr
 0.0.0.0 smaim.fr
 0.0.0.0 smapchat.fr
@@ -39441,6 +39457,8 @@
 0.0.0.0 true-fortune-casino.fr
 0.0.0.0 true-luck-cas.fr
 0.0.0.0 true-luck-france.fr
+0.0.0.0 trueluck-casino-fr.fr
+0.0.0.0 trueluck-casino-france.fr
 0.0.0.0 trueluck-casino.fr
 0.0.0.0 trueluck-fr.fr
 0.0.0.0 trueluck-france.fr
@@ -42236,6 +42254,7 @@
 0.0.0.0 wwwfreebox.fr
 0.0.0.0 wwwgemo.fr
 0.0.0.0 wwwgeneration.fr
+0.0.0.0 wwwgmail.fr
 0.0.0.0 wwwgmf.fr
 0.0.0.0 wwwgmx.fr
 0.0.0.0 wwwgouv.fr
@@ -42297,6 +42316,7 @@
 0.0.0.0 wwwsg.fr
 0.0.0.0 wwwsmc.fr
 0.0.0.0 wwwsofinco.fr
+0.0.0.0 wwwsosh.fr
 0.0.0.0 wwwtempsl.fr
 0.0.0.0 wwwtnt.fr
 0.0.0.0 wwwvendezvotrevoiture.fr
@@ -43299,6 +43319,7 @@
 0.0.0.0 zodiac-bet.fr
 0.0.0.0 zodiaccasino1.fr
 0.0.0.0 zolobet.fr
+0.0.0.0 zombillion-casino.fr
 0.0.0.0 zombillioncasino.fr
 0.0.0.0 zone6turf.fr
 0.0.0.0 zonerecharge.fr
