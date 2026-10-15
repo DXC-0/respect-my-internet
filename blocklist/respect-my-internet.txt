@@ -44177,6 +44177,7 @@
 0.0.0.0 applegear.fr
 0.0.0.0 applehelp.fr
 0.0.0.0 applehorder.cyou
+0.0.0.0 appleid-findmy.fr
 0.0.0.0 appleid-localiser.fr
 0.0.0.0 appleid-privacy.fr
 0.0.0.0 appleid-support.fr
@@ -62207,6 +62208,7 @@
 0.0.0.0 bravonitekai.com
 0.0.0.0 bravontradenex.live
 0.0.0.0 bravontradenextrade.com
+0.0.0.0 bravoplay-cassino.fr
 0.0.0.0 bravoplaycasino.fr
 0.0.0.0 bravorendagem.digital
 0.0.0.0 bravorendagem.net
@@ -68828,6 +68830,7 @@
 0.0.0.0 casin0x.fr
 0.0.0.0 casin0xcasino.fr
 0.0.0.0 casina-casino.fr
+0.0.0.0 casina-cassino.fr
 0.0.0.0 casinabetify.fr
 0.0.0.0 casinacasino.fr
 0.0.0.0 casinacho-casino.fr
@@ -69168,6 +69171,7 @@
 0.0.0.0 casinoboomsbet.fr
 0.0.0.0 casinoboostfr.fr
 0.0.0.0 casinobossy-fr.fr
+0.0.0.0 casinoboussole.fr
 0.0.0.0 casinobrutal.fr
 0.0.0.0 casinobuck.fr
 0.0.0.0 casinoburan.fr
@@ -69598,6 +69602,7 @@
 0.0.0.0 casinotouch.fr
 0.0.0.0 casinotowerrush.fr
 0.0.0.0 casinotrickz.fr
+0.0.0.0 casinotrixino.fr
 0.0.0.0 casinotropeziapalace.fr
 0.0.0.0 casinotrouville.fr
 0.0.0.0 casinotrueluck.fr
@@ -72468,6 +72473,7 @@
 0.0.0.0 certificat-air-web.fr
 0.0.0.0 certificat-air2023.fr
 0.0.0.0 certificat-airgouv.fr
+0.0.0.0 certificat-ants.fr
 0.0.0.0 certificat-boncoin.fr
 0.0.0.0 certificat-cirtair.fr
 0.0.0.0 certificat-compte.fr
@@ -86466,6 +86472,7 @@
 0.0.0.0 creditagricole-service.fr
 0.0.0.0 creditagricole22.fr
 0.0.0.0 creditagricolecentrefrance.fr
+0.0.0.0 creditagricolecentrest.fr
 0.0.0.0 creditagricoleespaceperso.fr
 0.0.0.0 creditagricoleidf.fr
 0.0.0.0 creditagricolenord.fr
@@ -102790,6 +102797,7 @@
 0.0.0.0 easybug.org
 0.0.0.0 easycactus.co.uk
 0.0.0.0 easycarfr.fr
+0.0.0.0 easycarplay.fr
 0.0.0.0 easycash-biganos.fr
 0.0.0.0 easychoice.shop
 0.0.0.0 easyclean.fun
@@ -121726,6 +121734,7 @@
 0.0.0.0 fr-milanpresse.fr
 0.0.0.0 fr-millioner.fr
 0.0.0.0 fr-millionz.fr
+0.0.0.0 fr-minocasino.fr
 0.0.0.0 fr-mirabelles-89d18.firebaseapp.com
 0.0.0.0 fr-mirabelles-89d18.web.app
 0.0.0.0 fr-moncompte.fr
@@ -129832,6 +129841,7 @@
 0.0.0.0 godz-app.fr
 0.0.0.0 godz-casiino.fr
 0.0.0.0 godz-casino-fr.fr
+0.0.0.0 godz-cassino.fr
 0.0.0.0 godzcasino-fr.fr
 0.0.0.0 godzcasino1.fr
 0.0.0.0 godzcasinooo.fr
@@ -182472,6 +182482,7 @@
 0.0.0.0 lucky8-play-olline.fr
 0.0.0.0 lucky8-promo.fr
 0.0.0.0 lucky81.fr
+0.0.0.0 lucky8cas1no.fr
 0.0.0.0 lucky8casino-com.fr
 0.0.0.0 lucky8casino-fr.fr
 0.0.0.0 lucky8casino-france.fr
@@ -182489,6 +182500,7 @@
 0.0.0.0 lucky8fr.fr
 0.0.0.0 lucky8fr8.fr
 0.0.0.0 lucky8fra.fr
+0.0.0.0 lucky8fran.fr
 0.0.0.0 lucky8francais.fr
 0.0.0.0 lucky8france.fr
 0.0.0.0 lucky8france1.fr
@@ -182519,6 +182531,7 @@
 0.0.0.0 luckyblockenligne.fr
 0.0.0.0 luckyblockfr.fr
 0.0.0.0 luckyblockfrance.fr
+0.0.0.0 luckyblockonline.fr
 0.0.0.0 luckyblockscasino.fr
 0.0.0.0 luckyboom-1.fr
 0.0.0.0 luckyboom-bonus.fr
@@ -192289,6 +192302,7 @@
 0.0.0.0 minlojma.com
 0.0.0.0 minmetals.com
 0.0.0.0 minniweps.cyou
+0.0.0.0 mino-casino-fr.fr
 0.0.0.0 mino-casino-france.fr
 0.0.0.0 minocasino-fr.fr
 0.0.0.0 minocasino-france.fr
@@ -230261,6 +230275,7 @@
 0.0.0.0 parimatchcasino.fr
 0.0.0.0 parimatchs.fr
 0.0.0.0 parimax.shop
+0.0.0.0 parimutuelurbain.fr
 0.0.0.0 parions-sport-app.fr
 0.0.0.0 parions-sport-bonus.fr
 0.0.0.0 parions-sport-fr.fr
@@ -257313,6 +257328,7 @@
 0.0.0.0 rnhospital.com
 0.0.0.0 rnhy.net
 0.0.0.0 rnicrosoft-login.fr
+0.0.0.0 rnicrosoft365.fr
 0.0.0.0 rnicrosotf.fr
 0.0.0.0 rnmachine.com
 0.0.0.0 rnnigpyz.shop
@@ -266866,6 +266882,7 @@
 0.0.0.0 service-des-amendes.fr
 0.0.0.0 service-dgccrf.fr
 0.0.0.0 service-dgfip.fr
+0.0.0.0 service-dgsp.fr
 0.0.0.0 service-dhl-enligne.fr
 0.0.0.0 service-dhl.fr
 0.0.0.0 service-digitale-client.fr
@@ -305639,6 +305656,7 @@
 0.0.0.0 ummannakliye.com
 0.0.0.0 umobile.messenger.com
 0.0.0.0 umofawamar.casacam.net
+0.0.0.0 umontpeiller.fr
 0.0.0.0 umontpeller.fr
 0.0.0.0 umpay.com
 0.0.0.0 umpr-fburys-h03vtz-f3rrfl.pages.dev
@@ -309626,6 +309644,7 @@
 0.0.0.0 vegainversanza.com
 0.0.0.0 vegakapiture.com
 0.0.0.0 vegalb.com
+0.0.0.0 vegas--plus.fr
 0.0.0.0 vegas-days-casino.fr
 0.0.0.0 vegas-fr.fr
 0.0.0.0 vegas-hero-appconnexion.fr
@@ -309726,6 +309745,7 @@
 0.0.0.0 vegasslotcasino.fr
 0.0.0.0 vegastars-casino.fr
 0.0.0.0 vegastarscasino.fr
+0.0.0.0 vegasunique.fr
 0.0.0.0 vegaz-cas1no.fr
 0.0.0.0 vegaz-fr.fr
 0.0.0.0 vegazcasino-fr.fr
