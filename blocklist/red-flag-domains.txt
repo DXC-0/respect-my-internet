@@ -1660,6 +1660,7 @@
 0.0.0.0 alexandar-casino.fr
 0.0.0.0 alexandarcasino.fr
 0.0.0.0 alexander-casino-en-ligne.fr
+0.0.0.0 alexander-casino-france.fr
 0.0.0.0 alexanderbonus.fr
 0.0.0.0 alexandercasino-bet.fr
 0.0.0.0 alexandercasino-bonus.fr
@@ -4672,6 +4673,7 @@
 0.0.0.0 attestationscoupons.fr
 0.0.0.0 attestationsoins925153gouvfr.fr
 0.0.0.0 attester-enligne.fr
+0.0.0.0 attester-recharges.fr
 0.0.0.0 attestercoupon.fr
 0.0.0.0 attesterecharge.fr
 0.0.0.0 attestez-vos-recharges.fr
@@ -14196,6 +14198,9 @@
 0.0.0.0 draftkingscasino.fr
 0.0.0.0 dragon-fr.fr
 0.0.0.0 dragon1a-fr.fr
+0.0.0.0 dragon1a-fra.fr
+0.0.0.0 dragon1a-france.fr
+0.0.0.0 dragon1a-french.fr
 0.0.0.0 dragon1a.fr
 0.0.0.0 dragonia-casino-101.fr
 0.0.0.0 dragonia-casino-24.fr
@@ -14948,6 +14953,8 @@
 0.0.0.0 epargne-orangebank.fr
 0.0.0.0 epargne-particuliers.fr
 0.0.0.0 epargne-securite.fr
+0.0.0.0 epargne-trader.fr
+0.0.0.0 epargne-trepublic.fr
 0.0.0.0 epay-lib.fr
 0.0.0.0 epaypal.fr
 0.0.0.0 epeage.fr
@@ -15322,6 +15329,7 @@
 0.0.0.0 espace-support.fr
 0.0.0.0 espace-suspension.fr
 0.0.0.0 espace-telechargementdubordereau.fr
+0.0.0.0 espace-titres.fr
 0.0.0.0 espace-transcash.fr
 0.0.0.0 espace-ursaf.fr
 0.0.0.0 espace-utilisateur-prime.fr
@@ -19405,6 +19413,7 @@
 0.0.0.0 ibetcasino.fr
 0.0.0.0 ibis-stylefr.fr
 0.0.0.0 ibisstyle.fr
+0.0.0.0 ibmfrance.fr
 0.0.0.0 ice-casino.fr
 0.0.0.0 ice-fishing-sllot.fr
 0.0.0.0 ice-fishing-sllots.fr
@@ -24674,6 +24683,7 @@
 0.0.0.0 master-ticket.fr
 0.0.0.0 master-tickets.fr
 0.0.0.0 masterbillet.fr
+0.0.0.0 mastercard-france.fr
 0.0.0.0 mastercard.re
 0.0.0.0 masterplay-casino.fr
 0.0.0.0 masterplay-fr.fr
@@ -28985,6 +28995,7 @@
 0.0.0.0 outlet-golden.fr
 0.0.0.0 outlet-jacquemus.fr
 0.0.0.0 outlet-jonak.fr
+0.0.0.0 outlet-k-way.fr
 0.0.0.0 outlet-kway.fr
 0.0.0.0 outlet-lacoste.fr
 0.0.0.0 outlet-luxe.fr
@@ -30853,6 +30864,7 @@
 0.0.0.0 portail-clients.fr
 0.0.0.0 portail-connexion.fr
 0.0.0.0 portail-contravention.fr
+0.0.0.0 portail-demande-honorabilite-social.fr
 0.0.0.0 portail-dgfip.fr
 0.0.0.0 portail-enedis.fr
 0.0.0.0 portail-finances.fr
@@ -31271,6 +31283,7 @@
 0.0.0.0 prime-reglages.fr
 0.0.0.0 prime-remise.fr
 0.0.0.0 prime-renew.fr
+0.0.0.0 prime-renewal.fr
 0.0.0.0 prime-renouvelable.fr
 0.0.0.0 prime-renouvellement-pay.fr
 0.0.0.0 prime-renouvellement.fr
@@ -33995,6 +34008,8 @@
 0.0.0.0 sava-spin-casino.fr
 0.0.0.0 sava-spincasino.fr
 0.0.0.0 savas-pin.fr
+0.0.0.0 savasp1n-fr.fr
+0.0.0.0 savasp1n-fra.fr
 0.0.0.0 savasp1n.fr
 0.0.0.0 savaspin-1.fr
 0.0.0.0 savaspin-casino-fr.fr
@@ -36129,6 +36144,7 @@
 0.0.0.0 slotpalacecasino.fr
 0.0.0.0 slotpalaces.fr
 0.0.0.0 slotra.fr
+0.0.0.0 slotrance.fr
 0.0.0.0 slotravecasino.fr
 0.0.0.0 slotrize-casino.fr
 0.0.0.0 slotrize.fr
@@ -36149,6 +36165,11 @@
 0.0.0.0 slotsdjj.fr
 0.0.0.0 slotseatercasino.fr
 0.0.0.0 slotsgemcasino.fr
+0.0.0.0 slotshark.fr
+0.0.0.0 slotsharkavis.fr
+0.0.0.0 slotsharkcasino.fr
+0.0.0.0 slotsharkconnexion.fr
+0.0.0.0 slotsharks.fr
 0.0.0.0 slotshub.fr
 0.0.0.0 slotslair.fr
 0.0.0.0 slotsmines.fr
@@ -36780,6 +36801,9 @@
 0.0.0.0 soutien-palestine.fr
 0.0.0.0 soutiens-ameli.fr
 0.0.0.0 soxiete-generale.fr
+0.0.0.0 sp1n-boss.fr
+0.0.0.0 sp1nboss-fr.fr
+0.0.0.0 sp1nboss-fra.fr
 0.0.0.0 sp1nformula-fr.fr
 0.0.0.0 sp1nformula-fra.fr
 0.0.0.0 sp1nformula-plays.fr
@@ -38317,7 +38341,9 @@
 0.0.0.0 support-tel.fr
 0.0.0.0 support-telephone.fr
 0.0.0.0 support-tiktok.fr
+0.0.0.0 support-trader.fr
 0.0.0.0 support-transport.fr
+0.0.0.0 support-trepublic.fr
 0.0.0.0 support-uber.fr
 0.0.0.0 support-upr.fr
 0.0.0.0 support-ups.fr

@@ -365,7 +365,6 @@
 0.0.0.0 01yx-msg-xgadp.o4llzg.sbs
 0.0.0.0 01zenith.net
 0.0.0.0 01zhuanche.com
-0.0.0.0 01zk.com
 0.0.0.0 02.taskassist-pa.clients.google.com
 0.0.0.0 020-client.fitbit.com
 0.0.0.0 020-v3-client.fitbit.com
@@ -8278,7 +8277,6 @@
 0.0.0.0 46hfh47r.top
 0.0.0.0 46hoikumiyagi.com
 0.0.0.0 46mlsv.com
-0.0.0.0 46ps.com
 0.0.0.0 46xs.com
 0.0.0.0 47-courier.push.apple.com
 0.0.0.0 47.courier-push-apple.com.akadns.net
@@ -11337,7 +11335,6 @@
 0.0.0.0 6188cnc.com
 0.0.0.0 618bg.com
 0.0.0.0 618cj.com
-0.0.0.0 618day.com
 0.0.0.0 618ky.com
 0.0.0.0 618tech.com
 0.0.0.0 618waihui.com
@@ -11984,7 +11981,6 @@
 0.0.0.0 6895srk.top
 0.0.0.0 6896.sh.1253711445.clb.myqcloud.com
 0.0.0.0 689776eh.top
-0.0.0.0 68978.net
 0.0.0.0 6898e.link.cam
 0.0.0.0 689938.com
 0.0.0.0 68ad.sh.1253712874.clb.myqcloud.com
@@ -12430,7 +12426,6 @@
 0.0.0.0 7063.sh.1253794074.clb.myqcloud.com
 0.0.0.0 706b.sh.1253814289.clb.myqcloud.com
 0.0.0.0 706f.sh.1253725154.clb.myqcloud.com
-0.0.0.0 706net.com
 0.0.0.0 707.com
 0.0.0.0 707447457345.lat
 0.0.0.0 707598.xyz
@@ -13866,7 +13861,6 @@
 0.0.0.0 837262541.cfd
 0.0.0.0 837484-coinbase.com
 0.0.0.0 83753751.com
-0.0.0.0 8379888.com
 0.0.0.0 837d.sh.1254048800.clb.myqcloud.com
 0.0.0.0 837yetr3.top
 0.0.0.0 83829odgsi.lat
@@ -18397,7 +18391,6 @@
 0.0.0.0 acisss.com
 0.0.0.0 acivitatingmaisl93930.weebly.com
 0.0.0.0 acjcji.com
-0.0.0.0 acjw.net
 0.0.0.0 ackcard.cv
 0.0.0.0 ackkenyattaroad.co.ke
 0.0.0.0 aclaratucompra.com
@@ -27540,6 +27533,7 @@
 0.0.0.0 alexandar-casino.fr
 0.0.0.0 alexandarcasino.fr
 0.0.0.0 alexander-casino-en-ligne.fr
+0.0.0.0 alexander-casino-france.fr
 0.0.0.0 alexander.scot
 0.0.0.0 alexanderbonus.fr
 0.0.0.0 alexandercasino-bet.fr
@@ -47393,6 +47387,7 @@
 0.0.0.0 attestationscoupons.fr
 0.0.0.0 attestationsoins925153gouvfr.fr
 0.0.0.0 attester-enligne.fr
+0.0.0.0 attester-recharges.fr
 0.0.0.0 attestercoupon.fr
 0.0.0.0 attesterecharge.fr
 0.0.0.0 attestez-vos-recharges.fr
@@ -49400,7 +49395,6 @@
 0.0.0.0 ax.init.itunes.apple.com
 0.0.0.0 ax.itunes.apple.com
 0.0.0.0 ax.phobos.apple.com.edgesuite.net
-0.0.0.0 ax196.com
 0.0.0.0 ax1pir.sbs
 0.0.0.0 ax2do9a.xyz
 0.0.0.0 ax2nc4.ren
@@ -53079,7 +53073,6 @@
 0.0.0.0 bbfuabkb.shop
 0.0.0.0 bbfytsn.com
 0.0.0.0 bbgdex.com
-0.0.0.0 bbgsite.com
 0.0.0.0 bbgstatic.com
 0.0.0.0 bbguangcai.com
 0.0.0.0 bbhd.kesug.com
@@ -63417,7 +63410,6 @@
 0.0.0.0 bsccdn.com
 0.0.0.0 bsccdn.net
 0.0.0.0 bscdns.com
-0.0.0.0 bscdnweb.com
 0.0.0.0 bscea.org
 0.0.0.0 bscedge.com
 0.0.0.0 bscgslb.com
@@ -71109,7 +71101,6 @@
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.rail.tgp.qq.com
 0.0.0.0 cdn.sail-horizon.com
-0.0.0.0 cdn.samsung.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn.shalltry.com #Infinix Tracker - Tracker
@@ -72847,7 +72838,6 @@
 0.0.0.0 cgi-proxy.scon.qq.com
 0.0.0.0 cgicop.com
 0.0.0.0 cgis.fr
-0.0.0.0 cgiumuo.xyz
 0.0.0.0 cgivz.com
 0.0.0.0 cgjet.com
 0.0.0.0 cgjoy.com
@@ -80249,7 +80239,6 @@
 0.0.0.0 cnfeol.net
 0.0.0.0 cnfg.cc
 0.0.0.0 cnfia.com
-0.0.0.0 cnfiberhome.com
 0.0.0.0 cnfin.com
 0.0.0.0 cnfina.com
 0.0.0.0 cnfirst.net
@@ -84323,6 +84312,7 @@
 0.0.0.0 corex360.org
 0.0.0.0 corexisforce.click
 0.0.0.0 corexmeqon7.com
+0.0.0.0 corexpertdata.com
 0.0.0.0 corexsoftware-pro.pages.dev
 0.0.0.0 corexsoftware.pro
 0.0.0.0 corextrading.net
@@ -90239,7 +90229,6 @@
 0.0.0.0 dahliachan.com
 0.0.0.0 dahongba.net
 0.0.0.0 dahongpaochaye.com
-0.0.0.0 dahongtec.com
 0.0.0.0 dahongtool.com
 0.0.0.0 dahouduan.com
 0.0.0.0 dahua-cpa.com
@@ -99604,6 +99593,9 @@
 0.0.0.0 dragon-guide.net
 0.0.0.0 dragon-hotel.com
 0.0.0.0 dragon1a-fr.fr
+0.0.0.0 dragon1a-fra.fr
+0.0.0.0 dragon1a-france.fr
+0.0.0.0 dragon1a-french.fr
 0.0.0.0 dragon1a.fr
 0.0.0.0 dragonapi-test.ssv.tencent.com
 0.0.0.0 dragonball.prime.com
@@ -107675,6 +107667,8 @@
 0.0.0.0 epargne-particuliers.fr
 0.0.0.0 epargne-plus.com
 0.0.0.0 epargne-securite.fr
+0.0.0.0 epargne-trader.fr
+0.0.0.0 epargne-trepublic.fr
 0.0.0.0 epargneia.net
 0.0.0.0 epargneinnovation.com
 0.0.0.0 epargneplateforme-fr.live
@@ -108881,6 +108875,7 @@
 0.0.0.0 espace-support.fr
 0.0.0.0 espace-suspension.fr
 0.0.0.0 espace-telechargementdubordereau.fr
+0.0.0.0 espace-titres.fr
 0.0.0.0 espace-transcash.fr
 0.0.0.0 espace-ursaf.fr
 0.0.0.0 espace-utilisateur-prime.fr
@@ -112514,7 +112509,6 @@
 0.0.0.0 famouscast.com
 0.0.0.0 famousoffice.com
 0.0.0.0 famousret.xyz
-0.0.0.0 famoustone.com
 0.0.0.0 famulei.com
 0.0.0.0 fan-club-master.firebaseio.com
 0.0.0.0 fan-lun.com
@@ -113611,7 +113605,6 @@
 0.0.0.0 fcnode.net
 0.0.0.0 fcomte.fr
 0.0.0.0 fcpawn.com
-0.0.0.0 fcpiao.com
 0.0.0.0 fcplquiz.pages.dev
 0.0.0.0 fcpowerup.com
 0.0.0.0 fcqjc.com
@@ -119421,7 +119414,6 @@
 0.0.0.0 floatcamellia.com
 0.0.0.0 floatingislandapps.com
 0.0.0.0 floatingpontoonsolutions.com
-0.0.0.0 floatmaze.com
 0.0.0.0 flobytetrade.de
 0.0.0.0 floccniche.cyou
 0.0.0.0 flocker.life
@@ -127434,7 +127426,6 @@
 0.0.0.0 gewuer.com
 0.0.0.0 gewuzhixiang.com
 0.0.0.0 gexge.net
-0.0.0.0 gexiao.me
 0.0.0.0 gexiaocloud.com
 0.0.0.0 gexiaxiyan.com
 0.0.0.0 gexinda.com
@@ -136340,7 +136331,6 @@
 0.0.0.0 gxzcpsw.com
 0.0.0.0 gxzcs.com
 0.0.0.0 gxzdsj.com
-0.0.0.0 gxzdyg.com
 0.0.0.0 gxzecai.com
 0.0.0.0 gxzepu.com
 0.0.0.0 gxzero.com
@@ -140380,7 +140370,6 @@
 0.0.0.0 heihei.com
 0.0.0.0 heiheiyuyin.com
 0.0.0.0 heihekeji.com
-0.0.0.0 heijiao.net
 0.0.0.0 heijiaovip.com
 0.0.0.0 heikescholz.shop
 0.0.0.0 heilanhome.com
@@ -142542,7 +142531,6 @@
 0.0.0.0 hk.uy
 0.0.0.0 hk.yahoo.messenger.com
 0.0.0.0 hk.youtube.com
-0.0.0.0 hk0523.com
 0.0.0.0 hk2.settings.data.microsoft.com.akadns.net
 0.0.0.0 hk2.wns.windows.com
 0.0.0.0 hk2sch130020721.wns.windows.com
@@ -146705,7 +146693,6 @@
 0.0.0.0 huichuanggd.com
 0.0.0.0 huichuangjialife.com
 0.0.0.0 huichuangzhanlan.com
-0.0.0.0 huicx7.com
 0.0.0.0 huida18.com
 0.0.0.0 huidabbs.com
 0.0.0.0 huidafrp.com
@@ -149210,6 +149197,7 @@
 0.0.0.0 ibluesocial.com
 0.0.0.0 iblwl.com
 0.0.0.0 ibmc-up3.weebly.com
+0.0.0.0 ibmfrance.fr
 0.0.0.0 ibmfwqdl.com
 0.0.0.0 ibmwclub.com
 0.0.0.0 ibnjl.shop
@@ -149650,7 +149638,6 @@
 0.0.0.0 ict88.com
 0.0.0.0 ictbda.com
 0.0.0.0 ictcsr.org
-0.0.0.0 ictdns.icu
 0.0.0.0 ictdns.store
 0.0.0.0 ictdns.tech
 0.0.0.0 ictehi.com
@@ -151026,7 +151013,6 @@
 0.0.0.0 iklopl.work
 0.0.0.0 iklwers.com
 0.0.0.0 ikmoo.com
-0.0.0.0 ikncn.com
 0.0.0.0 iknletu.com
 0.0.0.0 iknroling.com
 0.0.0.0 ikolsoqqs.com
@@ -152338,7 +152324,6 @@
 0.0.0.0 imt-ales.fr
 0.0.0.0 imtaweb.net
 0.0.0.0 imtedge.com
-0.0.0.0 imtics.com
 0.0.0.0 imtmp.net
 0.0.0.0 imtoolbox.org
 0.0.0.0 imtrwqjier3.com
@@ -161038,7 +161023,6 @@
 0.0.0.0 jingsh.com
 0.0.0.0 jingshibang.com
 0.0.0.0 jingshibianhuren.com
-0.0.0.0 jingshistudy.com
 0.0.0.0 jingshizyy.com
 0.0.0.0 jingshun-wl.com
 0.0.0.0 jingshzh.com
@@ -164015,7 +163999,6 @@
 0.0.0.0 jufengcap.com
 0.0.0.0 jufengcompany.com
 0.0.0.0 jufenginfo.com
-0.0.0.0 jufengwuxi.com
 0.0.0.0 jufu.vip
 0.0.0.0 jufuxinyue.com
 0.0.0.0 jufuxinyue.net
@@ -164456,7 +164439,6 @@
 0.0.0.0 junziboxue.com
 0.0.0.0 junzimen.com
 0.0.0.0 junziqian.com
-0.0.0.0 junziyize.com
 0.0.0.0 juooiaodiadkdiddsif.site
 0.0.0.0 juooo.com
 0.0.0.0 jup-active.vercel.app
@@ -172660,7 +172642,6 @@
 0.0.0.0 lamsharedonlywinsdom.sbs
 0.0.0.0 lamssettings-pa.googleapis.com
 0.0.0.0 lamutellegenerale.fr
-0.0.0.0 lamwatch.com
 0.0.0.0 lamyu.com
 0.0.0.0 lan-bridge.com
 0.0.0.0 lan-dochodura.click
@@ -172693,7 +172674,6 @@
 0.0.0.0 lanciadocc.cyou
 0.0.0.0 lancn.net
 0.0.0.0 lancong.net
-0.0.0.0 lanconvey.com
 0.0.0.0 lancunwater.com
 0.0.0.0 lancygroup.com
 0.0.0.0 land-rover.fr
@@ -187525,6 +187505,7 @@
 0.0.0.0 master.rarftwg.icu
 0.0.0.0 masteradd.digital
 0.0.0.0 masterbillet.fr
+0.0.0.0 mastercard-france.fr
 0.0.0.0 mastercard.pl-nes.cyou
 0.0.0.0 mastercard.re
 0.0.0.0 mastercardcr.gu.cc
@@ -210027,7 +210008,6 @@
 0.0.0.0 na.ccast.fe.api.amazonvideo.com
 0.0.0.0 na.ccast.na.api.amazonvideo.com
 0.0.0.0 na.ccast.zaz.api.amazonvideo.com
-0.0.0.0 na.ci
 0.0.0.0 na.ec.api.amazonvideo.com
 0.0.0.0 na.preprod.api.amazonvideo.com
 0.0.0.0 na.primevideo.com
@@ -211287,7 +211267,6 @@
 0.0.0.0 ncmtr.com
 0.0.0.0 ncnynl.com
 0.0.0.0 ncodej.jessicajorogers.com
-0.0.0.0 ncogvki.xyz
 0.0.0.0 ncontent.xx.fbcdn.net
 0.0.0.0 ncpa-classic.com
 0.0.0.0 ncparis-dcb32.firebaseapp.com
@@ -227470,6 +227449,7 @@
 0.0.0.0 outlet-golden.fr
 0.0.0.0 outlet-jacquemus.fr
 0.0.0.0 outlet-jonak.fr
+0.0.0.0 outlet-k-way.fr
 0.0.0.0 outlet-kway.fr
 0.0.0.0 outlet-lacoste.fr
 0.0.0.0 outlet-luxe.fr
@@ -229806,7 +229786,6 @@
 0.0.0.0 panso.pro
 0.0.0.0 pansoso.com
 0.0.0.0 pansou.com
-0.0.0.0 pansousuo.com
 0.0.0.0 panstudyo.live
 0.0.0.0 panstwowezloto.pl
 0.0.0.0 panstwowyprograminwestycyjny.click
@@ -232129,7 +232108,6 @@
 0.0.0.0 penging.com
 0.0.0.0 pengke.com
 0.0.0.0 penglei.name
-0.0.0.0 pengliao.com
 0.0.0.0 pengpailaw.com
 0.0.0.0 pengrl.com
 0.0.0.0 pengrui-ssj.com
@@ -233810,7 +233788,6 @@
 0.0.0.0 phonegap100.com
 0.0.0.0 phoneincre.cyou
 0.0.0.0 phoneious.sbs
-0.0.0.0 phonelinksoft.com
 0.0.0.0 phoneme.amazonaws.com
 0.0.0.0 phonemex.com
 0.0.0.0 phonenicot.cyou
@@ -239070,7 +239047,6 @@
 0.0.0.0 pong-staging.twitch.tv
 0.0.0.0 pong.prod.us-west2.twitch.tv
 0.0.0.0 pong.twitch.tv
-0.0.0.0 ponging.store
 0.0.0.0 ponkong.com
 0.0.0.0 ponley.com
 0.0.0.0 ponmnail.weebly.com
@@ -239389,6 +239365,7 @@
 0.0.0.0 portail-connexion.fr
 0.0.0.0 portail-contrat-gestion.com
 0.0.0.0 portail-contravention.fr
+0.0.0.0 portail-demande-honorabilite-social.fr
 0.0.0.0 portail-dgfip.fr
 0.0.0.0 portail-enedis.fr
 0.0.0.0 portail-finances.fr
@@ -241172,6 +241149,7 @@
 0.0.0.0 prime-renew.co
 0.0.0.0 prime-renew.fr
 0.0.0.0 prime-renewal.com
+0.0.0.0 prime-renewal.fr
 0.0.0.0 prime-renouvelable.fr
 0.0.0.0 prime-renouvellement-paiement.com
 0.0.0.0 prime-renouvellement-pay.fr
@@ -250156,7 +250134,6 @@
 0.0.0.0 qygbet381.vip
 0.0.0.0 qygbet427.vip
 0.0.0.0 qygjyey.com
-0.0.0.0 qyhgsb.com
 0.0.0.0 qyhiquo.pro
 0.0.0.0 qyhl.vip
 0.0.0.0 qyhr.org
@@ -257755,7 +257732,6 @@
 0.0.0.0 rongba.com
 0.0.0.0 rongbiz.com
 0.0.0.0 rongbiz.net
-0.0.0.0 rongbst.com
 0.0.0.0 rongcfg.com
 0.0.0.0 rongchain.com
 0.0.0.0 rongchaodichan.com
@@ -261921,6 +261897,8 @@
 0.0.0.0 savanwealthholm.shop
 0.0.0.0 savarnoncr.cyou
 0.0.0.0 savas-pin.fr
+0.0.0.0 savasp1n-fr.fr
+0.0.0.0 savasp1n-fra.fr
 0.0.0.0 savasp1n.fr
 0.0.0.0 savaspin-1.fr
 0.0.0.0 savaspin-casino-fr.fr
@@ -268476,7 +268454,6 @@
 0.0.0.0 shanbotv.com
 0.0.0.0 shancemall.com
 0.0.0.0 shanchuangjiaoyu.com
-0.0.0.0 shancui1688.com
 0.0.0.0 shanda960.com
 0.0.0.0 shandacasual.net
 0.0.0.0 shandagames.com
@@ -272538,6 +272515,7 @@
 0.0.0.0 sirintepeelektrikci.xyz
 0.0.0.0 siriopatrimivo.net
 0.0.0.0 siriopatrimivo.shop
+0.0.0.0 siriser.com
 0.0.0.0 sirius21c-1256566528.cos.ap-beijing.myqcloud.com
 0.0.0.0 siriusantik.com
 0.0.0.0 siriusmultimedia.com
@@ -273068,7 +273046,6 @@
 0.0.0.0 skb-group.facebook.com
 0.0.0.0 skbah.top
 0.0.0.0 skcto.com
-0.0.0.0 skd6.com
 0.0.0.0 skd62.com
 0.0.0.0 skdijdo10.eu.cc
 0.0.0.0 skdlabs.com
@@ -273528,7 +273505,6 @@
 0.0.0.0 skyworthnj.com
 0.0.0.0 skyworthznxyj.com
 0.0.0.0 skyxinli.com
-0.0.0.0 skyxvpn.com
 0.0.0.0 skyyin.org
 0.0.0.0 skyzhan.com
 0.0.0.0 skznsb.com
@@ -273725,6 +273701,7 @@
 0.0.0.0 slkmasterpiece.com
 0.0.0.0 sllai.com
 0.0.0.0 sllate.fr
+0.0.0.0 slldbs641.vip
 0.0.0.0 sllmwm.webwave.dev
 0.0.0.0 sllngy.com
 0.0.0.0 sllot-lair-fr.fr
@@ -273839,6 +273816,7 @@
 0.0.0.0 slotpalaces.fr
 0.0.0.0 slotph.vip
 0.0.0.0 slotra.fr
+0.0.0.0 slotrance.fr
 0.0.0.0 slotravecasino.fr
 0.0.0.0 slotreviewcentral.site
 0.0.0.0 slotrize-casino.fr
@@ -273863,6 +273841,11 @@
 0.0.0.0 slotseatercasino.fr
 0.0.0.0 slotsforecast.site
 0.0.0.0 slotsgemcasino.fr
+0.0.0.0 slotshark.fr
+0.0.0.0 slotsharkavis.fr
+0.0.0.0 slotsharkcasino.fr
+0.0.0.0 slotsharkconnexion.fr
+0.0.0.0 slotsharks.fr
 0.0.0.0 slotshub.fr
 0.0.0.0 slotsjournal.site
 0.0.0.0 slotslair.fr
@@ -274357,7 +274340,6 @@
 0.0.0.0 smartyao.com
 0.0.0.0 smartyoke.com
 0.0.0.0 smartypins.withgoogle.com
-0.0.0.0 smartyun8.com
 0.0.0.0 smartzzx.com
 0.0.0.0 smarun.com
 0.0.0.0 smaryun.com
@@ -277708,7 +277690,6 @@
 0.0.0.0 soyo-dg.com
 0.0.0.0 soyohui.com
 0.0.0.0 soyoung.com
-0.0.0.0 soyouso.com
 0.0.0.0 soyreovalin.info
 0.0.0.0 soyunion.com
 0.0.0.0 soywwasemphasising.info
@@ -278156,6 +278137,9 @@
 0.0.0.0 sp1ct6-slortek-biz-plovnix-fraplor.pages.dev
 0.0.0.0 sp1ct6-vraxtik-biz-slarnok-fronvex.pages.dev
 0.0.0.0 sp1ct6-vromtek-biz-slortik-plarnix.pages.dev
+0.0.0.0 sp1n-boss.fr
+0.0.0.0 sp1nboss-fr.fr
+0.0.0.0 sp1nboss-fra.fr
 0.0.0.0 sp1nformula-fr.fr
 0.0.0.0 sp1nformula-fra.fr
 0.0.0.0 sp1nformula-plays.fr
@@ -285428,7 +285412,9 @@
 0.0.0.0 support-tracking-polska-h2hsold717x0.ijcai-22.org
 0.0.0.0 support-tracking-polska-u1deva0nj158.ijcai-22.org
 0.0.0.0 support-tracking-polska-yqghq0s5wq2z.ijcai-22.org
+0.0.0.0 support-trader.fr
 0.0.0.0 support-transport.fr
+0.0.0.0 support-trepublic.fr
 0.0.0.0 support-trezor-io-start-starting-cdn.typedream.app
 0.0.0.0 support-trezuresuties-home.aura.build
 0.0.0.0 support-uber.fr
@@ -287264,7 +287250,6 @@
 0.0.0.0 synykj.net
 0.0.0.0 syobserve.com
 0.0.0.0 syoits.com
-0.0.0.0 syoker.com
 0.0.0.0 syokv.com
 0.0.0.0 syoseo.com
 0.0.0.0 syottan.cyou
@@ -296351,7 +296336,6 @@
 0.0.0.0 tianmumusic.com
 0.0.0.0 tianmunews.com
 0.0.0.0 tianmupe.com
-0.0.0.0 tiannbo.com
 0.0.0.0 tiannilaw.com
 0.0.0.0 tianning.xyz
 0.0.0.0 tianninghr.com
@@ -302465,13 +302449,11 @@
 0.0.0.0 tuipear.com
 0.0.0.0 tuipinpai.com
 0.0.0.0 tuiplay.com
-0.0.0.0 tuirice.com
 0.0.0.0 tuishao.net
 0.0.0.0 tuishark.com
 0.0.0.0 tuishubang.com
 0.0.0.0 tuishujun.com
 0.0.0.0 tuisnake.com
-0.0.0.0 tuistone.com
 0.0.0.0 tuitiger.com
 0.0.0.0 tuitui.info
 0.0.0.0 tuitui99.com
@@ -303855,7 +303837,6 @@
 0.0.0.0 tzwpco.com
 0.0.0.0 tzxg-1258168058.cos-website.ap-hongkong.myqcloud.com
 0.0.0.0 tzxingtang.com
-0.0.0.0 tzxwzx.com
 0.0.0.0 tzyiyuantuan.com
 0.0.0.0 tzyongda.com
 0.0.0.0 tzyun.com
@@ -318199,7 +318180,6 @@
 0.0.0.0 wearecampussport.com
 0.0.0.0 wearecappadocia.com
 0.0.0.0 wearehearken.com #We are Hearken - Tracker
-0.0.0.0 weareing.store
 0.0.0.0 weareklever.com
 0.0.0.0 wearelemonpeople.com
 0.0.0.0 wearemanner.com
@@ -319659,7 +319639,6 @@
 0.0.0.0 wedjiosdpakdsoaplaod.site
 0.0.0.0 wedkarski.live
 0.0.0.0 wedlpppepre.site
-0.0.0.0 wedn.net
 0.0.0.0 wedoany.com
 0.0.0.0 wedoctor.com
 0.0.0.0 wedoexpress.com
@@ -332213,7 +332192,6 @@
 0.0.0.0 xefan.com
 0.0.0.0 xefinity.weebly.com
 0.0.0.0 xege.org
-0.0.0.0 xegymyb.xyz
 0.0.0.0 xeh.pl-mandat.com
 0.0.0.0 xehedu.com
 0.0.0.0 xeknow.com
@@ -336981,7 +336959,6 @@
 0.0.0.0 xtw-system.com
 0.0.0.0 xtwzyx.com
 0.0.0.0 xtx6.com
-0.0.0.0 xtxbemp.xyz
 0.0.0.0 xtxcm.com
 0.0.0.0 xtxh.net
 0.0.0.0 xtxnxk.sbs
@@ -337024,7 +337001,6 @@
 0.0.0.0 xuanruanjian.com
 0.0.0.0 xuanshitou.com
 0.0.0.0 xuanshu.com
-0.0.0.0 xuanshu.org
 0.0.0.0 xuansiwei.com
 0.0.0.0 xuantaikeji.com
 0.0.0.0 xuanteng.org
@@ -344302,7 +344278,6 @@
 0.0.0.0 yzj.cc
 0.0.0.0 yzja.com
 0.0.0.0 yzjb.com
-0.0.0.0 yzjdgs88.com
 0.0.0.0 yzjj120.com
 0.0.0.0 yzjjw.net
 0.0.0.0 yzjob.net
@@ -346863,7 +346838,6 @@
 0.0.0.0 zgjxcad.com
 0.0.0.0 zgjxjjw.com
 0.0.0.0 zgjxjs.com
-0.0.0.0 zgjymg.com
 0.0.0.0 zgjzy.org
 0.0.0.0 zgkao.com
 0.0.0.0 zgkashi.com
@@ -350300,7 +350274,6 @@
 0.0.0.0 zob.urge284671.pro
 0.0.0.0 zobaczcosmowi.top
 0.0.0.0 zobje.fotosdevestidosdenovias.com
-0.0.0.0 zobmxcfw.com
 0.0.0.0 zocai.com
 0.0.0.0 zocercasino.fr
 0.0.0.0 zocolor.com
