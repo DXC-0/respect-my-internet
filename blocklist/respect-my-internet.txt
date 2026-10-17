@@ -68585,6 +68585,7 @@
 0.0.0.0 casino-allyspin.fr
 0.0.0.0 casino-amon.fr
 0.0.0.0 casino-amonbet.fr
+0.0.0.0 casino-amunbet.fr
 0.0.0.0 casino-amunra.fr
 0.0.0.0 casino-aquawin.fr
 0.0.0.0 casino-argent-reel.fr
@@ -68850,6 +68851,7 @@
 0.0.0.0 casinoalexanderfr.fr
 0.0.0.0 casinoallwins.fr
 0.0.0.0 casinoallyspin.fr
+0.0.0.0 casinoamunbet.fr
 0.0.0.0 casinoamunra.fr
 0.0.0.0 casinoandfriends.fr
 0.0.0.0 casinoantibes.fr
@@ -81935,6 +81937,7 @@
 0.0.0.0 commandes-fnac.fr
 0.0.0.0 commandes-prime.fr
 0.0.0.0 commandes-suivi-prime.fr
+0.0.0.0 commandesdirect.fr
 0.0.0.0 commandluxerixsoftware-com.pages.dev
 0.0.0.0 commandluxerixsoftware.com
 0.0.0.0 commandplacance-ai.live
@@ -83809,6 +83812,9 @@
 0.0.0.0 coolxigua.com
 0.0.0.0 coolyun.com
 0.0.0.0 coolz1no-fra.fr
+0.0.0.0 coolz1no-france.fr
+0.0.0.0 coolz1no-french.fr
+0.0.0.0 coolz1no-play.fr
 0.0.0.0 coolz1no.fr
 0.0.0.0 coolzcloud.com
 0.0.0.0 coolzi.fr
@@ -86200,6 +86206,7 @@
 0.0.0.0 creditmut-capital.fr
 0.0.0.0 creditmuteuel.fr
 0.0.0.0 creditmutual.fr
+0.0.0.0 creditmutuals.fr
 0.0.0.0 creditmutuel-authentification.fr
 0.0.0.0 creditmutuel-ccm.fr
 0.0.0.0 creditmutuel-connect.fr
@@ -129432,11 +129439,19 @@
 0.0.0.0 godz-casiino.fr
 0.0.0.0 godz-casino-fr.fr
 0.0.0.0 godz-cassino.fr
+0.0.0.0 godz-fra.fr
+0.0.0.0 godz-french.fr
+0.0.0.0 godz-officiel.fr
 0.0.0.0 godzcasino-fr.fr
 0.0.0.0 godzcasino1.fr
 0.0.0.0 godzcasinooo.fr
+0.0.0.0 godzenligne.fr
+0.0.0.0 godzjeux.fr
+0.0.0.0 godzofficiel.fr
+0.0.0.0 godzplays.fr
 0.0.0.0 godzs.fr
 0.0.0.0 godzscasino.fr
+0.0.0.0 godzwin.fr
 0.0.0.0 goeasy.io
 0.0.0.0 goeent.space
 0.0.0.0 goelia1995.com
@@ -129590,6 +129605,7 @@
 0.0.0.0 golddesk.atlastechcompany.web.id
 0.0.0.0 golddoorma.com
 0.0.0.0 goldem1ornrne-online.top
+0.0.0.0 golden--play.fr
 0.0.0.0 golden-bamboo.com
 0.0.0.0 golden-bet-casino.fr
 0.0.0.0 golden-bet.fr
@@ -154872,6 +154888,7 @@
 0.0.0.0 instant-lonoxcap.pro
 0.0.0.0 instant-mobile.fr
 0.0.0.0 instant-official.fr
+0.0.0.0 instant-online-login.fr
 0.0.0.0 instant-play.fr
 0.0.0.0 instant-profit-click.pages.dev
 0.0.0.0 instant-profit-investment.com
@@ -178618,6 +178635,7 @@
 0.0.0.0 livreral.fr
 0.0.0.0 livrescolair.fr
 0.0.0.0 livresscolaire.fr
+0.0.0.0 livret-defense.fr
 0.0.0.0 livret-ftneo.fr
 0.0.0.0 livretdefense.fr
 0.0.0.0 livretdepargne.fr
@@ -181850,6 +181868,7 @@
 0.0.0.0 luckstercasino777.fr
 0.0.0.0 luckup.cc
 0.0.0.0 luckvero.info
+0.0.0.0 lucky--crew.fr
 0.0.0.0 lucky-31-france.fr
 0.0.0.0 lucky-31casinos.fr
 0.0.0.0 lucky-7.fr
@@ -214014,10 +214033,15 @@
 0.0.0.0 nine-casinos-fr.fr
 0.0.0.0 nine-casinos.fr
 0.0.0.0 nine-casinosfr.fr
+0.0.0.0 nine-enligne.fr
+0.0.0.0 nine-jeux.fr
+0.0.0.0 nine-officiel.fr
 0.0.0.0 nine-rivers.com
 0.0.0.0 nine-win.fr
 0.0.0.0 nine1nine.fr
 0.0.0.0 nine9casino.fr
+0.0.0.0 nine9jouez.fr
+0.0.0.0 nine9officiel.fr
 0.0.0.0 nineanalytics.io #Nine Analytics - Tracker
 0.0.0.0 ninebot-link.com
 0.0.0.0 ninebot.com
@@ -257135,6 +257159,9 @@
 0.0.0.0 rolletto-casino.fr
 0.0.0.0 rolletto-casinos.fr
 0.0.0.0 rolletto-fr.fr
+0.0.0.0 rolletto-fra.fr
+0.0.0.0 rolletto-france.fr
+0.0.0.0 rolletto-french.fr
 0.0.0.0 rolletto.fr
 0.0.0.0 rolletto777.fr
 0.0.0.0 rollettocasino-fr.fr
@@ -260499,6 +260526,7 @@
 0.0.0.0 salomonfrancestores.fr
 0.0.0.0 salomonfroutlet.fr
 0.0.0.0 salomonmarseille.fr
+0.0.0.0 salomonoutlet.fr
 0.0.0.0 salomonparis.fr
 0.0.0.0 salomonparismagasin.fr
 0.0.0.0 salomonpascher.fr
@@ -278418,8 +278446,10 @@
 0.0.0.0 spin-millions.fr
 0.0.0.0 spin-panda-casino.fr
 0.0.0.0 spin-pandacasino.fr
+0.0.0.0 spin-polo.fr
 0.0.0.0 spin-rollz-casino.fr
 0.0.0.0 spin-rollzcasino.fr
+0.0.0.0 spin-shark.fr
 0.0.0.0 spin-spirit-casino.fr
 0.0.0.0 spin-star.fr
 0.0.0.0 spin-stella.fr
@@ -280181,6 +280211,7 @@
 0.0.0.0 stake-casino.paris
 0.0.0.0 stake-casino1.fr
 0.0.0.0 stake-casino2.fr
+0.0.0.0 stake-casinofrance.fr
 0.0.0.0 stake-casinos.fr
 0.0.0.0 stake-en-ligne.fr
 0.0.0.0 stake-enligne.fr
@@ -304855,6 +304886,7 @@
 0.0.0.0 umbenchmarking.com
 0.0.0.0 umberlane.eu
 0.0.0.0 umbpay.com
+0.0.0.0 umbrafrance.fr
 0.0.0.0 umbrafurniture.com
 0.0.0.0 umbraqelvostrimek.net
 0.0.0.0 umbredisco.cyou

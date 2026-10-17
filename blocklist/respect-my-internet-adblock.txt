@@ -68583,6 +68583,7 @@
 ||casino-allyspin.fr^
 ||casino-amon.fr^
 ||casino-amonbet.fr^
+||casino-amunbet.fr^
 ||casino-amunra.fr^
 ||casino-aquawin.fr^
 ||casino-argent-reel.fr^
@@ -68848,6 +68849,7 @@
 ||casinoalexanderfr.fr^
 ||casinoallwins.fr^
 ||casinoallyspin.fr^
+||casinoamunbet.fr^
 ||casinoamunra.fr^
 ||casinoandfriends.fr^
 ||casinoantibes.fr^
@@ -81933,6 +81935,7 @@
 ||commandes-fnac.fr^
 ||commandes-prime.fr^
 ||commandes-suivi-prime.fr^
+||commandesdirect.fr^
 ||commandluxerixsoftware-com.pages.dev^
 ||commandluxerixsoftware.com^
 ||commandplacance-ai.live^
@@ -83807,6 +83810,9 @@
 ||coolxigua.com^
 ||coolyun.com^
 ||coolz1no-fra.fr^
+||coolz1no-france.fr^
+||coolz1no-french.fr^
+||coolz1no-play.fr^
 ||coolz1no.fr^
 ||coolzcloud.com^
 ||coolzi.fr^
@@ -86198,6 +86204,7 @@
 ||creditmut-capital.fr^
 ||creditmuteuel.fr^
 ||creditmutual.fr^
+||creditmutuals.fr^
 ||creditmutuel-authentification.fr^
 ||creditmutuel-ccm.fr^
 ||creditmutuel-connect.fr^
@@ -129430,11 +129437,19 @@
 ||godz-casiino.fr^
 ||godz-casino-fr.fr^
 ||godz-cassino.fr^
+||godz-fra.fr^
+||godz-french.fr^
+||godz-officiel.fr^
 ||godzcasino-fr.fr^
 ||godzcasino1.fr^
 ||godzcasinooo.fr^
+||godzenligne.fr^
+||godzjeux.fr^
+||godzofficiel.fr^
+||godzplays.fr^
 ||godzs.fr^
 ||godzscasino.fr^
+||godzwin.fr^
 ||goeasy.io^
 ||goeent.space^
 ||goelia1995.com^
@@ -129588,6 +129603,7 @@
 ||golddesk.atlastechcompany.web.id^
 ||golddoorma.com^
 ||goldem1ornrne-online.top^
+||golden--play.fr^
 ||golden-bamboo.com^
 ||golden-bet-casino.fr^
 ||golden-bet.fr^
@@ -154870,6 +154886,7 @@
 ||instant-lonoxcap.pro^
 ||instant-mobile.fr^
 ||instant-official.fr^
+||instant-online-login.fr^
 ||instant-play.fr^
 ||instant-profit-click.pages.dev^
 ||instant-profit-investment.com^
@@ -178616,6 +178633,7 @@
 ||livreral.fr^
 ||livrescolair.fr^
 ||livresscolaire.fr^
+||livret-defense.fr^
 ||livret-ftneo.fr^
 ||livretdefense.fr^
 ||livretdepargne.fr^
@@ -181848,6 +181866,7 @@
 ||luckstercasino777.fr^
 ||luckup.cc^
 ||luckvero.info^
+||lucky--crew.fr^
 ||lucky-31-france.fr^
 ||lucky-31casinos.fr^
 ||lucky-7.fr^
@@ -214012,10 +214031,15 @@
 ||nine-casinos-fr.fr^
 ||nine-casinos.fr^
 ||nine-casinosfr.fr^
+||nine-enligne.fr^
+||nine-jeux.fr^
+||nine-officiel.fr^
 ||nine-rivers.com^
 ||nine-win.fr^
 ||nine1nine.fr^
 ||nine9casino.fr^
+||nine9jouez.fr^
+||nine9officiel.fr^
 ||nineanalytics.io^#Nine^Analytics^-^Tracker^
 ||ninebot-link.com^
 ||ninebot.com^
@@ -257133,6 +257157,9 @@
 ||rolletto-casino.fr^
 ||rolletto-casinos.fr^
 ||rolletto-fr.fr^
+||rolletto-fra.fr^
+||rolletto-france.fr^
+||rolletto-french.fr^
 ||rolletto.fr^
 ||rolletto777.fr^
 ||rollettocasino-fr.fr^
@@ -260497,6 +260524,7 @@
 ||salomonfrancestores.fr^
 ||salomonfroutlet.fr^
 ||salomonmarseille.fr^
+||salomonoutlet.fr^
 ||salomonparis.fr^
 ||salomonparismagasin.fr^
 ||salomonpascher.fr^
@@ -278416,8 +278444,10 @@
 ||spin-millions.fr^
 ||spin-panda-casino.fr^
 ||spin-pandacasino.fr^
+||spin-polo.fr^
 ||spin-rollz-casino.fr^
 ||spin-rollzcasino.fr^
+||spin-shark.fr^
 ||spin-spirit-casino.fr^
 ||spin-star.fr^
 ||spin-stella.fr^
@@ -280179,6 +280209,7 @@
 ||stake-casino.paris^
 ||stake-casino1.fr^
 ||stake-casino2.fr^
+||stake-casinofrance.fr^
 ||stake-casinos.fr^
 ||stake-en-ligne.fr^
 ||stake-enligne.fr^
@@ -304853,6 +304884,7 @@
 ||umbenchmarking.com^
 ||umberlane.eu^
 ||umbpay.com^
+||umbrafrance.fr^
 ||umbrafurniture.com^
 ||umbraqelvostrimek.net^
 ||umbredisco.cyou^
