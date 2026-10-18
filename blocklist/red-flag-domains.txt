@@ -3716,6 +3716,7 @@
 0.0.0.0 app-dlsneyplus.fr
 0.0.0.0 app-ecompte.fr
 0.0.0.0 app-espace.fr
+0.0.0.0 app-livraison.fr
 0.0.0.0 app-localiser.fr
 0.0.0.0 app-millenium.fr
 0.0.0.0 app-millenniumbcp-pt.fr
@@ -13692,6 +13693,8 @@
 0.0.0.0 dhzl.pm
 0.0.0.0 diadora-paris.fr
 0.0.0.0 diamond-store.fr
+0.0.0.0 dicepalace-fr.fr
+0.0.0.0 dicepalace8.fr
 0.0.0.0 dickies-fr.fr
 0.0.0.0 dickies-france.fr
 0.0.0.0 dickies-paris.fr
@@ -25350,6 +25353,7 @@
 0.0.0.0 millioner-online.fr
 0.0.0.0 millioner-play.fr
 0.0.0.0 millioner1-casino.fr
+0.0.0.0 millioner9.fr
 0.0.0.0 millionerbonus.fr
 0.0.0.0 millionercasino-bonus.fr
 0.0.0.0 millionercasino-fr.fr
@@ -25357,6 +25361,7 @@
 0.0.0.0 millionercasinoenligne.fr
 0.0.0.0 millionercasinos.fr
 0.0.0.0 millionerfr.fr
+0.0.0.0 millionerplay.fr
 0.0.0.0 millionerr.fr
 0.0.0.0 millioners-casino.fr
 0.0.0.0 millioners-casinos.fr
@@ -29715,6 +29720,8 @@
 0.0.0.0 partypokers.fr
 0.0.0.0 partyspins.fr
 0.0.0.0 partyspinz-casino.fr
+0.0.0.0 partyspinz.fr
+0.0.0.0 partyspinz6.fr
 0.0.0.0 partyspinzcasino.fr
 0.0.0.0 paruvend.fr
 0.0.0.0 pasapaschaussures.fr
@@ -37625,6 +37632,7 @@
 0.0.0.0 stbarthluxurywatches.fr
 0.0.0.0 stbarthwatches.fr
 0.0.0.0 stckstore.fr
+0.0.0.0 steelseries-fr.fr
 0.0.0.0 stef-group.fr
 0.0.0.0 stel-france.fr
 0.0.0.0 stellantis-psa.fr
@@ -41727,10 +41735,12 @@
 0.0.0.0 wildsino-kasino.fr
 0.0.0.0 wildsino-official.fr
 0.0.0.0 wildsino-officiel.fr
+0.0.0.0 wildsino6.fr
 0.0.0.0 wildsinocasino1.fr
 0.0.0.0 wildsinofr.fr
 0.0.0.0 wildsinojouer.fr
 0.0.0.0 wildsinoo.fr
+0.0.0.0 wildsinoplay.fr
 0.0.0.0 wildsinos.fr
 0.0.0.0 wildsrobin.fr
 0.0.0.0 wildsultan-casino-france.fr
@@ -43279,6 +43289,8 @@
 0.0.0.0 yonibet-official.fr
 0.0.0.0 yonibet-officiel.fr
 0.0.0.0 yonibet3.fr
+0.0.0.0 yonibetapp.fr
+0.0.0.0 yonibetbet.fr
 0.0.0.0 yonibetcasino.fr
 0.0.0.0 yonibetcasinos.fr
 0.0.0.0 yonibetofficiel.fr
