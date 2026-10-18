@@ -249468,7 +249468,6 @@
 ||r1.sn-vgqsrned.gvt1.com^
 ||r1.sn-vgqsrnek.gvt1.com^
 ||r1.sn-vgqsrnes.gvt1.com^
-||r10.sn-axq7sn7l.c.docs.google.com^
 ||r12---sn-8p8v-bg06.gvt1.com^
 ||r12345.com^
 ||r13s.service.amazonsilk.com^
@@ -249505,7 +249504,6 @@
 ||r2---sn-uxa3vhnxa-2306.gvt1.com^
 ||r2.amazonaws.com^
 ||r2.sn-b0a4cgpqbx-qvie.gvt1.com^
-||r2.sn-hc57en7d.c.drive.google.com^
 ||r2.sn-hgn7rne7.c.youtube.com^
 ||r2.sn-n3cgv5qc5oq-nf06.gvt1.com^
 ||r2.sn-npoe7nek.c.drive.google.com^

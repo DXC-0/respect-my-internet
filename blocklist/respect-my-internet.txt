@@ -249470,7 +249470,6 @@
 0.0.0.0 r1.sn-vgqsrned.gvt1.com
 0.0.0.0 r1.sn-vgqsrnek.gvt1.com
 0.0.0.0 r1.sn-vgqsrnes.gvt1.com
-0.0.0.0 r10.sn-axq7sn7l.c.docs.google.com
 0.0.0.0 r12---sn-8p8v-bg06.gvt1.com
 0.0.0.0 r12345.com
 0.0.0.0 r13s.service.amazonsilk.com
@@ -249507,7 +249506,6 @@
 0.0.0.0 r2---sn-uxa3vhnxa-2306.gvt1.com
 0.0.0.0 r2.amazonaws.com
 0.0.0.0 r2.sn-b0a4cgpqbx-qvie.gvt1.com
-0.0.0.0 r2.sn-hc57en7d.c.drive.google.com
 0.0.0.0 r2.sn-hgn7rne7.c.youtube.com
 0.0.0.0 r2.sn-n3cgv5qc5oq-nf06.gvt1.com
 0.0.0.0 r2.sn-npoe7nek.c.drive.google.com
