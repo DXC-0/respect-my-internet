@@ -17605,6 +17605,7 @@
 ||acces11506256.pro^
 ||acces448216.pro^
 ||acces564294.pro^
+||accesaujustificatif.fr^
 ||accesbanque.fr^
 ||accescanada.fr^
 ||accesconcert.fr^
@@ -54641,6 +54642,7 @@
 ||betify10.fr^
 ||betify10sh.fr^
 ||betify3.fr^
+||betify4.fr^
 ||betify5sh.fr^
 ||betify6.fr^
 ||betify8.fr^
@@ -62790,6 +62792,8 @@
 ||bsp.lenovo.com^
 ||bspapp.com^
 ||bsping.com^
+||bspp-gprp.fr^
+||bsppgprp.fr^
 ||bsqcpj.com^
 ||bsquant.com^
 ||bsrbwusae.com^
@@ -97571,6 +97575,11 @@
 ||doritfin.com^
 ||dorivoia.com^
 ||dorivoinvestment.live^
+||dorkland-bet.fr^
+||dorkland.fr^
+||dorklandbet.fr^
+||dorklandparis.fr^
+||dorklandparisportifs.fr^
 ||dorkumi.shop^
 ||dorlineta.com^
 ||dorlumo.shop^
@@ -105138,6 +105147,7 @@
 ||ellenhopkins.shop^
 ||elleoutlet.fr^
 ||elleschool.com^
+||ellesse-france.fr^
 ||ellessefrance.fr^
 ||ellidetrenikstrade.com^
 ||ellieandissa.com^
@@ -143808,6 +143818,7 @@
 ||hoshinesilicon.com^
 ||hoshiroko.com^
 ||hoshop.top^
+||hosinger.fr^
 ||hosjoy.com^
 ||hosno7.com^
 ||hosonglass.com^
@@ -143861,6 +143872,7 @@
 ||hostloc.me^
 ||hostmaster.messenger.com^
 ||hostmonit.com^
+||hostnger.fr^
 ||hostoexp.com^
 ||hostpalimit.com^
 ||hostperepe.sviluppo.host^
@@ -144711,6 +144723,7 @@
 ||hstbroker.com^
 ||hstczkj.com^
 ||hstd.com^
+||hstinger.fr^
 ||hstockalternative.site^
 ||hstong.com^
 ||hstronzone.site^
@@ -181710,6 +181723,7 @@
 ||luminimap.site^
 ||luminindia.cyou^
 ||luminisfinance.fr^
+||luminisfrance.fr^
 ||lumino-shield.com^
 ||luminor-sparkle.com^
 ||luminoscapes.shop^
@@ -209240,6 +209254,7 @@
 ||nantesnotaire.fr^
 ||nantilus.fr^
 ||nantissoire.net^
+||nantivancefr.fr^
 ||nantong-hst.com^
 ||nantongfeixu.com^
 ||nantonghua.net^
@@ -215806,6 +215821,7 @@
 ||noustestons.antiqueceilings.com^
 ||nouvalle-aquitaine.fr^
 ||nouveau-casino-2026.fr^
+||nouveau-casino-en-ligne-fr.fr^
 ||nouveau-compte-prime.fr^
 ||nouveau-prime.fr^
 ||nouveau-service-bnpparibas.fr^
@@ -215974,6 +215990,7 @@
 ||novascotiaferrytravels.site^
 ||novascotiatravels.site^
 ||novashelf.shop^
+||novashopfr.fr^
 ||novashopfrance.fr^
 ||novaskiin.fr^
 ||novaskin-paris.fr^
@@ -218690,6 +218707,7 @@
 ||oestefinencio.digital^
 ||oestfundprosystem.com^
 ||oeth-handicapurssaf.fr^
+||oeth-urssaf.fr^
 ||oetsi.com^
 ||oettv.xttv.at^
 ||oetvbt.com^
@@ -239095,6 +239113,7 @@
 ||preestablishcountepprspell.info^
 ||preexemptsbroadswppord.info^
 ||preexridic.store^
+||pref-ants.fr^
 ||pref-gouv93.fr^
 ||pref-interieurgouv.fr^
 ||pref-police-alfortville.fr^
@@ -258720,6 +258739,7 @@
 ||sackiplingfrance.fr^
 ||sackurtgeiger.fr^
 ||sackvile.com^
+||saclancelpascher.fr^
 ||saclongchamp--pascher.fr^
 ||saclongchamp-pas-cher.fr^
 ||saclongchamp-pascher.fr^
@@ -272114,6 +272134,7 @@
 ||slotngo.fr^
 ||slotngocasino.fr^
 ||slotoland.fr^
+||slotonline.fr^
 ||slotorado.fr^
 ||slotornadocasino.fr^
 ||slotorocasino.fr^
@@ -277475,6 +277496,7 @@
 ||spinsy-login.fr^
 ||spinsy-officiel.fr^
 ||spinsy.fr^
+||spinsy7.fr^
 ||spinsycasino-com.fr^
 ||spinsycasino-fr.fr^
 ||spinsycasino1.fr^
@@ -291717,6 +291739,7 @@
 ||tevenovoa.help^
 ||tevenovoa.wiki^
 ||tevenovoa.work^
+||teveo-shops.fr^
 ||teveofranceshop.fr^
 ||teveofrancestore.fr^
 ||teveoleggings.fr^
