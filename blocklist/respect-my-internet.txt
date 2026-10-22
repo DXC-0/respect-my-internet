@@ -54044,6 +54044,7 @@
 0.0.0.0 besttrav.com
 0.0.0.0 besttwomarkup.com
 0.0.0.0 bestuabbri.cyou
+0.0.0.0 bestune-france.fr
 0.0.0.0 bestv6.com
 0.0.0.0 bestvcdn.com
 0.0.0.0 bestvcdn.net
@@ -60620,6 +60621,7 @@
 0.0.0.0 boutique-prime.fr
 0.0.0.0 boutique-rugby.fr
 0.0.0.0 boutique-sfr.fr
+0.0.0.0 boutique-stade-rennais.fr
 0.0.0.0 boutique24hdumans.fr
 0.0.0.0 boutiqueaigleparis.fr
 0.0.0.0 boutiqueairmax2016.fr
@@ -60640,6 +60642,7 @@
 0.0.0.0 boutiquerenault.fr
 0.0.0.0 boutiquerenaultsport.fr
 0.0.0.0 boutiquerugbyfrance.fr
+0.0.0.0 boutiques-ol.fr
 0.0.0.0 boutiquesfr.fr
 0.0.0.0 boutiquestussyparis.fr
 0.0.0.0 boutiqueugg.fr
@@ -68450,6 +68453,7 @@
 0.0.0.0 casinojoka-france.fr
 0.0.0.0 casinojoka-officiel.fr
 0.0.0.0 casinojoka-online.fr
+0.0.0.0 casinojokery-fr.fr
 0.0.0.0 casinojournal.fr
 0.0.0.0 casinojoy.fr
 0.0.0.0 casinojuanlespins.fr
@@ -68601,6 +68605,7 @@
 0.0.0.0 casinoquickwin.fr
 0.0.0.0 casinora1.fr
 0.0.0.0 casinorainbet.fr
+0.0.0.0 casinorealz.fr
 0.0.0.0 casinoretraitinstantane.fr
 0.0.0.0 casinoreveryplay.fr
 0.0.0.0 casinorevolut.fr
@@ -80452,6 +80457,7 @@
 0.0.0.0 cofferxm.com
 0.0.0.0 coffre-ants.fr
 0.0.0.0 coffrefort-ants.fr
+0.0.0.0 coffrefortsecur.fr
 0.0.0.0 coffrencia.live
 0.0.0.0 coffrncia.com
 0.0.0.0 coffrsospi.cyou
@@ -129082,7 +129088,10 @@
 0.0.0.0 goldengoosesoldes.fr
 0.0.0.0 goldengreengolf.com
 0.0.0.0 goldengun-casino.fr
+0.0.0.0 goldengun-fr.fr
+0.0.0.0 goldengun-france.fr
 0.0.0.0 goldengun.fr
+0.0.0.0 goldenguncasino.fr
 0.0.0.0 goldenharboralchemy.info
 0.0.0.0 goldenhighway-chem.com
 0.0.0.0 goldenholiday.com
@@ -168775,6 +168784,7 @@
 0.0.0.0 koofun.com
 0.0.0.0 koogua.com
 0.0.0.0 kook.vip
+0.0.0.0 kookaifrance.fr
 0.0.0.0 kookong.com
 0.0.0.0 koolcenter.com
 0.0.0.0 kooldns.com
@@ -190444,6 +190454,7 @@
 0.0.0.0 millionairecasino.fr
 0.0.0.0 millioncasino.fr
 0.0.0.0 millioncasino1.fr
+0.0.0.0 millioner-casiino.fr
 0.0.0.0 millioner-casino-france.fr
 0.0.0.0 millioner-casino-online.fr
 0.0.0.0 millioner-casinos.fr
@@ -228573,6 +228584,7 @@
 0.0.0.0 parimatchs.fr
 0.0.0.0 parimax.shop
 0.0.0.0 parimutuelurbain.fr
+0.0.0.0 parimutuelurbainparis.fr
 0.0.0.0 parions-sport-app.fr
 0.0.0.0 parions-sport-bonus.fr
 0.0.0.0 parions-sport-fr.fr
@@ -250683,6 +250695,7 @@
 0.0.0.0 realz-casino-game.fr
 0.0.0.0 realz-casino-play.fr
 0.0.0.0 realz-fr.fr
+0.0.0.0 realzcasino-fr.fr
 0.0.0.0 realzcasino.fr
 0.0.0.0 realzzcasino.fr
 0.0.0.0 reamaam.blogspot.com
@@ -264845,6 +264858,7 @@
 0.0.0.0 service-digitale-client.fr
 0.0.0.0 service-disneyplus.fr
 0.0.0.0 service-dlsneyplus.fr
+0.0.0.0 service-dpd.fr
 0.0.0.0 service-dsp2-bnpparibas.fr
 0.0.0.0 service-e-sim.fr
 0.0.0.0 service-edf-remboursement.fr
@@ -269532,6 +269546,7 @@
 0.0.0.0 sidike.com
 0.0.0.0 sidishoes.fr
 0.0.0.0 sidishoesfrance.fr
+0.0.0.0 sidishoesinfrance.fr
 0.0.0.0 sidisidi.uk
 0.0.0.0 sidlgroup.com
 0.0.0.0 sidmilne.shop
@@ -278993,6 +279008,7 @@
 0.0.0.0 stardict.net
 0.0.0.0 stardigpulse.site
 0.0.0.0 stardoc.fr
+0.0.0.0 stardrip-paiement.fr
 0.0.0.0 stards.com
 0.0.0.0 stardust2000.com
 0.0.0.0 stardustdump.pro
@@ -283349,6 +283365,7 @@
 0.0.0.0 support-netflix.fr
 0.0.0.0 support-netfllx.fr
 0.0.0.0 support-netflx.fr
+0.0.0.0 support-nickel.fr
 0.0.0.0 support-notif-connexion.fr
 0.0.0.0 support-notification-renouvellement.fr
 0.0.0.0 support-notification.fr
@@ -299298,10 +299315,13 @@
 0.0.0.0 trixeo.shop
 0.0.0.0 trixeon83.site
 0.0.0.0 trixino-france.fr
+0.0.0.0 trixino-official.fr
 0.0.0.0 trixino-officiel.fr
+0.0.0.0 trixino-play.fr
 0.0.0.0 trixino.fr
 0.0.0.0 trixino7.fr
 0.0.0.0 trixinocasino.fr
+0.0.0.0 trixinoo.fr
 0.0.0.0 trixinoonline.fr
 0.0.0.0 trixinoplay.fr
 0.0.0.0 trixinos.fr
@@ -301187,6 +301207,7 @@
 0.0.0.0 twincasinoonline.fr
 0.0.0.0 twincasinos-fr.fr
 0.0.0.0 twincasinos.fr
+0.0.0.0 twindor-casino.fr
 0.0.0.0 twinflowpro.site
 0.0.0.0 twinfortune.fr
 0.0.0.0 twiningss.fr
@@ -318602,6 +318623,7 @@
 0.0.0.0 west263.com
 0.0.0.0 west95582.com
 0.0.0.0 west999.com
+0.0.0.0 westace-casiino.fr
 0.0.0.0 westace-casino-101.fr
 0.0.0.0 westace-casino-24.fr
 0.0.0.0 westace-casino-365.fr
@@ -320593,6 +320615,7 @@
 0.0.0.0 winpe.cc
 0.0.0.0 winpex-cn.com
 0.0.0.0 winpexgroup.com
+0.0.0.0 winplace-casiino.fr
 0.0.0.0 winplace-casino.fr
 0.0.0.0 winplacecasino.fr
 0.0.0.0 winplaces.fr
