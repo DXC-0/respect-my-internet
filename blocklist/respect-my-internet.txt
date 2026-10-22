@@ -297748,11 +297748,9 @@
 0.0.0.0 track.chanret.com
 0.0.0.0 track.commoncoding.info
 0.0.0.0 track.customer.io
-0.0.0.0 track.dictionary.com #First Party - Tracker
 0.0.0.0 track.easeus.com #First Party - Tracker
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.flexlinkspro.com #Unknown - Tracker
-0.0.0.0 track.freecallinc.com #First Party - Tracker
 0.0.0.0 track.freeftpclient.info
 0.0.0.0 track.freemmo2017.com
 0.0.0.0 track.hubspot.com
@@ -297777,20 +297775,15 @@
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.sohu.com #First Party - Tracker
 0.0.0.0 track.spots.im
-0.0.0.0 track.sublytics-5cffe909e69e6.com #Sublytics - Tracker
-0.0.0.0 track.sublytics-5df8eec4bca66.com #Sublytics - Tracker
 0.0.0.0 track.sublytics-600afc6bd3e89.com #Sublytics - Tracker
 0.0.0.0 track.thebookofhepatitisc.info
-0.0.0.0 track.thesaurus.com #First Party - Tracker
 0.0.0.0 track.todayreward.net
-0.0.0.0 track.tproger.ru #First Party - Tracker
 0.0.0.0 track.tracktorist.shop
 0.0.0.0 track.tumorbiologie.info
 0.0.0.0 track.ultragaming.biz
 0.0.0.0 track.untd.com #UnitedOnline - Tracker
 0.0.0.0 track.wattpad.com #First Party - Tracker
 0.0.0.0 track.wattpadhq.com #First Party - Tracker
-0.0.0.0 track.wikibuy.com #First Party - Tracker
 0.0.0.0 track.wildestheart.info
 0.0.0.0 track.winnerlights.info
 0.0.0.0 track.winnersclassroom.info
@@ -297827,7 +297820,6 @@
 0.0.0.0 tracker.my.com #First Party - Tracker
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.nbcuas.com #NBCUniversal - Tracker
-0.0.0.0 tracker.nitropay.com #First Party - Tracker
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.tutotoons.com #First Party - Tracker
 0.0.0.0 tracker.vinsight.de
@@ -297862,7 +297854,6 @@
 0.0.0.0 tracking.digitalocean.com #First Party - Tracker
 0.0.0.0 tracking.emails.zixflow.us
 0.0.0.0 tracking.epicgames.com #First Party - Tracker
-0.0.0.0 tracking.forbetterforworse.co.uk #First Party - Tracker
 0.0.0.0 tracking.game8.co #First Party - Tracker
 0.0.0.0 tracking.hawksearch.com #First Party - Tracker
 0.0.0.0 tracking.hubspot.com
@@ -297885,15 +297876,11 @@
 0.0.0.0 tracking.ott.yandex.ru #First Party - Tracker
 0.0.0.0 tracking.overwolf.com #First Party - Tracker
 0.0.0.0 tracking.percentmobile.com
-0.0.0.0 tracking.prd.mz.internal.unity3d.com #unity3d.com - Tracker
 0.0.0.0 tracking.resortsandlodges.com #First Party - Tracker
 0.0.0.0 tracking.retailrocket.ru #RetailRocket - Tracker
 0.0.0.0 tracking.revimedia.com
 0.0.0.0 tracking.rus.miui.com #Miui - Tracker
 0.0.0.0 tracking.sendrentnow.com
-0.0.0.0 tracking.sezzle.com #First Party - Tracker
-0.0.0.0 tracking.shopstyle.co.uk #First Party - Tracker
-0.0.0.0 tracking.shopstyle.com #First Party - Tracker
 0.0.0.0 tracking.sokrati.com
 0.0.0.0 tracking.unrealengine.com #First Party - Tracker
 0.0.0.0 tracking.websitealive.com
@@ -298220,7 +298207,6 @@
 0.0.0.0 traffic-signal-manufacturers.com
 0.0.0.0 traffic.alexa.com
 0.0.0.0 traffic.pubexchange.com
-0.0.0.0 traffic.ru #Unknown - Tracker
 0.0.0.0 traffic.shareaholic.com
 0.0.0.0 trafficfactory.biz #Unknown - Tracker
 0.0.0.0 trafficflowtm.com
@@ -298305,7 +298291,6 @@
 0.0.0.0 trakksocial.googlecode.com
 0.0.0.0 trakona.com
 0.0.0.0 trakt53.live
-0.0.0.0 traktrafficflow.com #Unknown - Tracker
 0.0.0.0 trakul.click
 0.0.0.0 trakyadanhaber.com
 0.0.0.0 trakyakivircik.com
@@ -299420,7 +299405,6 @@
 0.0.0.0 trjddq.com
 0.0.0.0 trjls.com
 0.0.0.0 trk-1k.wellneshub.info
-0.0.0.0 trk-convenire.com #Push Ads - Tracker
 0.0.0.0 trk.ablogica.com
 0.0.0.0 trk.celtx.com #First Party - Tracker
 0.0.0.0 trk.cetrk.com
@@ -299431,14 +299415,12 @@
 0.0.0.0 trk.northshore-mtb.eu
 0.0.0.0 trk.pinterest.com #Pinterest - Tracker
 0.0.0.0 trk.vidible.tv
-0.0.0.0 trk2.pinterest.com #Pinterest - Tracker
 0.0.0.0 trkj.com
 0.0.0.0 trkjbj.com
 0.0.0.0 trkmydomain.com
 0.0.0.0 trkn.us #Claritas - Tracker
 0.0.0.0 trknex.com #Unknown - Tracker
 0.0.0.0 trkr.duckdns.org #First Party - Tracker
-0.0.0.0 trkshark.cc #Unknown - Tracker
 0.0.0.0 trleader.com
 0.0.0.0 trli.club
 0.0.0.0 trloncaholding.com
@@ -300578,7 +300560,6 @@
 0.0.0.0 tumorcilla.com
 0.0.0.0 tumormed.com
 0.0.0.0 tumorribec.autos
-0.0.0.0 tumri.net #Unknown - Tracker
 0.0.0.0 tumukaoyan.com
 0.0.0.0 tumukeji.com
 0.0.0.0 tumwf.com
@@ -302622,7 +302603,6 @@
 0.0.0.0 uicom.net
 0.0.0.0 uid-id3248524.eu.cc
 0.0.0.0 uid-xapi.rewest-service.pl
-0.0.0.0 uid.mavencoalition.io #First Party - Tracker
 0.0.0.0 uid75.com
 0.0.0.0 uidaidsjaioepsads.site
 0.0.0.0 uidec.com
@@ -304419,7 +304399,6 @@
 0.0.0.0 unzitech.com
 0.0.0.0 unzzsteadies.info
 0.0.0.0 uoboc.com
-0.0.0.0 uobsoe.com #Unknown - Tracker
 0.0.0.0 uocc-gr.weebly.com
 0.0.0.0 uochen.com
 0.0.0.0 uod2quk646.com #AdMeasures - Advertising
@@ -305391,7 +305370,6 @@
 0.0.0.0 userlifecycle-ui.stage.us-west2.twitch.tv
 0.0.0.0 userlike.fr
 0.0.0.0 userlocation.googleapis.com
-0.0.0.0 usermetrics.lidlplus.com #First Party - Tracker
 0.0.0.0 userpanelmobile-pa.googleapis.com
 0.0.0.0 userr-acces-centter.vercel.app
 0.0.0.0 userreplay.net #Unknown - Tracker
@@ -307262,7 +307240,6 @@
 0.0.0.0 vdlvz5eh08yw1-pages-dev.translate.goog
 0.0.0.0 vdlya.com
 0.0.0.0 vdmisgood.github.io
-0.0.0.0 vdna-assets.com #Imagini Holdings - Tracker
 0.0.0.0 vdncache.com
 0.0.0.0 vdncloud.com
 0.0.0.0 vdndc.com
@@ -308032,7 +308009,6 @@
 0.0.0.0 venerabilitywwlandscapists.info
 0.0.0.0 venermoci.cyou
 0.0.0.0 venestream.com
-0.0.0.0 venetrigni.com #Unknown - Tracker
 0.0.0.0 venezia-primegpt.com
 0.0.0.0 veneziana.shop
 0.0.0.0 veneziapl.shop
@@ -309793,7 +309769,6 @@
 0.0.0.0 viltd.com
 0.0.0.0 vilurai.com
 0.0.0.0 vilurai.lovable.app
-0.0.0.0 vilynx.com #Vilynx - Tracker
 0.0.0.0 vimage1.com
 0.0.0.0 vimage2.com
 0.0.0.0 vimage3.com

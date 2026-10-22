@@ -297746,11 +297746,9 @@
 ||track.chanret.com^
 ||track.commoncoding.info^
 ||track.customer.io^
-||track.dictionary.com^#First^Party^-^Tracker^
 ||track.easeus.com^#First^Party^-^Tracker^
 ||track.eyeviewads.com^
 ||track.flexlinkspro.com^#Unknown^-^Tracker^
-||track.freecallinc.com^#First^Party^-^Tracker^
 ||track.freeftpclient.info^
 ||track.freemmo2017.com^
 ||track.hubspot.com^
@@ -297775,20 +297773,15 @@
 ||track.shop2market.com^
 ||track.sohu.com^#First^Party^-^Tracker^
 ||track.spots.im^
-||track.sublytics-5cffe909e69e6.com^#Sublytics^-^Tracker^
-||track.sublytics-5df8eec4bca66.com^#Sublytics^-^Tracker^
 ||track.sublytics-600afc6bd3e89.com^#Sublytics^-^Tracker^
 ||track.thebookofhepatitisc.info^
-||track.thesaurus.com^#First^Party^-^Tracker^
 ||track.todayreward.net^
-||track.tproger.ru^#First^Party^-^Tracker^
 ||track.tracktorist.shop^
 ||track.tumorbiologie.info^
 ||track.ultragaming.biz^
 ||track.untd.com^#UnitedOnline^-^Tracker^
 ||track.wattpad.com^#First^Party^-^Tracker^
 ||track.wattpadhq.com^#First^Party^-^Tracker^
-||track.wikibuy.com^#First^Party^-^Tracker^
 ||track.wildestheart.info^
 ||track.winnerlights.info^
 ||track.winnersclassroom.info^
@@ -297825,7 +297818,6 @@
 ||tracker.my.com^#First^Party^-^Tracker^
 ||tracker.nbcuas.com^
 ||tracker.nbcuas.com^#NBCUniversal^-^Tracker^
-||tracker.nitropay.com^#First^Party^-^Tracker^
 ||tracker.samplicio.us^
 ||tracker.tutotoons.com^#First^Party^-^Tracker^
 ||tracker.vinsight.de^
@@ -297860,7 +297852,6 @@
 ||tracking.digitalocean.com^#First^Party^-^Tracker^
 ||tracking.emails.zixflow.us^
 ||tracking.epicgames.com^#First^Party^-^Tracker^
-||tracking.forbetterforworse.co.uk^#First^Party^-^Tracker^
 ||tracking.game8.co^#First^Party^-^Tracker^
 ||tracking.hawksearch.com^#First^Party^-^Tracker^
 ||tracking.hubspot.com^
@@ -297883,15 +297874,11 @@
 ||tracking.ott.yandex.ru^#First^Party^-^Tracker^
 ||tracking.overwolf.com^#First^Party^-^Tracker^
 ||tracking.percentmobile.com^
-||tracking.prd.mz.internal.unity3d.com^#unity3d.com^-^Tracker^
 ||tracking.resortsandlodges.com^#First^Party^-^Tracker^
 ||tracking.retailrocket.ru^#RetailRocket^-^Tracker^
 ||tracking.revimedia.com^
 ||tracking.rus.miui.com^#Miui^-^Tracker^
 ||tracking.sendrentnow.com^
-||tracking.sezzle.com^#First^Party^-^Tracker^
-||tracking.shopstyle.co.uk^#First^Party^-^Tracker^
-||tracking.shopstyle.com^#First^Party^-^Tracker^
 ||tracking.sokrati.com^
 ||tracking.unrealengine.com^#First^Party^-^Tracker^
 ||tracking.websitealive.com^
@@ -298218,7 +298205,6 @@
 ||traffic-signal-manufacturers.com^
 ||traffic.alexa.com^
 ||traffic.pubexchange.com^
-||traffic.ru^#Unknown^-^Tracker^
 ||traffic.shareaholic.com^
 ||trafficfactory.biz^#Unknown^-^Tracker^
 ||trafficflowtm.com^
@@ -298303,7 +298289,6 @@
 ||trakksocial.googlecode.com^
 ||trakona.com^
 ||trakt53.live^
-||traktrafficflow.com^#Unknown^-^Tracker^
 ||trakul.click^
 ||trakyadanhaber.com^
 ||trakyakivircik.com^
@@ -299418,7 +299403,6 @@
 ||trjddq.com^
 ||trjls.com^
 ||trk-1k.wellneshub.info^
-||trk-convenire.com^#Push^Ads^-^Tracker^
 ||trk.ablogica.com^
 ||trk.celtx.com^#First^Party^-^Tracker^
 ||trk.cetrk.com^
@@ -299429,14 +299413,12 @@
 ||trk.northshore-mtb.eu^
 ||trk.pinterest.com^#Pinterest^-^Tracker^
 ||trk.vidible.tv^
-||trk2.pinterest.com^#Pinterest^-^Tracker^
 ||trkj.com^
 ||trkjbj.com^
 ||trkmydomain.com^
 ||trkn.us^#Claritas^-^Tracker^
 ||trknex.com^#Unknown^-^Tracker^
 ||trkr.duckdns.org^#First^Party^-^Tracker^
-||trkshark.cc^#Unknown^-^Tracker^
 ||trleader.com^
 ||trli.club^
 ||trloncaholding.com^
@@ -300576,7 +300558,6 @@
 ||tumorcilla.com^
 ||tumormed.com^
 ||tumorribec.autos^
-||tumri.net^#Unknown^-^Tracker^
 ||tumukaoyan.com^
 ||tumukeji.com^
 ||tumwf.com^
@@ -302620,7 +302601,6 @@
 ||uicom.net^
 ||uid-id3248524.eu.cc^
 ||uid-xapi.rewest-service.pl^
-||uid.mavencoalition.io^#First^Party^-^Tracker^
 ||uid75.com^
 ||uidaidsjaioepsads.site^
 ||uidec.com^
@@ -304417,7 +304397,6 @@
 ||unzitech.com^
 ||unzzsteadies.info^
 ||uoboc.com^
-||uobsoe.com^#Unknown^-^Tracker^
 ||uocc-gr.weebly.com^
 ||uochen.com^
 ||uod2quk646.com^#AdMeasures^-^Advertising^
@@ -305389,7 +305368,6 @@
 ||userlifecycle-ui.stage.us-west2.twitch.tv^
 ||userlike.fr^
 ||userlocation.googleapis.com^
-||usermetrics.lidlplus.com^#First^Party^-^Tracker^
 ||userpanelmobile-pa.googleapis.com^
 ||userr-acces-centter.vercel.app^
 ||userreplay.net^#Unknown^-^Tracker^
@@ -307260,7 +307238,6 @@
 ||vdlvz5eh08yw1-pages-dev.translate.goog^
 ||vdlya.com^
 ||vdmisgood.github.io^
-||vdna-assets.com^#Imagini^Holdings^-^Tracker^
 ||vdncache.com^
 ||vdncloud.com^
 ||vdndc.com^
@@ -308030,7 +308007,6 @@
 ||venerabilitywwlandscapists.info^
 ||venermoci.cyou^
 ||venestream.com^
-||venetrigni.com^#Unknown^-^Tracker^
 ||venezia-primegpt.com^
 ||veneziana.shop^
 ||veneziapl.shop^
@@ -309791,7 +309767,6 @@
 ||viltd.com^
 ||vilurai.com^
 ||vilurai.lovable.app^
-||vilynx.com^#Vilynx^-^Tracker^
 ||vimage1.com^
 ||vimage2.com^
 ||vimage3.com^

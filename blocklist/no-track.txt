@@ -14822,10 +14822,8 @@
 0.0.0.0 trace.popin.cc #First Party - Tracker
 0.0.0.0 trace.qq.com #QQ - Tracker
 0.0.0.0 track.canva.com #First Party - Tracker
-0.0.0.0 track.dictionary.com #First Party - Tracker
 0.0.0.0 track.easeus.com #First Party - Tracker
 0.0.0.0 track.flexlinkspro.com #Unknown - Tracker
-0.0.0.0 track.freecallinc.com #First Party - Tracker
 0.0.0.0 track.juno.com #First Party - Tracker
 0.0.0.0 track.libii.cn #First Party - Tracker
 0.0.0.0 track.magictavern.com #First Party - Tracker
@@ -14835,15 +14833,10 @@
 0.0.0.0 track.saygames.io #First Party - Tracker
 0.0.0.0 track.searchiq.co #SearchIQ - Tracker
 0.0.0.0 track.sohu.com #First Party - Tracker
-0.0.0.0 track.sublytics-5cffe909e69e6.com #Sublytics - Tracker
-0.0.0.0 track.sublytics-5df8eec4bca66.com #Sublytics - Tracker
 0.0.0.0 track.sublytics-600afc6bd3e89.com #Sublytics - Tracker
-0.0.0.0 track.thesaurus.com #First Party - Tracker
-0.0.0.0 track.tproger.ru #First Party - Tracker
 0.0.0.0 track.untd.com #UnitedOnline - Tracker
 0.0.0.0 track.wattpad.com #First Party - Tracker
 0.0.0.0 track.wattpadhq.com #First Party - Tracker
-0.0.0.0 track.wikibuy.com #First Party - Tracker
 0.0.0.0 track.zpbt.uk #Third Party - Tracker
 0.0.0.0 track1.avplayer.com #First Party - Tracker
 0.0.0.0 trackad.cz #TrackAd - Tracker
@@ -14855,7 +14848,6 @@
 0.0.0.0 tracker.gamedock.io #First Party - Tracker
 0.0.0.0 tracker.my.com #First Party - Tracker
 0.0.0.0 tracker.nbcuas.com #NBCUniversal - Tracker
-0.0.0.0 tracker.nitropay.com #First Party - Tracker
 0.0.0.0 tracker.tutotoons.com #First Party - Tracker
 0.0.0.0 trackerhqu.com #Unknown - Tracker
 0.0.0.0 tracking.aegpresents.com #First Party - Tracker
@@ -14864,7 +14856,6 @@
 0.0.0.0 tracking.csgipe.com #First Party - Tracker
 0.0.0.0 tracking.digitalocean.com #First Party - Tracker
 0.0.0.0 tracking.epicgames.com #First Party - Tracker
-0.0.0.0 tracking.forbetterforworse.co.uk #First Party - Tracker
 0.0.0.0 tracking.game8.co #First Party - Tracker
 0.0.0.0 tracking.hawksearch.com #First Party - Tracker
 0.0.0.0 tracking.india.miui.com #Miui - Tracker
@@ -14879,13 +14870,9 @@
 0.0.0.0 tracking.ott.yandex.net #Yandex - Tracker
 0.0.0.0 tracking.ott.yandex.ru #First Party - Tracker
 0.0.0.0 tracking.overwolf.com #First Party - Tracker
-0.0.0.0 tracking.prd.mz.internal.unity3d.com #unity3d.com - Tracker
 0.0.0.0 tracking.resortsandlodges.com #First Party - Tracker
 0.0.0.0 tracking.retailrocket.ru #RetailRocket - Tracker
 0.0.0.0 tracking.rus.miui.com #Miui - Tracker
-0.0.0.0 tracking.sezzle.com #First Party - Tracker
-0.0.0.0 tracking.shopstyle.co.uk #First Party - Tracker
-0.0.0.0 tracking.shopstyle.com #First Party - Tracker
 0.0.0.0 tracking.unrealengine.com #First Party - Tracker
 0.0.0.0 tracking.wpnetwork.eu #Unknown - Tracker
 0.0.0.0 trackjs.com #Unknown - Tracker
@@ -14898,7 +14885,6 @@
 0.0.0.0 tradplus.com #Trad Plus - Advertising
 0.0.0.0 tradplusad.com #TradPlus - Advertising
 0.0.0.0 trafffgen.rambler.ru #First Party - Tracker
-0.0.0.0 traffic.ru #Unknown - Tracker
 0.0.0.0 trafficfactory.biz #Unknown - Tracker
 0.0.0.0 trafficguard.ai #TrafficGuard - Tracker
 0.0.0.0 traffichaus.com #TrafficHaus - Tracker
@@ -14909,7 +14895,6 @@
 0.0.0.0 trafficstars.com #Trafficstars - Tracker
 0.0.0.0 trafforsrv.com #Unknown - Tracker
 0.0.0.0 trafmag.com #TrafMag - Tracker
-0.0.0.0 traktrafficflow.com #Unknown - Tracker
 0.0.0.0 transacme.com #Infinix Tracker - Tracker
 0.0.0.0 transcend.io #Transcend - Tracker
 0.0.0.0 trashyepochabsorbing.com #AdMeasures - Advertising
@@ -14922,17 +14907,14 @@
 0.0.0.0 tresensa.com #Liftoff - Tracker
 0.0.0.0 tribalfusion.com #Unknown - Tracker
 0.0.0.0 triggit.com #Unknown - Tracker
-0.0.0.0 trk-convenire.com #Push Ads - Tracker
 0.0.0.0 trk.celtx.com #First Party - Tracker
 0.0.0.0 trk.homeaway.com #First Party - Tracker
 0.0.0.0 trk.justanswer.com #First Party - Tracker
 0.0.0.0 trk.lcn.com #First Party - Tracker
 0.0.0.0 trk.pinterest.com #Pinterest - Tracker
-0.0.0.0 trk2.pinterest.com #Pinterest - Tracker
 0.0.0.0 trkn.us #Claritas - Tracker
 0.0.0.0 trknex.com #Unknown - Tracker
 0.0.0.0 trkr.duckdns.org #First Party - Tracker
-0.0.0.0 trkshark.cc #Unknown - Tracker
 0.0.0.0 trnox.com #AIadmobi - Advertising
 0.0.0.0 tru.am #TrueAnthem - Tracker
 0.0.0.0 truehits.in.th #Truehits - Tracker
@@ -14951,7 +14933,6 @@
 0.0.0.0 ttgtmedia.com #Tech Target - Tracker
 0.0.0.0 ttxm.co.uk #Unknown - Tracker
 0.0.0.0 tubemogul.com #Unknown - Tracker
-0.0.0.0 tumri.net #Unknown - Tracker
 0.0.0.0 tuplogpublic.bangcdn.net #Unknown - Advertising
 0.0.0.0 turn.com #Unknown - Tracker
 0.0.0.0 tutoads.tv #Inicio - Advertising
@@ -14971,7 +14952,6 @@
 0.0.0.0 udmserve.net #Unknown - Tracker
 0.0.0.0 ufpcdn.com #Unknown - Advertising
 0.0.0.0 ugdturner.com #CNN - Tracker
-0.0.0.0 uid.mavencoalition.io #First Party - Tracker
 0.0.0.0 uimetadata.samsungiotcloud.com #Samsung - Tracker
 0.0.0.0 ultimedia.com #Charles Ganem - Tracker
 0.0.0.0 umeng.co #Umeng - Tracker
@@ -14990,7 +14970,6 @@
 0.0.0.0 unruly.co #Unruly - Advertising
 0.0.0.0 unrulymedia.com #Unruly - Advertising
 0.0.0.0 unseenreport.com #AdMeasures - Advertising
-0.0.0.0 uobsoe.com #Unknown - Tracker
 0.0.0.0 uod2quk646.com #AdMeasures - Advertising
 0.0.0.0 upapi.net #Urban Dictionary - Tracker
 0.0.0.0 upd-pct.info #Sergii Mykolaenko - Tracker
@@ -15016,7 +14995,6 @@
 0.0.0.0 useinsider.com #Insider - Tracker
 0.0.0.0 useitbetter.com #Unknown - Tracker
 0.0.0.0 usemessages.com #Hubspot - Tracker
-0.0.0.0 usermetrics.lidlplus.com #First Party - Tracker
 0.0.0.0 userreplay.net #Unknown - Tracker
 0.0.0.0 userreport.com #User Report - Tracker
 0.0.0.0 usersnap.com #Usersnap - Tracker
@@ -15037,7 +15015,6 @@
 0.0.0.0 vcmdiawe.com #Unknown - Advertising
 0.0.0.0 vcmedia.vn #Unknown - Tracker
 0.0.0.0 vcommission.com #vCommission - Tracker
-0.0.0.0 vdna-assets.com #Imagini Holdings - Tracker
 0.0.0.0 vdo.ai #Vdo.ai - Advertising
 0.0.0.0 veeseo.com #Veeseo - Tracker
 0.0.0.0 veille-referencement.com #Unknown - Tracker
@@ -15047,7 +15024,6 @@
 0.0.0.0 velti.com #Velti - Tracker
 0.0.0.0 venatusmedia.com #Venatus Media - Advertising
 0.0.0.0 vendemore.com #Vendemore - Tracker
-0.0.0.0 venetrigni.com #Unknown - Tracker
 0.0.0.0 venturead.com #Unknown - Advertising
 0.0.0.0 veoxa.com #Unknown - Tracker
 0.0.0.0 vergic.com #Vergic - Tracker
@@ -15083,7 +15059,6 @@
 0.0.0.0 vidyard.com #Unknown - Tracker
 0.0.0.0 viglink.com #VigLink - Tracker
 0.0.0.0 vihub.ru #Between Exchange - Advertising
-0.0.0.0 vilynx.com #Vilynx - Tracker
 0.0.0.0 vindicosuite.com #Unknown - Tracker
 0.0.0.0 viqeo.tv #Viqeo - Tracker
 0.0.0.0 virgul.com #Virgul - Advertising
