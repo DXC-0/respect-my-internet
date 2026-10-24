@@ -6098,6 +6098,7 @@
 0.0.0.0 betriotcasino.fr
 0.0.0.0 betriotcasinofrance.fr
 0.0.0.0 betriots.fr
+0.0.0.0 betriviera-casiino.fr
 0.0.0.0 betriviera-casino.fr
 0.0.0.0 betriviera-casinos.fr
 0.0.0.0 betriviera-france.fr
@@ -6948,6 +6949,7 @@
 0.0.0.0 boujois.fr
 0.0.0.0 boulager.fr
 0.0.0.0 boulanger-remboursements.fr
+0.0.0.0 boulangerfrance.fr
 0.0.0.0 boulangerr.fr
 0.0.0.0 bourgognefranchcomte.fr
 0.0.0.0 bourgognefrancheconte.fr
@@ -7472,6 +7474,7 @@
 0.0.0.0 ca-refour.fr
 0.0.0.0 ca-region.fr
 0.0.0.0 ca-regionalesacces.fr
+0.0.0.0 ca-saone-doubs.fr
 0.0.0.0 ca-savoie.fr
 0.0.0.0 ca-scurepass-majlog.fr
 0.0.0.0 ca-securipass.fr
@@ -9813,6 +9816,7 @@
 0.0.0.0 chaussuresgeoxfrance.fr
 0.0.0.0 chaussureshanwag.fr
 0.0.0.0 chaussureshitec.fr
+0.0.0.0 chaussureshoka.fr
 0.0.0.0 chaussureshub.fr
 0.0.0.0 chaussuresideale.fr
 0.0.0.0 chaussuresideales.fr
@@ -14739,7 +14743,10 @@
 0.0.0.0 ekoy.fr
 0.0.0.0 el-mordjeneofficiel.fr
 0.0.0.0 elabet-casino.fr
+0.0.0.0 elabet-fr.fr
+0.0.0.0 elabet-france.fr
 0.0.0.0 elabetcasino.fr
+0.0.0.0 elabetfrance.fr
 0.0.0.0 elale.fr
 0.0.0.0 elan-groupe.fr
 0.0.0.0 elaphantbleu.fr
@@ -14973,6 +14980,7 @@
 0.0.0.0 envoi-ameli.fr
 0.0.0.0 envoi-chronopost.fr
 0.0.0.0 envoi-mondialrelay.fr
+0.0.0.0 envoi24pros.fr
 0.0.0.0 envoicolissimo.fr
 0.0.0.0 envoicourrier.fr
 0.0.0.0 envoie-ameli.fr
@@ -14980,6 +14988,7 @@
 0.0.0.0 envoie-chronpost.fr
 0.0.0.0 envoietonrsaionos.fr
 0.0.0.0 envoipostale.fr
+0.0.0.0 envois24pro.fr
 0.0.0.0 envoyer-ameli.fr
 0.0.0.0 envoyercourrier.fr
 0.0.0.0 enwolt.fr
@@ -16580,6 +16589,7 @@
 0.0.0.0 fortuneopretimmo.fr
 0.0.0.0 fortuneoservices.fr
 0.0.0.0 fortuneplay.fr
+0.0.0.0 fortunica-casiino.fr
 0.0.0.0 fortunica-casino.fr
 0.0.0.0 fortunica-fr.fr
 0.0.0.0 fortunica1.fr
@@ -17862,6 +17872,7 @@
 0.0.0.0 godz-fra.fr
 0.0.0.0 godz-french.fr
 0.0.0.0 godz-officiel.fr
+0.0.0.0 godz-online.fr
 0.0.0.0 godzcasino-fr.fr
 0.0.0.0 godzcasino1.fr
 0.0.0.0 godzcasinooo.fr
@@ -17907,10 +17918,12 @@
 0.0.0.0 gold-spins.fr
 0.0.0.0 goldbet-app.fr
 0.0.0.0 goldbet-casino.fr
+0.0.0.0 goldbet-france.fr
 0.0.0.0 goldbet-lion.fr
 0.0.0.0 goldbet-online.fr
 0.0.0.0 goldbetcasino.fr
 0.0.0.0 goldbetcasinofrance.fr
+0.0.0.0 goldbetfrance.fr
 0.0.0.0 goldbetonline.fr
 0.0.0.0 goldcasino-fr.fr
 0.0.0.0 golden--play.fr
@@ -18484,6 +18497,7 @@
 0.0.0.0 gransinocasinoo.fr
 0.0.0.0 gransinoenligne.fr
 0.0.0.0 gransinofr.fr
+0.0.0.0 gransinojeux.fr
 0.0.0.0 gransinor.fr
 0.0.0.0 gransinos.fr
 0.0.0.0 gransinoscasino.fr
@@ -18681,6 +18695,7 @@
 0.0.0.0 groupement-lesmousquetaires.fr
 0.0.0.0 groupement-mousquetaires.fr
 0.0.0.0 groupement-vracnco.fr
+0.0.0.0 groupenexity.fr
 0.0.0.0 groupepomonafr.fr
 0.0.0.0 grouperoche.fr
 0.0.0.0 groupes-brithotel.fr
@@ -21235,6 +21250,7 @@
 0.0.0.0 juliuscasinologin.fr
 0.0.0.0 juliuscasinomobile.fr
 0.0.0.0 juliuscasinoonline.fr
+0.0.0.0 juliuscasinos.fr
 0.0.0.0 juliusfrance-fr.fr
 0.0.0.0 juliusfrance.fr
 0.0.0.0 juliusofficial.fr
@@ -21274,6 +21290,7 @@
 0.0.0.0 k-way-officiel.fr
 0.0.0.0 k-way-outlet.fr
 0.0.0.0 k-way-paris.fr
+0.0.0.0 k-way-shop.fr
 0.0.0.0 k-way-store.fr
 0.0.0.0 k-wayfrance.fr
 0.0.0.0 k-wayoutlet.fr
@@ -27092,6 +27109,7 @@
 0.0.0.0 mysnapchat.fr
 0.0.0.0 mysolde-pcs.fr
 0.0.0.0 mystake-casino-fr.fr
+0.0.0.0 mystake-casino-france.fr
 0.0.0.0 mystake-casino.fr
 0.0.0.0 mystake-enligne.fr
 0.0.0.0 mystake-fr-casino.fr
@@ -27105,6 +27123,7 @@
 0.0.0.0 mystake4.fr
 0.0.0.0 mystakecasino-fr.fr
 0.0.0.0 mystakecasino-fra.fr
+0.0.0.0 mystakecasino-france.fr
 0.0.0.0 mystakecasino-online.fr
 0.0.0.0 mystakecasino.fr
 0.0.0.0 mystakecasino1.fr
@@ -30749,6 +30768,7 @@
 0.0.0.0 pol-eemploi.fr
 0.0.0.0 polarbreeze-officiel.fr
 0.0.0.0 polarelectrofrancesas.fr
+0.0.0.0 polaroid-fr.fr
 0.0.0.0 polaroidfrance.fr
 0.0.0.0 pold-emploi.fr
 0.0.0.0 pole--emploi.fr
@@ -39803,6 +39823,7 @@
 0.0.0.0 u-pssud.fr
 0.0.0.0 u-psud-macss.fr
 0.0.0.0 u-rouen.fr
+0.0.0.0 u-strabg.fr
 0.0.0.0 u-upsud.fr
 0.0.0.0 u-watch.fr
 0.0.0.0 u003efree-mobile.fr
@@ -39871,6 +39892,7 @@
 0.0.0.0 uggs-store.fr
 0.0.0.0 uggsfrance.fr
 0.0.0.0 uggshoes.fr
+0.0.0.0 uggsoldes.fr
 0.0.0.0 uggsparis.fr
 0.0.0.0 uggsshop.fr
 0.0.0.0 uggstore.fr
@@ -39998,6 +40020,7 @@
 0.0.0.0 uniquecasino-enligne.fr
 0.0.0.0 uniquecasino-france.fr
 0.0.0.0 uniquecasino-official.fr
+0.0.0.0 uniquecasino1.fr
 0.0.0.0 uniquecasino3.fr
 0.0.0.0 uniquecasinoapp.fr
 0.0.0.0 uniquecasinoavis.fr
@@ -41158,6 +41181,7 @@
 0.0.0.0 visit-info-prime.fr
 0.0.0.0 visit-prime.fr
 0.0.0.0 visitaprint.fr
+0.0.0.0 vistabankfrance.fr
 0.0.0.0 vistabet.fr
 0.0.0.0 vistaprint.tf
 0.0.0.0 vistaprinte.fr
@@ -42566,6 +42590,8 @@
 0.0.0.0 x3bet-fr.fr
 0.0.0.0 x3bet-france.fr
 0.0.0.0 x3betcasino.fr
+0.0.0.0 x3betcasinofrance.fr
+0.0.0.0 x3betfrance.fr
 0.0.0.0 x5pme-societegenerale.fr
 0.0.0.0 x7-app.fr
 0.0.0.0 x7-bonus.fr
