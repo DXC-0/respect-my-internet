@@ -27150,6 +27150,7 @@
 0.0.0.0 alibabaonline.com
 0.0.0.0 alibabaplanet.com
 0.0.0.0 alibabasauce.com
+0.0.0.0 alibabashop.fr
 0.0.0.0 alibabastars.com
 0.0.0.0 alibabatech.org
 0.0.0.0 alibabatechqa.com
@@ -54969,6 +54970,7 @@
 0.0.0.0 bigclash-en-ligne.fr
 0.0.0.0 bigclash-enligne.fr
 0.0.0.0 bigclash-france.fr
+0.0.0.0 bigclash-frrance.fr
 0.0.0.0 bigclash-game.fr
 0.0.0.0 bigclash-officiel.fr
 0.0.0.0 bigclash-online.fr
@@ -67251,6 +67253,7 @@
 0.0.0.0 casinia-fr.fr
 0.0.0.0 casinia-france.fr
 0.0.0.0 casinia-online.fr
+0.0.0.0 casinia1.fr
 0.0.0.0 casiniacasino.fr
 0.0.0.0 casiniacasinoapp.fr
 0.0.0.0 casiniacasinobet.fr
@@ -70782,6 +70785,7 @@
 0.0.0.0 cert-000049-0000c5.firebaseapp.com
 0.0.0.0 cert-000049-0000c5.web.app
 0.0.0.0 cert-air.fr
+0.0.0.0 cert-ants.fr
 0.0.0.0 cert-bfr-banque-france.fr
 0.0.0.0 cert-interieurgouv.fr
 0.0.0.0 cert-test.sandbox.google.com
@@ -82587,6 +82591,9 @@
 0.0.0.0 coriolis-poitiers.fr
 0.0.0.0 coripsiorga.cyou
 0.0.0.0 corireos.bond
+0.0.0.0 coris-bourse.fr
+0.0.0.0 coris-bourses.fr
+0.0.0.0 corisbourses.fr
 0.0.0.0 corkclog.shop
 0.0.0.0 corlendis.live
 0.0.0.0 corlercar888.com
@@ -183560,6 +183567,7 @@
 0.0.0.0 maligtenapp.lovable.app
 0.0.0.0 malimalihome.net
 0.0.0.0 malina-casino-fr.fr
+0.0.0.0 malina-casino.fr
 0.0.0.0 malina-casino1.fr
 0.0.0.0 malina-casinos.fr
 0.0.0.0 malina-fr.fr
@@ -233528,6 +233536,7 @@
 0.0.0.0 playsrespi.click
 0.0.0.0 playstar-casino.fr
 0.0.0.0 playstarcasino.fr
+0.0.0.0 playstation5.fr
 0.0.0.0 playstationevinde.com
 0.0.0.0 playstationn.fr
 0.0.0.0 playstationnetwork.fr
@@ -253161,6 +253170,7 @@
 0.0.0.0 rivlani.shop
 0.0.0.0 rivne.space #Unknown - Tracker
 0.0.0.0 rivo-cas1no.fr
+0.0.0.0 rivo-frrance.fr
 0.0.0.0 rivo1.fr
 0.0.0.0 rivocas1no-fr.fr
 0.0.0.0 rivocas1no.fr
@@ -254777,6 +254787,7 @@
 0.0.0.0 royalsparforge.com
 0.0.0.0 royalspinzcasino.fr
 0.0.0.0 royaltiesemhhbodied.info
+0.0.0.0 royalwatches.fr
 0.0.0.0 royalym.com
 0.0.0.0 royamaildelivery.weebly.com
 0.0.0.0 royasabet.shop
@@ -258600,6 +258611,7 @@
 0.0.0.0 scarolinadigitalmktg.com
 0.0.0.0 scarp.quicbix.de
 0.0.0.0 scarpa-france.fr
+0.0.0.0 scarpaoutlet.fr
 0.0.0.0 scarpapolska.pl
 0.0.0.0 scarpaspolska.com
 0.0.0.0 scarpfisio.store

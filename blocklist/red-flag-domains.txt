@@ -1706,6 +1706,7 @@
 0.0.0.0 alias-investissement-ehpad.fr
 0.0.0.0 alibabacloud.fr
 0.0.0.0 alibabafrance.fr
+0.0.0.0 alibabashop.fr
 0.0.0.0 alibabet.fr
 0.0.0.0 alibris.fr
 0.0.0.0 alicaedsl.fr
@@ -6275,6 +6276,7 @@
 0.0.0.0 bigclash-en-ligne.fr
 0.0.0.0 bigclash-enligne.fr
 0.0.0.0 bigclash-france.fr
+0.0.0.0 bigclash-frrance.fr
 0.0.0.0 bigclash-game.fr
 0.0.0.0 bigclash-officiel.fr
 0.0.0.0 bigclash-online.fr
@@ -8240,6 +8242,7 @@
 0.0.0.0 casinia-fr.fr
 0.0.0.0 casinia-france.fr
 0.0.0.0 casinia-online.fr
+0.0.0.0 casinia1.fr
 0.0.0.0 casiniacasino.fr
 0.0.0.0 casiniacasinoapp.fr
 0.0.0.0 casiniacasinobet.fr
@@ -9445,6 +9448,7 @@
 0.0.0.0 cerisepro.fr
 0.0.0.0 cerrefour.fr
 0.0.0.0 cert-air.fr
+0.0.0.0 cert-ants.fr
 0.0.0.0 cert-bfr-banque-france.fr
 0.0.0.0 cert-interieurgouv.fr
 0.0.0.0 certeurop.fr
@@ -12391,6 +12395,9 @@
 0.0.0.0 corgibetscasino.fr
 0.0.0.0 corialis.fr
 0.0.0.0 coriolis-poitiers.fr
+0.0.0.0 coris-bourse.fr
+0.0.0.0 coris-bourses.fr
+0.0.0.0 corisbourses.fr
 0.0.0.0 cornermaillot.fr
 0.0.0.0 cornprime.fr
 0.0.0.0 correspondancesante.fr
@@ -24632,6 +24639,7 @@
 0.0.0.0 maladie-vitale.fr
 0.0.0.0 maladieassurance.fr
 0.0.0.0 malina-casino-fr.fr
+0.0.0.0 malina-casino.fr
 0.0.0.0 malina-casino1.fr
 0.0.0.0 malina-casinos.fr
 0.0.0.0 malina-fr.fr
@@ -30681,6 +30689,7 @@
 0.0.0.0 playregalscasino.fr
 0.0.0.0 playstar-casino.fr
 0.0.0.0 playstarcasino.fr
+0.0.0.0 playstation5.fr
 0.0.0.0 playstationn.fr
 0.0.0.0 playstationnetwork.fr
 0.0.0.0 playstations-sony.fr
@@ -33433,6 +33442,7 @@
 0.0.0.0 rivieracasinoo.fr
 0.0.0.0 rivieracasinopromocode.fr
 0.0.0.0 rivo-cas1no.fr
+0.0.0.0 rivo-frrance.fr
 0.0.0.0 rivo1.fr
 0.0.0.0 rivocas1no-fr.fr
 0.0.0.0 rivocas1no.fr
@@ -33713,6 +33723,7 @@
 0.0.0.0 royalrabbitcasino-online.fr
 0.0.0.0 royalrookcasino.fr
 0.0.0.0 royalspinzcasino.fr
+0.0.0.0 royalwatches.fr
 0.0.0.0 roybensswag.fr
 0.0.0.0 roysbet.fr
 0.0.0.0 royspins.fr
@@ -34198,6 +34209,7 @@
 0.0.0.0 scapnor-leclerc.fr
 0.0.0.0 scarmor-sa.fr
 0.0.0.0 scarpa-france.fr
+0.0.0.0 scarpaoutlet.fr
 0.0.0.0 scaso-distribution.fr
 0.0.0.0 scaso-leclerc.fr
 0.0.0.0 scatterscasinoapp.fr

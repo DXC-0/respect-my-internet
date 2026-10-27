@@ -27148,6 +27148,7 @@
 ||alibabaonline.com^
 ||alibabaplanet.com^
 ||alibabasauce.com^
+||alibabashop.fr^
 ||alibabastars.com^
 ||alibabatech.org^
 ||alibabatechqa.com^
@@ -54967,6 +54968,7 @@
 ||bigclash-en-ligne.fr^
 ||bigclash-enligne.fr^
 ||bigclash-france.fr^
+||bigclash-frrance.fr^
 ||bigclash-game.fr^
 ||bigclash-officiel.fr^
 ||bigclash-online.fr^
@@ -67249,6 +67251,7 @@
 ||casinia-fr.fr^
 ||casinia-france.fr^
 ||casinia-online.fr^
+||casinia1.fr^
 ||casiniacasino.fr^
 ||casiniacasinoapp.fr^
 ||casiniacasinobet.fr^
@@ -70780,6 +70783,7 @@
 ||cert-000049-0000c5.firebaseapp.com^
 ||cert-000049-0000c5.web.app^
 ||cert-air.fr^
+||cert-ants.fr^
 ||cert-bfr-banque-france.fr^
 ||cert-interieurgouv.fr^
 ||cert-test.sandbox.google.com^
@@ -82585,6 +82589,9 @@
 ||coriolis-poitiers.fr^
 ||coripsiorga.cyou^
 ||corireos.bond^
+||coris-bourse.fr^
+||coris-bourses.fr^
+||corisbourses.fr^
 ||corkclog.shop^
 ||corlendis.live^
 ||corlercar888.com^
@@ -183558,6 +183565,7 @@
 ||maligtenapp.lovable.app^
 ||malimalihome.net^
 ||malina-casino-fr.fr^
+||malina-casino.fr^
 ||malina-casino1.fr^
 ||malina-casinos.fr^
 ||malina-fr.fr^
@@ -233526,6 +233534,7 @@
 ||playsrespi.click^
 ||playstar-casino.fr^
 ||playstarcasino.fr^
+||playstation5.fr^
 ||playstationevinde.com^
 ||playstationn.fr^
 ||playstationnetwork.fr^
@@ -253159,6 +253168,7 @@
 ||rivlani.shop^
 ||rivne.space^#Unknown^-^Tracker^
 ||rivo-cas1no.fr^
+||rivo-frrance.fr^
 ||rivo1.fr^
 ||rivocas1no-fr.fr^
 ||rivocas1no.fr^
@@ -254775,6 +254785,7 @@
 ||royalsparforge.com^
 ||royalspinzcasino.fr^
 ||royaltiesemhhbodied.info^
+||royalwatches.fr^
 ||royalym.com^
 ||royamaildelivery.weebly.com^
 ||royasabet.shop^
@@ -258598,6 +258609,7 @@
 ||scarolinadigitalmktg.com^
 ||scarp.quicbix.de^
 ||scarpa-france.fr^
+||scarpaoutlet.fr^
 ||scarpapolska.pl^
 ||scarpaspolska.com^
 ||scarpfisio.store^
