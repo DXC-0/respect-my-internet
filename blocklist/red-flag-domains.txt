@@ -6250,6 +6250,7 @@
 0.0.0.0 big-clash-casinos.fr
 0.0.0.0 big-clash-fr.fr
 0.0.0.0 big-clash-france.fr
+0.0.0.0 big-clash.fr
 0.0.0.0 big-clashcasino-fr.fr
 0.0.0.0 big-clashcasino-france.fr
 0.0.0.0 big-clashcasino.fr
@@ -8181,6 +8182,7 @@
 0.0.0.0 cashedfrance.fr
 0.0.0.0 casheds.fr
 0.0.0.0 cashexpres.fr
+0.0.0.0 cashgratuit.fr
 0.0.0.0 cashhpketdef.fr
 0.0.0.0 cashimashicasino777.fr
 0.0.0.0 cashimashicasinoapp.fr
@@ -13262,6 +13264,7 @@
 0.0.0.0 dbossescasinobonus777.fr
 0.0.0.0 dbossescasinocode.fr
 0.0.0.0 dbossescasinologin.fr
+0.0.0.0 dbschenker-france.fr
 0.0.0.0 dc-prime.fr
 0.0.0.0 dc-shoes-france.fr
 0.0.0.0 dcamus.fr
@@ -15085,6 +15088,7 @@
 0.0.0.0 esapcegouv-critair.fr
 0.0.0.0 esccasino.fr
 0.0.0.0 esci-uckange.fr
+0.0.0.0 escooterfrance.fr
 0.0.0.0 escort-sexe.fr
 0.0.0.0 escplus.fr
 0.0.0.0 eservice-netfillx.fr
@@ -19876,6 +19880,7 @@
 0.0.0.0 inf-retraite.fr
 0.0.0.0 inf-sfr.fr
 0.0.0.0 infernos-casino.fr
+0.0.0.0 infernoscasino.fr
 0.0.0.0 infigreffe.fr
 0.0.0.0 infinite-casino.fr
 0.0.0.0 infinite777.fr
@@ -21383,6 +21388,7 @@
 0.0.0.0 karsher.fr
 0.0.0.0 kartables.fr
 0.0.0.0 kasiopefrance.fr
+0.0.0.0 kaspa-france.fr
 0.0.0.0 katanaspin-casino.fr
 0.0.0.0 katanaspin.fr
 0.0.0.0 katanaspincasino.fr
@@ -24901,6 +24907,7 @@
 0.0.0.0 maxseainternational.fr
 0.0.0.0 maxwin-fr.fr
 0.0.0.0 maxwin-france.fr
+0.0.0.0 maxxed-casino.fr
 0.0.0.0 maxxifoot.fr
 0.0.0.0 may-connect.fr
 0.0.0.0 maybellinefrance.fr
@@ -28854,6 +28861,7 @@
 0.0.0.0 onlyspins-francais.fr
 0.0.0.0 onlyspins-france.fr
 0.0.0.0 onlyspins-officiel.fr
+0.0.0.0 onlyspins1.fr
 0.0.0.0 onlyspins2.fr
 0.0.0.0 onlyspinscasino-fr.fr
 0.0.0.0 onlyspinsfr.fr
@@ -30225,6 +30233,7 @@
 0.0.0.0 pfizerpharma.fr
 0.0.0.0 ph01amazo.fr
 0.0.0.0 ph02amazo.fr
+0.0.0.0 pha-ants.fr
 0.0.0.0 pha1mazo.fr
 0.0.0.0 pha2mazo.fr
 0.0.0.0 pharma-bonneville-bray-dunes.fr
@@ -36450,6 +36459,7 @@
 0.0.0.0 smash-casinos-france.fr
 0.0.0.0 smash-casinos.fr
 0.0.0.0 smash-casinosfr.fr
+0.0.0.0 smash-onlline.fr
 0.0.0.0 smashcasino-fr.fr
 0.0.0.0 smashcasino-france.fr
 0.0.0.0 smashcasinoenligne.fr
@@ -37286,6 +37296,7 @@
 0.0.0.0 spinfin-fr.fr
 0.0.0.0 spinfin-france.fr
 0.0.0.0 spinfin-online.fr
+0.0.0.0 spinfin-onlline.fr
 0.0.0.0 spinfin1.fr
 0.0.0.0 spinfin2.fr
 0.0.0.0 spinfin24.fr
@@ -40724,6 +40735,7 @@
 0.0.0.0 verif-amendes.fr
 0.0.0.0 verif-anah.fr
 0.0.0.0 verif-bod.fr
+0.0.0.0 verif-buycycle.fr
 0.0.0.0 verif-cagricole.fr
 0.0.0.0 verif-cdn.fr
 0.0.0.0 verif-certificat-crit-air.fr

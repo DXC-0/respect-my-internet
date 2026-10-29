@@ -54960,6 +54960,7 @@
 0.0.0.0 big-clash-casinos.fr
 0.0.0.0 big-clash-fr.fr
 0.0.0.0 big-clash-france.fr
+0.0.0.0 big-clash.fr
 0.0.0.0 big-clashcasino-fr.fr
 0.0.0.0 big-clashcasino-france.fr
 0.0.0.0 big-clashcasino.fr
@@ -67163,6 +67164,7 @@
 0.0.0.0 cashflowxx-click.pages.dev
 0.0.0.0 cashflowxx.click
 0.0.0.0 cashflowxx.live
+0.0.0.0 cashgratuit.fr
 0.0.0.0 cashhpketdef.fr
 0.0.0.0 cashimashicasino777.fr
 0.0.0.0 cashimashicasinoapp.fr
@@ -89866,6 +89868,7 @@
 0.0.0.0 dbs724.com
 0.0.0.0 dbsbank.loan
 0.0.0.0 dbscar.com
+0.0.0.0 dbschenker-france.fr
 0.0.0.0 dbscore.click
 0.0.0.0 dbshop.net
 0.0.0.0 dbsjng.com
@@ -106258,6 +106261,7 @@
 0.0.0.0 escolhaseuacesso.ideadesigner.com.br
 0.0.0.0 esconcalci.autos
 0.0.0.0 escondidoweekly.com
+0.0.0.0 escooterfrance.fr
 0.0.0.0 escort-sexe.fr
 0.0.0.0 escort.club.anons1582673.pl
 0.0.0.0 escort.club.anons1582673.pl.vh13647.vh.net.pl
@@ -150846,6 +150850,7 @@
 0.0.0.0 inferguffi.store
 0.0.0.0 infermatrix.site
 0.0.0.0 infernos-casino.fr
+0.0.0.0 infernoscasino.fr
 0.0.0.0 inferoey.com
 0.0.0.0 inferrise.site
 0.0.0.0 inferscope.site
@@ -164354,6 +164359,7 @@
 0.0.0.0 kasolik.algopreneur.com
 0.0.0.0 kasolik.cracksdownloadworld.com
 0.0.0.0 kasopimf.lovable.app
+0.0.0.0 kaspa-france.fr
 0.0.0.0 kaspiai.live
 0.0.0.0 kaspiai.net
 0.0.0.0 kaspiprofit.com
@@ -185351,6 +185357,7 @@
 0.0.0.0 maxwin-fr.fr
 0.0.0.0 maxwin-france.fr
 0.0.0.0 maxxc-apps.wixstudio.com
+0.0.0.0 maxxed-casino.fr
 0.0.0.0 maxxifoot.fr
 0.0.0.0 maxxipoint.com
 0.0.0.0 maxxtb.com
@@ -222060,6 +222067,7 @@
 0.0.0.0 onlyspins-francais.fr
 0.0.0.0 onlyspins-france.fr
 0.0.0.0 onlyspins-officiel.fr
+0.0.0.0 onlyspins1.fr
 0.0.0.0 onlyspins2.fr
 0.0.0.0 onlyspinscasino-fr.fr
 0.0.0.0 onlyspinsfr.fr
@@ -229901,6 +229909,7 @@
 0.0.0.0 ph4.amazonaws.com
 0.0.0.0 ph4qyzbo47i0y40l.online.py.antivirus.bo.webproxy.idc-com.tencent.com
 0.0.0.0 ph66.com
+0.0.0.0 pha-ants.fr
 0.0.0.0 pha.amazonaws.com
 0.0.0.0 pha1mazo.fr
 0.0.0.0 pha2mazo.fr
@@ -270651,6 +270660,7 @@
 0.0.0.0 smash-casinos-france.fr
 0.0.0.0 smash-casinos.fr
 0.0.0.0 smash-casinosfr.fr
+0.0.0.0 smash-onlline.fr
 0.0.0.0 smashcasino-fr.fr
 0.0.0.0 smashcasino-france.fr
 0.0.0.0 smashcasinoenligne.fr
@@ -275158,6 +275168,7 @@
 0.0.0.0 spinfin-fr.fr
 0.0.0.0 spinfin-france.fr
 0.0.0.0 spinfin-online.fr
+0.0.0.0 spinfin-onlline.fr
 0.0.0.0 spinfin1.fr
 0.0.0.0 spinfin2.fr
 0.0.0.0 spinfin24.fr
@@ -306066,6 +306077,7 @@
 0.0.0.0 verif-anah.fr
 0.0.0.0 verif-bod.fr
 0.0.0.0 verif-booklng-stay.com
+0.0.0.0 verif-buycycle.fr
 0.0.0.0 verif-cagricole.fr
 0.0.0.0 verif-cdn.fr
 0.0.0.0 verif-certificat-crit-air.fr
