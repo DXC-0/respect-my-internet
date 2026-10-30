@@ -41,11 +41,6 @@
 0.0.0.0 000000000.fls.doubleclick.net
 0.0.0.0 0000000000000190000010111.weebly.com
 0.0.0.0 0000550xtz2.shop
-0.0.0.0 0000552bb0.shop
-0.0.0.0 0000552bb1.shop
-0.0.0.0 0000552bb2.shop
-0.0.0.0 0000552bb3.shop
-0.0.0.0 0000552bb4.shop
 0.0.0.0 0000wb.com
 0.0.0.0 0001.xin
 0.0.0.0 000114.com
@@ -60,7 +55,6 @@
 0.0.0.0 0006266.com
 0.0.0.0 00063.xin
 0.0.0.0 000678.xin
-0.0.0.0 0006fc9541020.beer
 0.0.0.0 000700.com
 0.0.0.0 000714.xyz
 0.0.0.0 000793.com
@@ -154,7 +148,6 @@
 0.0.0.0 007shoes.com
 0.0.0.0 007swz.com
 0.0.0.0 007szx.com
-0.0.0.0 007yx.com
 0.0.0.0 008-client.fitbit.com
 0.0.0.0 008-v3-client.fitbit.com
 0.0.0.0 008.bet
@@ -280,7 +273,6 @@
 0.0.0.0 015-v3-client.fitbit.com
 0.0.0.0 015.xin
 0.0.0.0 01546dba-dnsotls-ds.metric.gstatic.com
-0.0.0.0 0158f80.com
 0.0.0.0 016-client.fitbit.com
 0.0.0.0 016-v3-client.fitbit.com
 0.0.0.0 016.xin
@@ -522,7 +514,6 @@
 0.0.0.0 028ltzx.com
 0.0.0.0 028office.com
 0.0.0.0 028px.com
-0.0.0.0 028pxw.com
 0.0.0.0 028sjkj.com
 0.0.0.0 028yyyy.com
 0.0.0.0 028zk01.net
@@ -880,9 +871,7 @@
 0.0.0.0 058-v3-client.fitbit.com
 0.0.0.0 058127.click
 0.0.0.0 05880a57e1022.beer
-0.0.0.0 058a2a0741016.beer
 0.0.0.0 058e001fc10251.beer
-0.0.0.0 058ed0543d61b235.com
 0.0.0.0 059-client.fitbit.com
 0.0.0.0 059-psd2.my-granitnyrt.com
 0.0.0.0 059-v3-client.fitbit.com
@@ -976,7 +965,6 @@
 0.0.0.0 0693f784d1023.beer
 0.0.0.0 06abc.com
 0.0.0.0 06climate.com
-0.0.0.0 06ee1860c1015.beer
 0.0.0.0 06egte3.top
 0.0.0.0 06game.com
 0.0.0.0 06hojenovidadeinfos.fr
@@ -1162,7 +1150,6 @@
 0.0.0.0 0798.cc
 0.0.0.0 07981542.lat
 0.0.0.0 0799z.com
-0.0.0.0 07ba0de711020.beer
 0.0.0.0 07bmss01426.xin
 0.0.0.0 07cn.com
 0.0.0.0 07cn.net
@@ -1240,8 +1227,6 @@
 0.0.0.0 08an.com
 0.0.0.0 08ar.com
 0.0.0.0 08b68dbbbf876114.com
-0.0.0.0 08c8b537f1021.beer
-0.0.0.0 08c9f63d31021.beer
 0.0.0.0 08fc8f0ee3f2768a.com
 0.0.0.0 08jjhe3a9g.com
 0.0.0.0 08ky.com
@@ -1305,7 +1290,6 @@
 0.0.0.0 095196555.com
 0.0.0.0 09527.xin
 0.0.0.0 0952xh.com
-0.0.0.0 0959930d71015.beer
 0.0.0.0 096-client.fitbit.com
 0.0.0.0 096-v3-client.fitbit.com
 0.0.0.0 096.xin
@@ -1331,7 +1315,6 @@
 0.0.0.0 09a17b315f70.github.io
 0.0.0.0 09aag016266.xin
 0.0.0.0 09b3045664731d42.com
-0.0.0.0 09c5062ea1020.beer
 0.0.0.0 09e12x16370.xin
 0.0.0.0 09ea354bd9542ba7.com
 0.0.0.0 09game.com
@@ -1392,7 +1375,6 @@
 0.0.0.0 0cqpj504251.xin
 0.0.0.0 0d.work
 0.0.0.0 0d263788316151cb.com
-0.0.0.0 0d49f571e1017.beer
 0.0.0.0 0d9a56c5-6a18-4f41-9dcf-1fa0531f9645-00-3s6jlesunorig.riker.replit.dev
 0.0.0.0 0daily.com
 0.0.0.0 0ddvic16247.xin
@@ -1413,7 +1395,6 @@
 0.0.0.0 0e37e6ed-727f-469f-8fd4-4e262b9cdc59.s3.us-west-2.amazonaws.com
 0.0.0.0 0e38e883511032.beer
 0.0.0.0 0e553a7644b6bd72ea6234ae678e3d07.safeframe.googlesyndication.com
-0.0.0.0 0e76427381016.beer
 0.0.0.0 0e7h4hr.top
 0.0.0.0 0e7o6216306.xin
 0.0.0.0 0e86kc.atoms.world
@@ -1450,7 +1431,6 @@
 0.0.0.0 0glos4le.top
 0.0.0.0 0gyyc924408.xin
 0.0.0.0 0h3lfj12415.xin
-0.0.0.0 0hax7.app
 0.0.0.0 0hgame.com
 0.0.0.0 0hk02-tatu78-bnitmg-5ajpc6.pages.dev
 0.0.0.0 0hzxwa2471.xin
@@ -1972,7 +1952,6 @@
 0.0.0.0 10bests.com
 0.0.0.0 10bf0.gz.1253776640.clb.myqcloud.com
 0.0.0.0 10black-casino.fr
-0.0.0.0 10c5a16c51015.beer
 0.0.0.0 10d6e.gz.1253796911.clb.myqcloud.com
 0.0.0.0 10db4.gz.1253800120.clb.myqcloud.com
 0.0.0.0 10dd8.gz.1253804732.clb.myqcloud.com
@@ -2065,7 +2044,6 @@
 0.0.0.0 112682.com
 0.0.0.0 1128job.com
 0.0.0.0 112932932398721112.lol
-0.0.0.0 112998.xyz
 0.0.0.0 112ab.gz.1252191916.clb.myqcloud.com
 0.0.0.0 112seo.com
 0.0.0.0 112wan.com
@@ -2201,7 +2179,6 @@
 0.0.0.0 11871.fr
 0.0.0.0 1187d.gz.1253936418.clb.myqcloud.com
 0.0.0.0 1188.com
-0.0.0.0 1188fc.com
 0.0.0.0 1189f.gz.1253938427.clb.myqcloud.com
 0.0.0.0 118a4.gz.1253938603.clb.myqcloud.com
 0.0.0.0 118cy.com
@@ -2333,7 +2310,6 @@
 0.0.0.0 122cn.net
 0.0.0.0 122d3.gz.1251423104.clb.myqcloud.com
 0.0.0.0 122e9.gz.1254065137.clb.myqcloud.com
-0.0.0.0 122law.com
 0.0.0.0 122w.net
 0.0.0.0 123-789.com
 0.0.0.0 123-facebook.blogspot.com
@@ -2648,7 +2624,6 @@
 0.0.0.0 136.com
 0.0.0.0 1360.com
 0.0.0.0 136136.com
-0.0.0.0 13636.com
 0.0.0.0 13645893748274.lat
 0.0.0.0 13667703999.com
 0.0.0.0 136a8.gz.1254253091.clb.myqcloud.com
@@ -3211,7 +3186,6 @@
 0.0.0.0 16.scale.www.fitbit.com
 0.0.0.0 160.com
 0.0.0.0 1606c348011042.beer
-0.0.0.0 160c7443c1019.beer
 0.0.0.0 160dyf.com
 0.0.0.0 160job.com
 0.0.0.0 160tyesy.vercel.app
@@ -3310,7 +3284,6 @@
 0.0.0.0 166161.com
 0.0.0.0 1661827944.qzone.qq.com
 0.0.0.0 166511.com
-0.0.0.0 1665213d91017.beer
 0.0.0.0 16657.gz.1255519780.clb.myqcloud.com
 0.0.0.0 1666.com
 0.0.0.0 1668.net
@@ -3429,7 +3402,6 @@
 0.0.0.0 170.com
 0.0.0.0 17025.org
 0.0.0.0 170601.xyz
-0.0.0.0 17083731a1019.beer
 0.0.0.0 170960215.qzone.qq.com
 0.0.0.0 170d9.gz.1255349409.clb.myqcloud.com
 0.0.0.0 170hi.com
@@ -3802,7 +3774,6 @@
 0.0.0.0 18095.com
 0.0.0.0 180d.o.tencent.com
 0.0.0.0 180disk.com
-0.0.0.0 180k.com
 0.0.0.0 180lk-1257075718.cos-website.ap-hongkong.myqcloud.com
 0.0.0.0 180qt.com
 0.0.0.0 180tyesy.vercel.app
@@ -3905,7 +3876,6 @@
 0.0.0.0 189works.com
 0.0.0.0 189young.com
 0.0.0.0 18a9a.gz.1255993238.clb.myqcloud.com
-0.0.0.0 18aa28dfd1020.beer
 0.0.0.0 18art.art
 0.0.0.0 18av.com
 0.0.0.0 18cc3.gz.1255953558.clb.myqcloud.com
@@ -4056,8 +4026,6 @@
 0.0.0.0 1a7a.bj.1253274075.clb.myqcloud.com
 0.0.0.0 1a8a6.gz.1256206609.clb.myqcloud.com
 0.0.0.0 1aa071e45acb08d2.com
-0.0.0.0 1aab715d01015.beer
-0.0.0.0 1ac6404321019.beer
 0.0.0.0 1amen.com
 0.0.0.0 1an1.fr
 0.0.0.0 1ang.com
@@ -4128,12 +4096,10 @@
 0.0.0.0 1d24fd3.top
 0.0.0.0 1d2red.ink
 0.0.0.0 1d622518c13a7c01baccc5c3724b91be.safeframe.googlesyndication.com
-0.0.0.0 1d9z.com
 0.0.0.0 1dao99.com
 0.0.0.0 1date1cake.com
 0.0.0.0 1dcdp4.com
 0.0.0.0 1dclik.fr
-0.0.0.0 1de6de84b1017.beer
 0.0.0.0 1der-ad.com
 0.0.0.0 1dhjzjz.fr
 0.0.0.0 1diaocha.com
@@ -4164,7 +4130,6 @@
 0.0.0.0 1f2dr3.ink
 0.0.0.0 1f2rfc2g.pics
 0.0.0.0 1f2t2yty.rest
-0.0.0.0 1f371be461017.beer
 0.0.0.0 1f43a3e4.57b79ffb3043f32930fb5bee.workers.dev
 0.0.0.0 1f4a.bj.1251166480.clb.myqcloud.com
 0.0.0.0 1f64.bj.1253379791.clb.myqcloud.com
@@ -5023,7 +4988,6 @@
 0.0.0.0 2258.com
 0.0.0.0 2259.com
 0.0.0.0 225dancefitness.com
-0.0.0.0 225f360dca52f6cf.com
 0.0.0.0 225image.com
 0.0.0.0 225image.vip
 0.0.0.0 226500.com
@@ -5041,7 +5005,6 @@
 0.0.0.0 228tuchuang.com
 0.0.0.0 229.52.241.35.bc.googleusercontent.com
 0.0.0.0 229.com
-0.0.0.0 2295.com
 0.0.0.0 2298.com
 0.0.0.0 22983.liveplay.myqcloud.com
 0.0.0.0 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net
@@ -5115,7 +5078,6 @@
 0.0.0.0 2345.com
 0.0.0.0 2345.gd
 0.0.0.0 2345.net
-0.0.0.0 23456789.xyz
 0.0.0.0 23456v.com
 0.0.0.0 2345at.com
 0.0.0.0 2345cdn.com
@@ -5303,7 +5265,6 @@
 0.0.0.0 255616.com
 0.0.0.0 25565.net
 0.0.0.0 25589125.lat
-0.0.0.0 2559e5f081017.beer
 0.0.0.0 25662zubo23739.com
 0.0.0.0 256app.com
 0.0.0.0 256cha.com
@@ -5361,7 +5322,6 @@
 0.0.0.0 263-mail.net
 0.0.0.0 263.com
 0.0.0.0 263.net
-0.0.0.0 26330a8c11017.beer
 0.0.0.0 2635hxe.top
 0.0.0.0 263cv.net
 0.0.0.0 263em.com
@@ -5387,7 +5347,6 @@
 0.0.0.0 266.com
 0.0.0.0 266.la
 0.0.0.0 266385coinbase.com
-0.0.0.0 266fbded61019.beer
 0.0.0.0 266wan.com
 0.0.0.0 267382update.weebly.com
 0.0.0.0 267736.xyz
@@ -5426,7 +5385,6 @@
 0.0.0.0 2718vqn.top
 0.0.0.0 27195.vip
 0.0.0.0 272500.com
-0.0.0.0 27270.com
 0.0.0.0 273-open-21-web-mail-12.weebly.com
 0.0.0.0 2734627846242.sbs
 0.0.0.0 27351840.xyz
@@ -5442,7 +5400,6 @@
 0.0.0.0 277sy.com
 0.0.0.0 277t.com
 0.0.0.0 27813000.com
-0.0.0.0 2789a91661019.beer
 0.0.0.0 2793343.fls.doubleclick.net
 0.0.0.0 279love.com
 0.0.0.0 279tt.com
@@ -5464,7 +5421,6 @@
 0.0.0.0 281826.vip
 0.0.0.0 282119.pl
 0.0.0.0 282626.xyz
-0.0.0.0 2827.com
 0.0.0.0 28283.com
 0.0.0.0 282g.com
 0.0.0.0 2831xvn.hair
@@ -5587,7 +5543,6 @@
 0.0.0.0 2c0aabe9-dnsotls-ds.metric.gstatic.com
 0.0.0.0 2c3902.vn-888new.com
 0.0.0.0 2c50714e166f77eb338f503ffd74b1200e0b.s3.eu-central-3.ionoscloud.com
-0.0.0.0 2c71b194031fc683.com
 0.0.0.0 2c883aeffbeef6c7.com
 0.0.0.0 2c94.bj.1253666452.clb.myqcloud.com
 0.0.0.0 2caipiao.com
@@ -5979,7 +5934,6 @@
 0.0.0.0 301mba.com
 0.0.0.0 301pk.com
 0.0.0.0 3023.com
-0.0.0.0 302423a641021.beer
 0.0.0.0 3024vwt.top
 0.0.0.0 3025vra.skin
 0.0.0.0 3027vqm.hair
@@ -5991,10 +5945,8 @@
 0.0.0.0 3049h34-23029.baby
 0.0.0.0 30583a8b910261.beer
 0.0.0.0 3058znk.skin
-0.0.0.0 3062d65271020.beer
 0.0.0.0 306t.com
 0.0.0.0 307082220.cfd
-0.0.0.0 3072ccba588e48d0.com
 0.0.0.0 3075kma.top
 0.0.0.0 308.tv
 0.0.0.0 308d22bd.88aabet.net
@@ -6109,7 +6061,6 @@
 0.0.0.0 31998a86110251.beer
 0.0.0.0 319d3741ad1da914.com
 0.0.0.0 31amjs.com
-0.0.0.0 31b081b851019.beer
 0.0.0.0 31b675a9cce68585.com
 0.0.0.0 31betcasinoapp.fr
 0.0.0.0 31betcasinoavis.fr
@@ -6204,7 +6155,6 @@
 0.0.0.0 32800.com
 0.0.0.0 328129goi48.xyz
 0.0.0.0 328238smart843.xyz
-0.0.0.0 3283773e9dc5cde5.com
 0.0.0.0 32844.click
 0.0.0.0 328591b8f8a84799a511ca989f0cef7a.s3.eu-north-1.amazonaws.com
 0.0.0.0 3286.cc
@@ -6425,10 +6375,8 @@
 0.0.0.0 349k8mlylz5x5s.repository-dns1.webproxy.idc.lcap-exp.3.tencent.com
 0.0.0.0 349k8mlylz5x5s.s1507482076dns1.webproxy.idcidc-idc-script.techhigh.3.tencent.com
 0.0.0.0 349k8mlylz5x5s.soudanrindou-dns1.webproxy.idc.email.dragon.3.tencent.com
-0.0.0.0 34a14155f1016.beer
 0.0.0.0 34abx.anixas.at
 0.0.0.0 34bp.jm4wne.cfd
-0.0.0.0 34c5fe453528e605.com
 0.0.0.0 34cc508d.vcstrucks.be
 0.0.0.0 34dfgjffdsgjdffdgjdfgjfd.site
 0.0.0.0 34erfdxbc.firebaseapp.com
@@ -6497,7 +6445,6 @@
 0.0.0.0 35app.com
 0.0.0.0 35ba.com
 0.0.0.0 35d1.com
-0.0.0.0 35db4d2761021.beer
 0.0.0.0 35dfgjffdfdsgjdffdgjdfgjfd.site
 0.0.0.0 35dxs.com
 0.0.0.0 35e0510ae11032.beer
@@ -6891,7 +6838,6 @@
 0.0.0.0 3737k.com
 0.0.0.0 3738527.fls.doubleclick.net
 0.0.0.0 373a5e2a6f8a3f9a.com
-0.0.0.0 373c0f3771021.beer
 0.0.0.0 373d34d0e98bde984724670582a237e8.eu.api.amazonvideo.com
 0.0.0.0 373d34d0e98bde984724670582a237e8.fe.api.amazonvideo.com
 0.0.0.0 373d34d0e98bde984724670582a237e8.na.api.amazonvideo.com
@@ -6916,9 +6862,7 @@
 0.0.0.0 37a7.bj.1253973460.clb.myqcloud.com
 0.0.0.0 37be4d7f4c7b5e.s3.ap-northeast-1.amazonaws.com
 0.0.0.0 37biao.com
-0.0.0.0 37bjw.com
 0.0.0.0 37bvsblobprodcus311.blob.core.windows.net
-0.0.0.0 37cbca02a1019.beer
 0.0.0.0 37cos.com
 0.0.0.0 37cs.com
 0.0.0.0 37cu.com
@@ -6999,7 +6943,6 @@
 0.0.0.0 3891.switch.hyzhibo.cdntip.com.hylivecdn.sched.ovscdns.net
 0.0.0.0 38999h.vip
 0.0.0.0 389f.bj.1253964510.clb.myqcloud.com
-0.0.0.0 38a9018e44a7da0f.com
 0.0.0.0 38b06119b10271.beer
 0.0.0.0 38b87554-dnsotls-ds.metric.gstatic.com
 0.0.0.0 38blog.com
@@ -7040,7 +6983,6 @@
 0.0.0.0 3948545d.vcstrading.com
 0.0.0.0 3948789g49g34.cfd
 0.0.0.0 3949006e510272.beer
-0.0.0.0 394afb34a1020.beer
 0.0.0.0 3950.bj.1254011843.clb.myqcloud.com
 0.0.0.0 39507037133f.icu
 0.0.0.0 3952zqt.hair
@@ -7104,7 +7046,6 @@
 0.0.0.0 3a79.bj.1254046165.clb.myqcloud.com
 0.0.0.0 3aa0.bj.1254051585.clb.myqcloud.com
 0.0.0.0 3ac-poitiers.fr
-0.0.0.0 3afbda6f11015.beer
 0.0.0.0 3ait.com
 0.0.0.0 3alv.com
 0.0.0.0 3aok.com
@@ -7134,9 +7075,7 @@
 0.0.0.0 3c2p.com
 0.0.0.0 3c324f3ae10241.beer
 0.0.0.0 3c3t.com
-0.0.0.0 3c4c142e21021.beer
 0.0.0.0 3c5a7b25910281.beer
-0.0.0.0 3c6a1a5d01015.beer
 0.0.0.0 3c7t.kerviw.casa
 0.0.0.0 3c9035c3bd9e7599.com
 0.0.0.0 3caa.bj.1254123943.clb.myqcloud.com
@@ -7222,7 +7161,6 @@
 0.0.0.0 3dyeni.com
 0.0.0.0 3e.net
 0.0.0.0 3e1f.bj.1254157866.clb.myqcloud.com
-0.0.0.0 3e1f90ccd1016.beer
 0.0.0.0 3e1xvv.jpbrazs.com
 0.0.0.0 3e24.bj.1254158874.clb.myqcloud.com
 0.0.0.0 3e306b2a010272.beer
@@ -7523,7 +7461,6 @@
 0.0.0.0 3wmm.com
 0.0.0.0 3wn9pkh.hair
 0.0.0.0 3wr6xkt.casa
-0.0.0.0 3wtuan.com
 0.0.0.0 3wyk.com
 0.0.0.0 3x7.com
 0.0.0.0 3xbaby.com
@@ -7715,12 +7652,10 @@
 0.0.0.0 4082zke.top
 0.0.0.0 408399.com
 0.0.0.0 408399.net
-0.0.0.0 408cf42720d8be86.com
 0.0.0.0 408ec542b10281.beer
 0.0.0.0 4091.bj.1254195449.clb.myqcloud.com
 0.0.0.0 409482921.qzone.qq.com
 0.0.0.0 409a1957110311.beer
-0.0.0.0 409c27e4c1015.beer
 0.0.0.0 409d.bj.1254199061.clb.myqcloud.com
 0.0.0.0 409d0a7b710241.beer
 0.0.0.0 40anscartepass.fr
@@ -7784,7 +7719,6 @@
 0.0.0.0 4213.com
 0.0.0.0 42144.com
 0.0.0.0 42176.drive.google.com
-0.0.0.0 42224b3c51016.beer
 0.0.0.0 422425.xyz
 0.0.0.0 4228414.fls.doubleclick.net
 0.0.0.0 422877.com
@@ -7814,7 +7748,6 @@
 0.0.0.0 4290042901-doradztwo.storage.googleapis.com
 0.0.0.0 429006.com
 0.0.0.0 42af.bj.1254233214.clb.myqcloud.com
-0.0.0.0 42ed983e61019.beer
 0.0.0.0 42ft2fete.top
 0.0.0.0 42gfldkmjgldfgkd.site
 0.0.0.0 42how.com
@@ -7897,7 +7830,6 @@
 0.0.0.0 4399youxi.com
 0.0.0.0 4399yyy.com
 0.0.0.0 4399zmxy.com
-0.0.0.0 439f2bbb180aecab.com
 0.0.0.0 43batlleg34.page.link
 0.0.0.0 43cv.com
 0.0.0.0 43gfldkmjgldfgkd.site
@@ -7931,7 +7863,6 @@
 0.0.0.0 44552003.com
 0.0.0.0 446731636.qzone.qq.com
 0.0.0.0 446834wi.top
-0.0.0.0 44749.net
 0.0.0.0 447c.bj.1254276657.clb.myqcloud.com
 0.0.0.0 4480.cc
 0.0.0.0 4484.win
@@ -7948,7 +7879,6 @@
 0.0.0.0 44e3.bj.1254103130.clb.myqcloud.com
 0.0.0.0 44f31.firebaseio.com
 0.0.0.0 44fd.o8fgwc.top
-0.0.0.0 44ff56d11fa53a9a.com
 0.0.0.0 44h.co
 0.0.0.0 44jj.com
 0.0.0.0 44jn4hg.hair
@@ -7973,7 +7903,6 @@
 0.0.0.0 451748048.qzone.qq.com
 0.0.0.0 451f46bd110281.beer
 0.0.0.0 4521tka.top
-0.0.0.0 453400.com
 0.0.0.0 453600.net
 0.0.0.0 4537654.click
 0.0.0.0 45451.com
@@ -8047,7 +7976,6 @@
 0.0.0.0 47.qi7ong.cfd
 0.0.0.0 47104.livepush.myqcloud.com
 0.0.0.0 4713zpk.ink
-0.0.0.0 4714da8871019.beer
 0.0.0.0 471f94eab9784273.com
 0.0.0.0 4724652845715468678234683.blogspot.com
 0.0.0.0 4725313.akademiabiznesu.de
@@ -8144,7 +8072,6 @@
 0.0.0.0 4901.com
 0.0.0.0 490186.com
 0.0.0.0 491.com
-0.0.0.0 4916a68576d64a34.com
 0.0.0.0 4916xqp.hair
 0.0.0.0 491d.sh.1253204295.clb.myqcloud.com
 0.0.0.0 4923503.fls.doubleclick.net
@@ -8192,7 +8119,6 @@
 0.0.0.0 49you.com
 0.0.0.0 49yu.com
 0.0.0.0 49zz1110002a4.shop
-0.0.0.0 4a38863a11017.beer
 0.0.0.0 4a4779c371024.beer
 0.0.0.0 4a51.sh.1253256474.clb.myqcloud.com
 0.0.0.0 4a64.sh.1251196479.clb.myqcloud.com
@@ -8270,7 +8196,6 @@
 0.0.0.0 4e4e.bj.1254481775.clb.myqcloud.com
 0.0.0.0 4e6fe7920a044f98.com
 0.0.0.0 4e71.hk.1256089700.clb.myqcloud.com
-0.0.0.0 4e7e414fd1015.beer
 0.0.0.0 4e7u4eu.skin
 0.0.0.0 4ee.ee
 0.0.0.0 4ef06207210281.beer
@@ -8285,7 +8210,6 @@
 0.0.0.0 4f0b987b410311.beer
 0.0.0.0 4f10.sh.1253328796.clb.myqcloud.com
 0.0.0.0 4f1c.sh.1253240150.clb.myqcloud.com
-0.0.0.0 4f411973f14e0f10.com
 0.0.0.0 4f4ez65f46ze54f35ez4f34ze.blogspot.com
 0.0.0.0 4f61.com
 0.0.0.0 4f89.com
@@ -8444,7 +8368,6 @@
 0.0.0.0 4n.eb8rvu.top
 0.0.0.0 4n4e3j.hair
 0.0.0.0 4n8.kurierp0lska.click
-0.0.0.0 4ndwc.com
 0.0.0.0 4njdehr.lat
 0.0.0.0 4o.org
 0.0.0.0 4oih4y.skin
@@ -8628,7 +8551,6 @@
 0.0.0.0 5020094113-doradztwo.storage.googleapis.com
 0.0.0.0 5020094113-prawnicy.storage.googleapis.com
 0.0.0.0 5020094113-rejestr.storage.googleapis.com
-0.0.0.0 50257e08d1015.beer
 0.0.0.0 502fakw.com
 0.0.0.0 5030019975-prawnicy.storage.googleapis.com
 0.0.0.0 503118.com
@@ -9115,7 +9037,6 @@
 0.0.0.0 51p.co
 0.0.0.0 51panhuo.com
 0.0.0.0 51papers.com
-0.0.0.0 51passion.com
 0.0.0.0 51peptide.com
 0.0.0.0 51pgzs.com
 0.0.0.0 51photo.vip
@@ -9518,7 +9439,6 @@
 0.0.0.0 5298745832734.xyz
 0.0.0.0 529f.sh.1253190755.clb.myqcloud.com
 0.0.0.0 529f7ddfc4.nxcli.io
-0.0.0.0 52ai.com
 0.0.0.0 52ali88.com
 0.0.0.0 52alipay.com
 0.0.0.0 52aoteman.com
@@ -9576,7 +9496,6 @@
 0.0.0.0 52gaoge.com
 0.0.0.0 52gaoxiao.com
 0.0.0.0 52gg.com
-0.0.0.0 52ggd.com
 0.0.0.0 52grz.com
 0.0.0.0 52guzhuang.com
 0.0.0.0 52gvim.com
@@ -9913,7 +9832,6 @@
 0.0.0.0 550400.com
 0.0.0.0 550416.com
 0.0.0.0 5509.cc
-0.0.0.0 550d93f291021.beer
 0.0.0.0 5510928.com
 0.0.0.0 55114008.com
 0.0.0.0 5512442560-prawnicy.storage.googleapis.com
@@ -10032,7 +9950,6 @@
 0.0.0.0 56.scale.www.fitbit.com
 0.0.0.0 560.im
 0.0.0.0 56015.com
-0.0.0.0 5606968d01021.beer
 0.0.0.0 560e.com
 0.0.0.0 560wf.com
 0.0.0.0 5611.com
@@ -10437,7 +10354,6 @@
 0.0.0.0 59f086f4910311.beer
 0.0.0.0 59f8.sh.1253546094.clb.myqcloud.com
 0.0.0.0 59fd.sh.1253546196.clb.myqcloud.com
-0.0.0.0 59ff599661017.beer
 0.0.0.0 59ftyesy.vercel.app
 0.0.0.0 59hi.com
 0.0.0.0 59hotmail.fr
@@ -10492,7 +10408,6 @@
 0.0.0.0 5b.kureno.sbs
 0.0.0.0 5b1c73dc010311.beer
 0.0.0.0 5b1hpsd6d7.com
-0.0.0.0 5b2b697bd748d07b.com
 0.0.0.0 5b33294d-0.gz.1255988491.clb.myqcloud.com
 0.0.0.0 5b4d81c4-0.sh.1251606525.clb.myqcloud.com
 0.0.0.0 5b529d4e711021.beer
@@ -10504,13 +10419,11 @@
 0.0.0.0 5ber.com
 0.0.0.0 5bny.dostawa1x.cam
 0.0.0.0 5c407acb510301.beer
-0.0.0.0 5c554118a1021.beer
 0.0.0.0 5cb58dcd-0.sh.1256908768.clb.myqcloud.com
 0.0.0.0 5cb69e8045837fa9.com
 0.0.0.0 5ccic.com
 0.0.0.0 5cda.com
 0.0.0.0 5ce.com
-0.0.0.0 5ce08adc68995a7a.com
 0.0.0.0 5ceimg.com
 0.0.0.0 5cj7dtuso3.com
 0.0.0.0 5cjf9e.info
@@ -10523,7 +10436,6 @@
 0.0.0.0 5d2ede2.com
 0.0.0.0 5d6d.com
 0.0.0.0 5d6d.net
-0.0.0.0 5d770c50c1016.beer
 0.0.0.0 5d7bcbb1a1022.beer
 0.0.0.0 5dao.cc
 0.0.0.0 5dashi.com
@@ -10575,7 +10487,6 @@
 0.0.0.0 5ey3t3.hair
 0.0.0.0 5eyg376y.pics
 0.0.0.0 5f0o5hu.skin
-0.0.0.0 5f28dfaae1016.beer
 0.0.0.0 5f36b4f39ba574b7.com
 0.0.0.0 5f3kqa78zh.com
 0.0.0.0 5f52903c110251.beer
@@ -10813,7 +10724,6 @@
 0.0.0.0 5u75h.hair
 0.0.0.0 5u8u4i.skin
 0.0.0.0 5u95bx.infrasmart.it
-0.0.0.0 5uchina.com
 0.0.0.0 5ue64ge.casa
 0.0.0.0 5ugy6.lat
 0.0.0.0 5ul.com
@@ -11141,7 +11051,6 @@
 0.0.0.0 6311.sh.1253631485.clb.myqcloud.com
 0.0.0.0 6312572844-prawnicy.storage.googleapis.com
 0.0.0.0 631818.com
-0.0.0.0 632121d3c4f46e67.com
 0.0.0.0 632315fl.top
 0.0.0.0 63243.com
 0.0.0.0 632454rd.top
@@ -11170,7 +11079,6 @@
 0.0.0.0 6381671012-prawnicy.storage.googleapis.com
 0.0.0.0 6381763435-prawnicy.storage.googleapis.com
 0.0.0.0 6381846983-prawnicy.storage.googleapis.com
-0.0.0.0 6383.com
 0.0.0.0 6385844.com
 0.0.0.0 63860.vip
 0.0.0.0 638ca12d-ba2f-451c-8418-faf56b7de7ff.htmlcomponentservice.com
@@ -11179,7 +11087,6 @@
 0.0.0.0 639311.com
 0.0.0.0 63936b71f3e4ab6a.com
 0.0.0.0 6395.sh.1253638659.clb.myqcloud.com
-0.0.0.0 6397869a4eb51a13.com
 0.0.0.0 63b4ff1aeff2818d.com
 0.0.0.0 63cj.com
 0.0.0.0 63db.sh.1253642657.clb.myqcloud.com
@@ -11245,7 +11152,6 @@
 0.0.0.0 652ebb57a11021.beer
 0.0.0.0 65362655721.edgeone.dev
 0.0.0.0 65369.help
-0.0.0.0 653697e101020.beer
 0.0.0.0 6541116.fls.doubleclick.net
 0.0.0.0 654320.com
 0.0.0.0 6543210.com
@@ -11321,7 +11227,6 @@
 0.0.0.0 6633488.com
 0.0.0.0 6633696.com
 0.0.0.0 66361.livepush.myqcloud.com
-0.0.0.0 6636yy.com
 0.0.0.0 66378.com
 0.0.0.0 66388.net
 0.0.0.0 663d.sh.1253678262.clb.myqcloud.com
@@ -11355,7 +11260,6 @@
 0.0.0.0 6666xsw.com
 0.0.0.0 6668dns.com
 0.0.0.0 6669832.com
-0.0.0.0 666bos.com
 0.0.0.0 666d52b15ab3055294ca28908aae960b.safeframe.googlesyndication.com
 0.0.0.0 666gps.com
 0.0.0.0 666idc.com
@@ -11467,7 +11371,6 @@
 0.0.0.0 67318n.com
 0.0.0.0 673262.lol
 0.0.0.0 673hgye.ink
-0.0.0.0 674da9a521017.beer
 0.0.0.0 6751262620-prawnicy.storage.googleapis.com
 0.0.0.0 6751304749-prawnicy.storage.googleapis.com
 0.0.0.0 6751599118-rejestr.storage.googleapis.com
@@ -11479,7 +11382,6 @@
 0.0.0.0 6751764238-prawnicy.storage.googleapis.com
 0.0.0.0 6751784235-prawnicy.storage.googleapis.com
 0.0.0.0 6755.sh.1253621917.clb.myqcloud.com
-0.0.0.0 6758169ad1020.beer
 0.0.0.0 6761313129-prawnicy.storage.googleapis.com
 0.0.0.0 6761641394-prawnicy.storage.googleapis.com
 0.0.0.0 6761717329-prawnicy.storage.googleapis.com
@@ -11547,7 +11449,6 @@
 0.0.0.0 679black.wixsite.com
 0.0.0.0 679d.sh.1253695923.clb.myqcloud.com
 0.0.0.0 67a38421b10281.beer
-0.0.0.0 67a4488e31017.beer
 0.0.0.0 67az.com
 0.0.0.0 67c2.hk.1256912025.clb.myqcloud.com
 0.0.0.0 67c4.sh.1253699428.clb.myqcloud.com
@@ -11717,7 +11618,6 @@
 0.0.0.0 696.cool
 0.0.0.0 696157.com
 0.0.0.0 69698689.com
-0.0.0.0 697e43da249f79cd.com
 0.0.0.0 6987643.lat
 0.0.0.0 698wan.com
 0.0.0.0 69916666.com
@@ -11822,7 +11722,6 @@
 0.0.0.0 6e7b0968.pinme.dev
 0.0.0.0 6e7v6eh.hair
 0.0.0.0 6e8a225320471153.com
-0.0.0.0 6e8fe57151019.beer
 0.0.0.0 6e8y4k.hair
 0.0.0.0 6e9-7ew56-doqszs-e15e6t-glomf.pages.dev
 0.0.0.0 6eat.com
@@ -11855,7 +11754,6 @@
 0.0.0.0 6fast.com
 0.0.0.0 6fcsj.com
 0.0.0.0 6fd2.sh.1253807583.clb.myqcloud.com
-0.0.0.0 6fe7c9d291017.beer
 0.0.0.0 6ff6313e475a7a32.com
 0.0.0.0 6fm4dcpj31.com
 0.0.0.0 6fs7gfs7fgfsfdejwo.shop
@@ -12161,7 +12059,6 @@
 0.0.0.0 71908.com
 0.0.0.0 7192.com
 0.0.0.0 719400.com
-0.0.0.0 719f06caf1017.beer
 0.0.0.0 71acg.com
 0.0.0.0 71acg.net
 0.0.0.0 71b394ce11114.beer
@@ -12170,14 +12067,11 @@
 0.0.0.0 71big.net
 0.0.0.0 71c4d5e6f7a8def0123456789ab.artilleriemonument.nl
 0.0.0.0 71c9fd6d-dnsotls-ds.metric.gstatic.com
-0.0.0.0 71d7f1e121019.beer
-0.0.0.0 71dm.com
 0.0.0.0 71e.com
 0.0.0.0 71edge.com
 0.0.0.0 71edge.net
 0.0.0.0 71edge.work
 0.0.0.0 71elink.com
-0.0.0.0 71f68cc351015.beer
 0.0.0.0 71go.com
 0.0.0.0 71k.com
 0.0.0.0 71lady.com
@@ -12399,7 +12293,6 @@
 0.0.0.0 74966.net
 0.0.0.0 74977.net
 0.0.0.0 74cms.com
-0.0.0.0 74da6ad581020.beer
 0.0.0.0 74dns.com
 0.0.0.0 74e6.sh.1253876161.clb.myqcloud.com
 0.0.0.0 74eb1257-dnsotls-ds.metric.gstatic.com
@@ -12550,7 +12443,6 @@
 0.0.0.0 7723img.com
 0.0.0.0 7724.com
 0.0.0.0 7724yx.com
-0.0.0.0 7725.com
 0.0.0.0 77304.com
 0.0.0.0 77304y.com
 0.0.0.0 77313.com
@@ -12640,7 +12532,6 @@
 0.0.0.0 77hudong.com
 0.0.0.0 77itv.com
 0.0.0.0 77l.com
-0.0.0.0 77lux.com
 0.0.0.0 77music.com
 0.0.0.0 77nn.net
 0.0.0.0 77nt.com
@@ -12776,7 +12667,6 @@
 0.0.0.0 7a.cm
 0.0.0.0 7a0e.sh.1253925362.clb.myqcloud.com
 0.0.0.0 7a0qo1zj1m.execute-api.us-west-1.amazonaws.com
-0.0.0.0 7a1dd6b621020.beer
 0.0.0.0 7a1f7ba4211042.beer
 0.0.0.0 7a31jmf.com
 0.0.0.0 7a36.sh.1253919774.clb.myqcloud.com
@@ -12787,7 +12677,6 @@
 0.0.0.0 7a9b89eb3d333f2c.com
 0.0.0.0 7a9e.sh.1253930939.clb.myqcloud.com
 0.0.0.0 7acc.sh.1253931937.clb.myqcloud.com
-0.0.0.0 7ade93e381021.beer
 0.0.0.0 7af4.sh.1253933725.clb.myqcloud.com
 0.0.0.0 7ahr.com
 0.0.0.0 7analytics.com
@@ -12797,7 +12686,6 @@
 0.0.0.0 7askzg5k.com
 0.0.0.0 7b2.com
 0.0.0.0 7b3e.sh.1253936377.clb.myqcloud.com
-0.0.0.0 7b6466e191019.beer
 0.0.0.0 7b6q.oftesid.lat
 0.0.0.0 7b761738c10261.beer
 0.0.0.0 7be9.sh.1253944087.clb.myqcloud.com
@@ -12829,7 +12717,6 @@
 0.0.0.0 7cname.com
 0.0.0.0 7cnv.com
 0.0.0.0 7cw0tjiqjlymf8nm.smtp.zm.antivirus.bo.webproxy.idc.designs.tencent.com
-0.0.0.0 7cxk.com
 0.0.0.0 7cyn.com
 0.0.0.0 7d0b.sh.1253955713.clb.myqcloud.com
 0.0.0.0 7d0c.sh.1253959324.clb.myqcloud.com
@@ -12841,8 +12728,6 @@
 0.0.0.0 7d6b.sh.1253965307.clb.myqcloud.com
 0.0.0.0 7d80ef025d.nxcli.io
 0.0.0.0 7d82.sh.1253964549.clb.myqcloud.com
-0.0.0.0 7d8fc91771017.beer
-0.0.0.0 7d9c2005e1015.beer
 0.0.0.0 7dah8.com
 0.0.0.0 7dc0d8dad10281.beer
 0.0.0.0 7dc20a92cc1da04d.com
@@ -13192,7 +13077,6 @@
 0.0.0.0 80166.com
 0.0.0.0 8020.sh.1253992983.clb.myqcloud.com
 0.0.0.0 80247139.xyz
-0.0.0.0 8025edaf81019.beer
 0.0.0.0 8027348623547638.shop
 0.0.0.0 8027xqa.ink
 0.0.0.0 802d.sh.1253993606.clb.myqcloud.com
@@ -13237,7 +13121,6 @@
 0.0.0.0 80ans-leparisien.fr
 0.0.0.0 80baicai.biz
 0.0.0.0 80bi.com
-0.0.0.0 80c189b091016.beer
 0.0.0.0 80cz.net
 0.0.0.0 80d335e5-cb9b-4010-ad5a-3d92f8525f01.random.webproxy.idc.0-lt-test-mobile.tencent.com
 0.0.0.0 80d335e5-cb9b-4010-ad5a-3d92f8525f01.random.webproxy.idc.local.accountingidcfreeassistant-349k8mlylz5x5s-botjcu.qq.com
@@ -13348,7 +13231,6 @@
 0.0.0.0 81xy.com
 0.0.0.0 81zhongwenx.com
 0.0.0.0 81zw.com
-0.0.0.0 81zw.la
 0.0.0.0 8203app.com
 0.0.0.0 8204rzn.skin
 0.0.0.0 8205wzn.skin
@@ -13362,7 +13244,6 @@
 0.0.0.0 82250856.com
 0.0.0.0 822644.com
 0.0.0.0 8228.tv
-0.0.0.0 822ef055f1017.beer
 0.0.0.0 82311v.weebly.com
 0.0.0.0 823238fa910271.beer
 0.0.0.0 82335966.com
@@ -13512,7 +13393,6 @@
 0.0.0.0 845740.cfd
 0.0.0.0 845741.cfd
 0.0.0.0 8458185.lat
-0.0.0.0 845de4aca1019.beer
 0.0.0.0 845e4a87610292.beer
 0.0.0.0 8461.switch.hyzhibo.cdntip.com.cdn.ovscdns.net
 0.0.0.0 8461.switch.hyzhibo.cdntip.com.hvzhibo.sched.ovscdns.net
@@ -13542,7 +13422,6 @@
 0.0.0.0 849c.sh.1254065392.clb.myqcloud.com
 0.0.0.0 84ca.sh.1254064608.clb.myqcloud.com
 0.0.0.0 84d0.sh.1253857164.clb.myqcloud.com
-0.0.0.0 84d8388721016.beer
 0.0.0.0 84ke.com
 0.0.0.0 84ktv.com
 0.0.0.0 84nofec3ws.com
@@ -13673,7 +13552,6 @@
 0.0.0.0 869d.com
 0.0.0.0 869v.com
 0.0.0.0 86amsdy.com
-0.0.0.0 86bdada6e1019.beer
 0.0.0.0 86bus.com
 0.0.0.0 86crk.com
 0.0.0.0 86ditu.com
@@ -13764,7 +13642,6 @@
 0.0.0.0 8762412461-prawnicy.storage.googleapis.com
 0.0.0.0 87625727386473265473.blogspot.com
 0.0.0.0 8765043b5db2cbcb.com
-0.0.0.0 87654321.xyz
 0.0.0.0 8765434.cfd
 0.0.0.0 87665462.lat
 0.0.0.0 8767.com
@@ -13822,7 +13699,6 @@
 0.0.0.0 8811442641-prawnicy.storage.googleapis.com
 0.0.0.0 88116008.com
 0.0.0.0 8811777.com
-0.0.0.0 881794d571016.beer
 0.0.0.0 88183322.com
 0.0.0.0 88183355.com
 0.0.0.0 881ac9cfd560166d.com
@@ -13896,7 +13772,6 @@
 0.0.0.0 8880666.com
 0.0.0.0 888132.com
 0.0.0.0 8881672671-prawnicy.storage.googleapis.com
-0.0.0.0 8882258ab4.shop
 0.0.0.0 88826345201924176473.weebly.com
 0.0.0.0 8882855971-prawnicy.storage.googleapis.com
 0.0.0.0 8883105605-prawnicy.storage.googleapis.com
@@ -13943,7 +13818,6 @@
 0.0.0.0 88adb49761022.beer
 0.0.0.0 88bank.com
 0.0.0.0 88bx.com
-0.0.0.0 88c3eaa9f1015.beer
 0.0.0.0 88caijing.com
 0.0.0.0 88cdn.com
 0.0.0.0 88dushu.com
@@ -14026,7 +13900,6 @@
 0.0.0.0 8958915981.click
 0.0.0.0 89609335.com
 0.0.0.0 8961417159-prawnicy.storage.googleapis.com
-0.0.0.0 896de44003a72c48.com
 0.0.0.0 896qipai.com
 0.0.0.0 896rg86d.weebly.com
 0.0.0.0 8971692080-prawnicy.storage.googleapis.com
@@ -14066,7 +13939,6 @@
 0.0.0.0 89d2.sh.1254138721.clb.myqcloud.com
 0.0.0.0 89dj.com
 0.0.0.0 89ds.com
-0.0.0.0 89f0e4a1603d3372.com
 0.0.0.0 89f9ee46410292.beer
 0.0.0.0 89pv.kurierp0lska.click
 0.0.0.0 89qw.com
@@ -14076,7 +13948,6 @@
 0.0.0.0 8a.hk
 0.0.0.0 8a10847841cdf19b.com
 0.0.0.0 8a40.sh.1254140771.clb.myqcloud.com
-0.0.0.0 8a53ccb021015.beer
 0.0.0.0 8a97175fd63e1d3a69f36979b9b34470.safeframe.googlesyndication.com
 0.0.0.0 8aa1.sh.1254090718.clb.myqcloud.com
 0.0.0.0 8ab113871fb000b2.com
@@ -14088,10 +13959,8 @@
 0.0.0.0 8ao8ao.com
 0.0.0.0 8armsstudio.com
 0.0.0.0 8aza.com
-0.0.0.0 8b0dead347366514.com
 0.0.0.0 8b165878.pinme.dev
 0.0.0.0 8b2.net
-0.0.0.0 8b3efd3d91017.beer
 0.0.0.0 8b6d.sh.1253952554.clb.myqcloud.com
 0.0.0.0 8b92b52bd10301.beer
 0.0.0.0 8b96.sh.1254155614.clb.myqcloud.com
@@ -14109,7 +13978,6 @@
 0.0.0.0 8c657a4ba5616b4f.com
 0.0.0.0 8casino.fr
 0.0.0.0 8cd3.sh.1254169858.clb.myqcloud.com
-0.0.0.0 8ce7bc1173775468.com
 0.0.0.0 8cname.com
 0.0.0.0 8cnet.com
 0.0.0.0 8cx.tb8jgv.sbs
@@ -14128,7 +13996,6 @@
 0.0.0.0 8df3.sh.1254182199.clb.myqcloud.com
 0.0.0.0 8dn.com
 0.0.0.0 8dol.com
-0.0.0.0 8dou.com
 0.0.0.0 8drr.ll2gut.cfd
 0.0.0.0 8dt.com
 0.0.0.0 8dudata.com
@@ -14140,7 +14007,6 @@
 0.0.0.0 8e5da0c5911031.beer
 0.0.0.0 8e8z.com
 0.0.0.0 8eb7.sh.1254191078.clb.myqcloud.com
-0.0.0.0 8eda52911f4518b6.com
 0.0.0.0 8ee1834c110272.beer
 0.0.0.0 8ef1.sh.1254191771.clb.myqcloud.com
 0.0.0.0 8ei38iue.pics
@@ -14387,7 +14253,6 @@
 0.0.0.0 9042117632.cfd
 0.0.0.0 904e0d2ba10241.beer
 0.0.0.0 904f.sh.1254210695.clb.myqcloud.com
-0.0.0.0 9056b8f915baba58.com
 0.0.0.0 905874987verxgdfsdaswffavdsg79ad77aadfgsbghdr5.s3-eu-central-2.ionoscloud.com
 0.0.0.0 906376fa-dnsotls-ds.metric.gstatic.com
 0.0.0.0 9064328.shop
@@ -14400,7 +14265,6 @@
 0.0.0.0 9099d123.lat
 0.0.0.0 90a7597f835b14bd.com
 0.0.0.0 90ao.com
-0.0.0.0 90b5d42ca1016.beer
 0.0.0.0 90dao.com
 0.0.0.0 90ers.com
 0.0.0.0 90game.bet
@@ -14452,7 +14316,6 @@
 0.0.0.0 9145rxe.top
 0.0.0.0 9146.sh.1254222214.clb.myqcloud.com
 0.0.0.0 9148hpo.top
-0.0.0.0 9149df3441020.beer
 0.0.0.0 915.com
 0.0.0.0 915.tv
 0.0.0.0 91520384.xyz
@@ -14661,7 +14524,6 @@
 0.0.0.0 91yixun.com
 0.0.0.0 91yk.com
 0.0.0.0 91yong.com
-0.0.0.0 91you.com
 0.0.0.0 91youxi.com
 0.0.0.0 91yoyo.net
 0.0.0.0 91yu.com
@@ -14718,7 +14580,6 @@
 0.0.0.0 92615.top
 0.0.0.0 926kf.com
 0.0.0.0 927254312.cfd
-0.0.0.0 92751437c39b61ee.com
 0.0.0.0 927927.com
 0.0.0.0 927953.com
 0.0.0.0 927game.com
@@ -14745,7 +14606,6 @@
 0.0.0.0 92ay.com
 0.0.0.0 92b5.sh.1254237287.clb.myqcloud.com
 0.0.0.0 92bbs.net
-0.0.0.0 92bce178d60f5a3e.com
 0.0.0.0 92cloud.com
 0.0.0.0 92dp.com
 0.0.0.0 92dpw.com
@@ -14757,6 +14617,7 @@
 0.0.0.0 92juwy3.garden
 0.0.0.0 92kaifa.com
 0.0.0.0 92kk.com
+0.0.0.0 92kun.com
 0.0.0.0 92le.com
 0.0.0.0 92lm.com
 0.0.0.0 92lucky.com
@@ -14901,7 +14762,6 @@
 0.0.0.0 94ab.com
 0.0.0.0 94ad.com
 0.0.0.0 94afx.com
-0.0.0.0 94beb5b921021.beer
 0.0.0.0 94cb.com
 0.0.0.0 94cto.com
 0.0.0.0 94egf0jk.shop
@@ -14977,7 +14837,6 @@
 0.0.0.0 95598pay.com
 0.0.0.0 95599.hk
 0.0.0.0 9560.cc
-0.0.0.0 95600.vip
 0.0.0.0 9562074563-prawnicy.storage.googleapis.com
 0.0.0.0 9562130209-miejsca.storage.googleapis.com
 0.0.0.0 9562130209-oferty.storage.googleapis.com
@@ -15302,9 +15161,7 @@
 0.0.0.0 98mp.com
 0.0.0.0 98nice.com
 0.0.0.0 98one.com
-0.0.0.0 98t.la
 0.0.0.0 98t.net
-0.0.0.0 98tang.com
 0.0.0.0 98tsg.com
 0.0.0.0 98tyesy.vercel.app
 0.0.0.0 98w.co
@@ -15505,7 +15362,6 @@
 0.0.0.0 9a9m.com
 0.0.0.0 9ab7.sh.1254309541.clb.myqcloud.com
 0.0.0.0 9ac2.sh.1254310468.clb.myqcloud.com
-0.0.0.0 9aca7ec4f5ae25e5.com
 0.0.0.0 9ad30478-dnsotls-ds.metric.gstatic.com
 0.0.0.0 9ailai.com
 0.0.0.0 9aimai.com
@@ -15532,12 +15388,9 @@
 0.0.0.0 9c32.sh.1254301682.clb.myqcloud.com
 0.0.0.0 9c42.sh.1254326435.clb.myqcloud.com
 0.0.0.0 9c44.sh.1254283411.clb.myqcloud.com
-0.0.0.0 9c67282f22796ac6.com
 0.0.0.0 9c68.sh.1254327471.clb.myqcloud.com
 0.0.0.0 9c75.sh.1254328530.clb.myqcloud.com
 0.0.0.0 9c89.sh.1254326279.clb.myqcloud.com
-0.0.0.0 9c941a3b41021.beer
-0.0.0.0 9ca4b8eca1019.beer
 0.0.0.0 9casino.fr
 0.0.0.0 9casinoo.fr
 0.0.0.0 9casinos.fr
@@ -15563,7 +15416,6 @@
 0.0.0.0 9deli.com
 0.0.0.0 9design.live
 0.0.0.0 9df7.sh.1254347653.clb.myqcloud.com
-0.0.0.0 9dfb917ee1019.beer
 0.0.0.0 9dfx.com
 0.0.0.0 9dian.info
 0.0.0.0 9dida.net
@@ -15582,7 +15434,6 @@
 0.0.0.0 9e9f.sh.1254354535.clb.myqcloud.com
 0.0.0.0 9ea8.sh.1254303482.clb.myqcloud.com
 0.0.0.0 9eacc080d10291.beer
-0.0.0.0 9eae58cbc333acf8.com
 0.0.0.0 9eaf.sh.1254355778.clb.myqcloud.com
 0.0.0.0 9earth.com
 0.0.0.0 9ebb.sh.1254356593.clb.myqcloud.com
@@ -16006,7 +15857,6 @@
 0.0.0.0 a1983.dscg.akamai.net
 0.0.0.0 a1985.g1.akamai.net
 0.0.0.0 a1992.r.akamai.net
-0.0.0.0 a1a22678d1019.beer
 0.0.0.0 a1algarve.com
 0.0.0.0 a1brickwork.com
 0.0.0.0 a1coin.xyz
@@ -16093,15 +15943,12 @@
 0.0.0.0 a4.da1.akamai.net
 0.0.0.0 a4.mzstatic.com
 0.0.0.0 a407.phobos.apple.com
-0.0.0.0 a40dc409e2ea86b1.com
 0.0.0.0 a40e.sh.1254421098.clb.myqcloud.com
 0.0.0.0 a415.sh.1254421434.clb.myqcloud.com
 0.0.0.0 a423.phobos.apple.com
 0.0.0.0 a428.sh.1254422763.clb.myqcloud.com
 0.0.0.0 a42a.sh.1254422713.clb.myqcloud.com
-0.0.0.0 a44aeaeac1016.beer
 0.0.0.0 a45e4f5fd10272.beer
-0.0.0.0 a465a95641016.beer
 0.0.0.0 a471.w13.akamai.net
 0.0.0.0 a479.g.akamai.net
 0.0.0.0 a479.phobos.apple.com
@@ -16129,7 +15976,6 @@
 0.0.0.0 a51f.sh.1251123004.clb.myqcloud.com
 0.0.0.0 a53.phobos.apple.com
 0.0.0.0 a53.photo.store.qq.com
-0.0.0.0 a5380a8e41016.beer
 0.0.0.0 a539.g1.akamai.net
 0.0.0.0 a5399.com
 0.0.0.0 a540.w3.akamai.net
@@ -16186,8 +16032,6 @@
 0.0.0.0 a726.g1.akamai.net
 0.0.0.0 a728.g.akamai.net
 0.0.0.0 a736.g.akamai.net
-0.0.0.0 a74be6c3e1021.beer
-0.0.0.0 a756716251017.beer
 0.0.0.0 a758cca6.wenjunshicai.net
 0.0.0.0 a75d755806b1095d.com
 0.0.0.0 a761.phobos.apple.com
@@ -16249,7 +16093,6 @@
 0.0.0.0 a949.phobos.apple.com
 0.0.0.0 a963.com
 0.0.0.0 a968.g1.akamai.net
-0.0.0.0 a96b32e2b1015.beer
 0.0.0.0 a975.g.akamai.net
 0.0.0.0 a977.phobos.apple.com
 0.0.0.0 a983.phobos.apple.com
@@ -16291,7 +16134,6 @@
 0.0.0.0 aa5c82aeb10271.beer
 0.0.0.0 aa65535.com
 0.0.0.0 aa6666.com
-0.0.0.0 aa6f0397a3cf50d7.com
 0.0.0.0 aa77kk.com
 0.0.0.0 aa84c23fc4aa335a.com
 0.0.0.0 aa8xgl.cfd
@@ -17055,7 +16897,6 @@
 0.0.0.0 ac24horas.com #Revive Adserver - Advertising
 0.0.0.0 ac268.com
 0.0.0.0 ac3.msn.com
-0.0.0.0 ac3ba49731016.beer
 0.0.0.0 ac4e.sh.1251993484.clb.myqcloud.com
 0.0.0.0 ac57.com
 0.0.0.0 ac59-lille.fr
@@ -19760,7 +19601,6 @@
 0.0.0.0 adxvip.com
 0.0.0.0 adxwork.com
 0.0.0.0 adxyun.com
-0.0.0.0 adxzoo.com
 0.0.0.0 adyoc.com
 0.0.0.0 adyounger.com
 0.0.0.0 adyuedong.com
@@ -20036,11 +19876,9 @@
 0.0.0.0 ae27.sh.1254959557.clb.myqcloud.com
 0.0.0.0 ae3a6d6e09359c15.com
 0.0.0.0 ae40.sh.1254960770.clb.myqcloud.com
-0.0.0.0 ae5de9f6f1021.beer
 0.0.0.0 ae60.com
 0.0.0.0 ae60.sh.1254962266.clb.myqcloud.com
 0.0.0.0 ae722u.info
-0.0.0.0 ae7b5112dd1be127.com
 0.0.0.0 ae86.gz.1252692064.clb.myqcloud.com
 0.0.0.0 aea2.sh.1254965016.clb.myqcloud.com
 0.0.0.0 aearopol.cyou
@@ -20062,7 +19900,6 @@
 0.0.0.0 aedificopartners.com
 0.0.0.0 aedzt.pm
 0.0.0.0 aee8.gz.1253210916.clb.myqcloud.com
-0.0.0.0 aeec9b62d1016.beer
 0.0.0.0 aeef.sh.1254803877.clb.myqcloud.com
 0.0.0.0 aeenergy.com
 0.0.0.0 aeenets.com
@@ -20241,7 +20078,6 @@
 0.0.0.0 af5d.sh.1255303167.clb.myqcloud.com
 0.0.0.0 af64.sh.1253356415.clb.myqcloud.com
 0.0.0.0 af83c2f7-e94f-4908-9e04-6e96269d358a-00-3m1tfo9zpuwcp.picard.replit.dev
-0.0.0.0 af8d4587126e00c0.com
 0.0.0.0 afacebook.fr
 0.0.0.0 afachsimme.cyou
 0.0.0.0 afaisouth.com
@@ -20249,7 +20085,6 @@
 0.0.0.0 afang.com
 0.0.0.0 afanti100.com
 0.0.0.0 afarway.com
-0.0.0.0 afbd4a3905a4a9a5.com
 0.0.0.0 afca-asia.org
 0.0.0.0 afca6b82c11032.beer
 0.0.0.0 afcec.com
@@ -40053,7 +39888,6 @@
 0.0.0.0 amniswealth.com
 0.0.0.0 amo-solar.com
 0.0.0.0 amo9.com
-0.0.0.0 amobbs.com
 0.0.0.0 amobee.com #Amobee - Tracker
 0.0.0.0 amoe-lite.com
 0.0.0.0 amoe.cc
@@ -41991,7 +41825,6 @@
 0.0.0.0 anzora.shop
 0.0.0.0 anzu.io #Anzu - Advertising
 0.0.0.0 anzyogenl.com
-0.0.0.0 ao-di.com
 0.0.0.0 ao-hua.com
 0.0.0.0 ao0lf-5tr-71qw74-dtw-2af.pages.dev
 0.0.0.0 ao3-cn.com
@@ -47664,7 +47497,6 @@
 0.0.0.0 autrysoldes.fr
 0.0.0.0 autumn-band-6aa1.lcaeuoabn.workers.dev
 0.0.0.0 autumn-fabric.shop
-0.0.0.0 autumndesires.com
 0.0.0.0 auuircoachstandards.info
 0.0.0.0 auvault-info.com
 0.0.0.0 auvergerhonealpes.fr
@@ -48429,7 +48261,6 @@
 0.0.0.0 axjbbd.shop
 0.0.0.0 axjen.com
 0.0.0.0 axjm-ex.com
-0.0.0.0 axjsw.com
 0.0.0.0 axjx.com
 0.0.0.0 axksv.com
 0.0.0.0 axm-amazon.com
@@ -48902,7 +48733,6 @@
 0.0.0.0 b21.photo.store.qq.com
 0.0.0.0 b211.photo.store.qq.com
 0.0.0.0 b220.gz.1253230512.clb.myqcloud.com
-0.0.0.0 b22fb6d6d1015.beer
 0.0.0.0 b23.tv
 0.0.0.0 b230756fa1114.beer
 0.0.0.0 b23875917-28a8-4eb0-8c3d-860cc8ad1ef0.netlify.app
@@ -49048,7 +48878,6 @@
 0.0.0.0 b65lxy.ramka31.forum
 0.0.0.0 b666.sh.1254602099.clb.myqcloud.com
 0.0.0.0 b66d.sh.1255379185.clb.myqcloud.com
-0.0.0.0 b670bffdf1021.beer
 0.0.0.0 b67bafab-dnsotls-ds.metric.gstatic.com
 0.0.0.0 b68f0a844eec7fff.com
 0.0.0.0 b68zdm-pm1yj2-z6tvq-w2y-b97ia.pages.dev
@@ -49068,14 +48897,12 @@
 0.0.0.0 b7-fr.fr
 0.0.0.0 b71240031-d877-44e7-84f7-b418b8fa25e5.netlify.app
 0.0.0.0 b71ea195f05f569c.com
-0.0.0.0 b71ef13941015.beer
 0.0.0.0 b721.sh.1255317600.clb.myqcloud.com
 0.0.0.0 b73223085-49c6-4dca-a2f1-4722014079bf-dpcj8stbzfif.edgeone.dev
 0.0.0.0 b73223085-49c6-4dca-a2f1-4722014079bf.edgeone.dev
 0.0.0.0 b73223085-49c6-4dca-a2f1-4722014079fb-dpi4fgipupcs.edgeone.dev
 0.0.0.0 b74364238-d49c-4f21-a234-d47e9697ee92-dpowf5bnj9al.edgeone.dev
 0.0.0.0 b74o64.webwave.dev
-0.0.0.0 b75c5da009ac3871.com
 0.0.0.0 b76ad11181024.beer
 0.0.0.0 b77.photo.store.qq.com
 0.0.0.0 b78f.sh.1255361924.clb.myqcloud.com
@@ -50136,7 +49963,6 @@
 0.0.0.0 baisu.cc
 0.0.0.0 baisui100.com
 0.0.0.0 baisuifc.shop
-0.0.0.0 baisuizhixiang.com
 0.0.0.0 baitahe.net
 0.0.0.0 baitaihuge.com
 0.0.0.0 baitanheichang.com
@@ -51622,7 +51448,6 @@
 0.0.0.0 bb-hy.com
 0.0.0.0 bb-pco.com
 0.0.0.0 bb06.com
-0.0.0.0 bb361a58c1015.beer
 0.0.0.0 bb3a14ca57af4d81.com
 0.0.0.0 bb52.sh.1255418369.clb.myqcloud.com
 0.0.0.0 bb6e.sh.1255419046.clb.myqcloud.com
@@ -51732,7 +51557,6 @@
 0.0.0.0 bbs1x.net
 0.0.0.0 bbsancon.weebly.com
 0.0.0.0 bbscloud.com
-0.0.0.0 bbsds.com
 0.0.0.0 bbsindex.com
 0.0.0.0 bbsls.net
 0.0.0.0 bbsmc.net
@@ -52052,7 +51876,6 @@
 0.0.0.0 bdns-test.net
 0.0.0.0 bdovoltarion-hr.live
 0.0.0.0 bdpacleveland.org
-0.0.0.0 bdpan.com
 0.0.0.0 bdpnt.com
 0.0.0.0 bdppe.net
 0.0.0.0 bdqn666.com
@@ -64302,7 +64125,6 @@
 0.0.0.0 c2427457b16e03ea.com
 0.0.0.0 c24hdp.webwave.dev
 0.0.0.0 c264.gz.1251936428.clb.myqcloud.com
-0.0.0.0 c27619fb01019.beer
 0.0.0.0 c28b.sh.1254306078.clb.myqcloud.com
 0.0.0.0 c2b8.sh.1255328214.clb.myqcloud.com
 0.0.0.0 c2bd.sh.1255484596.clb.myqcloud.com
@@ -64349,8 +64171,6 @@
 0.0.0.0 c3y3jw.webwave.dev
 0.0.0.0 c4006.com
 0.0.0.0 c4008.com
-0.0.0.0 c400c.cc
-0.0.0.0 c402f6df11021.beer
 0.0.0.0 c404.gz.1253462629.clb.myqcloud.com
 0.0.0.0 c40f.gz.1251997359.clb.myqcloud.com
 0.0.0.0 c41b1d28472ea27c.com
@@ -64360,7 +64180,6 @@
 0.0.0.0 c468.sh.1255498418.clb.myqcloud.com
 0.0.0.0 c469f14b911012.beer
 0.0.0.0 c4752e8a51.vip
-0.0.0.0 c47cb27580c5de6b.com
 0.0.0.0 c495f3eb10d6cf13.com
 0.0.0.0 c4d.live
 0.0.0.0 c4datc.com
@@ -64392,7 +64211,6 @@
 0.0.0.0 c558624c4b6f5f42.com
 0.0.0.0 c57e6607c10292.beer
 0.0.0.0 c59g8.i8ejqr.cfd
-0.0.0.0 c5b27c7c01019.beer
 0.0.0.0 c5b6bpoq7q.world
 0.0.0.0 c5bf2b35337761f4.com
 0.0.0.0 c5capital.net
@@ -64417,7 +64235,6 @@
 0.0.0.0 c68d.sh.1255515434.clb.myqcloud.com
 0.0.0.0 c6aa.sh.1255516066.clb.myqcloud.com
 0.0.0.0 c6b2.sh.1255516395.clb.myqcloud.com
-0.0.0.0 c6bad2ad01020.beer
 0.0.0.0 c6bank1.page.link
 0.0.0.0 c6c.com
 0.0.0.0 c6kvof.top
@@ -64433,7 +64250,6 @@
 0.0.0.0 c7200.com
 0.0.0.0 c7211df10543faf59eefc065f6dceb95.safeframe.googlesyndication.com
 0.0.0.0 c7233.com
-0.0.0.0 c73567b858ce4908.com
 0.0.0.0 c7526.com
 0.0.0.0 c75e76.earthgreen.com.co
 0.0.0.0 c768.sh.1255520638.clb.myqcloud.com
@@ -64461,13 +64277,10 @@
 0.0.0.0 c7y.com
 0.0.0.0 c807xpress.com
 0.0.0.0 c83193.lat
-0.0.0.0 c835249c31017.beer
 0.0.0.0 c8480f0008.nxcli.io
-0.0.0.0 c8571e9ad7689b0a.com
 0.0.0.0 c864.sh.1255529142.clb.myqcloud.com
 0.0.0.0 c869.sh.1255528297.clb.myqcloud.com
 0.0.0.0 c874u.cnbcbali.com
-0.0.0.0 c88a8ae86f58a489.com
 0.0.0.0 c894.sh.1255530159.clb.myqcloud.com
 0.0.0.0 c8ceb739c3094faffe42faa6b798e80b.safeframe.googlesyndication.com
 0.0.0.0 c8d13-67hrx3-xx2n6-40g-55gdbb.pages.dev
@@ -64682,7 +64495,6 @@
 0.0.0.0 caatlantiquevendee.fr
 0.0.0.0 caayee.com
 0.0.0.0 caazeus.fr
-0.0.0.0 cab346ef31016.beer
 0.0.0.0 cabaia-france.fr
 0.0.0.0 cabaia-online.fr
 0.0.0.0 cabaiafrance.fr
@@ -64860,7 +64672,6 @@
 0.0.0.0 cadzxw.com
 0.0.0.0 caeauxfolies.fr
 0.0.0.0 caecc.com
-0.0.0.0 caeef787f1694f47.com
 0.0.0.0 caeerr.com
 0.0.0.0 caefa.org
 0.0.0.0 caein.com
@@ -66224,6 +66035,7 @@
 0.0.0.0 capwwitalist.info
 0.0.0.0 caqzlsgs.com
 0.0.0.0 car-metaverse.com
+0.0.0.0 car-vacation.com
 0.0.0.0 car-wallet-12321.firebaseio.com
 0.0.0.0 car.qq.com
 0.0.0.0 car0575.com
@@ -68715,7 +68527,6 @@
 0.0.0.0 ccbfund.com
 0.0.0.0 ccbfutures.com
 0.0.0.0 ccbhgl.com
-0.0.0.0 ccbhome.net
 0.0.0.0 ccbiam.com
 0.0.0.0 ccbleasing.com
 0.0.0.0 ccbnd.com
@@ -69243,7 +69054,6 @@
 0.0.0.0 cdc-net-labanquedesterritoires.fr
 0.0.0.0 cdc-tencent-com-1258344706.image.myqcloud.com
 0.0.0.0 cdc.tencent.com
-0.0.0.0 cdc80b3514292771.com
 0.0.0.0 cdcbj.com
 0.0.0.0 cdcc.info
 0.0.0.0 cdcc.ink
@@ -70351,7 +70161,6 @@
 0.0.0.0 cena-produkcji.shop
 0.0.0.0 cenalo.pro
 0.0.0.0 cenanntions.shop
-0.0.0.0 cenano-china.com
 0.0.0.0 cenanovers.store
 0.0.0.0 cenapartners.com
 0.0.0.0 cenbel.com
@@ -71050,7 +70859,6 @@
 0.0.0.0 cf3226c8bc0556ea.alattar.bh
 0.0.0.0 cf69.com
 0.0.0.0 cf6a.sh.1255615057.clb.myqcloud.com
-0.0.0.0 cf8587a521017.beer
 0.0.0.0 cf99a7.yl029.com
 0.0.0.0 cf9c.sh.1255616079.clb.myqcloud.com
 0.0.0.0 cf9e5dea.heftrucksbelgie.eu
@@ -73587,7 +73395,6 @@
 0.0.0.0 chinajj.org
 0.0.0.0 chinajjz.com
 0.0.0.0 chinajnhb.com
-0.0.0.0 chinajoiner.net
 0.0.0.0 chinajorson.net
 0.0.0.0 chinajoy.net
 0.0.0.0 chinajs120.com
@@ -73970,7 +73777,6 @@
 0.0.0.0 chinavr.net
 0.0.0.0 chinawanbang.com
 0.0.0.0 chinawanda.com
-0.0.0.0 chinawanlitrans.com
 0.0.0.0 chinawatchnet.com
 0.0.0.0 chinawaterexpo.com
 0.0.0.0 chinawatertech.com
@@ -77639,7 +77445,6 @@
 0.0.0.0 cloudsuqian.com
 0.0.0.0 cloudswift.cloud
 0.0.0.0 cloudsync-center.site
-0.0.0.0 cloudt.chat
 0.0.0.0 cloudtalkers.com
 0.0.0.0 cloudtalpha.info
 0.0.0.0 cloudtangshan.com
@@ -78035,7 +77840,6 @@
 0.0.0.0 cmipyr.element72.buzz
 0.0.0.0 cmipyr.ramka31.forum
 0.0.0.0 cmiyu.com
-0.0.0.0 cmjz.net
 0.0.0.0 cmk5.com
 0.0.0.0 cmkgracedvne.firebaseapp.com
 0.0.0.0 cmkgracedvne.web.app
@@ -78618,7 +78422,6 @@
 0.0.0.0 cnhls.com
 0.0.0.0 cnhlsxe.com
 0.0.0.0 cnhnb.com
-0.0.0.0 cnhongke.org
 0.0.0.0 cnhonker.com
 0.0.0.0 cnhow.net
 0.0.0.0 cnhqt.com
@@ -78836,7 +78639,6 @@
 0.0.0.0 cnnx.net
 0.0.0.0 cnobin.org
 0.0.0.0 cnod.net
-0.0.0.0 cnoddt.com
 0.0.0.0 cnodel.trumpedo.com
 0.0.0.0 cnoic.com
 0.0.0.0 cnoil.com
@@ -80248,7 +80050,6 @@
 0.0.0.0 com.hy-livecdn.liveplay.myqcloud.com
 0.0.0.0 com.hylivecdn.sched.ovscdns.net
 0.0.0.0 com.mk
-0.0.0.0 com.mp
 0.0.0.0 com.overseavideo.sched.ovscdns.net
 0.0.0.0 com.pa1mn2ver3f4.com
 0.0.0.0 com.tn
@@ -83484,7 +83285,6 @@
 0.0.0.0 cq5135.com
 0.0.0.0 cq556.com
 0.0.0.0 cq5o.c7r2v9p.pics
-0.0.0.0 cq6.com
 0.0.0.0 cq69.com
 0.0.0.0 cq6969.com
 0.0.0.0 cq8.com
@@ -83509,7 +83309,6 @@
 0.0.0.0 cqbm2007.com
 0.0.0.0 cqbnedu.com
 0.0.0.0 cqbnjsjt.com
-0.0.0.0 cqbnrc.com
 0.0.0.0 cqbntv.com
 0.0.0.0 cqbode.com
 0.0.0.0 cqbondrite.com
@@ -83610,7 +83409,6 @@
 0.0.0.0 cqgdcy.com
 0.0.0.0 cqgdkf.com
 0.0.0.0 cqgearbox.com
-0.0.0.0 cqgewerv.com
 0.0.0.0 cqggwx.com
 0.0.0.0 cqggx.com
 0.0.0.0 cqggzy.com
@@ -86053,7 +85851,6 @@
 0.0.0.0 ctcnn.com
 0.0.0.0 ctcnpa.com
 0.0.0.0 ctcontents.com
-0.0.0.0 ctcsci.com
 0.0.0.0 ctcsz.com
 0.0.0.0 ctcwri.org
 0.0.0.0 ctcxzgs.com
@@ -86688,7 +86485,6 @@
 0.0.0.0 cvsd.in
 0.0.0.0 cvsq-interieurgouv.fr
 0.0.0.0 cvstomercbomk.icu
-0.0.0.0 cvszavosz.icu
 0.0.0.0 cvt-prime.fr
 0.0.0.0 cvtapi.com
 0.0.0.0 cvtasarim.com
@@ -87376,7 +87172,6 @@
 0.0.0.0 czsshb.com
 0.0.0.0 czstorama.fr
 0.0.0.0 czstore.top
-0.0.0.0 czstx.net
 0.0.0.0 czsvip.com
 0.0.0.0 czswdx.com
 0.0.0.0 cztaojiu.com
@@ -87528,7 +87323,6 @@
 0.0.0.0 d10lv7w3g0jvk9.cloudfront.net
 0.0.0.0 d10nkw6w2k1o10.cloudfront.net
 0.0.0.0 d10wfab8zt419p.cloudfront.net
-0.0.0.0 d11180a781015.beer
 0.0.0.0 d11enq2rymy0yl.cloudfront.net
 0.0.0.0 d11tybz5ul8vel.cloudfront.net
 0.0.0.0 d1226c9c010311.beer
@@ -87839,7 +87633,6 @@
 0.0.0.0 d2zv5rkii46miq.cloudfront.net
 0.0.0.0 d300.gz.1253588478.clb.myqcloud.com
 0.0.0.0 d301cxwfymy227.cloudfront.net
-0.0.0.0 d30c8d2641021.beer
 0.0.0.0 d30sxnvlkawtwa.cloudfront.net
 0.0.0.0 d30wo2lffetbp8.cloudfront.net
 0.0.0.0 d314xy.csb.app
@@ -87970,7 +87763,6 @@
 0.0.0.0 d3w2id5zlqvvik.cloudfront.net
 0.0.0.0 d3zone.com
 0.0.0.0 d4000.com
-0.0.0.0 d406dc73a1016.beer
 0.0.0.0 d40e.sh.1255660124.clb.myqcloud.com
 0.0.0.0 d40n15.twojsukcespro.pl
 0.0.0.0 d41.co #Dun and Bradstreet - Tracker
@@ -87996,7 +87788,6 @@
 0.0.0.0 d4yoxd.top
 0.0.0.0 d5168.com
 0.0.0.0 d527.sh.1255667718.clb.myqcloud.com
-0.0.0.0 d54a00143de85b64.com
 0.0.0.0 d56c84cfb4a786f7.com
 0.0.0.0 d57f.rj6ggp.cfd
 0.0.0.0 d58.net
@@ -88210,7 +88001,6 @@
 0.0.0.0 dacvalutron-ai.com
 0.0.0.0 dacvalutrox.live
 0.0.0.0 dacvalutrox.net
-0.0.0.0 dad86b446ac9f8b7.com
 0.0.0.0 dada114.net
 0.0.0.0 dada360.com
 0.0.0.0 dadaabc.com
@@ -90553,7 +90343,6 @@
 0.0.0.0 deexchina.com
 0.0.0.0 deeze.fr
 0.0.0.0 def-gh.net
-0.0.0.0 def5feeaeb220776.com
 0.0.0.0 defair.online
 0.0.0.0 defalamind.cyou
 0.0.0.0 defateleva.cyou
@@ -92040,7 +91829,6 @@
 0.0.0.0 dexi009.com
 0.0.0.0 dexian.mobi
 0.0.0.0 dexingroup.com
-0.0.0.0 dexingrv.com
 0.0.0.0 dexinhr.com
 0.0.0.0 dexinmobi.com
 0.0.0.0 dexinquan.com
@@ -92172,7 +91960,6 @@
 0.0.0.0 dfhpafpsdg.blogspot.com
 0.0.0.0 dfhr.com
 0.0.0.0 dfhrc.com
-0.0.0.0 dfi09181kq.com
 0.0.0.0 dfij.yt
 0.0.0.0 dfilucky-money.com
 0.0.0.0 dfine.tech
@@ -93713,7 +93500,6 @@
 0.0.0.0 diptyqueparis.mom
 0.0.0.0 diqcdbc.com
 0.0.0.0 diqikae.pro
-0.0.0.0 diqiuw.com
 0.0.0.0 diqua.com
 0.0.0.0 dir.google.com
 0.0.0.0 dir001.com
@@ -97882,10 +97668,8 @@
 0.0.0.0 drhikmetbasmak.com
 0.0.0.0 dribbedstatablqqe.info
 0.0.0.0 drice.cc
-0.0.0.0 driect-jajpviewd00.com
 0.0.0.0 driect-sm1tbc.com
 0.0.0.0 driect-sm1tbd.com
-0.0.0.0 driect-sntpjpviewa08.com
 0.0.0.0 drieetsgouv.fr
 0.0.0.0 driego.com
 0.0.0.0 drifbecube.site
@@ -98428,7 +98212,6 @@
 0.0.0.0 dswdwow.com
 0.0.0.0 dswjcms.com
 0.0.0.0 dswljt.com
-0.0.0.0 dswmt.com
 0.0.0.0 dswql.com
 0.0.0.0 dswx.cc
 0.0.0.0 dswzxh.com
@@ -100096,11 +99879,9 @@
 0.0.0.0 e1299.com
 0.0.0.0 e12e.com
 0.0.0.0 e13.whatsapp.net
-0.0.0.0 e13000d6f1019.beer
 0.0.0.0 e13a.sh.1255875095.clb.myqcloud.com
 0.0.0.0 e14.whatsapp.net
 0.0.0.0 e15.whatsapp.net
-0.0.0.0 e151475d71020.beer
 0.0.0.0 e16.whatsapp.net
 0.0.0.0 e1617.com
 0.0.0.0 e16209bf-dnsotls-ds.metric.gstatic.com
@@ -100172,11 +99953,9 @@
 0.0.0.0 e4008.com
 0.0.0.0 e4341e5u4d9q0aa826ca27y7e.vercel.app
 0.0.0.0 e43bb71e710272.beer
-0.0.0.0 e44e4e8c11020.beer
 0.0.0.0 e452a362210291.beer
 0.0.0.0 e478.sh.1252367804.clb.myqcloud.com
 0.0.0.0 e496.sh.1255848561.clb.myqcloud.com
-0.0.0.0 e4d0c1f1d1021.beer
 0.0.0.0 e4e4c4415fd53198.com
 0.0.0.0 e4ohcdslvjnr.com
 0.0.0.0 e4x.podatkli.com
@@ -100185,7 +99964,6 @@
 0.0.0.0 e5413.com
 0.0.0.0 e584.sh.1255916673.clb.myqcloud.com
 0.0.0.0 e5865f69dee0.xyz
-0.0.0.0 e58860e249bf56ad.com
 0.0.0.0 e58b70798965b223.com
 0.0.0.0 e58f8d5eb11032.beer
 0.0.0.0 e5953e97.thalassotech.pl
@@ -100209,7 +99987,6 @@
 0.0.0.0 e6858.dsce9.akamaiedge.net
 0.0.0.0 e68c63fa-dnsotls-ds.metric.gstatic.com
 0.0.0.0 e68cname.com
-0.0.0.0 e6ad1d0761021.beer
 0.0.0.0 e6d5.sh.1255979319.clb.myqcloud.com
 0.0.0.0 e6e4.sh.1255351269.clb.myqcloud.com
 0.0.0.0 e6gps.com
@@ -100249,7 +100026,6 @@
 0.0.0.0 e8.whatsapp.net
 0.0.0.0 e8034d5ac1022.beer
 0.0.0.0 e80bf18e978d9e37.com
-0.0.0.0 e80fb4ced1015.beer
 0.0.0.0 e81fd4b49ca5e6a4.com
 0.0.0.0 e829.sh.1253858465.clb.myqcloud.com
 0.0.0.0 e836g.com
@@ -100752,7 +100528,6 @@
 0.0.0.0 ebaymevip.com
 0.0.0.0 ebayy.fr
 0.0.0.0 ebbcb476210291.beer
-0.0.0.0 ebbf2f9101016.beer
 0.0.0.0 ebc7.sh.1253257841.clb.myqcloud.com
 0.0.0.0 ebchina.com
 0.0.0.0 ebchinatech.com
@@ -100901,7 +100676,6 @@
 0.0.0.0 ec4e54545d0e31fa.com
 0.0.0.0 ec60.sh.1255347290.clb.myqcloud.com
 0.0.0.0 ec8j.com
-0.0.0.0 ecac1cd921021.beer
 0.0.0.0 ecadi.com
 0.0.0.0 ecaidian.com
 0.0.0.0 ecaihr.com
@@ -102679,7 +102453,6 @@
 0.0.0.0 edu63.com
 0.0.0.0 edu777.com
 0.0.0.0 edu84.com
-0.0.0.0 edu84.net
 0.0.0.0 edu88.com
 0.0.0.0 eduaaf.com
 0.0.0.0 eduaiplat.com
@@ -102758,7 +102531,6 @@
 0.0.0.0 eduydt.com
 0.0.0.0 eduyf.com
 0.0.0.0 eduyo.com
-0.0.0.0 eduzb.com
 0.0.0.0 eduzhai.net
 0.0.0.0 eduzhixin.com
 0.0.0.0 eduzs.net
@@ -103279,7 +103051,6 @@
 0.0.0.0 eigiuebiu.sbs
 0.0.0.0 eigpay.com
 0.0.0.0 eigr.fr
-0.0.0.0 eihtfire.com
 0.0.0.0 eiicn.com
 0.0.0.0 eiisys.com
 0.0.0.0 eiitjfieortoswfkdorr.site
@@ -108609,7 +108380,6 @@
 0.0.0.0 expba.com
 0.0.0.0 expdiy.com
 0.0.0.0 expdns.net
-0.0.0.0 expec-tech.com
 0.0.0.0 expectingsubassembttlies.info
 0.0.0.0 expeddctednesseshierophantic.info
 0.0.0.0 expedia.com
@@ -109259,7 +109029,6 @@
 0.0.0.0 f1casino-fr.fr
 0.0.0.0 f1casino.fr
 0.0.0.0 f1casino1.fr
-0.0.0.0 f1d28bdd11019.beer
 0.0.0.0 f1f300a2-04d5-46c2-8941-a633897651b9-00-1f67grlyb721v.spock.replit.dev
 0.0.0.0 f1izsv.cfd
 0.0.0.0 f1km5r.lat
@@ -109298,7 +109067,6 @@
 0.0.0.0 f37jw.jm3qgk.qpon
 0.0.0.0 f385.sh.1256094549.clb.myqcloud.com
 0.0.0.0 f397350c0958109e.com
-0.0.0.0 f3ff28a3e1015.beer
 0.0.0.0 f3fztv.webwave.dev
 0.0.0.0 f3m8ht.lat
 0.0.0.0 f3ma.com
@@ -109322,11 +109090,9 @@
 0.0.0.0 f445.sh.1256097443.clb.myqcloud.com
 0.0.0.0 f449.sh.1255737913.clb.myqcloud.com
 0.0.0.0 f44b9bd1fe4e913f.com
-0.0.0.0 f49f8e0421015.beer
 0.0.0.0 f4a107d7a11012.beer
 0.0.0.0 f4b2ed8f711011.beer
 0.0.0.0 f4b7xaxmah.com
-0.0.0.0 f4e2a302f1016.beer
 0.0.0.0 f4isy2a.skin
 0.0.0.0 f4loya.qpon
 0.0.0.0 f4n8qx.lat
@@ -109358,7 +109124,6 @@
 0.0.0.0 f632.sh.1253844908.clb.myqcloud.com
 0.0.0.0 f64.or6ayz.cfd
 0.0.0.0 f643d84d-dnsotls-ds.metric.gstatic.com
-0.0.0.0 f66a747451016.beer
 0.0.0.0 f69a662cb11031.beer
 0.0.0.0 f6c62f7ab11031.beer
 0.0.0.0 f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
@@ -109371,12 +109136,10 @@
 0.0.0.0 f7.nz3zcd.qpon
 0.0.0.0 f704204fa11021.beer
 0.0.0.0 f70z4e.yl029.com
-0.0.0.0 f71f38e6a1015.beer
 0.0.0.0 f72f.sh.1256127592.clb.myqcloud.com
 0.0.0.0 f7444.s4odjf.sbs
 0.0.0.0 f7777.net
 0.0.0.0 f79ca805111881f6.com
-0.0.0.0 f79f9e5b71019.beer
 0.0.0.0 f7aa9093710281.beer
 0.0.0.0 f7brb-hfgq2-jvs-zmoyv-igi0.pages.dev
 0.0.0.0 f7chinavip.com
@@ -109390,7 +109153,6 @@
 0.0.0.0 f7r3jx.lat
 0.0.0.0 f7xqto.shop
 0.0.0.0 f7yuncdn.com
-0.0.0.0 f800909401015.beer
 0.0.0.0 f831fb9ce11031.beer
 0.0.0.0 f889.sh.1253475724.clb.myqcloud.com
 0.0.0.0 f8b5.sh.1256140958.clb.myqcloud.com
@@ -109420,7 +109182,6 @@
 0.0.0.0 fa-today.com
 0.0.0.0 fa-tojoin.com
 0.0.0.0 fa2da1f5b1024.beer
-0.0.0.0 fa80a608ec3e1ead.com
 0.0.0.0 faalectional.info
 0.0.0.0 faamwinstiek.net
 0.0.0.0 faanw.com
@@ -109668,7 +109429,6 @@
 0.0.0.0 facebookloginss.blogspot.com
 0.0.0.0 facebookloginuser.blogspot.com
 0.0.0.0 facebookmail-facebook.blogspot.com
-0.0.0.0 facebookol.com
 0.0.0.0 facebookpage-noreplycenter.com
 0.0.0.0 facebookpagemanagement.com
 0.0.0.0 facebookpageslinkk.blogspot.com
@@ -110946,7 +110706,6 @@
 0.0.0.0 favoris-prime.fr
 0.0.0.0 favorisclients.fr
 0.0.0.0 favorite-walrus-196809.framer.app
-0.0.0.0 favorites.ren
 0.0.0.0 favornet.com
 0.0.0.0 favosffederision.info
 0.0.0.0 favosh.shop
@@ -111049,7 +110808,6 @@
 0.0.0.0 fb32dc52302e6b9b.com
 0.0.0.0 fb46cd5483f029aa.com
 0.0.0.0 fb4708f8e80kdno4pyq-bigworkf1521512717-sonar.xz.fbcdn.net
-0.0.0.0 fb4bc82f71019.beer
 0.0.0.0 fb50436e04f648465c9ba6a8892caa86.safeframe.googlesyndication.com
 0.0.0.0 fb56.com
 0.0.0.0 fb567e.earthgreen.com.co
@@ -111189,7 +110947,6 @@
 0.0.0.0 fc0531.com
 0.0.0.0 fc0633.com
 0.0.0.0 fc0nlinebank.weebly.com
-0.0.0.0 fc224220480630b3.com
 0.0.0.0 fc2617cf.4346164a315335d9f00d2c36.workers.dev
 0.0.0.0 fc27coins.netlify.app
 0.0.0.0 fc5858.com
@@ -111308,7 +111065,6 @@
 0.0.0.0 fd-yy.com
 0.0.0.0 fd-zj.com
 0.0.0.0 fd009.vercel.app
-0.0.0.0 fd08a9f9a1016.beer
 0.0.0.0 fd3sxn8w.eu
 0.0.0.0 fd7c.com
 0.0.0.0 fd8a7ef9-faae-4c3c-814a-376eb024783e.random.ns1.webproxy.idc-tv.tencent.com
@@ -111398,7 +111154,6 @@
 0.0.0.0 fe.ec.api.amazonvideo.com
 0.0.0.0 fe.preprod.api.amazonvideo.com
 0.0.0.0 fe.primevideo.com
-0.0.0.0 fe15a959f1020.beer
 0.0.0.0 fe232d4b510271.beer
 0.0.0.0 fe2x.cc
 0.0.0.0 fe30zv-33bql-wjwz-oc4fk-o1w.pages.dev
@@ -112325,7 +112080,6 @@
 0.0.0.0 ffalcon.com
 0.0.0.0 ffan.com
 0.0.0.0 ffasp.com
-0.0.0.0 ffbc6bb121021.beer
 0.0.0.0 ffbi1r.webwave.dev
 0.0.0.0 ffbook.cc
 0.0.0.0 ffboxe-prime.fr
@@ -112343,7 +112097,6 @@
 0.0.0.0 ffd1c47f-747d-491a-a108-c6e67b8cc190.random.farm.bo.webproxy.idc.import.tencent.com
 0.0.0.0 ffdffrfrfsrfr.com
 0.0.0.0 ffe06ebc91024.beer
-0.0.0.0 ffe0be9f91019.beer
 0.0.0.0 ffeeii.com
 0.0.0.0 ffelz.com
 0.0.0.0 ffepower.com
@@ -113513,7 +113266,6 @@
 0.0.0.0 finereportless.info
 0.0.0.0 finesa.zoels.cfd
 0.0.0.0 fineset.com
-0.0.0.0 finesilver.store
 0.0.0.0 finesqttudio.shop
 0.0.0.0 finessa-co.click
 0.0.0.0 finestgalaxy.beauty
@@ -122849,7 +122601,6 @@
 0.0.0.0 g8oamazo.fr
 0.0.0.0 g8rxh.expresd0staw.cfd
 0.0.0.0 g8zymb.top
-0.0.0.0 g983.com
 0.0.0.0 g9b6xt.lat
 0.0.0.0 g9china.com
 0.0.0.0 g9i.podanow.com
@@ -124651,7 +124402,6 @@
 0.0.0.0 gdzhimou.com
 0.0.0.0 gdzhonghua.com
 0.0.0.0 gdzhongpeng.com
-0.0.0.0 gdzhongshan.com
 0.0.0.0 gdziejestmojapaczka.com
 0.0.0.0 gdzieswkorytarzu.top
 0.0.0.0 gdzjdl.com
@@ -126328,7 +126078,6 @@
 0.0.0.0 git.code.tencent.com
 0.0.0.0 git.dev.tencent.com
 0.0.0.0 gitandodec.autos
-0.0.0.0 gitcafe.ink
 0.0.0.0 gitclone.com
 0.0.0.0 gitcode.com
 0.0.0.0 gitcode.host
@@ -129424,7 +129173,6 @@
 0.0.0.0 goujianwu.com
 0.0.0.0 goukk.com
 0.0.0.0 goukuai.com
-0.0.0.0 goulegu.com
 0.0.0.0 goulew.com
 0.0.0.0 goulong.com
 0.0.0.0 goumee.com
@@ -130714,7 +130462,6 @@
 0.0.0.0 greywood-finviora-system.com
 0.0.0.0 grfdc.com
 0.0.0.0 grfexpo.com
-0.0.0.0 grfyw.com
 0.0.0.0 grg2013.com
 0.0.0.0 grgaoren.com
 0.0.0.0 grgbanking.com
@@ -131416,7 +131163,6 @@
 0.0.0.0 gsrp.pl
 0.0.0.0 gsruie4p2.shop
 0.0.0.0 gss56.com
-0.0.0.0 gssag.com
 0.0.0.0 gssbh.com
 0.0.0.0 gssey.com
 0.0.0.0 gssjyxrmyy.com
@@ -133294,7 +133040,6 @@
 0.0.0.0 gxhqjy.com
 0.0.0.0 gxhqtest.com
 0.0.0.0 gxhqxmgl.com
-0.0.0.0 gxhrcjz.com
 0.0.0.0 gxhrkj.com
 0.0.0.0 gxhs.site
 0.0.0.0 gxhsba.com
@@ -133615,7 +133360,6 @@
 0.0.0.0 gxlihua.com
 0.0.0.0 gxlimu.com
 0.0.0.0 gxliri.com
-0.0.0.0 gxlituo.com
 0.0.0.0 gxliuhang.com
 0.0.0.0 gxliuqiaojidian.com
 0.0.0.0 gxlixin.com
@@ -134834,7 +134578,6 @@
 0.0.0.0 gzfi.com
 0.0.0.0 gzfin.com
 0.0.0.0 gzfirst.com
-0.0.0.0 gzfisher.com
 0.0.0.0 gzfk01.com
 0.0.0.0 gzfodak.com
 0.0.0.0 gzforge.com
@@ -136393,7 +136136,6 @@
 0.0.0.0 hantongrc.com
 0.0.0.0 hantongsteel.com
 0.0.0.0 hantsculture.facebook.com
-0.0.0.0 hanvitools.com
 0.0.0.0 hanvon.com
 0.0.0.0 hanvonmfrs.com
 0.0.0.0 hanvontouch.com
@@ -136488,7 +136230,6 @@
 0.0.0.0 haoche1.com
 0.0.0.0 haoche51.com
 0.0.0.0 haocheedai.com
-0.0.0.0 haochehui.com
 0.0.0.0 haochengda.net
 0.0.0.0 haochi123.com
 0.0.0.0 haochijixie.com
@@ -136504,7 +136245,6 @@
 0.0.0.0 haodewap.com
 0.0.0.0 haodewap.net
 0.0.0.0 haodf.com
-0.0.0.0 haodf.org
 0.0.0.0 haodiannao.com
 0.0.0.0 haodiany.com
 0.0.0.0 haodiaoyu.com
@@ -136799,7 +136539,6 @@
 0.0.0.0 happy-ti.com
 0.0.0.0 happy-vpn.com
 0.0.0.0 happy-whatsapp.com
-0.0.0.0 happy88.com
 0.0.0.0 happyacid.cyou
 0.0.0.0 happycleanplus.com
 0.0.0.0 happycodeboy.com
@@ -137355,7 +137094,6 @@
 0.0.0.0 hbbwg.net
 0.0.0.0 hbbxpx.com
 0.0.0.0 hbbyb.com
-0.0.0.0 hbbzyys.org
 0.0.0.0 hbca110.com
 0.0.0.0 hbcbly.com
 0.0.0.0 hbccp.org
@@ -137399,7 +137137,6 @@
 0.0.0.0 hbdongwang.com
 0.0.0.0 hbdschem.com
 0.0.0.0 hbdtjqj.com
-0.0.0.0 hbdx-kdyy.com
 0.0.0.0 hbdzcg.com
 0.0.0.0 hbdzky.com
 0.0.0.0 hbdzxx.com
@@ -139851,7 +139588,6 @@
 0.0.0.0 hibogroup.com
 0.0.0.0 hibor.net
 0.0.0.0 hibor.org
-0.0.0.0 hibt.net
 0.0.0.0 hibtc.org
 0.0.0.0 hibuzz.net
 0.0.0.0 hiby.com
@@ -140118,7 +139854,6 @@
 0.0.0.0 hiliwi.com
 0.0.0.0 hillbergandberk.m.facebook.com
 0.0.0.0 hillcrestdeals.shop
-0.0.0.0 hilllei.com
 0.0.0.0 hillopreex.cyou
 0.0.0.0 hillshot.info
 0.0.0.0 hillsideandco.eu
@@ -142917,7 +142652,6 @@
 0.0.0.0 hotshot-barn.com
 0.0.0.0 hotsitefidelidade.blogspot.com
 0.0.0.0 hotslot.fr
-0.0.0.0 hotsnow.club
 0.0.0.0 hotsnow.org
 0.0.0.0 hotsoonapp.com
 0.0.0.0 hotsoonapp.net
@@ -142943,7 +142677,6 @@
 0.0.0.0 hotxf.com
 0.0.0.0 hou5.com
 0.0.0.0 houcaller.com
-0.0.0.0 houdao.net
 0.0.0.0 houdask.com
 0.0.0.0 houdegame.com
 0.0.0.0 houdewl.com
@@ -144911,7 +144644,6 @@
 0.0.0.0 hujioalek.shop
 0.0.0.0 hujyhia.com
 0.0.0.0 huke88.com
-0.0.0.0 hukeck.com
 0.0.0.0 hukemispacc.rest
 0.0.0.0 hukiwuysy.autos
 0.0.0.0 hukopwerktiko24.today
@@ -145056,7 +144788,6 @@
 0.0.0.0 hunsh.net
 0.0.0.0 hunsha.work
 0.0.0.0 huntainges.cyou
-0.0.0.0 huntchance.com
 0.0.0.0 huntcook.top
 0.0.0.0 hunteitservices.com
 0.0.0.0 hunter-boots-france.fr
@@ -145592,6 +145323,7 @@
 0.0.0.0 hxlhjt.com
 0.0.0.0 hxljjt.com
 0.0.0.0 hxlot.com
+0.0.0.0 hxlove22s.cc
 0.0.0.0 hxlsw.com
 0.0.0.0 hxltcj.com
 0.0.0.0 hxlxx.com
@@ -157583,7 +157315,6 @@
 0.0.0.0 jewellworld.com
 0.0.0.0 jewelly-jeans.fr
 0.0.0.0 jewelry-at.shop
-0.0.0.0 jewelryseeds.com
 0.0.0.0 jewelryshanghai.com
 0.0.0.0 jewishhomepage.com
 0.0.0.0 jexarilovena.com
@@ -157683,7 +157414,6 @@
 0.0.0.0 jgcjjt.com
 0.0.0.0 jgczq.com
 0.0.0.0 jgdrhy.com
-0.0.0.0 jgdun.com
 0.0.0.0 jgdx.com
 0.0.0.0 jgew3d.com
 0.0.0.0 jgfarm.com
@@ -157710,7 +157440,6 @@
 0.0.0.0 jguniformes.com
 0.0.0.0 jguo.com
 0.0.0.0 jgutah.com
-0.0.0.0 jgxzy.com
 0.0.0.0 jgy.com
 0.0.0.0 jgyljt.com
 0.0.0.0 jgyun.net
@@ -158009,7 +157738,6 @@
 0.0.0.0 jiangongw.com
 0.0.0.0 jiangpaipinpai.com
 0.0.0.0 jiangpinjiangxin.com
-0.0.0.0 jiangqiaomuye.com
 0.0.0.0 jiangque.com
 0.0.0.0 jiangruyi.com
 0.0.0.0 jiangshankeji.com
@@ -158258,7 +157986,6 @@
 0.0.0.0 jiaxuejiyin.com
 0.0.0.0 jiaxun.com
 0.0.0.0 jiay.press
-0.0.0.0 jiayans.net
 0.0.0.0 jiayaw.com
 0.0.0.0 jiayi56.com
 0.0.0.0 jiayin618.com
@@ -159397,7 +159124,6 @@
 0.0.0.0 jixiehonghong.com
 0.0.0.0 jixiejiaoyu.com
 0.0.0.0 jixiemuye.com
-0.0.0.0 jixiew360.com
 0.0.0.0 jixiewz.com
 0.0.0.0 jixinbbd.com
 0.0.0.0 jixinet.com
@@ -159811,7 +159537,6 @@
 0.0.0.0 jlxc2001.com
 0.0.0.0 jlxdk.net
 0.0.0.0 jlylwater.com
-0.0.0.0 jlyr2.com
 0.0.0.0 jlysgjzx.com
 0.0.0.0 jlystatic.com
 0.0.0.0 jlytzk.com
@@ -160754,13 +160479,11 @@
 0.0.0.0 jpwb.net
 0.0.0.0 jpwind.com
 0.0.0.0 jpwky.com
-0.0.0.0 jpwxapp.com
 0.0.0.0 jpxm.com
 0.0.0.0 jpxue.com
 0.0.0.0 jpya1r.webwave.dev
 0.0.0.0 jpyoo.com
 0.0.0.0 jpzx.net
-0.0.0.0 jpzy01.com
 0.0.0.0 jq.p6ihks.casa
 0.0.0.0 jq.qq.com
 0.0.0.0 jq2020.net
@@ -160862,7 +160585,6 @@
 0.0.0.0 jrtewnbh.com
 0.0.0.0 jrtgroup.net
 0.0.0.0 jrvoeiwnoqncwe.com
-0.0.0.0 jrwenku.com
 0.0.0.0 jrxzj.com
 0.0.0.0 jry0.com
 0.0.0.0 jryccm.com
@@ -160991,7 +160713,6 @@
 0.0.0.0 jsddz.net
 0.0.0.0 jsdebang.com
 0.0.0.0 jsdehui.com
-0.0.0.0 jsdesign1.com
 0.0.0.0 jsdesoft.com
 0.0.0.0 jsdfchkdsds.weebly.com
 0.0.0.0 jsdfisodksodpsdksfp.site
@@ -162185,7 +161906,6 @@
 0.0.0.0 juqi.com
 0.0.0.0 juqianwh.com
 0.0.0.0 juqiao1913.com
-0.0.0.0 juqibike.com
 0.0.0.0 juqingla.com
 0.0.0.0 juqk.net
 0.0.0.0 juquanquanapp.com
@@ -165917,7 +165637,6 @@
 0.0.0.0 kingcloud.com
 0.0.0.0 kingcloudad.com
 0.0.0.0 kingclouddns.com
-0.0.0.0 kingcms.com
 0.0.0.0 kingconsultingllc.com
 0.0.0.0 kingdaychina.com
 0.0.0.0 kingdee-soft.com
@@ -166414,7 +166133,6 @@
 0.0.0.0 kk-z.xyz
 0.0.0.0 kk1.vip
 0.0.0.0 kk169.com
-0.0.0.0 kk18.com
 0.0.0.0 kk30.com
 0.0.0.0 kk30.net
 0.0.0.0 kk3g.net
@@ -167736,7 +167454,6 @@
 0.0.0.0 kpt5.com
 0.0.0.0 kptour.com
 0.0.0.0 kptts.com
-0.0.0.0 kpwcmb.com
 0.0.0.0 kpyy239.com
 0.0.0.0 kpyy258.com
 0.0.0.0 kpzip.com
@@ -168403,6 +168120,7 @@
 0.0.0.0 ktweb.gtimg.com
 0.0.0.0 ktxuexi.com
 0.0.0.0 ktyunlianjie.com
+0.0.0.0 ktzgame.com
 0.0.0.0 ku-tr.facebook.com
 0.0.0.0 ku-tr.messenger.com
 0.0.0.0 ku25.com
@@ -169499,7 +169217,6 @@
 0.0.0.0 l2cenfdp7flu0nwy17tg.s3.eu-west-1.amazonaws.com
 0.0.0.0 l2cn.com
 0.0.0.0 l2grz.m5olhw.casa
-0.0.0.0 l2h.site
 0.0.0.0 l2nj1g.weblie.pl
 0.0.0.0 l2p6q4d.lat
 0.0.0.0 l2ptsc4.page.link
@@ -175338,7 +175055,6 @@
 0.0.0.0 linussiao.wixstudio.com
 0.0.0.0 linux-code.com
 0.0.0.0 linux-ren.org
-0.0.0.0 linux.zone
 0.0.0.0 linux178.com
 0.0.0.0 linux265.com
 0.0.0.0 linuxba.com
@@ -175859,7 +175575,6 @@
 0.0.0.0 liuzhousteel.com
 0.0.0.0 liuzhuni.com
 0.0.0.0 liuziyoudu.com
-0.0.0.0 liuzy88.com
 0.0.0.0 liv-express-colis.fr
 0.0.0.0 livablenessexxs.info
 0.0.0.0 livanauto.com
@@ -179564,7 +179279,6 @@
 0.0.0.0 luciabid.com
 0.0.0.0 luciacaminos.fr
 0.0.0.0 luciansays.com
-0.0.0.0 luciaz.me
 0.0.0.0 lucid-flame.com
 0.0.0.0 lucid-moss.com
 0.0.0.0 lucid-pebble.com
@@ -180076,7 +179790,6 @@
 0.0.0.0 lulu-lemonfrance.fr
 0.0.0.0 lulubei.com
 0.0.0.0 lulufind.com
-0.0.0.0 lulugda.icu
 0.0.0.0 luluhong.com
 0.0.0.0 luluju.com
 0.0.0.0 lululemon-france.fr
@@ -181396,7 +181109,6 @@
 0.0.0.0 lzdfxj.com
 0.0.0.0 lzdjjd.com
 0.0.0.0 lzdql.com
-0.0.0.0 lzdsqcysgs.com
 0.0.0.0 lzdsyy.com
 0.0.0.0 lzdxb888.com
 0.0.0.0 lzdxdyyy.com
@@ -183069,7 +182781,6 @@
 0.0.0.0 mailgenerali.fr
 0.0.0.0 mailgenes.linoraspasedrecole.com
 0.0.0.0 mailhelpdesk.github.io
-0.0.0.0 mailianou.com
 0.0.0.0 mailicloud.sviluppo.host
 0.0.0.0 mailiku.com
 0.0.0.0 mailing-notif-prime.fr
@@ -183600,7 +183311,6 @@
 0.0.0.0 mambasms.com
 0.0.0.0 mambike.com
 0.0.0.0 mamcharge.com
-0.0.0.0 mamecn.com
 0.0.0.0 mamessageriesfr.fr
 0.0.0.0 mamforme.live
 0.0.0.0 mamicode.com
@@ -185355,7 +185065,6 @@
 0.0.0.0 mbatrip.com
 0.0.0.0 mbazl.com
 0.0.0.0 mbazsw.com
-0.0.0.0 mbb0760.com
 0.0.0.0 mbb180.com
 0.0.0.0 mbbotoristbeesting.info
 0.0.0.0 mbbrowser.com
@@ -189253,7 +188962,6 @@
 0.0.0.0 mingyuanfund.com
 0.0.0.0 mingyuanmuye.com
 0.0.0.0 mingyuanyun.com
-0.0.0.0 mingyueqingfengshe.com
 0.0.0.0 mingyuhan.net
 0.0.0.0 mingzhi-tech.com
 0.0.0.0 mingzhucable.com
@@ -205257,7 +204965,6 @@
 0.0.0.0 munling.com
 0.0.0.0 munndrameristematic.info
 0.0.0.0 munue.com
-0.0.0.0 mupao.com
 0.0.0.0 mupceet.com
 0.0.0.0 muppets.imdb.com
 0.0.0.0 muptool.com
@@ -206953,7 +206660,6 @@
 0.0.0.0 n11premium.com
 0.0.0.0 n122jzr3vo.com
 0.0.0.0 n12345.com
-0.0.0.0 n13.club
 0.0.0.0 n13d.dev
 0.0.0.0 n14293.franceconnect-direct.com
 0.0.0.0 n17.messenger.com
@@ -207231,7 +206937,6 @@
 0.0.0.0 naideceas.com
 0.0.0.0 naids.com
 0.0.0.0 naifei.pro
-0.0.0.0 naifeistation.com
 0.0.0.0 naifenzhiku.com
 0.0.0.0 naijasitemarket.com
 0.0.0.0 naijian.net
@@ -207358,7 +207063,6 @@
 0.0.0.0 namansaopodpsod.site
 0.0.0.0 namdakjdsioperasad.site
 0.0.0.0 name-desktop.wixstudio.com
-0.0.0.0 name2012.com
 0.0.0.0 name321.net
 0.0.0.0 nameasbingokrosks.site
 0.0.0.0 namebay.surf
@@ -207876,7 +207580,6 @@
 0.0.0.0 naturehomefind.com
 0.0.0.0 naturelsarap.com
 0.0.0.0 naturephotographie.fr
-0.0.0.0 naturesvariety-china.com
 0.0.0.0 naturetrailzone.com
 0.0.0.0 naturhouse.sk
 0.0.0.0 naturkoy.site
@@ -208350,7 +208053,6 @@
 0.0.0.0 ncsjhf.com
 0.0.0.0 ncsxy.com
 0.0.0.0 ncsyco.com
-0.0.0.0 nctry.com
 0.0.0.0 nctvcloud.com
 0.0.0.0 nctzsj.com
 0.0.0.0 ncu.me
@@ -210039,7 +209741,6 @@
 0.0.0.0 newamigo.net
 0.0.0.0 newamstar.com
 0.0.0.0 newansha.com
-0.0.0.0 newapi.com
 0.0.0.0 newapp-27686.firebaseio.com
 0.0.0.0 newapp-ldgerlive.wixstudio.com
 0.0.0.0 newapps-ldgerlive.wixstudio.com
@@ -212034,7 +211735,6 @@
 0.0.0.0 njjifei.com
 0.0.0.0 njjknkyy.com
 0.0.0.0 njjn.com
-0.0.0.0 njjnwzyy.com
 0.0.0.0 njjnzc.com
 0.0.0.0 njjrc.com
 0.0.0.0 njjrkj.com
@@ -216314,7 +216014,6 @@
 0.0.0.0 oahelp.com
 0.0.0.0 oahelp.net
 0.0.0.0 oahumapp.com
-0.0.0.0 oai.sb
 0.0.0.0 oaikcj823012-340.lat
 0.0.0.0 oaimg.b.qq.com
 0.0.0.0 oait03.lostudio.org
@@ -228164,7 +227863,6 @@
 0.0.0.0 pcn-noticyw.shop
 0.0.0.0 pcoic.com
 0.0.0.0 pconq.otter-sec.com
-0.0.0.0 pcoof.com
 0.0.0.0 pcoonline-ro.shop
 0.0.0.0 pcosally.com
 0.0.0.0 pcosmiles.com
@@ -228284,7 +227982,6 @@
 0.0.0.0 pdty123.com
 0.0.0.0 pduoduo.vip
 0.0.0.0 pdvc.com
-0.0.0.0 pdvisa.com
 0.0.0.0 pdwuf38hz.shop
 0.0.0.0 pdx-iad-01.us-east-1.beta.sev.amazonvideo.com
 0.0.0.0 pdx-iad-01.us-east-1.gamma.sev.amazonvideo.com
@@ -228470,7 +228167,6 @@
 0.0.0.0 pebblyarra.quest
 0.0.0.0 pebblyfasc.createtheearthmuseum.com
 0.0.0.0 pebed.dm-event.net #Dailymotion - Tracker
-0.0.0.0 pebellows.com
 0.0.0.0 peblle.vip
 0.0.0.0 peblos.informacja-factury.sbs
 0.0.0.0 pec-auth-f42b4.firebaseapp.com
@@ -231055,7 +230751,6 @@
 0.0.0.0 pikvernada.com
 0.0.0.0 pil-re.fit
 0.0.0.0 pil0txia.com
-0.0.0.0 pilaipiwang.com
 0.0.0.0 pilakacloud.online
 0.0.0.0 pilarfinanzasusalikelyimpersonationbranding.com
 0.0.0.0 pilarfinrevoux.net
@@ -234205,7 +233900,6 @@
 0.0.0.0 pmway.com
 0.0.0.0 pmx-nanho.com
 0.0.0.0 pmxprecision.com
-0.0.0.0 pmyes.com
 0.0.0.0 pn-oferta746212.sbs
 0.0.0.0 pn1age.casa
 0.0.0.0 pn1waq.com
@@ -241671,7 +241365,6 @@
 0.0.0.0 purimagbead.com
 0.0.0.0 puritanismpps.info
 0.0.0.0 puritpersu.cyou
-0.0.0.0 puritysilvers.store
 0.0.0.0 purliquidheim.live
 0.0.0.0 purliquidheim.pro
 0.0.0.0 purnaki.shop
@@ -242764,7 +242457,6 @@
 0.0.0.0 qesuqiy.pro
 0.0.0.0 qesuqye.pro
 0.0.0.0 qeteshcn.com
-0.0.0.0 qeto.com
 0.0.0.0 qetoken.com
 0.0.0.0 qetvo61n.digital
 0.0.0.0 qeval.petconnectnetwork.com
@@ -243051,7 +242743,6 @@
 0.0.0.0 qiangshengyanhua.com
 0.0.0.0 qiangumeitan.com
 0.0.0.0 qiangungun.com
-0.0.0.0 qianguyihao.com
 0.0.0.0 qiangyingjituan.com
 0.0.0.0 qiangyinli.com
 0.0.0.0 qianhai12315.com
@@ -243271,7 +242962,6 @@
 0.0.0.0 qidongcha.com
 0.0.0.0 qidongnews.com
 0.0.0.0 qidongyx.com
-0.0.0.0 qidou.com
 0.0.0.0 qidulp.com
 0.0.0.0 qiduo.net
 0.0.0.0 qie.tv
@@ -245372,7 +245062,6 @@
 0.0.0.0 qubixaitrade.com
 0.0.0.0 qubixy.top
 0.0.0.0 qubizubrvault.site
-0.0.0.0 qucai.com
 0.0.0.0 qucanzhan.com
 0.0.0.0 quce001.com
 0.0.0.0 quceaiqing.com
@@ -246212,7 +245901,6 @@
 0.0.0.0 quzavro.shop
 0.0.0.0 quzhuanxiang.com
 0.0.0.0 quzhubao.com
-0.0.0.0 quzwx123.org
 0.0.0.0 quzz88.com
 0.0.0.0 quzzgames.com
 0.0.0.0 qv.r9ucep.top
@@ -251976,7 +251664,6 @@
 0.0.0.0 rg3o72.preibisch.pl
 0.0.0.0 rg950.com
 0.0.0.0 rga158.webwave.dev
-0.0.0.0 rgaxobcs.com
 0.0.0.0 rgble.com
 0.0.0.0 rggeservednessesdishware.info
 0.0.0.0 rghdge.2jeui3.pics
@@ -253251,10 +252938,8 @@
 0.0.0.0 rlgyoz.tresc47.surf
 0.0.0.0 rlhair.com
 0.0.0.0 rljta.com
-0.0.0.0 rljydt.com
 0.0.0.0 rlkj.com
 0.0.0.0 rlkj.net
-0.0.0.0 rlkrmx.com
 0.0.0.0 rllling.shop
 0.0.0.0 rlmeijia.com
 0.0.0.0 rlnk.net
@@ -254841,7 +254526,6 @@
 0.0.0.0 rrxiu.cc
 0.0.0.0 rrxiu.me
 0.0.0.0 rrxiu.net
-0.0.0.0 rrxiuh5.cc
 0.0.0.0 rrxr.weebly.com
 0.0.0.0 rrzu.com
 0.0.0.0 rrzuji.com
@@ -255595,7 +255279,6 @@
 0.0.0.0 rushihu.com
 0.0.0.0 rushiva.shop
 0.0.0.0 rushivr.com
-0.0.0.0 rushiwowen.org
 0.0.0.0 rushmail.com
 0.0.0.0 rushmere.eu
 0.0.0.0 rushui.net
@@ -259823,7 +259506,6 @@
 0.0.0.0 sdepi.com
 0.0.0.0 sdererimpi.cyou
 0.0.0.0 sderp.com
-0.0.0.0 sdewj.com
 0.0.0.0 sdexiosospsoaodpo.site
 0.0.0.0 sdexthover.site
 0.0.0.0 sdey.net
@@ -265554,7 +265236,6 @@
 0.0.0.0 shenta.net
 0.0.0.0 shentongchina.com
 0.0.0.0 shentongdata.com
-0.0.0.0 shentongkuaidi.com
 0.0.0.0 shentu750.com
 0.0.0.0 shenweimicro.com
 0.0.0.0 shenweisupport.com
@@ -265889,7 +265570,6 @@
 0.0.0.0 shijuenian.com
 0.0.0.0 shikaka-fr.fr
 0.0.0.0 shikangsi.com
-0.0.0.0 shikaricharters.com
 0.0.0.0 shikee.com
 0.0.0.0 shikelang.cc
 0.0.0.0 shikhmohamad.com
@@ -265963,7 +265643,6 @@
 0.0.0.0 shinescan.tech
 0.0.0.0 shineshowh2o.com
 0.0.0.0 shinespor.com
-0.0.0.0 shineu.com
 0.0.0.0 shineway.com
 0.0.0.0 shinewaytech.com
 0.0.0.0 shinewing.com
@@ -266093,7 +265772,6 @@
 0.0.0.0 shiseidoeu.shop
 0.0.0.0 shishacharcoal.net
 0.0.0.0 shishangd.com
-0.0.0.0 shishangfengyun.com
 0.0.0.0 shishifanyi.com
 0.0.0.0 shishijia.com
 0.0.0.0 shishike.com
@@ -267721,7 +267399,6 @@
 0.0.0.0 sign-in-to-xfinity-876.weebly.com
 0.0.0.0 sign-in-to-xfinitycom.weebly.com
 0.0.0.0 sign-labanquepostale.fr
-0.0.0.0 sign-say.com
 0.0.0.0 sign-workplace.skin
 0.0.0.0 sign.d.gtimg.com
 0.0.0.0 sign.up.messenger.com
@@ -268009,7 +267686,6 @@
 0.0.0.0 siluecai.com
 0.0.0.0 siluke.cc
 0.0.0.0 siluke.info
-0.0.0.0 silukex.com
 0.0.0.0 silukuo.com
 0.0.0.0 siluwu.com
 0.0.0.0 silvaintoz.cyou
@@ -268283,7 +267959,6 @@
 0.0.0.0 simtransfer.goog
 0.0.0.0 simu-tech.com
 0.0.0.0 simu800.com
-0.0.0.0 simul-china.com
 0.0.0.0 simulador-credito-auto-bbva.ideeo.mx
 0.0.0.0 simulador.bradescosaudeempresas.com
 0.0.0.0 simulateur-finances-publiques.fr
@@ -276022,7 +275697,6 @@
 0.0.0.0 srplpal.fr
 0.0.0.0 srpoint.store
 0.0.0.0 srqxx.com
-0.0.0.0 srrcw.com
 0.0.0.0 srrsh.com
 0.0.0.0 srrtvu.com
 0.0.0.0 srschool.net
@@ -281759,7 +281433,6 @@
 0.0.0.0 suzerin.com
 0.0.0.0 suzhongyy.com
 0.0.0.0 suzhou-marathon.com
-0.0.0.0 suzhou-otsuka.com
 0.0.0.0 suzhouballettheatre.com
 0.0.0.0 suzhoubank.com
 0.0.0.0 suzhoubeili.com
@@ -284227,7 +283900,6 @@
 0.0.0.0 szyuda88.com
 0.0.0.0 szyundingschool.com
 0.0.0.0 szyuxin.com
-0.0.0.0 szyweibo.com
 0.0.0.0 szyxue.com
 0.0.0.0 szyxwdz.com
 0.0.0.0 szyxwkj.com
@@ -284833,7 +284505,6 @@
 0.0.0.0 taisrivog.cyou
 0.0.0.0 taisuyun.com
 0.0.0.0 taitomarkbittrade.com
-0.0.0.0 taitonglj.com
 0.0.0.0 taiwandao.tw
 0.0.0.0 taiwanwii.com
 0.0.0.0 taiweiholding.com
@@ -293843,7 +293514,6 @@
 0.0.0.0 tocketmaster.fr
 0.0.0.0 tocktickets.com
 0.0.0.0 tocomtech.com
-0.0.0.0 tocosc.com
 0.0.0.0 tocreating.com
 0.0.0.0 tocyjio.com
 0.0.0.0 todarinvet.rest
@@ -293906,7 +293576,6 @@
 0.0.0.0 todsparis.fr
 0.0.0.0 todspascher.fr
 0.0.0.0 todsreplique.fr
-0.0.0.0 todust.cc
 0.0.0.0 toeagreci.cyou
 0.0.0.0 toec-gdgs.com
 0.0.0.0 toec-iot.com
@@ -299361,7 +299030,6 @@
 0.0.0.0 typogarynio.com
 0.0.0.0 typora.net
 0.0.0.0 typrotech.com
-0.0.0.0 typstify.com
 0.0.0.0 tyqen.shop
 0.0.0.0 tyqian.com
 0.0.0.0 tyra-ekove.com
@@ -299391,7 +299059,6 @@
 0.0.0.0 tyuriurowrioeurtoei.site
 0.0.0.0 tyuriworiosdiwroriwrui.site
 0.0.0.0 tyurytjkfdshjkfjkn.com
-0.0.0.0 tyust.net
 0.0.0.0 tyuyan.com
 0.0.0.0 tyuyan.net
 0.0.0.0 tyvanassiaodpsdoai.site
@@ -300239,7 +299906,6 @@
 0.0.0.0 uhomesplus.com
 0.0.0.0 uhouzz.com
 0.0.0.0 uhp.cc
-0.0.0.0 uhs68.com
 0.0.0.0 uhtrends.se
 0.0.0.0 uhu1fecb.s3.amazonaws.com
 0.0.0.0 uhu506bb.s3.amazonaws.com
@@ -303342,7 +303008,6 @@
 0.0.0.0 uuzz.net
 0.0.0.0 uuzzw.com
 0.0.0.0 uv-cl.weebly.com
-0.0.0.0 uv25h.com
 0.0.0.0 uv7omk.top
 0.0.0.0 uv7zri.yl029.com
 0.0.0.0 uv9l56g4e9.com
@@ -304794,7 +304459,6 @@
 0.0.0.0 vcnews.com
 0.0.0.0 vcomic.com
 0.0.0.0 vcommission.com #vCommission - Tracker
-0.0.0.0 vcomputes.com
 0.0.0.0 vconew.com
 0.0.0.0 vconew3.com
 0.0.0.0 vcooline.com
@@ -309899,8 +309563,6 @@
 0.0.0.0 visitsz.com
 0.0.0.0 visitwop.lovable.app
 0.0.0.0 viskem.com
-0.0.0.0 vismaasale.shop
-0.0.0.0 vismadeal.shop
 0.0.0.0 visofondavia.com
 0.0.0.0 visokakapitina.net
 0.0.0.0 visorperu.com
@@ -315722,7 +315384,6 @@
 0.0.0.0 wellnexis-digital.pages.dev
 0.0.0.0 wellnexis.digital
 0.0.0.0 wellnj.com
-0.0.0.0 wellnode.com
 0.0.0.0 wellongmedical.com
 0.0.0.0 wellpie.com
 0.0.0.0 wellplas.com
@@ -315888,7 +315549,6 @@
 0.0.0.0 wenku8.cc
 0.0.0.0 wenku8.com
 0.0.0.0 wenku8.net
-0.0.0.0 wenkub.com
 0.0.0.0 wenkudao.com
 0.0.0.0 wenkudaquan.com
 0.0.0.0 wenkunet.com
@@ -316527,7 +316187,6 @@
 0.0.0.0 wgmf.com
 0.0.0.0 wgmotor.com
 0.0.0.0 wgnds.com
-0.0.0.0 wgoic.com
 0.0.0.0 wgos.com
 0.0.0.0 wgplayer.com #WG Player - Advertising
 0.0.0.0 wgppt.com
@@ -317399,7 +317058,6 @@
 0.0.0.0 wikimbti.com
 0.0.0.0 wikipedia.re
 0.0.0.0 wikipedia.wf
-0.0.0.0 wikipediaxx.icu
 0.0.0.0 wikipeida.fr
 0.0.0.0 wikiquran-b3f71.firebaseio.com
 0.0.0.0 wilainaiasteamworkspace.myclickfunnels.com
@@ -319976,7 +319634,6 @@
 0.0.0.0 wpadmngr.com #Unknown - Advertising
 0.0.0.0 wpan123.com
 0.0.0.0 wpbattery.com
-0.0.0.0 wpcio.com
 0.0.0.0 wpcraftco.com
 0.0.0.0 wpcsh.com
 0.0.0.0 wpdaxue.com
@@ -320058,7 +319715,6 @@
 0.0.0.0 wpxap.com
 0.0.0.0 wpxyg.com
 0.0.0.0 wpyou.com
-0.0.0.0 wpzhiku.com
 0.0.0.0 wq-in-f188.1e100.net
 0.0.0.0 wq4bmoaedv.com
 0.0.0.0 wq96f9.com
@@ -320075,7 +319731,6 @@
 0.0.0.0 wqgxjjiiersrc.wixsite.com
 0.0.0.0 wqhome.com
 0.0.0.0 wqhunqing.com
-0.0.0.0 wqian.net
 0.0.0.0 wqiis.com
 0.0.0.0 wqingjian.com
 0.0.0.0 wqipontear.lovable.app
@@ -327068,7 +326723,6 @@
 0.0.0.0 xdfwk.com
 0.0.0.0 xdgalaxy.com
 0.0.0.0 xdgj.com
-0.0.0.0 xdgkwl.com
 0.0.0.0 xdglt.com
 0.0.0.0 xdgogogo.com
 0.0.0.0 xdhcn.com
@@ -327703,7 +327357,6 @@
 0.0.0.0 xiabor.com
 0.0.0.0 xiabttjkaj.p5yjlf31w6hve12yktuwmenkyz07nk.lat
 0.0.0.0 xiabu.com
-0.0.0.0 xiacai.com
 0.0.0.0 xiachuan.net
 0.0.0.0 xiachufang.com
 0.0.0.0 xiadaolieche.com
@@ -328153,7 +327806,6 @@
 0.0.0.0 xiaoluyy.com
 0.0.0.0 xiaolvji.com
 0.0.0.0 xiaolxiao.com
-0.0.0.0 xiaoma.net
 0.0.0.0 xiaoma.wang
 0.0.0.0 xiaomachuxing.com
 0.0.0.0 xiaomagaojian.com
@@ -328287,8 +327939,6 @@
 0.0.0.0 xiaot.com
 0.0.0.0 xiaota.com
 0.0.0.0 xiaotangketang.com
-0.0.0.0 xiaote.com
-0.0.0.0 xiaote.net
 0.0.0.0 xiaotee.com
 0.0.0.0 xiaotengyouxi.com
 0.0.0.0 xiaotiancai.com
@@ -328393,7 +328043,6 @@
 0.0.0.0 xiaoyuxitong.com
 0.0.0.0 xiaoyuzhoufm.com
 0.0.0.0 xiaoz.me
-0.0.0.0 xiaozhang365.com
 0.0.0.0 xiaozhao365.com
 0.0.0.0 xiaozhen.com
 0.0.0.0 xiaozhenpaotui.com
@@ -328704,7 +328353,6 @@
 0.0.0.0 xindemarinenews.com
 0.0.0.0 xindexuexi.com
 0.0.0.0 xindianti.com
-0.0.0.0 xindingdianxsw.com
 0.0.0.0 xindingwealth.com
 0.0.0.0 xindns.com
 0.0.0.0 xindong.com
@@ -328951,7 +328599,6 @@
 0.0.0.0 xiniushu.com
 0.0.0.0 xiniuyun.com
 0.0.0.0 xiniuz.com
-0.0.0.0 xinjiadiy.com
 0.0.0.0 xinjianggames.com
 0.0.0.0 xinjianggou.com
 0.0.0.0 xinjiashangtou.com
@@ -329578,7 +329225,6 @@
 0.0.0.0 xjy020.com
 0.0.0.0 xjybb.com
 0.0.0.0 xjygaofu.com
-0.0.0.0 xjyrcw.com
 0.0.0.0 xjysk.com
 0.0.0.0 xjytjt.com
 0.0.0.0 xjz.com
@@ -329948,7 +329594,6 @@
 0.0.0.0 xn--48s50dpwnbh95ah07i.com
 0.0.0.0 xn--49s82db1ewy7adrq1ik.xn--3ds443g
 0.0.0.0 xn--4gq0d69oba129b9wd94ey8bs83ji3c3q7hoka.org
-0.0.0.0 xn--4gq1d760bszbgdv5p12rhq5bx2yc.net
 0.0.0.0 xn--4lwr21d.com
 0.0.0.0 xn--4qwqc04pn0lg9h.com
 0.0.0.0 xn--4rrx74a.xn--vuq861b
@@ -331151,7 +330796,6 @@
 0.0.0.0 xn--vhq899b1shv32ayohznc.xn--3ds443g
 0.0.0.0 xn--vhqd346fv3m7ggdt2byua.xn--3ds443g
 0.0.0.0 xn--vhqqbz2p62hm92e04p.com
-0.0.0.0 xn--vhqr42drhf5k7b.com
 0.0.0.0 xn--vhqu1kbz3bnbi.com
 0.0.0.0 xn--viasant-hya.fr
 0.0.0.0 xn--vidotrom-d1a.weebly.com
@@ -331569,7 +331213,6 @@
 0.0.0.0 xsdoudou.com
 0.0.0.0 xsdwk.com
 0.0.0.0 xsdwlk.weebly.com
-0.0.0.0 xsee.cc
 0.0.0.0 xsesc.com
 0.0.0.0 xsfad.com
 0.0.0.0 xsfaya.com
@@ -332587,7 +332230,6 @@
 0.0.0.0 xy-mp.com
 0.0.0.0 xy-technology.com
 0.0.0.0 xy.com
-0.0.0.0 xy007.net
 0.0.0.0 xy120.net
 0.0.0.0 xy1212.com
 0.0.0.0 xy1758.com
@@ -333336,7 +332978,6 @@
 0.0.0.0 yanfeng.com
 0.0.0.0 yanfengauto.com
 0.0.0.0 yanfukun.com
-0.0.0.0 yang99.fun
 0.0.0.0 yangben001.com
 0.0.0.0 yangbentong.com
 0.0.0.0 yangbinlvshi.com
@@ -333923,7 +333564,6 @@
 0.0.0.0 ycku.com
 0.0.0.0 ycleaning.com
 0.0.0.0 yclh6.com
-0.0.0.0 ycloud.online
 0.0.0.0 ycloudlb.com
 0.0.0.0 ycloudvip.com
 0.0.0.0 ycloventari.xyz
@@ -334482,7 +334122,6 @@
 0.0.0.0 yfvb.com
 0.0.0.0 yfw66.cn.livepush.myqcloud.com
 0.0.0.0 yfway.com
-0.0.0.0 yfwnm.com
 0.0.0.0 yfwpt.vip
 0.0.0.0 yfycrc.com
 0.0.0.0 yfycyboil.com
@@ -335739,7 +335378,6 @@
 0.0.0.0 ykhongye.com
 0.0.0.0 ykimg.com
 0.0.0.0 ykinvestment.com
-0.0.0.0 ykjljdcss.com
 0.0.0.0 ykjtb.com
 0.0.0.0 ykkpict.com
 0.0.0.0 ykkpict.vip
@@ -336952,7 +336590,6 @@
 0.0.0.0 youxituoluo.com
 0.0.0.0 youxiuhr.com
 0.0.0.0 youxiuhui.com
-0.0.0.0 youxiwugui.com
 0.0.0.0 youxixinzhi.com
 0.0.0.0 youxixj.com
 0.0.0.0 youxizhan.com
@@ -337033,7 +336670,6 @@
 0.0.0.0 yovisun.com
 0.0.0.0 yovocloud.com
 0.0.0.0 yovole.com
-0.0.0.0 yovyuan.com
 0.0.0.0 yowdendrift-thrum.shop
 0.0.0.0 yowooa.com
 0.0.0.0 yoxiha.com
@@ -337549,7 +337185,6 @@
 0.0.0.0 yuaiweiwu.com
 0.0.0.0 yuajeae.shop
 0.0.0.0 yuan-boomsoftware.com
-0.0.0.0 yuanabsorber.com
 0.0.0.0 yuanbaobaoxian.com
 0.0.0.0 yuanbaokc.com
 0.0.0.0 yuanbaotaoche.com
@@ -339733,7 +339368,6 @@
 0.0.0.0 zahrtharwaq.net
 0.0.0.0 zahtb.com
 0.0.0.0 zahui.fan
-0.0.0.0 zahuishi.com
 0.0.0.0 zahuod.com
 0.0.0.0 zahuoji.com
 0.0.0.0 zai-art.com
@@ -340229,7 +339863,6 @@
 0.0.0.0 zattc.com
 0.0.0.0 zatyczkiloopearplugs.com
 0.0.0.0 zaudi.toddetzel.com
-0.0.0.0 zauoehg.com
 0.0.0.0 zauren-flux.org
 0.0.0.0 zaurenflux.com
 0.0.0.0 zauriqpylonai-app.com
@@ -340504,7 +340137,6 @@
 0.0.0.0 zctpt.com
 0.0.0.0 zctt.com
 0.0.0.0 zctx.com
-0.0.0.0 zctzgr.com
 0.0.0.0 zcu-cz-webss-srv.weebly.com
 0.0.0.0 zcw6-0pl-8keetw-813mpj-fk9.pages.dev
 0.0.0.0 zcwin.com
@@ -342356,7 +341988,6 @@
 0.0.0.0 zhhaitai.com
 0.0.0.0 zhheo.com
 0.0.0.0 zhhfedu.com
-0.0.0.0 zhhfjt.com
 0.0.0.0 zhhlaw.com
 0.0.0.0 zhhlogistics.com
 0.0.0.0 zhhrm.com
@@ -342826,7 +342457,6 @@
 0.0.0.0 zhongguociwang.com
 0.0.0.0 zhongguofeng.com
 0.0.0.0 zhongguogouliang.com
-0.0.0.0 zhongguoguwan.com
 0.0.0.0 zhongguohao123.com
 0.0.0.0 zhongguohuo.com
 0.0.0.0 zhongguolaoqu.com
@@ -343264,7 +342894,6 @@
 0.0.0.0 zhulogic.com
 0.0.0.0 zhulong.com
 0.0.0.0 zhulong360.com
-0.0.0.0 zhulongjiang.com
 0.0.0.0 zhulouren.com
 0.0.0.0 zhulu86.com
 0.0.0.0 zhulubox.com
@@ -345513,7 +345142,6 @@
 0.0.0.0 zqgreen.com
 0.0.0.0 zqhuahui.com
 0.0.0.0 zqids.com
-0.0.0.0 zqin758.xyz
 0.0.0.0 zqji9wtjsh.com
 0.0.0.0 zqjiese.com
 0.0.0.0 zqjinneng.com
@@ -345827,7 +345455,6 @@
 0.0.0.0 ztemap.com
 0.0.0.0 ztems.com
 0.0.0.0 ztestin.com
-0.0.0.0 ztfans.com
 0.0.0.0 ztfsec.com
 0.0.0.0 ztfssc.com
 0.0.0.0 ztgame.com
@@ -345925,7 +345552,6 @@
 0.0.0.0 zuanshi.com
 0.0.0.0 zuanshitoupiao.com
 0.0.0.0 zubazeb.dyn.home-webserver.de
-0.0.0.0 zubei.co
 0.0.0.0 zuber.im
 0.0.0.0 zubrelo.net
 0.0.0.0 zubrkapitoven.net
@@ -346676,7 +346302,6 @@
 0.0.0.0 zymkshop.com
 0.0.0.0 zymolapple.store
 0.0.0.0 zymphorexzippy.com
-0.0.0.0 zyms8.me
 0.0.0.0 zynaxqen.com
 0.0.0.0 zynaxqen.net
 0.0.0.0 zyncore-app.com
@@ -347095,7 +346720,6 @@
 0.0.0.0 zzzglby.com
 0.0.0.0 zzzhtc.com
 0.0.0.0 zzzj.com
-0.0.0.0 zzzla.com
 0.0.0.0 zzzlsh.com
 0.0.0.0 zzzmap.com
 0.0.0.0 zzznkq.com

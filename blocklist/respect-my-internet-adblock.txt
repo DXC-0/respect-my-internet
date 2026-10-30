@@ -39,11 +39,6 @@
 ||000000000.fls.doubleclick.net^
 ||0000000000000190000010111.weebly.com^
 ||0000550xtz2.shop^
-||0000552bb0.shop^
-||0000552bb1.shop^
-||0000552bb2.shop^
-||0000552bb3.shop^
-||0000552bb4.shop^
 ||0000wb.com^
 ||0001.xin^
 ||000114.com^
@@ -58,7 +53,6 @@
 ||0006266.com^
 ||00063.xin^
 ||000678.xin^
-||0006fc9541020.beer^
 ||000700.com^
 ||000714.xyz^
 ||000793.com^
@@ -152,7 +146,6 @@
 ||007shoes.com^
 ||007swz.com^
 ||007szx.com^
-||007yx.com^
 ||008-client.fitbit.com^
 ||008-v3-client.fitbit.com^
 ||008.bet^
@@ -278,7 +271,6 @@
 ||015-v3-client.fitbit.com^
 ||015.xin^
 ||01546dba-dnsotls-ds.metric.gstatic.com^
-||0158f80.com^
 ||016-client.fitbit.com^
 ||016-v3-client.fitbit.com^
 ||016.xin^
@@ -520,7 +512,6 @@
 ||028ltzx.com^
 ||028office.com^
 ||028px.com^
-||028pxw.com^
 ||028sjkj.com^
 ||028yyyy.com^
 ||028zk01.net^
@@ -878,9 +869,7 @@
 ||058-v3-client.fitbit.com^
 ||058127.click^
 ||05880a57e1022.beer^
-||058a2a0741016.beer^
 ||058e001fc10251.beer^
-||058ed0543d61b235.com^
 ||059-client.fitbit.com^
 ||059-psd2.my-granitnyrt.com^
 ||059-v3-client.fitbit.com^
@@ -974,7 +963,6 @@
 ||0693f784d1023.beer^
 ||06abc.com^
 ||06climate.com^
-||06ee1860c1015.beer^
 ||06egte3.top^
 ||06game.com^
 ||06hojenovidadeinfos.fr^
@@ -1160,7 +1148,6 @@
 ||0798.cc^
 ||07981542.lat^
 ||0799z.com^
-||07ba0de711020.beer^
 ||07bmss01426.xin^
 ||07cn.com^
 ||07cn.net^
@@ -1238,8 +1225,6 @@
 ||08an.com^
 ||08ar.com^
 ||08b68dbbbf876114.com^
-||08c8b537f1021.beer^
-||08c9f63d31021.beer^
 ||08fc8f0ee3f2768a.com^
 ||08jjhe3a9g.com^
 ||08ky.com^
@@ -1303,7 +1288,6 @@
 ||095196555.com^
 ||09527.xin^
 ||0952xh.com^
-||0959930d71015.beer^
 ||096-client.fitbit.com^
 ||096-v3-client.fitbit.com^
 ||096.xin^
@@ -1329,7 +1313,6 @@
 ||09a17b315f70.github.io^
 ||09aag016266.xin^
 ||09b3045664731d42.com^
-||09c5062ea1020.beer^
 ||09e12x16370.xin^
 ||09ea354bd9542ba7.com^
 ||09game.com^
@@ -1390,7 +1373,6 @@
 ||0cqpj504251.xin^
 ||0d.work^
 ||0d263788316151cb.com^
-||0d49f571e1017.beer^
 ||0d9a56c5-6a18-4f41-9dcf-1fa0531f9645-00-3s6jlesunorig.riker.replit.dev^
 ||0daily.com^
 ||0ddvic16247.xin^
@@ -1411,7 +1393,6 @@
 ||0e37e6ed-727f-469f-8fd4-4e262b9cdc59.s3.us-west-2.amazonaws.com^
 ||0e38e883511032.beer^
 ||0e553a7644b6bd72ea6234ae678e3d07.safeframe.googlesyndication.com^
-||0e76427381016.beer^
 ||0e7h4hr.top^
 ||0e7o6216306.xin^
 ||0e86kc.atoms.world^
@@ -1448,7 +1429,6 @@
 ||0glos4le.top^
 ||0gyyc924408.xin^
 ||0h3lfj12415.xin^
-||0hax7.app^
 ||0hgame.com^
 ||0hk02-tatu78-bnitmg-5ajpc6.pages.dev^
 ||0hzxwa2471.xin^
@@ -1970,7 +1950,6 @@
 ||10bests.com^
 ||10bf0.gz.1253776640.clb.myqcloud.com^
 ||10black-casino.fr^
-||10c5a16c51015.beer^
 ||10d6e.gz.1253796911.clb.myqcloud.com^
 ||10db4.gz.1253800120.clb.myqcloud.com^
 ||10dd8.gz.1253804732.clb.myqcloud.com^
@@ -2063,7 +2042,6 @@
 ||112682.com^
 ||1128job.com^
 ||112932932398721112.lol^
-||112998.xyz^
 ||112ab.gz.1252191916.clb.myqcloud.com^
 ||112seo.com^
 ||112wan.com^
@@ -2199,7 +2177,6 @@
 ||11871.fr^
 ||1187d.gz.1253936418.clb.myqcloud.com^
 ||1188.com^
-||1188fc.com^
 ||1189f.gz.1253938427.clb.myqcloud.com^
 ||118a4.gz.1253938603.clb.myqcloud.com^
 ||118cy.com^
@@ -2331,7 +2308,6 @@
 ||122cn.net^
 ||122d3.gz.1251423104.clb.myqcloud.com^
 ||122e9.gz.1254065137.clb.myqcloud.com^
-||122law.com^
 ||122w.net^
 ||123-789.com^
 ||123-facebook.blogspot.com^
@@ -2646,7 +2622,6 @@
 ||136.com^
 ||1360.com^
 ||136136.com^
-||13636.com^
 ||13645893748274.lat^
 ||13667703999.com^
 ||136a8.gz.1254253091.clb.myqcloud.com^
@@ -3209,7 +3184,6 @@
 ||16.scale.www.fitbit.com^
 ||160.com^
 ||1606c348011042.beer^
-||160c7443c1019.beer^
 ||160dyf.com^
 ||160job.com^
 ||160tyesy.vercel.app^
@@ -3308,7 +3282,6 @@
 ||166161.com^
 ||1661827944.qzone.qq.com^
 ||166511.com^
-||1665213d91017.beer^
 ||16657.gz.1255519780.clb.myqcloud.com^
 ||1666.com^
 ||1668.net^
@@ -3427,7 +3400,6 @@
 ||170.com^
 ||17025.org^
 ||170601.xyz^
-||17083731a1019.beer^
 ||170960215.qzone.qq.com^
 ||170d9.gz.1255349409.clb.myqcloud.com^
 ||170hi.com^
@@ -3800,7 +3772,6 @@
 ||18095.com^
 ||180d.o.tencent.com^
 ||180disk.com^
-||180k.com^
 ||180lk-1257075718.cos-website.ap-hongkong.myqcloud.com^
 ||180qt.com^
 ||180tyesy.vercel.app^
@@ -3903,7 +3874,6 @@
 ||189works.com^
 ||189young.com^
 ||18a9a.gz.1255993238.clb.myqcloud.com^
-||18aa28dfd1020.beer^
 ||18art.art^
 ||18av.com^
 ||18cc3.gz.1255953558.clb.myqcloud.com^
@@ -4054,8 +4024,6 @@
 ||1a7a.bj.1253274075.clb.myqcloud.com^
 ||1a8a6.gz.1256206609.clb.myqcloud.com^
 ||1aa071e45acb08d2.com^
-||1aab715d01015.beer^
-||1ac6404321019.beer^
 ||1amen.com^
 ||1an1.fr^
 ||1ang.com^
@@ -4126,12 +4094,10 @@
 ||1d24fd3.top^
 ||1d2red.ink^
 ||1d622518c13a7c01baccc5c3724b91be.safeframe.googlesyndication.com^
-||1d9z.com^
 ||1dao99.com^
 ||1date1cake.com^
 ||1dcdp4.com^
 ||1dclik.fr^
-||1de6de84b1017.beer^
 ||1der-ad.com^
 ||1dhjzjz.fr^
 ||1diaocha.com^
@@ -4162,7 +4128,6 @@
 ||1f2dr3.ink^
 ||1f2rfc2g.pics^
 ||1f2t2yty.rest^
-||1f371be461017.beer^
 ||1f43a3e4.57b79ffb3043f32930fb5bee.workers.dev^
 ||1f4a.bj.1251166480.clb.myqcloud.com^
 ||1f64.bj.1253379791.clb.myqcloud.com^
@@ -5021,7 +4986,6 @@
 ||2258.com^
 ||2259.com^
 ||225dancefitness.com^
-||225f360dca52f6cf.com^
 ||225image.com^
 ||225image.vip^
 ||226500.com^
@@ -5039,7 +5003,6 @@
 ||228tuchuang.com^
 ||229.52.241.35.bc.googleusercontent.com^
 ||229.com^
-||2295.com^
 ||2298.com^
 ||22983.liveplay.myqcloud.com^
 ||22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net^
@@ -5113,7 +5076,6 @@
 ||2345.com^
 ||2345.gd^
 ||2345.net^
-||23456789.xyz^
 ||23456v.com^
 ||2345at.com^
 ||2345cdn.com^
@@ -5301,7 +5263,6 @@
 ||255616.com^
 ||25565.net^
 ||25589125.lat^
-||2559e5f081017.beer^
 ||25662zubo23739.com^
 ||256app.com^
 ||256cha.com^
@@ -5359,7 +5320,6 @@
 ||263-mail.net^
 ||263.com^
 ||263.net^
-||26330a8c11017.beer^
 ||2635hxe.top^
 ||263cv.net^
 ||263em.com^
@@ -5385,7 +5345,6 @@
 ||266.com^
 ||266.la^
 ||266385coinbase.com^
-||266fbded61019.beer^
 ||266wan.com^
 ||267382update.weebly.com^
 ||267736.xyz^
@@ -5424,7 +5383,6 @@
 ||2718vqn.top^
 ||27195.vip^
 ||272500.com^
-||27270.com^
 ||273-open-21-web-mail-12.weebly.com^
 ||2734627846242.sbs^
 ||27351840.xyz^
@@ -5440,7 +5398,6 @@
 ||277sy.com^
 ||277t.com^
 ||27813000.com^
-||2789a91661019.beer^
 ||2793343.fls.doubleclick.net^
 ||279love.com^
 ||279tt.com^
@@ -5462,7 +5419,6 @@
 ||281826.vip^
 ||282119.pl^
 ||282626.xyz^
-||2827.com^
 ||28283.com^
 ||282g.com^
 ||2831xvn.hair^
@@ -5585,7 +5541,6 @@
 ||2c0aabe9-dnsotls-ds.metric.gstatic.com^
 ||2c3902.vn-888new.com^
 ||2c50714e166f77eb338f503ffd74b1200e0b.s3.eu-central-3.ionoscloud.com^
-||2c71b194031fc683.com^
 ||2c883aeffbeef6c7.com^
 ||2c94.bj.1253666452.clb.myqcloud.com^
 ||2caipiao.com^
@@ -5977,7 +5932,6 @@
 ||301mba.com^
 ||301pk.com^
 ||3023.com^
-||302423a641021.beer^
 ||3024vwt.top^
 ||3025vra.skin^
 ||3027vqm.hair^
@@ -5989,10 +5943,8 @@
 ||3049h34-23029.baby^
 ||30583a8b910261.beer^
 ||3058znk.skin^
-||3062d65271020.beer^
 ||306t.com^
 ||307082220.cfd^
-||3072ccba588e48d0.com^
 ||3075kma.top^
 ||308.tv^
 ||308d22bd.88aabet.net^
@@ -6107,7 +6059,6 @@
 ||31998a86110251.beer^
 ||319d3741ad1da914.com^
 ||31amjs.com^
-||31b081b851019.beer^
 ||31b675a9cce68585.com^
 ||31betcasinoapp.fr^
 ||31betcasinoavis.fr^
@@ -6202,7 +6153,6 @@
 ||32800.com^
 ||328129goi48.xyz^
 ||328238smart843.xyz^
-||3283773e9dc5cde5.com^
 ||32844.click^
 ||328591b8f8a84799a511ca989f0cef7a.s3.eu-north-1.amazonaws.com^
 ||3286.cc^
@@ -6423,10 +6373,8 @@
 ||349k8mlylz5x5s.repository-dns1.webproxy.idc.lcap-exp.3.tencent.com^
 ||349k8mlylz5x5s.s1507482076dns1.webproxy.idcidc-idc-script.techhigh.3.tencent.com^
 ||349k8mlylz5x5s.soudanrindou-dns1.webproxy.idc.email.dragon.3.tencent.com^
-||34a14155f1016.beer^
 ||34abx.anixas.at^
 ||34bp.jm4wne.cfd^
-||34c5fe453528e605.com^
 ||34cc508d.vcstrucks.be^
 ||34dfgjffdsgjdffdgjdfgjfd.site^
 ||34erfdxbc.firebaseapp.com^
@@ -6495,7 +6443,6 @@
 ||35app.com^
 ||35ba.com^
 ||35d1.com^
-||35db4d2761021.beer^
 ||35dfgjffdfdsgjdffdgjdfgjfd.site^
 ||35dxs.com^
 ||35e0510ae11032.beer^
@@ -6889,7 +6836,6 @@
 ||3737k.com^
 ||3738527.fls.doubleclick.net^
 ||373a5e2a6f8a3f9a.com^
-||373c0f3771021.beer^
 ||373d34d0e98bde984724670582a237e8.eu.api.amazonvideo.com^
 ||373d34d0e98bde984724670582a237e8.fe.api.amazonvideo.com^
 ||373d34d0e98bde984724670582a237e8.na.api.amazonvideo.com^
@@ -6914,9 +6860,7 @@
 ||37a7.bj.1253973460.clb.myqcloud.com^
 ||37be4d7f4c7b5e.s3.ap-northeast-1.amazonaws.com^
 ||37biao.com^
-||37bjw.com^
 ||37bvsblobprodcus311.blob.core.windows.net^
-||37cbca02a1019.beer^
 ||37cos.com^
 ||37cs.com^
 ||37cu.com^
@@ -6997,7 +6941,6 @@
 ||3891.switch.hyzhibo.cdntip.com.hylivecdn.sched.ovscdns.net^
 ||38999h.vip^
 ||389f.bj.1253964510.clb.myqcloud.com^
-||38a9018e44a7da0f.com^
 ||38b06119b10271.beer^
 ||38b87554-dnsotls-ds.metric.gstatic.com^
 ||38blog.com^
@@ -7038,7 +6981,6 @@
 ||3948545d.vcstrading.com^
 ||3948789g49g34.cfd^
 ||3949006e510272.beer^
-||394afb34a1020.beer^
 ||3950.bj.1254011843.clb.myqcloud.com^
 ||39507037133f.icu^
 ||3952zqt.hair^
@@ -7102,7 +7044,6 @@
 ||3a79.bj.1254046165.clb.myqcloud.com^
 ||3aa0.bj.1254051585.clb.myqcloud.com^
 ||3ac-poitiers.fr^
-||3afbda6f11015.beer^
 ||3ait.com^
 ||3alv.com^
 ||3aok.com^
@@ -7132,9 +7073,7 @@
 ||3c2p.com^
 ||3c324f3ae10241.beer^
 ||3c3t.com^
-||3c4c142e21021.beer^
 ||3c5a7b25910281.beer^
-||3c6a1a5d01015.beer^
 ||3c7t.kerviw.casa^
 ||3c9035c3bd9e7599.com^
 ||3caa.bj.1254123943.clb.myqcloud.com^
@@ -7220,7 +7159,6 @@
 ||3dyeni.com^
 ||3e.net^
 ||3e1f.bj.1254157866.clb.myqcloud.com^
-||3e1f90ccd1016.beer^
 ||3e1xvv.jpbrazs.com^
 ||3e24.bj.1254158874.clb.myqcloud.com^
 ||3e306b2a010272.beer^
@@ -7521,7 +7459,6 @@
 ||3wmm.com^
 ||3wn9pkh.hair^
 ||3wr6xkt.casa^
-||3wtuan.com^
 ||3wyk.com^
 ||3x7.com^
 ||3xbaby.com^
@@ -7713,12 +7650,10 @@
 ||4082zke.top^
 ||408399.com^
 ||408399.net^
-||408cf42720d8be86.com^
 ||408ec542b10281.beer^
 ||4091.bj.1254195449.clb.myqcloud.com^
 ||409482921.qzone.qq.com^
 ||409a1957110311.beer^
-||409c27e4c1015.beer^
 ||409d.bj.1254199061.clb.myqcloud.com^
 ||409d0a7b710241.beer^
 ||40anscartepass.fr^
@@ -7782,7 +7717,6 @@
 ||4213.com^
 ||42144.com^
 ||42176.drive.google.com^
-||42224b3c51016.beer^
 ||422425.xyz^
 ||4228414.fls.doubleclick.net^
 ||422877.com^
@@ -7812,7 +7746,6 @@
 ||4290042901-doradztwo.storage.googleapis.com^
 ||429006.com^
 ||42af.bj.1254233214.clb.myqcloud.com^
-||42ed983e61019.beer^
 ||42ft2fete.top^
 ||42gfldkmjgldfgkd.site^
 ||42how.com^
@@ -7895,7 +7828,6 @@
 ||4399youxi.com^
 ||4399yyy.com^
 ||4399zmxy.com^
-||439f2bbb180aecab.com^
 ||43batlleg34.page.link^
 ||43cv.com^
 ||43gfldkmjgldfgkd.site^
@@ -7929,7 +7861,6 @@
 ||44552003.com^
 ||446731636.qzone.qq.com^
 ||446834wi.top^
-||44749.net^
 ||447c.bj.1254276657.clb.myqcloud.com^
 ||4480.cc^
 ||4484.win^
@@ -7946,7 +7877,6 @@
 ||44e3.bj.1254103130.clb.myqcloud.com^
 ||44f31.firebaseio.com^
 ||44fd.o8fgwc.top^
-||44ff56d11fa53a9a.com^
 ||44h.co^
 ||44jj.com^
 ||44jn4hg.hair^
@@ -7971,7 +7901,6 @@
 ||451748048.qzone.qq.com^
 ||451f46bd110281.beer^
 ||4521tka.top^
-||453400.com^
 ||453600.net^
 ||4537654.click^
 ||45451.com^
@@ -8045,7 +7974,6 @@
 ||47.qi7ong.cfd^
 ||47104.livepush.myqcloud.com^
 ||4713zpk.ink^
-||4714da8871019.beer^
 ||471f94eab9784273.com^
 ||4724652845715468678234683.blogspot.com^
 ||4725313.akademiabiznesu.de^
@@ -8142,7 +8070,6 @@
 ||4901.com^
 ||490186.com^
 ||491.com^
-||4916a68576d64a34.com^
 ||4916xqp.hair^
 ||491d.sh.1253204295.clb.myqcloud.com^
 ||4923503.fls.doubleclick.net^
@@ -8190,7 +8117,6 @@
 ||49you.com^
 ||49yu.com^
 ||49zz1110002a4.shop^
-||4a38863a11017.beer^
 ||4a4779c371024.beer^
 ||4a51.sh.1253256474.clb.myqcloud.com^
 ||4a64.sh.1251196479.clb.myqcloud.com^
@@ -8268,7 +8194,6 @@
 ||4e4e.bj.1254481775.clb.myqcloud.com^
 ||4e6fe7920a044f98.com^
 ||4e71.hk.1256089700.clb.myqcloud.com^
-||4e7e414fd1015.beer^
 ||4e7u4eu.skin^
 ||4ee.ee^
 ||4ef06207210281.beer^
@@ -8283,7 +8208,6 @@
 ||4f0b987b410311.beer^
 ||4f10.sh.1253328796.clb.myqcloud.com^
 ||4f1c.sh.1253240150.clb.myqcloud.com^
-||4f411973f14e0f10.com^
 ||4f4ez65f46ze54f35ez4f34ze.blogspot.com^
 ||4f61.com^
 ||4f89.com^
@@ -8442,7 +8366,6 @@
 ||4n.eb8rvu.top^
 ||4n4e3j.hair^
 ||4n8.kurierp0lska.click^
-||4ndwc.com^
 ||4njdehr.lat^
 ||4o.org^
 ||4oih4y.skin^
@@ -8626,7 +8549,6 @@
 ||5020094113-doradztwo.storage.googleapis.com^
 ||5020094113-prawnicy.storage.googleapis.com^
 ||5020094113-rejestr.storage.googleapis.com^
-||50257e08d1015.beer^
 ||502fakw.com^
 ||5030019975-prawnicy.storage.googleapis.com^
 ||503118.com^
@@ -9113,7 +9035,6 @@
 ||51p.co^
 ||51panhuo.com^
 ||51papers.com^
-||51passion.com^
 ||51peptide.com^
 ||51pgzs.com^
 ||51photo.vip^
@@ -9516,7 +9437,6 @@
 ||5298745832734.xyz^
 ||529f.sh.1253190755.clb.myqcloud.com^
 ||529f7ddfc4.nxcli.io^
-||52ai.com^
 ||52ali88.com^
 ||52alipay.com^
 ||52aoteman.com^
@@ -9574,7 +9494,6 @@
 ||52gaoge.com^
 ||52gaoxiao.com^
 ||52gg.com^
-||52ggd.com^
 ||52grz.com^
 ||52guzhuang.com^
 ||52gvim.com^
@@ -9911,7 +9830,6 @@
 ||550400.com^
 ||550416.com^
 ||5509.cc^
-||550d93f291021.beer^
 ||5510928.com^
 ||55114008.com^
 ||5512442560-prawnicy.storage.googleapis.com^
@@ -10030,7 +9948,6 @@
 ||56.scale.www.fitbit.com^
 ||560.im^
 ||56015.com^
-||5606968d01021.beer^
 ||560e.com^
 ||560wf.com^
 ||5611.com^
@@ -10435,7 +10352,6 @@
 ||59f086f4910311.beer^
 ||59f8.sh.1253546094.clb.myqcloud.com^
 ||59fd.sh.1253546196.clb.myqcloud.com^
-||59ff599661017.beer^
 ||59ftyesy.vercel.app^
 ||59hi.com^
 ||59hotmail.fr^
@@ -10490,7 +10406,6 @@
 ||5b.kureno.sbs^
 ||5b1c73dc010311.beer^
 ||5b1hpsd6d7.com^
-||5b2b697bd748d07b.com^
 ||5b33294d-0.gz.1255988491.clb.myqcloud.com^
 ||5b4d81c4-0.sh.1251606525.clb.myqcloud.com^
 ||5b529d4e711021.beer^
@@ -10502,13 +10417,11 @@
 ||5ber.com^
 ||5bny.dostawa1x.cam^
 ||5c407acb510301.beer^
-||5c554118a1021.beer^
 ||5cb58dcd-0.sh.1256908768.clb.myqcloud.com^
 ||5cb69e8045837fa9.com^
 ||5ccic.com^
 ||5cda.com^
 ||5ce.com^
-||5ce08adc68995a7a.com^
 ||5ceimg.com^
 ||5cj7dtuso3.com^
 ||5cjf9e.info^
@@ -10521,7 +10434,6 @@
 ||5d2ede2.com^
 ||5d6d.com^
 ||5d6d.net^
-||5d770c50c1016.beer^
 ||5d7bcbb1a1022.beer^
 ||5dao.cc^
 ||5dashi.com^
@@ -10573,7 +10485,6 @@
 ||5ey3t3.hair^
 ||5eyg376y.pics^
 ||5f0o5hu.skin^
-||5f28dfaae1016.beer^
 ||5f36b4f39ba574b7.com^
 ||5f3kqa78zh.com^
 ||5f52903c110251.beer^
@@ -10811,7 +10722,6 @@
 ||5u75h.hair^
 ||5u8u4i.skin^
 ||5u95bx.infrasmart.it^
-||5uchina.com^
 ||5ue64ge.casa^
 ||5ugy6.lat^
 ||5ul.com^
@@ -11139,7 +11049,6 @@
 ||6311.sh.1253631485.clb.myqcloud.com^
 ||6312572844-prawnicy.storage.googleapis.com^
 ||631818.com^
-||632121d3c4f46e67.com^
 ||632315fl.top^
 ||63243.com^
 ||632454rd.top^
@@ -11168,7 +11077,6 @@
 ||6381671012-prawnicy.storage.googleapis.com^
 ||6381763435-prawnicy.storage.googleapis.com^
 ||6381846983-prawnicy.storage.googleapis.com^
-||6383.com^
 ||6385844.com^
 ||63860.vip^
 ||638ca12d-ba2f-451c-8418-faf56b7de7ff.htmlcomponentservice.com^
@@ -11177,7 +11085,6 @@
 ||639311.com^
 ||63936b71f3e4ab6a.com^
 ||6395.sh.1253638659.clb.myqcloud.com^
-||6397869a4eb51a13.com^
 ||63b4ff1aeff2818d.com^
 ||63cj.com^
 ||63db.sh.1253642657.clb.myqcloud.com^
@@ -11243,7 +11150,6 @@
 ||652ebb57a11021.beer^
 ||65362655721.edgeone.dev^
 ||65369.help^
-||653697e101020.beer^
 ||6541116.fls.doubleclick.net^
 ||654320.com^
 ||6543210.com^
@@ -11319,7 +11225,6 @@
 ||6633488.com^
 ||6633696.com^
 ||66361.livepush.myqcloud.com^
-||6636yy.com^
 ||66378.com^
 ||66388.net^
 ||663d.sh.1253678262.clb.myqcloud.com^
@@ -11353,7 +11258,6 @@
 ||6666xsw.com^
 ||6668dns.com^
 ||6669832.com^
-||666bos.com^
 ||666d52b15ab3055294ca28908aae960b.safeframe.googlesyndication.com^
 ||666gps.com^
 ||666idc.com^
@@ -11465,7 +11369,6 @@
 ||67318n.com^
 ||673262.lol^
 ||673hgye.ink^
-||674da9a521017.beer^
 ||6751262620-prawnicy.storage.googleapis.com^
 ||6751304749-prawnicy.storage.googleapis.com^
 ||6751599118-rejestr.storage.googleapis.com^
@@ -11477,7 +11380,6 @@
 ||6751764238-prawnicy.storage.googleapis.com^
 ||6751784235-prawnicy.storage.googleapis.com^
 ||6755.sh.1253621917.clb.myqcloud.com^
-||6758169ad1020.beer^
 ||6761313129-prawnicy.storage.googleapis.com^
 ||6761641394-prawnicy.storage.googleapis.com^
 ||6761717329-prawnicy.storage.googleapis.com^
@@ -11545,7 +11447,6 @@
 ||679black.wixsite.com^
 ||679d.sh.1253695923.clb.myqcloud.com^
 ||67a38421b10281.beer^
-||67a4488e31017.beer^
 ||67az.com^
 ||67c2.hk.1256912025.clb.myqcloud.com^
 ||67c4.sh.1253699428.clb.myqcloud.com^
@@ -11715,7 +11616,6 @@
 ||696.cool^
 ||696157.com^
 ||69698689.com^
-||697e43da249f79cd.com^
 ||6987643.lat^
 ||698wan.com^
 ||69916666.com^
@@ -11820,7 +11720,6 @@
 ||6e7b0968.pinme.dev^
 ||6e7v6eh.hair^
 ||6e8a225320471153.com^
-||6e8fe57151019.beer^
 ||6e8y4k.hair^
 ||6e9-7ew56-doqszs-e15e6t-glomf.pages.dev^
 ||6eat.com^
@@ -11853,7 +11752,6 @@
 ||6fast.com^
 ||6fcsj.com^
 ||6fd2.sh.1253807583.clb.myqcloud.com^
-||6fe7c9d291017.beer^
 ||6ff6313e475a7a32.com^
 ||6fm4dcpj31.com^
 ||6fs7gfs7fgfsfdejwo.shop^
@@ -12159,7 +12057,6 @@
 ||71908.com^
 ||7192.com^
 ||719400.com^
-||719f06caf1017.beer^
 ||71acg.com^
 ||71acg.net^
 ||71b394ce11114.beer^
@@ -12168,14 +12065,11 @@
 ||71big.net^
 ||71c4d5e6f7a8def0123456789ab.artilleriemonument.nl^
 ||71c9fd6d-dnsotls-ds.metric.gstatic.com^
-||71d7f1e121019.beer^
-||71dm.com^
 ||71e.com^
 ||71edge.com^
 ||71edge.net^
 ||71edge.work^
 ||71elink.com^
-||71f68cc351015.beer^
 ||71go.com^
 ||71k.com^
 ||71lady.com^
@@ -12397,7 +12291,6 @@
 ||74966.net^
 ||74977.net^
 ||74cms.com^
-||74da6ad581020.beer^
 ||74dns.com^
 ||74e6.sh.1253876161.clb.myqcloud.com^
 ||74eb1257-dnsotls-ds.metric.gstatic.com^
@@ -12548,7 +12441,6 @@
 ||7723img.com^
 ||7724.com^
 ||7724yx.com^
-||7725.com^
 ||77304.com^
 ||77304y.com^
 ||77313.com^
@@ -12638,7 +12530,6 @@
 ||77hudong.com^
 ||77itv.com^
 ||77l.com^
-||77lux.com^
 ||77music.com^
 ||77nn.net^
 ||77nt.com^
@@ -12774,7 +12665,6 @@
 ||7a.cm^
 ||7a0e.sh.1253925362.clb.myqcloud.com^
 ||7a0qo1zj1m.execute-api.us-west-1.amazonaws.com^
-||7a1dd6b621020.beer^
 ||7a1f7ba4211042.beer^
 ||7a31jmf.com^
 ||7a36.sh.1253919774.clb.myqcloud.com^
@@ -12785,7 +12675,6 @@
 ||7a9b89eb3d333f2c.com^
 ||7a9e.sh.1253930939.clb.myqcloud.com^
 ||7acc.sh.1253931937.clb.myqcloud.com^
-||7ade93e381021.beer^
 ||7af4.sh.1253933725.clb.myqcloud.com^
 ||7ahr.com^
 ||7analytics.com^
@@ -12795,7 +12684,6 @@
 ||7askzg5k.com^
 ||7b2.com^
 ||7b3e.sh.1253936377.clb.myqcloud.com^
-||7b6466e191019.beer^
 ||7b6q.oftesid.lat^
 ||7b761738c10261.beer^
 ||7be9.sh.1253944087.clb.myqcloud.com^
@@ -12827,7 +12715,6 @@
 ||7cname.com^
 ||7cnv.com^
 ||7cw0tjiqjlymf8nm.smtp.zm.antivirus.bo.webproxy.idc.designs.tencent.com^
-||7cxk.com^
 ||7cyn.com^
 ||7d0b.sh.1253955713.clb.myqcloud.com^
 ||7d0c.sh.1253959324.clb.myqcloud.com^
@@ -12839,8 +12726,6 @@
 ||7d6b.sh.1253965307.clb.myqcloud.com^
 ||7d80ef025d.nxcli.io^
 ||7d82.sh.1253964549.clb.myqcloud.com^
-||7d8fc91771017.beer^
-||7d9c2005e1015.beer^
 ||7dah8.com^
 ||7dc0d8dad10281.beer^
 ||7dc20a92cc1da04d.com^
@@ -13190,7 +13075,6 @@
 ||80166.com^
 ||8020.sh.1253992983.clb.myqcloud.com^
 ||80247139.xyz^
-||8025edaf81019.beer^
 ||8027348623547638.shop^
 ||8027xqa.ink^
 ||802d.sh.1253993606.clb.myqcloud.com^
@@ -13235,7 +13119,6 @@
 ||80ans-leparisien.fr^
 ||80baicai.biz^
 ||80bi.com^
-||80c189b091016.beer^
 ||80cz.net^
 ||80d335e5-cb9b-4010-ad5a-3d92f8525f01.random.webproxy.idc.0-lt-test-mobile.tencent.com^
 ||80d335e5-cb9b-4010-ad5a-3d92f8525f01.random.webproxy.idc.local.accountingidcfreeassistant-349k8mlylz5x5s-botjcu.qq.com^
@@ -13346,7 +13229,6 @@
 ||81xy.com^
 ||81zhongwenx.com^
 ||81zw.com^
-||81zw.la^
 ||8203app.com^
 ||8204rzn.skin^
 ||8205wzn.skin^
@@ -13360,7 +13242,6 @@
 ||82250856.com^
 ||822644.com^
 ||8228.tv^
-||822ef055f1017.beer^
 ||82311v.weebly.com^
 ||823238fa910271.beer^
 ||82335966.com^
@@ -13510,7 +13391,6 @@
 ||845740.cfd^
 ||845741.cfd^
 ||8458185.lat^
-||845de4aca1019.beer^
 ||845e4a87610292.beer^
 ||8461.switch.hyzhibo.cdntip.com.cdn.ovscdns.net^
 ||8461.switch.hyzhibo.cdntip.com.hvzhibo.sched.ovscdns.net^
@@ -13540,7 +13420,6 @@
 ||849c.sh.1254065392.clb.myqcloud.com^
 ||84ca.sh.1254064608.clb.myqcloud.com^
 ||84d0.sh.1253857164.clb.myqcloud.com^
-||84d8388721016.beer^
 ||84ke.com^
 ||84ktv.com^
 ||84nofec3ws.com^
@@ -13671,7 +13550,6 @@
 ||869d.com^
 ||869v.com^
 ||86amsdy.com^
-||86bdada6e1019.beer^
 ||86bus.com^
 ||86crk.com^
 ||86ditu.com^
@@ -13762,7 +13640,6 @@
 ||8762412461-prawnicy.storage.googleapis.com^
 ||87625727386473265473.blogspot.com^
 ||8765043b5db2cbcb.com^
-||87654321.xyz^
 ||8765434.cfd^
 ||87665462.lat^
 ||8767.com^
@@ -13820,7 +13697,6 @@
 ||8811442641-prawnicy.storage.googleapis.com^
 ||88116008.com^
 ||8811777.com^
-||881794d571016.beer^
 ||88183322.com^
 ||88183355.com^
 ||881ac9cfd560166d.com^
@@ -13894,7 +13770,6 @@
 ||8880666.com^
 ||888132.com^
 ||8881672671-prawnicy.storage.googleapis.com^
-||8882258ab4.shop^
 ||88826345201924176473.weebly.com^
 ||8882855971-prawnicy.storage.googleapis.com^
 ||8883105605-prawnicy.storage.googleapis.com^
@@ -13941,7 +13816,6 @@
 ||88adb49761022.beer^
 ||88bank.com^
 ||88bx.com^
-||88c3eaa9f1015.beer^
 ||88caijing.com^
 ||88cdn.com^
 ||88dushu.com^
@@ -14024,7 +13898,6 @@
 ||8958915981.click^
 ||89609335.com^
 ||8961417159-prawnicy.storage.googleapis.com^
-||896de44003a72c48.com^
 ||896qipai.com^
 ||896rg86d.weebly.com^
 ||8971692080-prawnicy.storage.googleapis.com^
@@ -14064,7 +13937,6 @@
 ||89d2.sh.1254138721.clb.myqcloud.com^
 ||89dj.com^
 ||89ds.com^
-||89f0e4a1603d3372.com^
 ||89f9ee46410292.beer^
 ||89pv.kurierp0lska.click^
 ||89qw.com^
@@ -14074,7 +13946,6 @@
 ||8a.hk^
 ||8a10847841cdf19b.com^
 ||8a40.sh.1254140771.clb.myqcloud.com^
-||8a53ccb021015.beer^
 ||8a97175fd63e1d3a69f36979b9b34470.safeframe.googlesyndication.com^
 ||8aa1.sh.1254090718.clb.myqcloud.com^
 ||8ab113871fb000b2.com^
@@ -14086,10 +13957,8 @@
 ||8ao8ao.com^
 ||8armsstudio.com^
 ||8aza.com^
-||8b0dead347366514.com^
 ||8b165878.pinme.dev^
 ||8b2.net^
-||8b3efd3d91017.beer^
 ||8b6d.sh.1253952554.clb.myqcloud.com^
 ||8b92b52bd10301.beer^
 ||8b96.sh.1254155614.clb.myqcloud.com^
@@ -14107,7 +13976,6 @@
 ||8c657a4ba5616b4f.com^
 ||8casino.fr^
 ||8cd3.sh.1254169858.clb.myqcloud.com^
-||8ce7bc1173775468.com^
 ||8cname.com^
 ||8cnet.com^
 ||8cx.tb8jgv.sbs^
@@ -14126,7 +13994,6 @@
 ||8df3.sh.1254182199.clb.myqcloud.com^
 ||8dn.com^
 ||8dol.com^
-||8dou.com^
 ||8drr.ll2gut.cfd^
 ||8dt.com^
 ||8dudata.com^
@@ -14138,7 +14005,6 @@
 ||8e5da0c5911031.beer^
 ||8e8z.com^
 ||8eb7.sh.1254191078.clb.myqcloud.com^
-||8eda52911f4518b6.com^
 ||8ee1834c110272.beer^
 ||8ef1.sh.1254191771.clb.myqcloud.com^
 ||8ei38iue.pics^
@@ -14385,7 +14251,6 @@
 ||9042117632.cfd^
 ||904e0d2ba10241.beer^
 ||904f.sh.1254210695.clb.myqcloud.com^
-||9056b8f915baba58.com^
 ||905874987verxgdfsdaswffavdsg79ad77aadfgsbghdr5.s3-eu-central-2.ionoscloud.com^
 ||906376fa-dnsotls-ds.metric.gstatic.com^
 ||9064328.shop^
@@ -14398,7 +14263,6 @@
 ||9099d123.lat^
 ||90a7597f835b14bd.com^
 ||90ao.com^
-||90b5d42ca1016.beer^
 ||90dao.com^
 ||90ers.com^
 ||90game.bet^
@@ -14450,7 +14314,6 @@
 ||9145rxe.top^
 ||9146.sh.1254222214.clb.myqcloud.com^
 ||9148hpo.top^
-||9149df3441020.beer^
 ||915.com^
 ||915.tv^
 ||91520384.xyz^
@@ -14659,7 +14522,6 @@
 ||91yixun.com^
 ||91yk.com^
 ||91yong.com^
-||91you.com^
 ||91youxi.com^
 ||91yoyo.net^
 ||91yu.com^
@@ -14716,7 +14578,6 @@
 ||92615.top^
 ||926kf.com^
 ||927254312.cfd^
-||92751437c39b61ee.com^
 ||927927.com^
 ||927953.com^
 ||927game.com^
@@ -14743,7 +14604,6 @@
 ||92ay.com^
 ||92b5.sh.1254237287.clb.myqcloud.com^
 ||92bbs.net^
-||92bce178d60f5a3e.com^
 ||92cloud.com^
 ||92dp.com^
 ||92dpw.com^
@@ -14755,6 +14615,7 @@
 ||92juwy3.garden^
 ||92kaifa.com^
 ||92kk.com^
+||92kun.com^
 ||92le.com^
 ||92lm.com^
 ||92lucky.com^
@@ -14899,7 +14760,6 @@
 ||94ab.com^
 ||94ad.com^
 ||94afx.com^
-||94beb5b921021.beer^
 ||94cb.com^
 ||94cto.com^
 ||94egf0jk.shop^
@@ -14975,7 +14835,6 @@
 ||95598pay.com^
 ||95599.hk^
 ||9560.cc^
-||95600.vip^
 ||9562074563-prawnicy.storage.googleapis.com^
 ||9562130209-miejsca.storage.googleapis.com^
 ||9562130209-oferty.storage.googleapis.com^
@@ -15300,9 +15159,7 @@
 ||98mp.com^
 ||98nice.com^
 ||98one.com^
-||98t.la^
 ||98t.net^
-||98tang.com^
 ||98tsg.com^
 ||98tyesy.vercel.app^
 ||98w.co^
@@ -15503,7 +15360,6 @@
 ||9a9m.com^
 ||9ab7.sh.1254309541.clb.myqcloud.com^
 ||9ac2.sh.1254310468.clb.myqcloud.com^
-||9aca7ec4f5ae25e5.com^
 ||9ad30478-dnsotls-ds.metric.gstatic.com^
 ||9ailai.com^
 ||9aimai.com^
@@ -15530,12 +15386,9 @@
 ||9c32.sh.1254301682.clb.myqcloud.com^
 ||9c42.sh.1254326435.clb.myqcloud.com^
 ||9c44.sh.1254283411.clb.myqcloud.com^
-||9c67282f22796ac6.com^
 ||9c68.sh.1254327471.clb.myqcloud.com^
 ||9c75.sh.1254328530.clb.myqcloud.com^
 ||9c89.sh.1254326279.clb.myqcloud.com^
-||9c941a3b41021.beer^
-||9ca4b8eca1019.beer^
 ||9casino.fr^
 ||9casinoo.fr^
 ||9casinos.fr^
@@ -15561,7 +15414,6 @@
 ||9deli.com^
 ||9design.live^
 ||9df7.sh.1254347653.clb.myqcloud.com^
-||9dfb917ee1019.beer^
 ||9dfx.com^
 ||9dian.info^
 ||9dida.net^
@@ -15580,7 +15432,6 @@
 ||9e9f.sh.1254354535.clb.myqcloud.com^
 ||9ea8.sh.1254303482.clb.myqcloud.com^
 ||9eacc080d10291.beer^
-||9eae58cbc333acf8.com^
 ||9eaf.sh.1254355778.clb.myqcloud.com^
 ||9earth.com^
 ||9ebb.sh.1254356593.clb.myqcloud.com^
@@ -16004,7 +15855,6 @@
 ||a1983.dscg.akamai.net^
 ||a1985.g1.akamai.net^
 ||a1992.r.akamai.net^
-||a1a22678d1019.beer^
 ||a1algarve.com^
 ||a1brickwork.com^
 ||a1coin.xyz^
@@ -16091,15 +15941,12 @@
 ||a4.da1.akamai.net^
 ||a4.mzstatic.com^
 ||a407.phobos.apple.com^
-||a40dc409e2ea86b1.com^
 ||a40e.sh.1254421098.clb.myqcloud.com^
 ||a415.sh.1254421434.clb.myqcloud.com^
 ||a423.phobos.apple.com^
 ||a428.sh.1254422763.clb.myqcloud.com^
 ||a42a.sh.1254422713.clb.myqcloud.com^
-||a44aeaeac1016.beer^
 ||a45e4f5fd10272.beer^
-||a465a95641016.beer^
 ||a471.w13.akamai.net^
 ||a479.g.akamai.net^
 ||a479.phobos.apple.com^
@@ -16127,7 +15974,6 @@
 ||a51f.sh.1251123004.clb.myqcloud.com^
 ||a53.phobos.apple.com^
 ||a53.photo.store.qq.com^
-||a5380a8e41016.beer^
 ||a539.g1.akamai.net^
 ||a5399.com^
 ||a540.w3.akamai.net^
@@ -16184,8 +16030,6 @@
 ||a726.g1.akamai.net^
 ||a728.g.akamai.net^
 ||a736.g.akamai.net^
-||a74be6c3e1021.beer^
-||a756716251017.beer^
 ||a758cca6.wenjunshicai.net^
 ||a75d755806b1095d.com^
 ||a761.phobos.apple.com^
@@ -16247,7 +16091,6 @@
 ||a949.phobos.apple.com^
 ||a963.com^
 ||a968.g1.akamai.net^
-||a96b32e2b1015.beer^
 ||a975.g.akamai.net^
 ||a977.phobos.apple.com^
 ||a983.phobos.apple.com^
@@ -16289,7 +16132,6 @@
 ||aa5c82aeb10271.beer^
 ||aa65535.com^
 ||aa6666.com^
-||aa6f0397a3cf50d7.com^
 ||aa77kk.com^
 ||aa84c23fc4aa335a.com^
 ||aa8xgl.cfd^
@@ -17053,7 +16895,6 @@
 ||ac24horas.com^#Revive^Adserver^-^Advertising^
 ||ac268.com^
 ||ac3.msn.com^
-||ac3ba49731016.beer^
 ||ac4e.sh.1251993484.clb.myqcloud.com^
 ||ac57.com^
 ||ac59-lille.fr^
@@ -19758,7 +19599,6 @@
 ||adxvip.com^
 ||adxwork.com^
 ||adxyun.com^
-||adxzoo.com^
 ||adyoc.com^
 ||adyounger.com^
 ||adyuedong.com^
@@ -20034,11 +19874,9 @@
 ||ae27.sh.1254959557.clb.myqcloud.com^
 ||ae3a6d6e09359c15.com^
 ||ae40.sh.1254960770.clb.myqcloud.com^
-||ae5de9f6f1021.beer^
 ||ae60.com^
 ||ae60.sh.1254962266.clb.myqcloud.com^
 ||ae722u.info^
-||ae7b5112dd1be127.com^
 ||ae86.gz.1252692064.clb.myqcloud.com^
 ||aea2.sh.1254965016.clb.myqcloud.com^
 ||aearopol.cyou^
@@ -20060,7 +19898,6 @@
 ||aedificopartners.com^
 ||aedzt.pm^
 ||aee8.gz.1253210916.clb.myqcloud.com^
-||aeec9b62d1016.beer^
 ||aeef.sh.1254803877.clb.myqcloud.com^
 ||aeenergy.com^
 ||aeenets.com^
@@ -20239,7 +20076,6 @@
 ||af5d.sh.1255303167.clb.myqcloud.com^
 ||af64.sh.1253356415.clb.myqcloud.com^
 ||af83c2f7-e94f-4908-9e04-6e96269d358a-00-3m1tfo9zpuwcp.picard.replit.dev^
-||af8d4587126e00c0.com^
 ||afacebook.fr^
 ||afachsimme.cyou^
 ||afaisouth.com^
@@ -20247,7 +20083,6 @@
 ||afang.com^
 ||afanti100.com^
 ||afarway.com^
-||afbd4a3905a4a9a5.com^
 ||afca-asia.org^
 ||afca6b82c11032.beer^
 ||afcec.com^
@@ -40051,7 +39886,6 @@
 ||amniswealth.com^
 ||amo-solar.com^
 ||amo9.com^
-||amobbs.com^
 ||amobee.com^#Amobee^-^Tracker^
 ||amoe-lite.com^
 ||amoe.cc^
@@ -41989,7 +41823,6 @@
 ||anzora.shop^
 ||anzu.io^#Anzu^-^Advertising^
 ||anzyogenl.com^
-||ao-di.com^
 ||ao-hua.com^
 ||ao0lf-5tr-71qw74-dtw-2af.pages.dev^
 ||ao3-cn.com^
@@ -47662,7 +47495,6 @@
 ||autrysoldes.fr^
 ||autumn-band-6aa1.lcaeuoabn.workers.dev^
 ||autumn-fabric.shop^
-||autumndesires.com^
 ||auuircoachstandards.info^
 ||auvault-info.com^
 ||auvergerhonealpes.fr^
@@ -48427,7 +48259,6 @@
 ||axjbbd.shop^
 ||axjen.com^
 ||axjm-ex.com^
-||axjsw.com^
 ||axjx.com^
 ||axksv.com^
 ||axm-amazon.com^
@@ -48900,7 +48731,6 @@
 ||b21.photo.store.qq.com^
 ||b211.photo.store.qq.com^
 ||b220.gz.1253230512.clb.myqcloud.com^
-||b22fb6d6d1015.beer^
 ||b23.tv^
 ||b230756fa1114.beer^
 ||b23875917-28a8-4eb0-8c3d-860cc8ad1ef0.netlify.app^
@@ -49046,7 +48876,6 @@
 ||b65lxy.ramka31.forum^
 ||b666.sh.1254602099.clb.myqcloud.com^
 ||b66d.sh.1255379185.clb.myqcloud.com^
-||b670bffdf1021.beer^
 ||b67bafab-dnsotls-ds.metric.gstatic.com^
 ||b68f0a844eec7fff.com^
 ||b68zdm-pm1yj2-z6tvq-w2y-b97ia.pages.dev^
@@ -49066,14 +48895,12 @@
 ||b7-fr.fr^
 ||b71240031-d877-44e7-84f7-b418b8fa25e5.netlify.app^
 ||b71ea195f05f569c.com^
-||b71ef13941015.beer^
 ||b721.sh.1255317600.clb.myqcloud.com^
 ||b73223085-49c6-4dca-a2f1-4722014079bf-dpcj8stbzfif.edgeone.dev^
 ||b73223085-49c6-4dca-a2f1-4722014079bf.edgeone.dev^
 ||b73223085-49c6-4dca-a2f1-4722014079fb-dpi4fgipupcs.edgeone.dev^
 ||b74364238-d49c-4f21-a234-d47e9697ee92-dpowf5bnj9al.edgeone.dev^
 ||b74o64.webwave.dev^
-||b75c5da009ac3871.com^
 ||b76ad11181024.beer^
 ||b77.photo.store.qq.com^
 ||b78f.sh.1255361924.clb.myqcloud.com^
@@ -50134,7 +49961,6 @@
 ||baisu.cc^
 ||baisui100.com^
 ||baisuifc.shop^
-||baisuizhixiang.com^
 ||baitahe.net^
 ||baitaihuge.com^
 ||baitanheichang.com^
@@ -51620,7 +51446,6 @@
 ||bb-hy.com^
 ||bb-pco.com^
 ||bb06.com^
-||bb361a58c1015.beer^
 ||bb3a14ca57af4d81.com^
 ||bb52.sh.1255418369.clb.myqcloud.com^
 ||bb6e.sh.1255419046.clb.myqcloud.com^
@@ -51730,7 +51555,6 @@
 ||bbs1x.net^
 ||bbsancon.weebly.com^
 ||bbscloud.com^
-||bbsds.com^
 ||bbsindex.com^
 ||bbsls.net^
 ||bbsmc.net^
@@ -52050,7 +51874,6 @@
 ||bdns-test.net^
 ||bdovoltarion-hr.live^
 ||bdpacleveland.org^
-||bdpan.com^
 ||bdpnt.com^
 ||bdppe.net^
 ||bdqn666.com^
@@ -64300,7 +64123,6 @@
 ||c2427457b16e03ea.com^
 ||c24hdp.webwave.dev^
 ||c264.gz.1251936428.clb.myqcloud.com^
-||c27619fb01019.beer^
 ||c28b.sh.1254306078.clb.myqcloud.com^
 ||c2b8.sh.1255328214.clb.myqcloud.com^
 ||c2bd.sh.1255484596.clb.myqcloud.com^
@@ -64347,8 +64169,6 @@
 ||c3y3jw.webwave.dev^
 ||c4006.com^
 ||c4008.com^
-||c400c.cc^
-||c402f6df11021.beer^
 ||c404.gz.1253462629.clb.myqcloud.com^
 ||c40f.gz.1251997359.clb.myqcloud.com^
 ||c41b1d28472ea27c.com^
@@ -64358,7 +64178,6 @@
 ||c468.sh.1255498418.clb.myqcloud.com^
 ||c469f14b911012.beer^
 ||c4752e8a51.vip^
-||c47cb27580c5de6b.com^
 ||c495f3eb10d6cf13.com^
 ||c4d.live^
 ||c4datc.com^
@@ -64390,7 +64209,6 @@
 ||c558624c4b6f5f42.com^
 ||c57e6607c10292.beer^
 ||c59g8.i8ejqr.cfd^
-||c5b27c7c01019.beer^
 ||c5b6bpoq7q.world^
 ||c5bf2b35337761f4.com^
 ||c5capital.net^
@@ -64415,7 +64233,6 @@
 ||c68d.sh.1255515434.clb.myqcloud.com^
 ||c6aa.sh.1255516066.clb.myqcloud.com^
 ||c6b2.sh.1255516395.clb.myqcloud.com^
-||c6bad2ad01020.beer^
 ||c6bank1.page.link^
 ||c6c.com^
 ||c6kvof.top^
@@ -64431,7 +64248,6 @@
 ||c7200.com^
 ||c7211df10543faf59eefc065f6dceb95.safeframe.googlesyndication.com^
 ||c7233.com^
-||c73567b858ce4908.com^
 ||c7526.com^
 ||c75e76.earthgreen.com.co^
 ||c768.sh.1255520638.clb.myqcloud.com^
@@ -64459,13 +64275,10 @@
 ||c7y.com^
 ||c807xpress.com^
 ||c83193.lat^
-||c835249c31017.beer^
 ||c8480f0008.nxcli.io^
-||c8571e9ad7689b0a.com^
 ||c864.sh.1255529142.clb.myqcloud.com^
 ||c869.sh.1255528297.clb.myqcloud.com^
 ||c874u.cnbcbali.com^
-||c88a8ae86f58a489.com^
 ||c894.sh.1255530159.clb.myqcloud.com^
 ||c8ceb739c3094faffe42faa6b798e80b.safeframe.googlesyndication.com^
 ||c8d13-67hrx3-xx2n6-40g-55gdbb.pages.dev^
@@ -64680,7 +64493,6 @@
 ||caatlantiquevendee.fr^
 ||caayee.com^
 ||caazeus.fr^
-||cab346ef31016.beer^
 ||cabaia-france.fr^
 ||cabaia-online.fr^
 ||cabaiafrance.fr^
@@ -64858,7 +64670,6 @@
 ||cadzxw.com^
 ||caeauxfolies.fr^
 ||caecc.com^
-||caeef787f1694f47.com^
 ||caeerr.com^
 ||caefa.org^
 ||caein.com^
@@ -66222,6 +66033,7 @@
 ||capwwitalist.info^
 ||caqzlsgs.com^
 ||car-metaverse.com^
+||car-vacation.com^
 ||car-wallet-12321.firebaseio.com^
 ||car.qq.com^
 ||car0575.com^
@@ -68713,7 +68525,6 @@
 ||ccbfund.com^
 ||ccbfutures.com^
 ||ccbhgl.com^
-||ccbhome.net^
 ||ccbiam.com^
 ||ccbleasing.com^
 ||ccbnd.com^
@@ -69241,7 +69052,6 @@
 ||cdc-net-labanquedesterritoires.fr^
 ||cdc-tencent-com-1258344706.image.myqcloud.com^
 ||cdc.tencent.com^
-||cdc80b3514292771.com^
 ||cdcbj.com^
 ||cdcc.info^
 ||cdcc.ink^
@@ -70349,7 +70159,6 @@
 ||cena-produkcji.shop^
 ||cenalo.pro^
 ||cenanntions.shop^
-||cenano-china.com^
 ||cenanovers.store^
 ||cenapartners.com^
 ||cenbel.com^
@@ -71048,7 +70857,6 @@
 ||cf3226c8bc0556ea.alattar.bh^
 ||cf69.com^
 ||cf6a.sh.1255615057.clb.myqcloud.com^
-||cf8587a521017.beer^
 ||cf99a7.yl029.com^
 ||cf9c.sh.1255616079.clb.myqcloud.com^
 ||cf9e5dea.heftrucksbelgie.eu^
@@ -73585,7 +73393,6 @@
 ||chinajj.org^
 ||chinajjz.com^
 ||chinajnhb.com^
-||chinajoiner.net^
 ||chinajorson.net^
 ||chinajoy.net^
 ||chinajs120.com^
@@ -73968,7 +73775,6 @@
 ||chinavr.net^
 ||chinawanbang.com^
 ||chinawanda.com^
-||chinawanlitrans.com^
 ||chinawatchnet.com^
 ||chinawaterexpo.com^
 ||chinawatertech.com^
@@ -77637,7 +77443,6 @@
 ||cloudsuqian.com^
 ||cloudswift.cloud^
 ||cloudsync-center.site^
-||cloudt.chat^
 ||cloudtalkers.com^
 ||cloudtalpha.info^
 ||cloudtangshan.com^
@@ -78033,7 +77838,6 @@
 ||cmipyr.element72.buzz^
 ||cmipyr.ramka31.forum^
 ||cmiyu.com^
-||cmjz.net^
 ||cmk5.com^
 ||cmkgracedvne.firebaseapp.com^
 ||cmkgracedvne.web.app^
@@ -78616,7 +78420,6 @@
 ||cnhls.com^
 ||cnhlsxe.com^
 ||cnhnb.com^
-||cnhongke.org^
 ||cnhonker.com^
 ||cnhow.net^
 ||cnhqt.com^
@@ -78834,7 +78637,6 @@
 ||cnnx.net^
 ||cnobin.org^
 ||cnod.net^
-||cnoddt.com^
 ||cnodel.trumpedo.com^
 ||cnoic.com^
 ||cnoil.com^
@@ -80246,7 +80048,6 @@
 ||com.hy-livecdn.liveplay.myqcloud.com^
 ||com.hylivecdn.sched.ovscdns.net^
 ||com.mk^
-||com.mp^
 ||com.overseavideo.sched.ovscdns.net^
 ||com.pa1mn2ver3f4.com^
 ||com.tn^
@@ -83482,7 +83283,6 @@
 ||cq5135.com^
 ||cq556.com^
 ||cq5o.c7r2v9p.pics^
-||cq6.com^
 ||cq69.com^
 ||cq6969.com^
 ||cq8.com^
@@ -83507,7 +83307,6 @@
 ||cqbm2007.com^
 ||cqbnedu.com^
 ||cqbnjsjt.com^
-||cqbnrc.com^
 ||cqbntv.com^
 ||cqbode.com^
 ||cqbondrite.com^
@@ -83608,7 +83407,6 @@
 ||cqgdcy.com^
 ||cqgdkf.com^
 ||cqgearbox.com^
-||cqgewerv.com^
 ||cqggwx.com^
 ||cqggx.com^
 ||cqggzy.com^
@@ -86051,7 +85849,6 @@
 ||ctcnn.com^
 ||ctcnpa.com^
 ||ctcontents.com^
-||ctcsci.com^
 ||ctcsz.com^
 ||ctcwri.org^
 ||ctcxzgs.com^
@@ -86686,7 +86483,6 @@
 ||cvsd.in^
 ||cvsq-interieurgouv.fr^
 ||cvstomercbomk.icu^
-||cvszavosz.icu^
 ||cvt-prime.fr^
 ||cvtapi.com^
 ||cvtasarim.com^
@@ -87374,7 +87170,6 @@
 ||czsshb.com^
 ||czstorama.fr^
 ||czstore.top^
-||czstx.net^
 ||czsvip.com^
 ||czswdx.com^
 ||cztaojiu.com^
@@ -87526,7 +87321,6 @@
 ||d10lv7w3g0jvk9.cloudfront.net^
 ||d10nkw6w2k1o10.cloudfront.net^
 ||d10wfab8zt419p.cloudfront.net^
-||d11180a781015.beer^
 ||d11enq2rymy0yl.cloudfront.net^
 ||d11tybz5ul8vel.cloudfront.net^
 ||d1226c9c010311.beer^
@@ -87837,7 +87631,6 @@
 ||d2zv5rkii46miq.cloudfront.net^
 ||d300.gz.1253588478.clb.myqcloud.com^
 ||d301cxwfymy227.cloudfront.net^
-||d30c8d2641021.beer^
 ||d30sxnvlkawtwa.cloudfront.net^
 ||d30wo2lffetbp8.cloudfront.net^
 ||d314xy.csb.app^
@@ -87968,7 +87761,6 @@
 ||d3w2id5zlqvvik.cloudfront.net^
 ||d3zone.com^
 ||d4000.com^
-||d406dc73a1016.beer^
 ||d40e.sh.1255660124.clb.myqcloud.com^
 ||d40n15.twojsukcespro.pl^
 ||d41.co^#Dun^and^Bradstreet^-^Tracker^
@@ -87994,7 +87786,6 @@
 ||d4yoxd.top^
 ||d5168.com^
 ||d527.sh.1255667718.clb.myqcloud.com^
-||d54a00143de85b64.com^
 ||d56c84cfb4a786f7.com^
 ||d57f.rj6ggp.cfd^
 ||d58.net^
@@ -88208,7 +87999,6 @@
 ||dacvalutron-ai.com^
 ||dacvalutrox.live^
 ||dacvalutrox.net^
-||dad86b446ac9f8b7.com^
 ||dada114.net^
 ||dada360.com^
 ||dadaabc.com^
@@ -90551,7 +90341,6 @@
 ||deexchina.com^
 ||deeze.fr^
 ||def-gh.net^
-||def5feeaeb220776.com^
 ||defair.online^
 ||defalamind.cyou^
 ||defateleva.cyou^
@@ -92038,7 +91827,6 @@
 ||dexi009.com^
 ||dexian.mobi^
 ||dexingroup.com^
-||dexingrv.com^
 ||dexinhr.com^
 ||dexinmobi.com^
 ||dexinquan.com^
@@ -92170,7 +91958,6 @@
 ||dfhpafpsdg.blogspot.com^
 ||dfhr.com^
 ||dfhrc.com^
-||dfi09181kq.com^
 ||dfij.yt^
 ||dfilucky-money.com^
 ||dfine.tech^
@@ -93711,7 +93498,6 @@
 ||diptyqueparis.mom^
 ||diqcdbc.com^
 ||diqikae.pro^
-||diqiuw.com^
 ||diqua.com^
 ||dir.google.com^
 ||dir001.com^
@@ -97880,10 +97666,8 @@
 ||drhikmetbasmak.com^
 ||dribbedstatablqqe.info^
 ||drice.cc^
-||driect-jajpviewd00.com^
 ||driect-sm1tbc.com^
 ||driect-sm1tbd.com^
-||driect-sntpjpviewa08.com^
 ||drieetsgouv.fr^
 ||driego.com^
 ||drifbecube.site^
@@ -98426,7 +98210,6 @@
 ||dswdwow.com^
 ||dswjcms.com^
 ||dswljt.com^
-||dswmt.com^
 ||dswql.com^
 ||dswx.cc^
 ||dswzxh.com^
@@ -100094,11 +99877,9 @@
 ||e1299.com^
 ||e12e.com^
 ||e13.whatsapp.net^
-||e13000d6f1019.beer^
 ||e13a.sh.1255875095.clb.myqcloud.com^
 ||e14.whatsapp.net^
 ||e15.whatsapp.net^
-||e151475d71020.beer^
 ||e16.whatsapp.net^
 ||e1617.com^
 ||e16209bf-dnsotls-ds.metric.gstatic.com^
@@ -100170,11 +99951,9 @@
 ||e4008.com^
 ||e4341e5u4d9q0aa826ca27y7e.vercel.app^
 ||e43bb71e710272.beer^
-||e44e4e8c11020.beer^
 ||e452a362210291.beer^
 ||e478.sh.1252367804.clb.myqcloud.com^
 ||e496.sh.1255848561.clb.myqcloud.com^
-||e4d0c1f1d1021.beer^
 ||e4e4c4415fd53198.com^
 ||e4ohcdslvjnr.com^
 ||e4x.podatkli.com^
@@ -100183,7 +99962,6 @@
 ||e5413.com^
 ||e584.sh.1255916673.clb.myqcloud.com^
 ||e5865f69dee0.xyz^
-||e58860e249bf56ad.com^
 ||e58b70798965b223.com^
 ||e58f8d5eb11032.beer^
 ||e5953e97.thalassotech.pl^
@@ -100207,7 +99985,6 @@
 ||e6858.dsce9.akamaiedge.net^
 ||e68c63fa-dnsotls-ds.metric.gstatic.com^
 ||e68cname.com^
-||e6ad1d0761021.beer^
 ||e6d5.sh.1255979319.clb.myqcloud.com^
 ||e6e4.sh.1255351269.clb.myqcloud.com^
 ||e6gps.com^
@@ -100247,7 +100024,6 @@
 ||e8.whatsapp.net^
 ||e8034d5ac1022.beer^
 ||e80bf18e978d9e37.com^
-||e80fb4ced1015.beer^
 ||e81fd4b49ca5e6a4.com^
 ||e829.sh.1253858465.clb.myqcloud.com^
 ||e836g.com^
@@ -100750,7 +100526,6 @@
 ||ebaymevip.com^
 ||ebayy.fr^
 ||ebbcb476210291.beer^
-||ebbf2f9101016.beer^
 ||ebc7.sh.1253257841.clb.myqcloud.com^
 ||ebchina.com^
 ||ebchinatech.com^
@@ -100899,7 +100674,6 @@
 ||ec4e54545d0e31fa.com^
 ||ec60.sh.1255347290.clb.myqcloud.com^
 ||ec8j.com^
-||ecac1cd921021.beer^
 ||ecadi.com^
 ||ecaidian.com^
 ||ecaihr.com^
@@ -102677,7 +102451,6 @@
 ||edu63.com^
 ||edu777.com^
 ||edu84.com^
-||edu84.net^
 ||edu88.com^
 ||eduaaf.com^
 ||eduaiplat.com^
@@ -102756,7 +102529,6 @@
 ||eduydt.com^
 ||eduyf.com^
 ||eduyo.com^
-||eduzb.com^
 ||eduzhai.net^
 ||eduzhixin.com^
 ||eduzs.net^
@@ -103277,7 +103049,6 @@
 ||eigiuebiu.sbs^
 ||eigpay.com^
 ||eigr.fr^
-||eihtfire.com^
 ||eiicn.com^
 ||eiisys.com^
 ||eiitjfieortoswfkdorr.site^
@@ -108607,7 +108378,6 @@
 ||expba.com^
 ||expdiy.com^
 ||expdns.net^
-||expec-tech.com^
 ||expectingsubassembttlies.info^
 ||expeddctednesseshierophantic.info^
 ||expedia.com^
@@ -109257,7 +109027,6 @@
 ||f1casino-fr.fr^
 ||f1casino.fr^
 ||f1casino1.fr^
-||f1d28bdd11019.beer^
 ||f1f300a2-04d5-46c2-8941-a633897651b9-00-1f67grlyb721v.spock.replit.dev^
 ||f1izsv.cfd^
 ||f1km5r.lat^
@@ -109296,7 +109065,6 @@
 ||f37jw.jm3qgk.qpon^
 ||f385.sh.1256094549.clb.myqcloud.com^
 ||f397350c0958109e.com^
-||f3ff28a3e1015.beer^
 ||f3fztv.webwave.dev^
 ||f3m8ht.lat^
 ||f3ma.com^
@@ -109320,11 +109088,9 @@
 ||f445.sh.1256097443.clb.myqcloud.com^
 ||f449.sh.1255737913.clb.myqcloud.com^
 ||f44b9bd1fe4e913f.com^
-||f49f8e0421015.beer^
 ||f4a107d7a11012.beer^
 ||f4b2ed8f711011.beer^
 ||f4b7xaxmah.com^
-||f4e2a302f1016.beer^
 ||f4isy2a.skin^
 ||f4loya.qpon^
 ||f4n8qx.lat^
@@ -109356,7 +109122,6 @@
 ||f632.sh.1253844908.clb.myqcloud.com^
 ||f64.or6ayz.cfd^
 ||f643d84d-dnsotls-ds.metric.gstatic.com^
-||f66a747451016.beer^
 ||f69a662cb11031.beer^
 ||f6c62f7ab11031.beer^
 ||f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net^
@@ -109369,12 +109134,10 @@
 ||f7.nz3zcd.qpon^
 ||f704204fa11021.beer^
 ||f70z4e.yl029.com^
-||f71f38e6a1015.beer^
 ||f72f.sh.1256127592.clb.myqcloud.com^
 ||f7444.s4odjf.sbs^
 ||f7777.net^
 ||f79ca805111881f6.com^
-||f79f9e5b71019.beer^
 ||f7aa9093710281.beer^
 ||f7brb-hfgq2-jvs-zmoyv-igi0.pages.dev^
 ||f7chinavip.com^
@@ -109388,7 +109151,6 @@
 ||f7r3jx.lat^
 ||f7xqto.shop^
 ||f7yuncdn.com^
-||f800909401015.beer^
 ||f831fb9ce11031.beer^
 ||f889.sh.1253475724.clb.myqcloud.com^
 ||f8b5.sh.1256140958.clb.myqcloud.com^
@@ -109418,7 +109180,6 @@
 ||fa-today.com^
 ||fa-tojoin.com^
 ||fa2da1f5b1024.beer^
-||fa80a608ec3e1ead.com^
 ||faalectional.info^
 ||faamwinstiek.net^
 ||faanw.com^
@@ -109666,7 +109427,6 @@
 ||facebookloginss.blogspot.com^
 ||facebookloginuser.blogspot.com^
 ||facebookmail-facebook.blogspot.com^
-||facebookol.com^
 ||facebookpage-noreplycenter.com^
 ||facebookpagemanagement.com^
 ||facebookpageslinkk.blogspot.com^
@@ -110944,7 +110704,6 @@
 ||favoris-prime.fr^
 ||favorisclients.fr^
 ||favorite-walrus-196809.framer.app^
-||favorites.ren^
 ||favornet.com^
 ||favosffederision.info^
 ||favosh.shop^
@@ -111047,7 +110806,6 @@
 ||fb32dc52302e6b9b.com^
 ||fb46cd5483f029aa.com^
 ||fb4708f8e80kdno4pyq-bigworkf1521512717-sonar.xz.fbcdn.net^
-||fb4bc82f71019.beer^
 ||fb50436e04f648465c9ba6a8892caa86.safeframe.googlesyndication.com^
 ||fb56.com^
 ||fb567e.earthgreen.com.co^
@@ -111187,7 +110945,6 @@
 ||fc0531.com^
 ||fc0633.com^
 ||fc0nlinebank.weebly.com^
-||fc224220480630b3.com^
 ||fc2617cf.4346164a315335d9f00d2c36.workers.dev^
 ||fc27coins.netlify.app^
 ||fc5858.com^
@@ -111306,7 +111063,6 @@
 ||fd-yy.com^
 ||fd-zj.com^
 ||fd009.vercel.app^
-||fd08a9f9a1016.beer^
 ||fd3sxn8w.eu^
 ||fd7c.com^
 ||fd8a7ef9-faae-4c3c-814a-376eb024783e.random.ns1.webproxy.idc-tv.tencent.com^
@@ -111396,7 +111152,6 @@
 ||fe.ec.api.amazonvideo.com^
 ||fe.preprod.api.amazonvideo.com^
 ||fe.primevideo.com^
-||fe15a959f1020.beer^
 ||fe232d4b510271.beer^
 ||fe2x.cc^
 ||fe30zv-33bql-wjwz-oc4fk-o1w.pages.dev^
@@ -112323,7 +112078,6 @@
 ||ffalcon.com^
 ||ffan.com^
 ||ffasp.com^
-||ffbc6bb121021.beer^
 ||ffbi1r.webwave.dev^
 ||ffbook.cc^
 ||ffboxe-prime.fr^
@@ -112341,7 +112095,6 @@
 ||ffd1c47f-747d-491a-a108-c6e67b8cc190.random.farm.bo.webproxy.idc.import.tencent.com^
 ||ffdffrfrfsrfr.com^
 ||ffe06ebc91024.beer^
-||ffe0be9f91019.beer^
 ||ffeeii.com^
 ||ffelz.com^
 ||ffepower.com^
@@ -113511,7 +113264,6 @@
 ||finereportless.info^
 ||finesa.zoels.cfd^
 ||fineset.com^
-||finesilver.store^
 ||finesqttudio.shop^
 ||finessa-co.click^
 ||finestgalaxy.beauty^
@@ -122847,7 +122599,6 @@
 ||g8oamazo.fr^
 ||g8rxh.expresd0staw.cfd^
 ||g8zymb.top^
-||g983.com^
 ||g9b6xt.lat^
 ||g9china.com^
 ||g9i.podanow.com^
@@ -124649,7 +124400,6 @@
 ||gdzhimou.com^
 ||gdzhonghua.com^
 ||gdzhongpeng.com^
-||gdzhongshan.com^
 ||gdziejestmojapaczka.com^
 ||gdzieswkorytarzu.top^
 ||gdzjdl.com^
@@ -126326,7 +126076,6 @@
 ||git.code.tencent.com^
 ||git.dev.tencent.com^
 ||gitandodec.autos^
-||gitcafe.ink^
 ||gitclone.com^
 ||gitcode.com^
 ||gitcode.host^
@@ -129422,7 +129171,6 @@
 ||goujianwu.com^
 ||goukk.com^
 ||goukuai.com^
-||goulegu.com^
 ||goulew.com^
 ||goulong.com^
 ||goumee.com^
@@ -130712,7 +130460,6 @@
 ||greywood-finviora-system.com^
 ||grfdc.com^
 ||grfexpo.com^
-||grfyw.com^
 ||grg2013.com^
 ||grgaoren.com^
 ||grgbanking.com^
@@ -131414,7 +131161,6 @@
 ||gsrp.pl^
 ||gsruie4p2.shop^
 ||gss56.com^
-||gssag.com^
 ||gssbh.com^
 ||gssey.com^
 ||gssjyxrmyy.com^
@@ -133292,7 +133038,6 @@
 ||gxhqjy.com^
 ||gxhqtest.com^
 ||gxhqxmgl.com^
-||gxhrcjz.com^
 ||gxhrkj.com^
 ||gxhs.site^
 ||gxhsba.com^
@@ -133613,7 +133358,6 @@
 ||gxlihua.com^
 ||gxlimu.com^
 ||gxliri.com^
-||gxlituo.com^
 ||gxliuhang.com^
 ||gxliuqiaojidian.com^
 ||gxlixin.com^
@@ -134832,7 +134576,6 @@
 ||gzfi.com^
 ||gzfin.com^
 ||gzfirst.com^
-||gzfisher.com^
 ||gzfk01.com^
 ||gzfodak.com^
 ||gzforge.com^
@@ -136391,7 +136134,6 @@
 ||hantongrc.com^
 ||hantongsteel.com^
 ||hantsculture.facebook.com^
-||hanvitools.com^
 ||hanvon.com^
 ||hanvonmfrs.com^
 ||hanvontouch.com^
@@ -136486,7 +136228,6 @@
 ||haoche1.com^
 ||haoche51.com^
 ||haocheedai.com^
-||haochehui.com^
 ||haochengda.net^
 ||haochi123.com^
 ||haochijixie.com^
@@ -136502,7 +136243,6 @@
 ||haodewap.com^
 ||haodewap.net^
 ||haodf.com^
-||haodf.org^
 ||haodiannao.com^
 ||haodiany.com^
 ||haodiaoyu.com^
@@ -136797,7 +136537,6 @@
 ||happy-ti.com^
 ||happy-vpn.com^
 ||happy-whatsapp.com^
-||happy88.com^
 ||happyacid.cyou^
 ||happycleanplus.com^
 ||happycodeboy.com^
@@ -137353,7 +137092,6 @@
 ||hbbwg.net^
 ||hbbxpx.com^
 ||hbbyb.com^
-||hbbzyys.org^
 ||hbca110.com^
 ||hbcbly.com^
 ||hbccp.org^
@@ -137397,7 +137135,6 @@
 ||hbdongwang.com^
 ||hbdschem.com^
 ||hbdtjqj.com^
-||hbdx-kdyy.com^
 ||hbdzcg.com^
 ||hbdzky.com^
 ||hbdzxx.com^
@@ -139849,7 +139586,6 @@
 ||hibogroup.com^
 ||hibor.net^
 ||hibor.org^
-||hibt.net^
 ||hibtc.org^
 ||hibuzz.net^
 ||hiby.com^
@@ -140116,7 +139852,6 @@
 ||hiliwi.com^
 ||hillbergandberk.m.facebook.com^
 ||hillcrestdeals.shop^
-||hilllei.com^
 ||hillopreex.cyou^
 ||hillshot.info^
 ||hillsideandco.eu^
@@ -142915,7 +142650,6 @@
 ||hotshot-barn.com^
 ||hotsitefidelidade.blogspot.com^
 ||hotslot.fr^
-||hotsnow.club^
 ||hotsnow.org^
 ||hotsoonapp.com^
 ||hotsoonapp.net^
@@ -142941,7 +142675,6 @@
 ||hotxf.com^
 ||hou5.com^
 ||houcaller.com^
-||houdao.net^
 ||houdask.com^
 ||houdegame.com^
 ||houdewl.com^
@@ -144909,7 +144642,6 @@
 ||hujioalek.shop^
 ||hujyhia.com^
 ||huke88.com^
-||hukeck.com^
 ||hukemispacc.rest^
 ||hukiwuysy.autos^
 ||hukopwerktiko24.today^
@@ -145054,7 +144786,6 @@
 ||hunsh.net^
 ||hunsha.work^
 ||huntainges.cyou^
-||huntchance.com^
 ||huntcook.top^
 ||hunteitservices.com^
 ||hunter-boots-france.fr^
@@ -145590,6 +145321,7 @@
 ||hxlhjt.com^
 ||hxljjt.com^
 ||hxlot.com^
+||hxlove22s.cc^
 ||hxlsw.com^
 ||hxltcj.com^
 ||hxlxx.com^
@@ -157581,7 +157313,6 @@
 ||jewellworld.com^
 ||jewelly-jeans.fr^
 ||jewelry-at.shop^
-||jewelryseeds.com^
 ||jewelryshanghai.com^
 ||jewishhomepage.com^
 ||jexarilovena.com^
@@ -157681,7 +157412,6 @@
 ||jgcjjt.com^
 ||jgczq.com^
 ||jgdrhy.com^
-||jgdun.com^
 ||jgdx.com^
 ||jgew3d.com^
 ||jgfarm.com^
@@ -157708,7 +157438,6 @@
 ||jguniformes.com^
 ||jguo.com^
 ||jgutah.com^
-||jgxzy.com^
 ||jgy.com^
 ||jgyljt.com^
 ||jgyun.net^
@@ -158007,7 +157736,6 @@
 ||jiangongw.com^
 ||jiangpaipinpai.com^
 ||jiangpinjiangxin.com^
-||jiangqiaomuye.com^
 ||jiangque.com^
 ||jiangruyi.com^
 ||jiangshankeji.com^
@@ -158256,7 +157984,6 @@
 ||jiaxuejiyin.com^
 ||jiaxun.com^
 ||jiay.press^
-||jiayans.net^
 ||jiayaw.com^
 ||jiayi56.com^
 ||jiayin618.com^
@@ -159395,7 +159122,6 @@
 ||jixiehonghong.com^
 ||jixiejiaoyu.com^
 ||jixiemuye.com^
-||jixiew360.com^
 ||jixiewz.com^
 ||jixinbbd.com^
 ||jixinet.com^
@@ -159809,7 +159535,6 @@
 ||jlxc2001.com^
 ||jlxdk.net^
 ||jlylwater.com^
-||jlyr2.com^
 ||jlysgjzx.com^
 ||jlystatic.com^
 ||jlytzk.com^
@@ -160752,13 +160477,11 @@
 ||jpwb.net^
 ||jpwind.com^
 ||jpwky.com^
-||jpwxapp.com^
 ||jpxm.com^
 ||jpxue.com^
 ||jpya1r.webwave.dev^
 ||jpyoo.com^
 ||jpzx.net^
-||jpzy01.com^
 ||jq.p6ihks.casa^
 ||jq.qq.com^
 ||jq2020.net^
@@ -160860,7 +160583,6 @@
 ||jrtewnbh.com^
 ||jrtgroup.net^
 ||jrvoeiwnoqncwe.com^
-||jrwenku.com^
 ||jrxzj.com^
 ||jry0.com^
 ||jryccm.com^
@@ -160989,7 +160711,6 @@
 ||jsddz.net^
 ||jsdebang.com^
 ||jsdehui.com^
-||jsdesign1.com^
 ||jsdesoft.com^
 ||jsdfchkdsds.weebly.com^
 ||jsdfisodksodpsdksfp.site^
@@ -162183,7 +161904,6 @@
 ||juqi.com^
 ||juqianwh.com^
 ||juqiao1913.com^
-||juqibike.com^
 ||juqingla.com^
 ||juqk.net^
 ||juquanquanapp.com^
@@ -165915,7 +165635,6 @@
 ||kingcloud.com^
 ||kingcloudad.com^
 ||kingclouddns.com^
-||kingcms.com^
 ||kingconsultingllc.com^
 ||kingdaychina.com^
 ||kingdee-soft.com^
@@ -166412,7 +166131,6 @@
 ||kk-z.xyz^
 ||kk1.vip^
 ||kk169.com^
-||kk18.com^
 ||kk30.com^
 ||kk30.net^
 ||kk3g.net^
@@ -167734,7 +167452,6 @@
 ||kpt5.com^
 ||kptour.com^
 ||kptts.com^
-||kpwcmb.com^
 ||kpyy239.com^
 ||kpyy258.com^
 ||kpzip.com^
@@ -168401,6 +168118,7 @@
 ||ktweb.gtimg.com^
 ||ktxuexi.com^
 ||ktyunlianjie.com^
+||ktzgame.com^
 ||ku-tr.facebook.com^
 ||ku-tr.messenger.com^
 ||ku25.com^
@@ -169497,7 +169215,6 @@
 ||l2cenfdp7flu0nwy17tg.s3.eu-west-1.amazonaws.com^
 ||l2cn.com^
 ||l2grz.m5olhw.casa^
-||l2h.site^
 ||l2nj1g.weblie.pl^
 ||l2p6q4d.lat^
 ||l2ptsc4.page.link^
@@ -175336,7 +175053,6 @@
 ||linussiao.wixstudio.com^
 ||linux-code.com^
 ||linux-ren.org^
-||linux.zone^
 ||linux178.com^
 ||linux265.com^
 ||linuxba.com^
@@ -175857,7 +175573,6 @@
 ||liuzhousteel.com^
 ||liuzhuni.com^
 ||liuziyoudu.com^
-||liuzy88.com^
 ||liv-express-colis.fr^
 ||livablenessexxs.info^
 ||livanauto.com^
@@ -179562,7 +179277,6 @@
 ||luciabid.com^
 ||luciacaminos.fr^
 ||luciansays.com^
-||luciaz.me^
 ||lucid-flame.com^
 ||lucid-moss.com^
 ||lucid-pebble.com^
@@ -180074,7 +179788,6 @@
 ||lulu-lemonfrance.fr^
 ||lulubei.com^
 ||lulufind.com^
-||lulugda.icu^
 ||luluhong.com^
 ||luluju.com^
 ||lululemon-france.fr^
@@ -181394,7 +181107,6 @@
 ||lzdfxj.com^
 ||lzdjjd.com^
 ||lzdql.com^
-||lzdsqcysgs.com^
 ||lzdsyy.com^
 ||lzdxb888.com^
 ||lzdxdyyy.com^
@@ -183067,7 +182779,6 @@
 ||mailgenerali.fr^
 ||mailgenes.linoraspasedrecole.com^
 ||mailhelpdesk.github.io^
-||mailianou.com^
 ||mailicloud.sviluppo.host^
 ||mailiku.com^
 ||mailing-notif-prime.fr^
@@ -183598,7 +183309,6 @@
 ||mambasms.com^
 ||mambike.com^
 ||mamcharge.com^
-||mamecn.com^
 ||mamessageriesfr.fr^
 ||mamforme.live^
 ||mamicode.com^
@@ -185353,7 +185063,6 @@
 ||mbatrip.com^
 ||mbazl.com^
 ||mbazsw.com^
-||mbb0760.com^
 ||mbb180.com^
 ||mbbotoristbeesting.info^
 ||mbbrowser.com^
@@ -189251,7 +188960,6 @@
 ||mingyuanfund.com^
 ||mingyuanmuye.com^
 ||mingyuanyun.com^
-||mingyueqingfengshe.com^
 ||mingyuhan.net^
 ||mingzhi-tech.com^
 ||mingzhucable.com^
@@ -205255,7 +204963,6 @@
 ||munling.com^
 ||munndrameristematic.info^
 ||munue.com^
-||mupao.com^
 ||mupceet.com^
 ||muppets.imdb.com^
 ||muptool.com^
@@ -206951,7 +206658,6 @@
 ||n11premium.com^
 ||n122jzr3vo.com^
 ||n12345.com^
-||n13.club^
 ||n13d.dev^
 ||n14293.franceconnect-direct.com^
 ||n17.messenger.com^
@@ -207229,7 +206935,6 @@
 ||naideceas.com^
 ||naids.com^
 ||naifei.pro^
-||naifeistation.com^
 ||naifenzhiku.com^
 ||naijasitemarket.com^
 ||naijian.net^
@@ -207356,7 +207061,6 @@
 ||namansaopodpsod.site^
 ||namdakjdsioperasad.site^
 ||name-desktop.wixstudio.com^
-||name2012.com^
 ||name321.net^
 ||nameasbingokrosks.site^
 ||namebay.surf^
@@ -207874,7 +207578,6 @@
 ||naturehomefind.com^
 ||naturelsarap.com^
 ||naturephotographie.fr^
-||naturesvariety-china.com^
 ||naturetrailzone.com^
 ||naturhouse.sk^
 ||naturkoy.site^
@@ -208348,7 +208051,6 @@
 ||ncsjhf.com^
 ||ncsxy.com^
 ||ncsyco.com^
-||nctry.com^
 ||nctvcloud.com^
 ||nctzsj.com^
 ||ncu.me^
@@ -210037,7 +209739,6 @@
 ||newamigo.net^
 ||newamstar.com^
 ||newansha.com^
-||newapi.com^
 ||newapp-27686.firebaseio.com^
 ||newapp-ldgerlive.wixstudio.com^
 ||newapps-ldgerlive.wixstudio.com^
@@ -212032,7 +211733,6 @@
 ||njjifei.com^
 ||njjknkyy.com^
 ||njjn.com^
-||njjnwzyy.com^
 ||njjnzc.com^
 ||njjrc.com^
 ||njjrkj.com^
@@ -216312,7 +216012,6 @@
 ||oahelp.com^
 ||oahelp.net^
 ||oahumapp.com^
-||oai.sb^
 ||oaikcj823012-340.lat^
 ||oaimg.b.qq.com^
 ||oait03.lostudio.org^
@@ -228162,7 +227861,6 @@
 ||pcn-noticyw.shop^
 ||pcoic.com^
 ||pconq.otter-sec.com^
-||pcoof.com^
 ||pcoonline-ro.shop^
 ||pcosally.com^
 ||pcosmiles.com^
@@ -228282,7 +227980,6 @@
 ||pdty123.com^
 ||pduoduo.vip^
 ||pdvc.com^
-||pdvisa.com^
 ||pdwuf38hz.shop^
 ||pdx-iad-01.us-east-1.beta.sev.amazonvideo.com^
 ||pdx-iad-01.us-east-1.gamma.sev.amazonvideo.com^
@@ -228468,7 +228165,6 @@
 ||pebblyarra.quest^
 ||pebblyfasc.createtheearthmuseum.com^
 ||pebed.dm-event.net^#Dailymotion^-^Tracker^
-||pebellows.com^
 ||peblle.vip^
 ||peblos.informacja-factury.sbs^
 ||pec-auth-f42b4.firebaseapp.com^
@@ -231053,7 +230749,6 @@
 ||pikvernada.com^
 ||pil-re.fit^
 ||pil0txia.com^
-||pilaipiwang.com^
 ||pilakacloud.online^
 ||pilarfinanzasusalikelyimpersonationbranding.com^
 ||pilarfinrevoux.net^
@@ -234203,7 +233898,6 @@
 ||pmway.com^
 ||pmx-nanho.com^
 ||pmxprecision.com^
-||pmyes.com^
 ||pn-oferta746212.sbs^
 ||pn1age.casa^
 ||pn1waq.com^
@@ -241669,7 +241363,6 @@
 ||purimagbead.com^
 ||puritanismpps.info^
 ||puritpersu.cyou^
-||puritysilvers.store^
 ||purliquidheim.live^
 ||purliquidheim.pro^
 ||purnaki.shop^
@@ -242762,7 +242455,6 @@
 ||qesuqiy.pro^
 ||qesuqye.pro^
 ||qeteshcn.com^
-||qeto.com^
 ||qetoken.com^
 ||qetvo61n.digital^
 ||qeval.petconnectnetwork.com^
@@ -243049,7 +242741,6 @@
 ||qiangshengyanhua.com^
 ||qiangumeitan.com^
 ||qiangungun.com^
-||qianguyihao.com^
 ||qiangyingjituan.com^
 ||qiangyinli.com^
 ||qianhai12315.com^
@@ -243269,7 +242960,6 @@
 ||qidongcha.com^
 ||qidongnews.com^
 ||qidongyx.com^
-||qidou.com^
 ||qidulp.com^
 ||qiduo.net^
 ||qie.tv^
@@ -245370,7 +245060,6 @@
 ||qubixaitrade.com^
 ||qubixy.top^
 ||qubizubrvault.site^
-||qucai.com^
 ||qucanzhan.com^
 ||quce001.com^
 ||quceaiqing.com^
@@ -246210,7 +245899,6 @@
 ||quzavro.shop^
 ||quzhuanxiang.com^
 ||quzhubao.com^
-||quzwx123.org^
 ||quzz88.com^
 ||quzzgames.com^
 ||qv.r9ucep.top^
@@ -251974,7 +251662,6 @@
 ||rg3o72.preibisch.pl^
 ||rg950.com^
 ||rga158.webwave.dev^
-||rgaxobcs.com^
 ||rgble.com^
 ||rggeservednessesdishware.info^
 ||rghdge.2jeui3.pics^
@@ -253249,10 +252936,8 @@
 ||rlgyoz.tresc47.surf^
 ||rlhair.com^
 ||rljta.com^
-||rljydt.com^
 ||rlkj.com^
 ||rlkj.net^
-||rlkrmx.com^
 ||rllling.shop^
 ||rlmeijia.com^
 ||rlnk.net^
@@ -254839,7 +254524,6 @@
 ||rrxiu.cc^
 ||rrxiu.me^
 ||rrxiu.net^
-||rrxiuh5.cc^
 ||rrxr.weebly.com^
 ||rrzu.com^
 ||rrzuji.com^
@@ -255593,7 +255277,6 @@
 ||rushihu.com^
 ||rushiva.shop^
 ||rushivr.com^
-||rushiwowen.org^
 ||rushmail.com^
 ||rushmere.eu^
 ||rushui.net^
@@ -259821,7 +259504,6 @@
 ||sdepi.com^
 ||sdererimpi.cyou^
 ||sderp.com^
-||sdewj.com^
 ||sdexiosospsoaodpo.site^
 ||sdexthover.site^
 ||sdey.net^
@@ -265552,7 +265234,6 @@
 ||shenta.net^
 ||shentongchina.com^
 ||shentongdata.com^
-||shentongkuaidi.com^
 ||shentu750.com^
 ||shenweimicro.com^
 ||shenweisupport.com^
@@ -265887,7 +265568,6 @@
 ||shijuenian.com^
 ||shikaka-fr.fr^
 ||shikangsi.com^
-||shikaricharters.com^
 ||shikee.com^
 ||shikelang.cc^
 ||shikhmohamad.com^
@@ -265961,7 +265641,6 @@
 ||shinescan.tech^
 ||shineshowh2o.com^
 ||shinespor.com^
-||shineu.com^
 ||shineway.com^
 ||shinewaytech.com^
 ||shinewing.com^
@@ -266091,7 +265770,6 @@
 ||shiseidoeu.shop^
 ||shishacharcoal.net^
 ||shishangd.com^
-||shishangfengyun.com^
 ||shishifanyi.com^
 ||shishijia.com^
 ||shishike.com^
@@ -267719,7 +267397,6 @@
 ||sign-in-to-xfinity-876.weebly.com^
 ||sign-in-to-xfinitycom.weebly.com^
 ||sign-labanquepostale.fr^
-||sign-say.com^
 ||sign-workplace.skin^
 ||sign.d.gtimg.com^
 ||sign.up.messenger.com^
@@ -268007,7 +267684,6 @@
 ||siluecai.com^
 ||siluke.cc^
 ||siluke.info^
-||silukex.com^
 ||silukuo.com^
 ||siluwu.com^
 ||silvaintoz.cyou^
@@ -268281,7 +267957,6 @@
 ||simtransfer.goog^
 ||simu-tech.com^
 ||simu800.com^
-||simul-china.com^
 ||simulador-credito-auto-bbva.ideeo.mx^
 ||simulador.bradescosaudeempresas.com^
 ||simulateur-finances-publiques.fr^
@@ -276020,7 +275695,6 @@
 ||srplpal.fr^
 ||srpoint.store^
 ||srqxx.com^
-||srrcw.com^
 ||srrsh.com^
 ||srrtvu.com^
 ||srschool.net^
@@ -281757,7 +281431,6 @@
 ||suzerin.com^
 ||suzhongyy.com^
 ||suzhou-marathon.com^
-||suzhou-otsuka.com^
 ||suzhouballettheatre.com^
 ||suzhoubank.com^
 ||suzhoubeili.com^
@@ -284225,7 +283898,6 @@
 ||szyuda88.com^
 ||szyundingschool.com^
 ||szyuxin.com^
-||szyweibo.com^
 ||szyxue.com^
 ||szyxwdz.com^
 ||szyxwkj.com^
@@ -284831,7 +284503,6 @@
 ||taisrivog.cyou^
 ||taisuyun.com^
 ||taitomarkbittrade.com^
-||taitonglj.com^
 ||taiwandao.tw^
 ||taiwanwii.com^
 ||taiweiholding.com^
@@ -293841,7 +293512,6 @@
 ||tocketmaster.fr^
 ||tocktickets.com^
 ||tocomtech.com^
-||tocosc.com^
 ||tocreating.com^
 ||tocyjio.com^
 ||todarinvet.rest^
@@ -293904,7 +293574,6 @@
 ||todsparis.fr^
 ||todspascher.fr^
 ||todsreplique.fr^
-||todust.cc^
 ||toeagreci.cyou^
 ||toec-gdgs.com^
 ||toec-iot.com^
@@ -299359,7 +299028,6 @@
 ||typogarynio.com^
 ||typora.net^
 ||typrotech.com^
-||typstify.com^
 ||tyqen.shop^
 ||tyqian.com^
 ||tyra-ekove.com^
@@ -299389,7 +299057,6 @@
 ||tyuriurowrioeurtoei.site^
 ||tyuriworiosdiwroriwrui.site^
 ||tyurytjkfdshjkfjkn.com^
-||tyust.net^
 ||tyuyan.com^
 ||tyuyan.net^
 ||tyvanassiaodpsdoai.site^
@@ -300237,7 +299904,6 @@
 ||uhomesplus.com^
 ||uhouzz.com^
 ||uhp.cc^
-||uhs68.com^
 ||uhtrends.se^
 ||uhu1fecb.s3.amazonaws.com^
 ||uhu506bb.s3.amazonaws.com^
@@ -303340,7 +303006,6 @@
 ||uuzz.net^
 ||uuzzw.com^
 ||uv-cl.weebly.com^
-||uv25h.com^
 ||uv7omk.top^
 ||uv7zri.yl029.com^
 ||uv9l56g4e9.com^
@@ -304792,7 +304457,6 @@
 ||vcnews.com^
 ||vcomic.com^
 ||vcommission.com^#vCommission^-^Tracker^
-||vcomputes.com^
 ||vconew.com^
 ||vconew3.com^
 ||vcooline.com^
@@ -309897,8 +309561,6 @@
 ||visitsz.com^
 ||visitwop.lovable.app^
 ||viskem.com^
-||vismaasale.shop^
-||vismadeal.shop^
 ||visofondavia.com^
 ||visokakapitina.net^
 ||visorperu.com^
@@ -315720,7 +315382,6 @@
 ||wellnexis-digital.pages.dev^
 ||wellnexis.digital^
 ||wellnj.com^
-||wellnode.com^
 ||wellongmedical.com^
 ||wellpie.com^
 ||wellplas.com^
@@ -315886,7 +315547,6 @@
 ||wenku8.cc^
 ||wenku8.com^
 ||wenku8.net^
-||wenkub.com^
 ||wenkudao.com^
 ||wenkudaquan.com^
 ||wenkunet.com^
@@ -316525,7 +316185,6 @@
 ||wgmf.com^
 ||wgmotor.com^
 ||wgnds.com^
-||wgoic.com^
 ||wgos.com^
 ||wgplayer.com^#WG^Player^-^Advertising^
 ||wgppt.com^
@@ -317397,7 +317056,6 @@
 ||wikimbti.com^
 ||wikipedia.re^
 ||wikipedia.wf^
-||wikipediaxx.icu^
 ||wikipeida.fr^
 ||wikiquran-b3f71.firebaseio.com^
 ||wilainaiasteamworkspace.myclickfunnels.com^
@@ -319974,7 +319632,6 @@
 ||wpadmngr.com^#Unknown^-^Advertising^
 ||wpan123.com^
 ||wpbattery.com^
-||wpcio.com^
 ||wpcraftco.com^
 ||wpcsh.com^
 ||wpdaxue.com^
@@ -320056,7 +319713,6 @@
 ||wpxap.com^
 ||wpxyg.com^
 ||wpyou.com^
-||wpzhiku.com^
 ||wq-in-f188.1e100.net^
 ||wq4bmoaedv.com^
 ||wq96f9.com^
@@ -320073,7 +319729,6 @@
 ||wqgxjjiiersrc.wixsite.com^
 ||wqhome.com^
 ||wqhunqing.com^
-||wqian.net^
 ||wqiis.com^
 ||wqingjian.com^
 ||wqipontear.lovable.app^
@@ -327066,7 +326721,6 @@
 ||xdfwk.com^
 ||xdgalaxy.com^
 ||xdgj.com^
-||xdgkwl.com^
 ||xdglt.com^
 ||xdgogogo.com^
 ||xdhcn.com^
@@ -327701,7 +327355,6 @@
 ||xiabor.com^
 ||xiabttjkaj.p5yjlf31w6hve12yktuwmenkyz07nk.lat^
 ||xiabu.com^
-||xiacai.com^
 ||xiachuan.net^
 ||xiachufang.com^
 ||xiadaolieche.com^
@@ -328151,7 +327804,6 @@
 ||xiaoluyy.com^
 ||xiaolvji.com^
 ||xiaolxiao.com^
-||xiaoma.net^
 ||xiaoma.wang^
 ||xiaomachuxing.com^
 ||xiaomagaojian.com^
@@ -328285,8 +327937,6 @@
 ||xiaot.com^
 ||xiaota.com^
 ||xiaotangketang.com^
-||xiaote.com^
-||xiaote.net^
 ||xiaotee.com^
 ||xiaotengyouxi.com^
 ||xiaotiancai.com^
@@ -328391,7 +328041,6 @@
 ||xiaoyuxitong.com^
 ||xiaoyuzhoufm.com^
 ||xiaoz.me^
-||xiaozhang365.com^
 ||xiaozhao365.com^
 ||xiaozhen.com^
 ||xiaozhenpaotui.com^
@@ -328702,7 +328351,6 @@
 ||xindemarinenews.com^
 ||xindexuexi.com^
 ||xindianti.com^
-||xindingdianxsw.com^
 ||xindingwealth.com^
 ||xindns.com^
 ||xindong.com^
@@ -328949,7 +328597,6 @@
 ||xiniushu.com^
 ||xiniuyun.com^
 ||xiniuz.com^
-||xinjiadiy.com^
 ||xinjianggames.com^
 ||xinjianggou.com^
 ||xinjiashangtou.com^
@@ -329576,7 +329223,6 @@
 ||xjy020.com^
 ||xjybb.com^
 ||xjygaofu.com^
-||xjyrcw.com^
 ||xjysk.com^
 ||xjytjt.com^
 ||xjz.com^
@@ -329946,7 +329592,6 @@
 ||xn--48s50dpwnbh95ah07i.com^
 ||xn--49s82db1ewy7adrq1ik.xn--3ds443g^
 ||xn--4gq0d69oba129b9wd94ey8bs83ji3c3q7hoka.org^
-||xn--4gq1d760bszbgdv5p12rhq5bx2yc.net^
 ||xn--4lwr21d.com^
 ||xn--4qwqc04pn0lg9h.com^
 ||xn--4rrx74a.xn--vuq861b^
@@ -331149,7 +330794,6 @@
 ||xn--vhq899b1shv32ayohznc.xn--3ds443g^
 ||xn--vhqd346fv3m7ggdt2byua.xn--3ds443g^
 ||xn--vhqqbz2p62hm92e04p.com^
-||xn--vhqr42drhf5k7b.com^
 ||xn--vhqu1kbz3bnbi.com^
 ||xn--viasant-hya.fr^
 ||xn--vidotrom-d1a.weebly.com^
@@ -331567,7 +331211,6 @@
 ||xsdoudou.com^
 ||xsdwk.com^
 ||xsdwlk.weebly.com^
-||xsee.cc^
 ||xsesc.com^
 ||xsfad.com^
 ||xsfaya.com^
@@ -332585,7 +332228,6 @@
 ||xy-mp.com^
 ||xy-technology.com^
 ||xy.com^
-||xy007.net^
 ||xy120.net^
 ||xy1212.com^
 ||xy1758.com^
@@ -333334,7 +332976,6 @@
 ||yanfeng.com^
 ||yanfengauto.com^
 ||yanfukun.com^
-||yang99.fun^
 ||yangben001.com^
 ||yangbentong.com^
 ||yangbinlvshi.com^
@@ -333921,7 +333562,6 @@
 ||ycku.com^
 ||ycleaning.com^
 ||yclh6.com^
-||ycloud.online^
 ||ycloudlb.com^
 ||ycloudvip.com^
 ||ycloventari.xyz^
@@ -334480,7 +334120,6 @@
 ||yfvb.com^
 ||yfw66.cn.livepush.myqcloud.com^
 ||yfway.com^
-||yfwnm.com^
 ||yfwpt.vip^
 ||yfycrc.com^
 ||yfycyboil.com^
@@ -335737,7 +335376,6 @@
 ||ykhongye.com^
 ||ykimg.com^
 ||ykinvestment.com^
-||ykjljdcss.com^
 ||ykjtb.com^
 ||ykkpict.com^
 ||ykkpict.vip^
@@ -336950,7 +336588,6 @@
 ||youxituoluo.com^
 ||youxiuhr.com^
 ||youxiuhui.com^
-||youxiwugui.com^
 ||youxixinzhi.com^
 ||youxixj.com^
 ||youxizhan.com^
@@ -337031,7 +336668,6 @@
 ||yovisun.com^
 ||yovocloud.com^
 ||yovole.com^
-||yovyuan.com^
 ||yowdendrift-thrum.shop^
 ||yowooa.com^
 ||yoxiha.com^
@@ -337547,7 +337183,6 @@
 ||yuaiweiwu.com^
 ||yuajeae.shop^
 ||yuan-boomsoftware.com^
-||yuanabsorber.com^
 ||yuanbaobaoxian.com^
 ||yuanbaokc.com^
 ||yuanbaotaoche.com^
@@ -339731,7 +339366,6 @@
 ||zahrtharwaq.net^
 ||zahtb.com^
 ||zahui.fan^
-||zahuishi.com^
 ||zahuod.com^
 ||zahuoji.com^
 ||zai-art.com^
@@ -340227,7 +339861,6 @@
 ||zattc.com^
 ||zatyczkiloopearplugs.com^
 ||zaudi.toddetzel.com^
-||zauoehg.com^
 ||zauren-flux.org^
 ||zaurenflux.com^
 ||zauriqpylonai-app.com^
@@ -340502,7 +340135,6 @@
 ||zctpt.com^
 ||zctt.com^
 ||zctx.com^
-||zctzgr.com^
 ||zcu-cz-webss-srv.weebly.com^
 ||zcw6-0pl-8keetw-813mpj-fk9.pages.dev^
 ||zcwin.com^
@@ -342354,7 +341986,6 @@
 ||zhhaitai.com^
 ||zhheo.com^
 ||zhhfedu.com^
-||zhhfjt.com^
 ||zhhlaw.com^
 ||zhhlogistics.com^
 ||zhhrm.com^
@@ -342824,7 +342455,6 @@
 ||zhongguociwang.com^
 ||zhongguofeng.com^
 ||zhongguogouliang.com^
-||zhongguoguwan.com^
 ||zhongguohao123.com^
 ||zhongguohuo.com^
 ||zhongguolaoqu.com^
@@ -343262,7 +342892,6 @@
 ||zhulogic.com^
 ||zhulong.com^
 ||zhulong360.com^
-||zhulongjiang.com^
 ||zhulouren.com^
 ||zhulu86.com^
 ||zhulubox.com^
@@ -345511,7 +345140,6 @@
 ||zqgreen.com^
 ||zqhuahui.com^
 ||zqids.com^
-||zqin758.xyz^
 ||zqji9wtjsh.com^
 ||zqjiese.com^
 ||zqjinneng.com^
@@ -345825,7 +345453,6 @@
 ||ztemap.com^
 ||ztems.com^
 ||ztestin.com^
-||ztfans.com^
 ||ztfsec.com^
 ||ztfssc.com^
 ||ztgame.com^
@@ -345923,7 +345550,6 @@
 ||zuanshi.com^
 ||zuanshitoupiao.com^
 ||zubazeb.dyn.home-webserver.de^
-||zubei.co^
 ||zuber.im^
 ||zubrelo.net^
 ||zubrkapitoven.net^
@@ -346674,7 +346300,6 @@
 ||zymkshop.com^
 ||zymolapple.store^
 ||zymphorexzippy.com^
-||zyms8.me^
 ||zynaxqen.com^
 ||zynaxqen.net^
 ||zyncore-app.com^
@@ -347093,7 +346718,6 @@
 ||zzzglby.com^
 ||zzzhtc.com^
 ||zzzj.com^
-||zzzla.com^
 ||zzzlsh.com^
 ||zzzmap.com^
 ||zzznkq.com^
