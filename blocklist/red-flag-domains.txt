@@ -342,6 +342,22 @@
 0.0.0.0 711casino1.fr
 0.0.0.0 711online.fr
 0.0.0.0 73live.fr
+0.0.0.0 75002paris.fr
+0.0.0.0 75003paris.fr
+0.0.0.0 75004paris.fr
+0.0.0.0 75006paris.fr
+0.0.0.0 75009paris.fr
+0.0.0.0 75010paris.fr
+0.0.0.0 75011paris.fr
+0.0.0.0 75012paris.fr
+0.0.0.0 75013paris.fr
+0.0.0.0 75014paris.fr
+0.0.0.0 75015paris.fr
+0.0.0.0 75016paris.fr
+0.0.0.0 75017paris.fr
+0.0.0.0 75018paris.fr
+0.0.0.0 75019paris.fr
+0.0.0.0 75020paris.fr
 0.0.0.0 75esession.fr
 0.0.0.0 76live.fr
 0.0.0.0 77-casino.fr
@@ -9288,6 +9304,7 @@
 0.0.0.0 caz1nozerr.fr
 0.0.0.0 cazeus-casino-fr.fr
 0.0.0.0 cazeus-casino-france.fr
+0.0.0.0 cazeus-casino.fr
 0.0.0.0 cazeus-casino1.fr
 0.0.0.0 cazeus-com.fr
 0.0.0.0 cazeus-en-ligne.fr
@@ -16911,6 +16928,7 @@
 0.0.0.0 fr-legiano-casino.fr
 0.0.0.0 fr-legiano.fr
 0.0.0.0 fr-legianocasino.fr
+0.0.0.0 fr-legraindeble.fr
 0.0.0.0 fr-lidl.fr
 0.0.0.0 fr-limbo.fr
 0.0.0.0 fr-linky.fr
@@ -17582,6 +17600,8 @@
 0.0.0.0 galactixcasino.fr
 0.0.0.0 galaspin.fr
 0.0.0.0 galaxys-8.fr
+0.0.0.0 galaxyspins.fr
+0.0.0.0 galaxyspins3.fr
 0.0.0.0 galayousales.fr
 0.0.0.0 galbini.fr
 0.0.0.0 galleoncasino.fr
@@ -21695,6 +21715,7 @@
 0.0.0.0 komo-bet.fr
 0.0.0.0 komobet-casino.fr
 0.0.0.0 komobet.fr
+0.0.0.0 komobetcasino.fr
 0.0.0.0 komonofr.fr
 0.0.0.0 kone-sneakers.fr
 0.0.0.0 kong-casino.fr
@@ -23332,6 +23353,7 @@
 0.0.0.0 localiser-map.fr
 0.0.0.0 localiser-maps.fr
 0.0.0.0 localiser-perdu.fr
+0.0.0.0 localiser-phone.fr
 0.0.0.0 localiser-service.fr
 0.0.0.0 localiser-services.fr
 0.0.0.0 localiser-sync.fr
@@ -24540,6 +24562,7 @@
 0.0.0.0 magiuscasinopromocode.fr
 0.0.0.0 magiuscasinos.fr
 0.0.0.0 magiusfr.fr
+0.0.0.0 magiusplay-fr.fr
 0.0.0.0 magiuspromocode.fr
 0.0.0.0 magiuss.fr
 0.0.0.0 magiusscasino.fr
@@ -25121,6 +25144,7 @@
 0.0.0.0 megawin-enligne.fr
 0.0.0.0 megawin-fr.fr
 0.0.0.0 megawin-france.fr
+0.0.0.0 megawin3.fr
 0.0.0.0 megawincas1no.fr
 0.0.0.0 megawincasina.fr
 0.0.0.0 megawincasino-fr.fr
@@ -25135,6 +25159,7 @@
 0.0.0.0 megawinfr.fr
 0.0.0.0 megawinfrance.fr
 0.0.0.0 megawinonline.fr
+0.0.0.0 megawinplay.fr
 0.0.0.0 megawinscasino.fr
 0.0.0.0 megen.fr
 0.0.0.0 meilleuresactus.fr
@@ -32405,6 +32430,7 @@
 0.0.0.0 recouvrement-paypal.fr
 0.0.0.0 recouvrement-service.fr
 0.0.0.0 recouvrement-sfr.fr
+0.0.0.0 recouvrement-swisslife.fr
 0.0.0.0 recouvrementamende.fr
 0.0.0.0 recouvrementamendes.fr
 0.0.0.0 recouvrementcontravention.fr
@@ -33634,8 +33660,10 @@
 0.0.0.0 robocat-casino-fr.fr
 0.0.0.0 robocat-casinos.fr
 0.0.0.0 robocat-france.fr
+0.0.0.0 robocat.fr
 0.0.0.0 robocatbonus.fr
 0.0.0.0 robocatcas1no.fr
+0.0.0.0 robocatcasino.fr
 0.0.0.0 robocatcasino777.fr
 0.0.0.0 robocatcasinoapp.fr
 0.0.0.0 robocatcasinobet.fr
@@ -38683,6 +38711,7 @@
 0.0.0.0 support-tel.fr
 0.0.0.0 support-telephone.fr
 0.0.0.0 support-tiktok.fr
+0.0.0.0 support-trade-republic.fr
 0.0.0.0 support-trader.fr
 0.0.0.0 support-transport.fr
 0.0.0.0 support-trepublic.fr
@@ -39929,6 +39958,7 @@
 0.0.0.0 turbo-wins-fr.fr
 0.0.0.0 turbo-winz-casino.fr
 0.0.0.0 turbo-winzcasino.fr
+0.0.0.0 turbowins-casino.fr
 0.0.0.0 turbowins-casinos.fr
 0.0.0.0 turbowins-france.fr
 0.0.0.0 turbowinsfr.fr
@@ -42195,6 +42225,7 @@
 0.0.0.0 winbay-official.fr
 0.0.0.0 winbay777.fr
 0.0.0.0 winbaycasinos.fr
+0.0.0.0 winbeast-casiino.fr
 0.0.0.0 winbeast-casino.fr
 0.0.0.0 winbeast-fr.fr
 0.0.0.0 winbeast2.fr
