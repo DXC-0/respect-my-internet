@@ -1551,6 +1551,7 @@
 0.0.0.0 airbourne-france.fr
 0.0.0.0 airbuds.fr
 0.0.0.0 airbus-france.fr
+0.0.0.0 airbus-helicopter.fr
 0.0.0.0 airbusds.fr
 0.0.0.0 airbusfr.fr
 0.0.0.0 airbuslog.fr
@@ -3327,6 +3328,7 @@
 0.0.0.0 annonce-lbc.fr
 0.0.0.0 annonce-leboncoin.fr
 0.0.0.0 annonce28775-bon-coin.fr
+0.0.0.0 annonceautoboncoin-packserenite.fr
 0.0.0.0 annonces-offre-lbc-25480256.fr
 0.0.0.0 annonces-offres-lbc8798789678267298.fr
 0.0.0.0 annonces-offres-leboncoin.fr
@@ -5587,6 +5589,8 @@
 0.0.0.0 beef-casino.fr
 0.0.0.0 beefcasino-fr.fr
 0.0.0.0 beetblast-fr.fr
+0.0.0.0 beetospin-fr.fr
+0.0.0.0 beetospin.fr
 0.0.0.0 beetsio.fr
 0.0.0.0 beetzino-play.fr
 0.0.0.0 begles-cybertek.fr
@@ -8197,6 +8201,7 @@
 0.0.0.0 cash-casino.fr
 0.0.0.0 cash-converters.fr
 0.0.0.0 cash-lounge.fr
+0.0.0.0 cash-voiture.fr
 0.0.0.0 cash-win-casino.fr
 0.0.0.0 cash-wincasino.fr
 0.0.0.0 cashback-labanquepostale.fr
@@ -8372,6 +8377,7 @@
 0.0.0.0 casino-en-ligne-argen-treel.fr
 0.0.0.0 casino-en-ligne-betify.fr
 0.0.0.0 casino-en-ligne-sans-verification.fr
+0.0.0.0 casino-en-lignes-france.fr
 0.0.0.0 casino-enligne-argentreel.fr
 0.0.0.0 casino-enlignefiable.fr
 0.0.0.0 casino-estrella.fr
@@ -9732,6 +9738,7 @@
 0.0.0.0 ch-sedan.fr
 0.0.0.0 ch-selestat.fr
 0.0.0.0 ch-sjm.fr
+0.0.0.0 ch-valence-pro.fr
 0.0.0.0 ch-valvert-marseille.fr
 0.0.0.0 ch-vexin.fr
 0.0.0.0 ch0n0p0st-delivery.fr
@@ -11233,6 +11240,7 @@
 0.0.0.0 cnam-assistance.fr
 0.0.0.0 cnam-basse-normandie.fr
 0.0.0.0 cnam-france.fr
+0.0.0.0 cnam-lr.fr
 0.0.0.0 cnam-marseille.fr
 0.0.0.0 cnam-portail.fr
 0.0.0.0 cnam-prestation.fr
@@ -11340,6 +11348,7 @@
 0.0.0.0 colas-digital-solutions.fr
 0.0.0.0 colas-france-construction.fr
 0.0.0.0 colas-france-construtions.fr
+0.0.0.0 colas-group.fr
 0.0.0.0 colasgroup.fr
 0.0.0.0 coldbet.fr
 0.0.0.0 colebuxton.fr
@@ -30056,6 +30065,7 @@
 0.0.0.0 patagoniaoutlet.fr
 0.0.0.0 patagoniaoutletfrance.fr
 0.0.0.0 patagoniasparis.fr
+0.0.0.0 pataugasfrance.fr
 0.0.0.0 pataugasofficial.fr
 0.0.0.0 pataugasofficiel.fr
 0.0.0.0 patek.re

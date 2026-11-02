@@ -21992,6 +21992,7 @@
 ||airbrushing.se^
 ||airbuds.fr^
 ||airbus-france.fr^
+||airbus-helicopter.fr^
 ||airbusds.fr^
 ||airbusfr.fr^
 ||airbuslog.fr^
@@ -40778,6 +40779,7 @@
 ||annonce-lbc.fr^
 ||annonce-leboncoin.fr^
 ||annonce28775-bon-coin.fr^
+||annonceautoboncoin-packserenite.fr^
 ||annonces-offre-lbc-25480256.fr^
 ||annonces-offres-lbc8798789678267298.fr^
 ||annonces-offres-leboncoin.fr^
@@ -51930,6 +51932,8 @@
 ||beetblast-fr.fr^
 ||beethoven200.com^
 ||beetocoin-ai.com^
+||beetospin-fr.fr^
+||beetospin.fr^
 ||beetsio.fr^
 ||beetsvtgrscur.site^
 ||beetzino-play.fr^
@@ -66479,6 +66483,7 @@
 ||cash-reward-4f8c0.firebaseio.com^
 ||cash-vaultshire-shop.pages.dev^
 ||cash-vaultshire.shop^
+||cash-voiture.fr^
 ||cash-win-casino.fr^
 ||cash-wincasino.fr^
 ||cashapp-liart.vercel.app^
@@ -66694,6 +66699,7 @@
 ||casino-en-ligne-argen-treel.fr^
 ||casino-en-ligne-betify.fr^
 ||casino-en-ligne-sans-verification.fr^
+||casino-en-lignes-france.fr^
 ||casino-enligne-argentreel.fr^
 ||casino-enlignefiable.fr^
 ||casino-estrella.fr^
@@ -70793,6 +70799,7 @@
 ||ch-selestat.fr^
 ||ch-sjm.fr^
 ||ch-tools.com^
+||ch-valence-pro.fr^
 ||ch-valvert-marseille.fr^
 ||ch-vexin.fr^
 ||ch-water.com^
@@ -77710,6 +77717,7 @@
 ||cnam-assistance.fr^
 ||cnam-basse-normandie.fr^
 ||cnam-france.fr^
+||cnam-lr.fr^
 ||cnam-marseille.fr^
 ||cnam-portail.fr^
 ||cnam-prestation.fr^
@@ -79219,6 +79227,7 @@
 ||colas-digital-solutions.fr^
 ||colas-france-construction.fr^
 ||colas-france-construtions.fr^
+||colas-group.fr^
 ||colasgroup.fr^
 ||colasmart.com^
 ||colbit.net^
@@ -226598,6 +226607,7 @@
 ||patagoniasparis.fr^
 ||patagsalam.cyou^
 ||patataa.pro^
+||pataugasfrance.fr^
 ||pataugasofficial.fr^
 ||pataugasofficiel.fr^
 ||patches.antivirus.bo.webproxy.idccheck.tencent.com^
