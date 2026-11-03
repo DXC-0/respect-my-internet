@@ -237,6 +237,7 @@
 0.0.0.0 29blackcasino.fr
 0.0.0.0 2dhjzjz.fr
 0.0.0.0 2doapp.fr
+0.0.0.0 2fa-mailjetapp.fr
 0.0.0.0 2fa-sgpass.fr
 0.0.0.0 2hotmail.fr
 0.0.0.0 2leboncoin.fr
@@ -1660,6 +1661,7 @@
 0.0.0.0 aldosoldes.fr
 0.0.0.0 aleli.fr
 0.0.0.0 alemonde.fr
+0.0.0.0 alerions-notaires.fr
 0.0.0.0 alert-activation-prime.fr
 0.0.0.0 alerte-ameli.fr
 0.0.0.0 alerte-amende.fr
@@ -7015,6 +7017,7 @@
 0.0.0.0 bours-clients-particulier.fr
 0.0.0.0 boursarama.fr
 0.0.0.0 bourse-immobolier.fr
+0.0.0.0 boursedesparis.fr
 0.0.0.0 bourseramabanque.fr
 0.0.0.0 boursidirect.fr
 0.0.0.0 bourso-assurance.fr
@@ -7856,6 +7859,7 @@
 0.0.0.0 capeasi.fr
 0.0.0.0 capecoconso.fr
 0.0.0.0 capegemini.fr
+0.0.0.0 capformationsgouv.fr
 0.0.0.0 capgemini-engineering.fr
 0.0.0.0 capgemini-technology-services.fr
 0.0.0.0 capgimini.fr
@@ -14541,6 +14545,7 @@
 0.0.0.0 duplicata-de-permisdeconduire.fr
 0.0.0.0 duplicati.fr
 0.0.0.0 dura-store.fr
+0.0.0.0 duralexfrance.fr
 0.0.0.0 duson.fr
 0.0.0.0 dux-casino.fr
 0.0.0.0 duxcasino.fr
@@ -14892,6 +14897,7 @@
 0.0.0.0 eleclerc-shop.fr
 0.0.0.0 eleclerc-soldes.fr
 0.0.0.0 eleclercgroupe.fr
+0.0.0.0 eleclercmarket.fr
 0.0.0.0 electrdepot.fr
 0.0.0.0 electro-depot-france.fr
 0.0.0.0 electro-depot-group.fr
@@ -15154,6 +15160,7 @@
 0.0.0.0 equdia.fr
 0.0.0.0 equida.fr
 0.0.0.0 equidiaa.fr
+0.0.0.0 equipe-logipro.fr
 0.0.0.0 equipe-netflix.fr
 0.0.0.0 equipements-environnement.fr
 0.0.0.0 equitaine.fr
@@ -15691,6 +15698,7 @@
 0.0.0.0 espacepersonnel-securite.fr
 0.0.0.0 espacepersonnelameli.fr
 0.0.0.0 espacepersowisesecur.fr
+0.0.0.0 espaceprelevement.fr
 0.0.0.0 espaceprimevideo.fr
 0.0.0.0 espaceprive-msa.fr
 0.0.0.0 espacepro-lcl.fr
@@ -16220,6 +16228,7 @@
 0.0.0.0 fatboss-casinos.fr
 0.0.0.0 fatboss-fr.fr
 0.0.0.0 fatboss-france.fr
+0.0.0.0 fatboss-jeux.fr
 0.0.0.0 fatboss-officiel.fr
 0.0.0.0 fatboss-online.fr
 0.0.0.0 fatbossbonus.fr
@@ -16414,12 +16423,14 @@
 0.0.0.0 finance-alertefraude.fr
 0.0.0.0 finance-antifraudes.fr
 0.0.0.0 finance-arkea.fr
+0.0.0.0 finance-cfs-part.fr
 0.0.0.0 finance-prime.fr
 0.0.0.0 finance-publique-secu.fr
 0.0.0.0 finance-publique.fr
 0.0.0.0 finance-secu-publique.fr
 0.0.0.0 finance-verbalisations.fr
 0.0.0.0 financearkea.fr
+0.0.0.0 financecfspart.fr
 0.0.0.0 financegouv.fr
 0.0.0.0 financement-antai.fr
 0.0.0.0 financement-creditmutuel.fr
@@ -16721,6 +16732,7 @@
 0.0.0.0 fortunica-casiino.fr
 0.0.0.0 fortunica-casino.fr
 0.0.0.0 fortunica-fr.fr
+0.0.0.0 fortunica-frrance.fr
 0.0.0.0 fortunica1.fr
 0.0.0.0 fortunicacasino.fr
 0.0.0.0 fortuniica-casino.fr
@@ -21023,6 +21035,7 @@
 0.0.0.0 iucc.yt
 0.0.0.0 iusmn.yt
 0.0.0.0 iut-lille.fr
+0.0.0.0 iut45-orleans.fr
 0.0.0.0 ivcam.fr
 0.0.0.0 ivesrocher.fr
 0.0.0.0 ivgault.fr
@@ -21408,6 +21421,7 @@
 0.0.0.0 juliuscasinomobile.fr
 0.0.0.0 juliuscasinoonline.fr
 0.0.0.0 juliuscasinos.fr
+0.0.0.0 juliusfr1.fr
 0.0.0.0 juliusfrance-fr.fr
 0.0.0.0 juliusfrance.fr
 0.0.0.0 juliusofficial.fr
@@ -21913,6 +21927,7 @@
 0.0.0.0 laboratoire-iba.fr
 0.0.0.0 labosudmesresultats.fr
 0.0.0.0 labosudresultats.fr
+0.0.0.0 laboursedesparis.fr
 0.0.0.0 laboutique-sfr.fr
 0.0.0.0 laboutiquedesmaillots.fr
 0.0.0.0 laboutiquedisney.fr
@@ -22200,6 +22215,7 @@
 0.0.0.0 lassurances-maladie.fr
 0.0.0.0 lassurancesretraite.fr
 0.0.0.0 lassurancesretraites.fr
+0.0.0.0 last-minutes.fr
 0.0.0.0 lastticket.fr
 0.0.0.0 latelieroutlet.fr
 0.0.0.0 latmut.fr
@@ -29794,9 +29810,12 @@
 0.0.0.0 paris-taxig7.fr
 0.0.0.0 paris-univ8.fr
 0.0.0.0 paris-vip-casino.fr
+0.0.0.0 paris14e.fr
+0.0.0.0 paris15e.fr
 0.0.0.0 paris2-cybertek.fr
 0.0.0.0 paris2024.re
 0.0.0.0 paris2o24.fr
+0.0.0.0 paris6e.fr
 0.0.0.0 parisbas.fr
 0.0.0.0 pariscasino-fr.fr
 0.0.0.0 pariscybertek.fr
@@ -36197,6 +36216,7 @@
 0.0.0.0 shogunmoto.fr
 0.0.0.0 shoos.fr
 0.0.0.0 shoowroomprive.fr
+0.0.0.0 shop-aldi.fr
 0.0.0.0 shop-apotheke.fr
 0.0.0.0 shop-as-monaco.fr
 0.0.0.0 shop-electrodepot.fr
@@ -36353,6 +36373,7 @@
 0.0.0.0 siv-ants.fr
 0.0.0.0 siv-antsgouv.fr
 0.0.0.0 siv-gouvants.fr
+0.0.0.0 siv-immat.fr
 0.0.0.0 siv-immatriculation.fr
 0.0.0.0 siv-iseregouv.fr
 0.0.0.0 siv-portailprogouv.fr
@@ -43622,6 +43643,7 @@
 0.0.0.0 yahoo-support.fr
 0.0.0.0 yahoo.tf
 0.0.0.0 yahoo.wf
+0.0.0.0 yahoo01.fr
 0.0.0.0 yahoofrance.fr
 0.0.0.0 yahoomail.pm
 0.0.0.0 yahooo.re
