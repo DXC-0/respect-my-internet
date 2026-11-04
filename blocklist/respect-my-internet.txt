@@ -52758,6 +52758,7 @@
 0.0.0.0 betic-casino.fr
 0.0.0.0 beticcasino.fr
 0.0.0.0 betico.fr
+0.0.0.0 betiffy.fr
 0.0.0.0 betify--fr.fr
 0.0.0.0 betify-1.fr
 0.0.0.0 betify-android.fr
@@ -52843,6 +52844,7 @@
 0.0.0.0 betify.wf
 0.0.0.0 betify10.fr
 0.0.0.0 betify10sh.fr
+0.0.0.0 betify11.fr
 0.0.0.0 betify3.fr
 0.0.0.0 betify4.fr
 0.0.0.0 betify5sh.fr
@@ -66120,6 +66122,7 @@
 0.0.0.0 casino-funbet.fr
 0.0.0.0 casino-galaxy.fr
 0.0.0.0 casino-gambloria.fr
+0.0.0.0 casino-gamdom.fr
 0.0.0.0 casino-game.fr
 0.0.0.0 casino-game770.fr
 0.0.0.0 casino-godz.fr
@@ -66446,6 +66449,7 @@
 0.0.0.0 casinofatpirate.fr
 0.0.0.0 casinofelixspin.fr
 0.0.0.0 casinofgfox.fr
+0.0.0.0 casinofocus.fr
 0.0.0.0 casinofortuna-enligne.fr
 0.0.0.0 casinofortuna-fr.fr
 0.0.0.0 casinofortuna.fr
@@ -87713,6 +87717,7 @@
 0.0.0.0 darty-prevention-de-la-fraude.fr
 0.0.0.0 darty-sav.fr
 0.0.0.0 darty-store.fr
+0.0.0.0 darty.yt
 0.0.0.0 dartyannulation.fr
 0.0.0.0 dartyelectro.fr
 0.0.0.0 dartyx.fr
@@ -91081,6 +91086,7 @@
 0.0.0.0 dhl-amazon.fr
 0.0.0.0 dhl-client.fr
 0.0.0.0 dhl-colis-douane.fr
+0.0.0.0 dhl-colis-express.fr
 0.0.0.0 dhl-colis-suivi.fr
 0.0.0.0 dhl-colis.fr
 0.0.0.0 dhl-deliveries-express.weebly.com
@@ -91591,6 +91597,7 @@
 0.0.0.0 dieselmarseille.fr
 0.0.0.0 dieseloutlet.fr
 0.0.0.0 dieselparis.fr
+0.0.0.0 dieselsfrance.fr
 0.0.0.0 diestrorentanza.com
 0.0.0.0 diestrugum.store
 0.0.0.0 dietcase.pl
@@ -104807,6 +104814,8 @@
 0.0.0.0 espace-facturation-prime.fr
 0.0.0.0 espace-facturation.fr
 0.0.0.0 espace-factures.fr
+0.0.0.0 espace-finances-publiques-fr.fr
+0.0.0.0 espace-finances-publiques.fr
 0.0.0.0 espace-foot.fr
 0.0.0.0 espace-formulaire.fr
 0.0.0.0 espace-france-sante.fr
@@ -106013,6 +106022,7 @@
 0.0.0.0 eurolium.net
 0.0.0.0 eurolottocasino.fr
 0.0.0.0 euromania.shop
+0.0.0.0 euromaster-france.fr
 0.0.0.0 euromaster-pl.mom
 0.0.0.0 euromaxdubai.com
 0.0.0.0 euromediterrane.fr
@@ -118121,6 +118131,7 @@
 0.0.0.0 fr-monoprix.fr
 0.0.0.0 fr-monster-win.fr
 0.0.0.0 fr-monsterwin.fr
+0.0.0.0 fr-moulinneuf.fr
 0.0.0.0 fr-mrxbet.fr
 0.0.0.0 fr-mystake.fr
 0.0.0.0 fr-n7neo.fr
@@ -219670,6 +219681,7 @@
 0.0.0.0 orangequatnslap.cryptoserene.com
 0.0.0.0 orangerecrutement.fr
 0.0.0.0 orangerendholm.com
+0.0.0.0 oranges-business.fr
 0.0.0.0 orangesecure.fr
 0.0.0.0 orangesett.otherworldhouse.com
 0.0.0.0 orangetage.com
@@ -248716,6 +248728,7 @@
 0.0.0.0 riddlemeree.sonorifice.cfd
 0.0.0.0 ride234wrfhsjbn354652wetuje-uyw.webflow.io
 0.0.0.0 ridematch.googleplex.com
+0.0.0.0 riderbet-fr.fr
 0.0.0.0 rides-24.com
 0.0.0.0 ridesjaspo.store
 0.0.0.0 ridetavifa.store
@@ -294252,6 +294265,7 @@
 0.0.0.0 twincasino-france.fr
 0.0.0.0 twincasino-official.fr
 0.0.0.0 twincasino-officiel.fr
+0.0.0.0 twincasinoenligne.fr
 0.0.0.0 twincasinofrance.fr
 0.0.0.0 twincasinoofficiel.fr
 0.0.0.0 twincasinoonline.fr
