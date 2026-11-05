@@ -1648,6 +1648,7 @@
 0.0.0.0 aldi-groupes.fr
 0.0.0.0 aldi-marche.fr
 0.0.0.0 aldi-sa.fr
+0.0.0.0 aldi-shop.fr
 0.0.0.0 aldi-sued.fr
 0.0.0.0 aldifotos.fr
 0.0.0.0 aldifrance.fr
@@ -5463,6 +5464,13 @@
 0.0.0.0 barefootfrance.fr
 0.0.0.0 barelchaussures.fr
 0.0.0.0 barenbrugfrance.fr
+0.0.0.0 bargello-perfume.fr
+0.0.0.0 bargelloparfume.fr
+0.0.0.0 bargelloparfums.fr
+0.0.0.0 bargelloperfum.fr
+0.0.0.0 bargelloperfume.fr
+0.0.0.0 bargelloperfumery.fr
+0.0.0.0 bargelloperfumes.fr
 0.0.0.0 barreaudelyon.fr
 0.0.0.0 baseus-store.fr
 0.0.0.0 baseusfr.fr
@@ -8604,6 +8612,7 @@
 0.0.0.0 casino777enligne.fr
 0.0.0.0 casinoadrenaline.fr
 0.0.0.0 casinoaerobet.fr
+0.0.0.0 casinoalawin.fr
 0.0.0.0 casinoalexanderfr.fr
 0.0.0.0 casinoallwins.fr
 0.0.0.0 casinoallyspin.fr
@@ -9044,6 +9053,7 @@
 0.0.0.0 casinosocialbonus.fr
 0.0.0.0 casinosparvival.fr
 0.0.0.0 casinospinaura.fr
+0.0.0.0 casinospinboss.fr
 0.0.0.0 casinospindynasty.fr
 0.0.0.0 casinospinfest.fr
 0.0.0.0 casinospinfin.fr
@@ -9338,6 +9348,7 @@
 0.0.0.0 cazeuscasinofrance.fr
 0.0.0.0 cazeuscasinos.fr
 0.0.0.0 cazeusfr.fr
+0.0.0.0 cazeusfr1.fr
 0.0.0.0 cazeusfrance-fr.fr
 0.0.0.0 cazeusofficiel.fr
 0.0.0.0 cazeusonline.fr
@@ -10833,6 +10844,7 @@
 0.0.0.0 chuamiens.fr
 0.0.0.0 chuaphm.fr
 0.0.0.0 chubordeaux.fr
+0.0.0.0 chudenantes.fr
 0.0.0.0 chudestrasbourg.fr
 0.0.0.0 chug-alpes.fr
 0.0.0.0 chumbacasino.fr
@@ -12857,6 +12869,7 @@
 0.0.0.0 creditmutuel-s.fr
 0.0.0.0 creditmutueleasing.fr
 0.0.0.0 creditmutuelfrance.fr
+0.0.0.0 creditmutuellearkea.fr
 0.0.0.0 creditmutuelnord.fr
 0.0.0.0 creditmutuels.fr
 0.0.0.0 creditmutuelsecurity.fr
@@ -23372,6 +23385,7 @@
 0.0.0.0 loakechaussures.fr
 0.0.0.0 loakesfrance.fr
 0.0.0.0 locaiisation.fr
+0.0.0.0 locaiiser-app.fr
 0.0.0.0 local-prime.fr
 0.0.0.0 locales-insee.fr
 0.0.0.0 localisation-connect.fr
@@ -27852,6 +27866,7 @@
 0.0.0.0 netflix-unlock.fr
 0.0.0.0 netflix-update.fr
 0.0.0.0 netflix-validation.fr
+0.0.0.0 netflix-verif.fr
 0.0.0.0 netflix-verifi.fr
 0.0.0.0 netflix-verification-login.fr
 0.0.0.0 netflix.pm
@@ -28929,6 +28944,7 @@
 0.0.0.0 onecasino1.fr
 0.0.0.0 oneclick-fr.fr
 0.0.0.0 onedrive-enedis.fr
+0.0.0.0 oneillsfr.fr
 0.0.0.0 onelinehome.fr
 0.0.0.0 onemaillot.fr
 0.0.0.0 onemanga.fr
@@ -29855,6 +29871,7 @@
 0.0.0.0 parissaintgermainstore.fr
 0.0.0.0 parissportifs-enligne.fr
 0.0.0.0 parissportifshorsarjel.fr
+0.0.0.0 parissportifspaiement.fr
 0.0.0.0 parisvip-casino.fr
 0.0.0.0 parisvip1.fr
 0.0.0.0 parkacanadagoosepascher.fr
@@ -31235,6 +31252,7 @@
 0.0.0.0 portail-maladie.fr
 0.0.0.0 portail-mes-amendes-antai.fr
 0.0.0.0 portail-mes-amendes.fr
+0.0.0.0 portail-mlcrosoft.fr
 0.0.0.0 portail-mobilites-navigo.fr
 0.0.0.0 portail-opposition-enligne.fr
 0.0.0.0 portail-opposition.fr
@@ -38475,6 +38493,8 @@
 0.0.0.0 sultan-casino.fr
 0.0.0.0 sumatrapdf.fr
 0.0.0.0 sumitomochemicalagroeuropesas.fr
+0.0.0.0 summer-clothe.fr
+0.0.0.0 summer-clothes.fr
 0.0.0.0 sumofus.fr
 0.0.0.0 sumupstore.fr
 0.0.0.0 sundayredfrance.fr
@@ -40405,6 +40425,7 @@
 0.0.0.0 univbrest.fr
 0.0.0.0 univcatholyon.fr
 0.0.0.0 univcorse.fr
+0.0.0.0 univderennes.fr
 0.0.0.0 unive-catholille.fr
 0.0.0.0 unive-cotedazur.fr
 0.0.0.0 unive-lille.fr
@@ -41620,6 +41641,7 @@
 0.0.0.0 voipwise.fr
 0.0.0.0 voir-amendesgouvernement.fr
 0.0.0.0 voiture-leboncoin.fr
+0.0.0.0 voiturelbc.fr
 0.0.0.0 voiturepaschers.fr
 0.0.0.0 voix-francophone.fr
 0.0.0.0 voixdelafrance.fr
@@ -41767,6 +41789,7 @@
 0.0.0.0 voyagesncf.fr
 0.0.0.0 vpa-prime.fr
 0.0.0.0 vpn-hub.fr
+0.0.0.0 vpn-lab-sncf.fr
 0.0.0.0 vree.fr
 0.0.0.0 vrisure.fr
 0.0.0.0 vroupama.fr
@@ -42864,6 +42887,7 @@
 0.0.0.0 wwwwonderbox.fr
 0.0.0.0 wxfo.fr
 0.0.0.0 wxnf.fr
+0.0.0.0 wycon-france.fr
 0.0.0.0 wynsfr.fr
 0.0.0.0 wyoutube.fr
 0.0.0.0 wznadoo.fr
