@@ -333,6 +333,7 @@
 0.0.0.0 5orange.fr
 0.0.0.0 60millions-mag.fr
 0.0.0.0 642orange.fr
+0.0.0.0 6annonce.fr
 0.0.0.0 6dhjzjz.fr
 0.0.0.0 6paly.fr
 0.0.0.0 6range.fr
@@ -1885,6 +1886,7 @@
 0.0.0.0 aloyoga-fr.fr
 0.0.0.0 aloyoga-soldes.fr
 0.0.0.0 aloyogaboutiquefrance.fr
+0.0.0.0 aloyogafrance-fr.fr
 0.0.0.0 aloyogafrancea.fr
 0.0.0.0 aloyogaoutlet.fr
 0.0.0.0 aloyogaparis.fr
@@ -5930,8 +5932,10 @@
 0.0.0.0 betify-enligne.fr
 0.0.0.0 betify-fr-casino.fr
 0.0.0.0 betify-fra.fr
+0.0.0.0 betify-fra.paris
 0.0.0.0 betify-francais.fr
 0.0.0.0 betify-france.fr
+0.0.0.0 betify-france.paris
 0.0.0.0 betify-frcasino.fr
 0.0.0.0 betify-game.fr
 0.0.0.0 betify-games.fr
@@ -6341,6 +6345,7 @@
 0.0.0.0 bigclash-casinos.fr
 0.0.0.0 bigclash-en-ligne.fr
 0.0.0.0 bigclash-enligne.fr
+0.0.0.0 bigclash-fr.fr
 0.0.0.0 bigclash-france.fr
 0.0.0.0 bigclash-frrance.fr
 0.0.0.0 bigclash-game.fr
@@ -8789,6 +8794,7 @@
 0.0.0.0 casinohugobets.fr
 0.0.0.0 casinoigobet.fr
 0.0.0.0 casinoincognito.fr
+0.0.0.0 casinoinfernos.fr
 0.0.0.0 casinoinfinite.fr
 0.0.0.0 casinoinfinite777.fr
 0.0.0.0 casinoinfinity-fr.fr
@@ -8903,6 +8909,7 @@
 0.0.0.0 casinomidasluck.fr
 0.0.0.0 casinomillioner.fr
 0.0.0.0 casinomillionz.fr
+0.0.0.0 casinomobile.fr
 0.0.0.0 casinomonsterwin.fr
 0.0.0.0 casinomonsterwinfrance.fr
 0.0.0.0 casinomorospin.fr
@@ -13766,6 +13773,7 @@
 0.0.0.0 dgfipgroupe.fr
 0.0.0.0 dgfipimpot.fr
 0.0.0.0 dgflip-finance.fr
+0.0.0.0 dgfp-france.fr
 0.0.0.0 dgfp-ma-tva-scfp.fr
 0.0.0.0 dgfpfinancegouv.fr
 0.0.0.0 dgfpfinancesgouv.fr
@@ -15799,6 +15807,7 @@
 0.0.0.0 essence-pas-cher.fr
 0.0.0.0 essentialssiteofficiel.fr
 0.0.0.0 essofrance.fr
+0.0.0.0 est-r-reprogrammation.fr
 0.0.0.0 esta-official.fr
 0.0.0.0 estbulk-prime.fr
 0.0.0.0 estreapublicain.fr
@@ -17030,8 +17039,10 @@
 0.0.0.0 fr-pistolocasino.fr
 0.0.0.0 fr-planisware.fr
 0.0.0.0 fr-playregal.fr
+0.0.0.0 fr-plinko-fr.fr
 0.0.0.0 fr-plinko.fr
 0.0.0.0 fr-polletwatergroupfrancesas.fr
+0.0.0.0 fr-potenzix.fr
 0.0.0.0 fr-premys.fr
 0.0.0.0 fr-prime.fr
 0.0.0.0 fr-princeali.fr
@@ -17163,6 +17174,7 @@
 0.0.0.0 france-aide-ameli.fr
 0.0.0.0 france-aides.fr
 0.0.0.0 france-airbus.fr
+0.0.0.0 france-aldi.fr
 0.0.0.0 france-allyspin.fr
 0.0.0.0 france-amandes.fr
 0.0.0.0 france-ameli.fr
@@ -17487,6 +17499,7 @@
 0.0.0.0 froneridangesas.fr
 0.0.0.0 frotuneocredit-immobilier.fr
 0.0.0.0 froupama.fr
+0.0.0.0 frplinko.fr
 0.0.0.0 frpornhub.fr
 0.0.0.0 frpostealerts.fr
 0.0.0.0 frquipe.fr
@@ -20030,6 +20043,8 @@
 0.0.0.0 inf-retraite.fr
 0.0.0.0 inf-sfr.fr
 0.0.0.0 infernos-casino.fr
+0.0.0.0 infernos-official.fr
+0.0.0.0 infernos-officiel.fr
 0.0.0.0 infernoscasino.fr
 0.0.0.0 infigreffe.fr
 0.0.0.0 infinite-casino.fr
@@ -21006,6 +21021,7 @@
 0.0.0.0 iphone-store.fr
 0.0.0.0 iphone.pm
 0.0.0.0 iphone.re
+0.0.0.0 iphoneparts.fr
 0.0.0.0 iphonesecurehttps.fr
 0.0.0.0 ipi9.fr
 0.0.0.0 iprof-mailbox.fr
@@ -23031,6 +23047,7 @@
 0.0.0.0 librecad.fr
 0.0.0.0 librewolf.fr
 0.0.0.0 licamobil.fr
+0.0.0.0 licence-livraison.fr
 0.0.0.0 liddle.fr
 0.0.0.0 lidentificationumerique.fr
 0.0.0.0 lidentite-numerique.fr
@@ -24741,6 +24758,7 @@
 0.0.0.0 maillotssweatshirts.fr
 0.0.0.0 maillotstore.fr
 0.0.0.0 maillotstores.fr
+0.0.0.0 maillotzone.fr
 0.0.0.0 maillshop.fr
 0.0.0.0 maillz.fr
 0.0.0.0 mailoo.fr
@@ -25844,6 +25862,7 @@
 0.0.0.0 mnmlfrance.fr
 0.0.0.0 mnutan.fr
 0.0.0.0 mob-particuliers-sg.fr
+0.0.0.0 mobaxterm.fr
 0.0.0.0 mobevo.fr
 0.0.0.0 mobigamescasino.fr
 0.0.0.0 mobile-2fa-1crediitmutuel.fr
@@ -27365,6 +27384,7 @@
 0.0.0.0 mystakecasinoo1.fr
 0.0.0.0 mystakecasinos1.fr
 0.0.0.0 mystakefr.fr
+0.0.0.0 mystakefrancais.fr
 0.0.0.0 mystakefrance.fr
 0.0.0.0 mystakeonline.fr
 0.0.0.0 mystakeplay.fr
@@ -27990,6 +28010,7 @@
 0.0.0.0 netflx-regularisation.fr
 0.0.0.0 netflx-renouvellement.fr
 0.0.0.0 netflx-service.fr
+0.0.0.0 netflx-subscribe.fr
 0.0.0.0 netflxpaiement.fr
 0.0.0.0 netflxpayservice.fr
 0.0.0.0 netflxregularisation.fr
@@ -28457,6 +28478,7 @@
 0.0.0.0 notaires-matignon.fr
 0.0.0.0 notaires-message-crucial-en-attente.fr
 0.0.0.0 notaires-message-important-en-attente.fr
+0.0.0.0 notairesdelabaie.fr
 0.0.0.0 notairesfr.fr
 0.0.0.0 notairesfrance.fr
 0.0.0.0 notairess.fr
@@ -28665,6 +28687,7 @@
 0.0.0.0 numerricable.fr
 0.0.0.0 nummericable.fr
 0.0.0.0 numreicable.fr
+0.0.0.0 nura-underwear.fr
 0.0.0.0 nutrimetic.fr
 0.0.0.0 nutroftotal.fr
 0.0.0.0 nuumericable.fr
@@ -29824,6 +29847,7 @@
 0.0.0.0 parionweb.fr
 0.0.0.0 parionwebs.fr
 0.0.0.0 paris-banlieue-meetinggame.fr
+0.0.0.0 paris-clandestin.fr
 0.0.0.0 paris-cybertek.fr
 0.0.0.0 paris-disniyland.fr
 0.0.0.0 paris-firendly.fr
@@ -30936,6 +30960,9 @@
 0.0.0.0 pleinecommune.fr
 0.0.0.0 plesk-security.fr
 0.0.0.0 pli-postal.fr
+0.0.0.0 plinko--fr.fr
+0.0.0.0 plinko--france.fr
+0.0.0.0 plinko--jeu.fr
 0.0.0.0 plinko-bonus.fr
 0.0.0.0 plinko-bonuscasino.fr
 0.0.0.0 plinko-casinoenligne.fr
@@ -31353,6 +31380,7 @@
 0.0.0.0 postswiss.re
 0.0.0.0 potail-yooli.fr
 0.0.0.0 potencialex.fr
+0.0.0.0 potenzix-fr.fr
 0.0.0.0 potnhub.fr
 0.0.0.0 potnovore.fr
 0.0.0.0 potplayer.fr
@@ -31667,6 +31695,7 @@
 0.0.0.0 prime-retour.fr
 0.0.0.0 prime-safety.fr
 0.0.0.0 prime-sav.fr
+0.0.0.0 prime-service-support.fr
 0.0.0.0 prime-service.fr
 0.0.0.0 prime-services.fr
 0.0.0.0 prime-setting.fr
@@ -36669,6 +36698,7 @@
 0.0.0.0 smashcasino-france.fr
 0.0.0.0 smashcasinoenligne.fr
 0.0.0.0 smashcasinofr.fr
+0.0.0.0 smashcasinofrance.fr
 0.0.0.0 smashcasinos-fr.fr
 0.0.0.0 smashcasinos-france.fr
 0.0.0.0 smashcasinos.fr
@@ -40461,6 +40491,7 @@
 0.0.0.0 universite-parissaclay.fr
 0.0.0.0 universite-polytechnique.fr
 0.0.0.0 universite-reims.fr
+0.0.0.0 universite-saclay.fr
 0.0.0.0 universite-toulon.fr
 0.0.0.0 universite-uvsq.fr
 0.0.0.0 universite-versailles-saintquentin.fr
