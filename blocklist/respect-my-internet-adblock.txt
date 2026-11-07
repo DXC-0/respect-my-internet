@@ -42525,6 +42525,7 @@
 ||applirilim.store^
 ||appliste-24740.firebaseio.com^
 ||applle.fr^
+||applocaliser.fr^
 ||applock-6f6a1.firebaseio.com^
 ||applock.owenwow.com^
 ||applog.matrix.easebar.com^#First^Party^-^Tracker^
@@ -43805,6 +43806,7 @@
 ||aruba-bet-en-ligne.fr^
 ||aruba-bet-fr.fr^
 ||aruba-bet-france.fr^
+||aruba-bet.fr^
 ||aruba-fr.fr^
 ||aruba-hosting.8d-securiscore.com^
 ||aruba-secure.connessione-sicura.online^
@@ -46818,6 +46820,7 @@
 ||avendrico.com^
 ||avendrixnolthertrade.de^
 ||avendrrwo.shop^
+||avenefr.fr^
 ||avenico.shop^
 ||avenid.top^
 ||avenida-fdad0.firebaseio.com^
@@ -47731,9 +47734,14 @@
 ||azur-casinofr.fr^
 ||azur-casinos.fr^
 ||azuratrustbank.com^
+||azurcasino-app.fr^
 ||azurcasino-en-ligne.fr^
 ||azurcasino-enligne.fr^
 ||azurcasino-france.fr^
+||azurcasino-game.fr^
+||azurcasino-jeux.fr^
+||azurcasino-mobile.fr^
+||azurcasino-online.fr^
 ||azurcasinoconnexion.fr^
 ||azurcasinofr.fr^
 ||azurcasinofrance.fr^
@@ -51152,6 +51160,7 @@
 ||beckconan.shop^
 ||becker-china.com^
 ||beckettswhisky.com^
+||beckmancoulter-fr.fr^
 ||beckmannpolska.com^
 ||beckouravale.pro^
 ||beckwai.com^
@@ -66575,6 +66584,8 @@
 ||cassianwhitlock.com^
 ||cassidacapital.com^
 ||cassidaholdings.com^
+||cassino-en-lignes-fr.fr^
+||cassino-en-lignes.fr^
 ||cassino-extra-fr.fr^
 ||cassino-extra-france.fr^
 ||cassino-extrafr.fr^
@@ -66582,6 +66593,9 @@
 ||cassino-extras-france.fr^
 ||cassino-extrasfr.fr^
 ||cassino770.fr^
+||cassinoen-lignes.fr^
+||cassinoenlignes-fr.fr^
+||cassinoenlignes-france.fr^
 ||cassinoextras-fr.fr^
 ||cassinoextras-france.fr^
 ||cassinoextrasfr.fr^
@@ -68936,6 +68950,7 @@
 ||centredelivraison-chronopost.fr^
 ||centredepaiement-amazon.fr^
 ||centrefinrivotrade.com^
+||centrehospitaliercalvibalagne.fr^
 ||centrehospitalierdechaumont.fr^
 ||centreinffo.fr^
 ||centrelitige-ppl.fr^
@@ -95372,6 +95387,8 @@
 ||dragon-fr.fr^
 ||dragon-guide.net^
 ||dragon-hotel.com^
+||dragon-money1.fr^
+||dragon-moneys.fr^
 ||dragon1a-fr.fr^
 ||dragon1a-fra.fr^
 ||dragon1a-france.fr^
@@ -95384,6 +95401,8 @@
 ||dragonfly.fun^
 ||dragonfly.twitch.tv^
 ||dragonheir-tools.com^
+||dragonia-app.fr^
+||dragonia-bonus.fr^
 ||dragonia-casino-101.fr^
 ||dragonia-casino-24.fr^
 ||dragonia-casino-365.fr^
@@ -95393,12 +95412,17 @@
 ||dragonia-casino.fr^
 ||dragonia-casinos.fr^
 ||dragonia-fr.fr^
+||dragonia-game.fr^
+||dragonia-mobile.fr^
+||dragonia-slots.fr^
 ||dragoniacasino-fr.fr^
 ||dragoniacasino.fr^
 ||dragoniacasinos.fr^
 ||dragoniaofficial.fr^
 ||dragonlab.org^
 ||dragonlcm.com^
+||dragonmoneyfr.fr^
+||dragonmoneys.fr^
 ||dragonnewsru.com^
 ||dragonsandgiants.com^
 ||dragonsea-china.com^
@@ -117605,6 +117629,7 @@
 ||france-lucky8.fr^
 ||france-mafia-casino.fr^
 ||france-magicalspin.fr^
+||france-mailjet.fr^
 ||france-maladie-enligne.fr^
 ||france-marriott.fr^
 ||france-materaiux.fr^
@@ -128074,6 +128099,7 @@
 ||groupcybertekfr.fr^
 ||groupe-adelaide.fr^
 ||groupe-aema.fr^
+||groupe-aldi.fr^
 ||groupe-alstom.fr^
 ||groupe-ants.fr^
 ||groupe-aspen.fr^
@@ -129048,6 +129074,7 @@
 ||gucbirligihareketi.org^
 ||gucci-france.fr^
 ||gucciblog.net^
+||guccifr.fr^
 ||guccifrance.fr^
 ||guccimoinscher.fr^
 ||gucciparis.fr^
@@ -139319,6 +139346,7 @@
 ||hoodiesale.fr^
 ||hoodinn.com^
 ||hoodong.com^
+||hoodrich-fr.fr^
 ||hoodrich-france.fr^
 ||hoodrich-paris.fr^
 ||hoodrich.fr^
@@ -167782,6 +167810,7 @@
 ||lchqxnykj.com^
 ||lchzzs.com^
 ||lci-direct.ovh^
+||lcioudld.fr^
 ||lciuyou.com^
 ||lcjh.com^
 ||lcjrfg.com^
@@ -178384,10 +178413,15 @@
 ||magical-spinfr.fr^
 ||magical-spins.fr^
 ||magicalcasino.fr^
+||magicalspin-app.fr^
+||magicalspin-bonus.fr^
 ||magicalspin-com.fr^
 ||magicalspin-en-ligne.fr^
 ||magicalspin-enligne.fr^
 ||magicalspin-france.fr^
+||magicalspin-game.fr^
+||magicalspin-jeux.fr^
+||magicalspin-mobile.fr^
 ||magicalspin-online.fr^
 ||magicalspin24.fr^
 ||magicalspincasino1.fr^
@@ -202133,6 +202167,7 @@
 ||mystake-enligne.fr^
 ||mystake-fr-casino.fr^
 ||mystake-fr.fr^
+||mystake-francais.fr^
 ||mystake-france.fr^
 ||mystake-jouer.fr^
 ||mystake-online-fr.fr^
@@ -204880,6 +204915,7 @@
 ||netflix-verif.fr^
 ||netflix-verifi.fr^
 ||netflix-verification-login.fr^
+||netflix-verification.fr^
 ||netflix-web-site-three.vercel.app^
 ||netflix-za.com^
 ||netflix.com.bd^
@@ -231526,6 +231562,7 @@
 ||postloe.web.app^
 ||postmaster.facebook.com^
 ||postmaster.google.com^
+||postmaster.ovh^
 ||postmbittke.cyou^
 ||postmesterpr.firebaseapp.com^
 ||postmesterpr.web.app^
@@ -248140,6 +248177,7 @@
 ||rn6cca.casa^
 ||rn802lz5ow4d8.deduicedesigns.com^
 ||rn802lz5ow4d8.dilocs.shop^
+||rna-gov.re^
 ||rnac.fr^
 ||rnarkdills52-my-cheetah-website.site.builderallsite.com^
 ||rncc.webflow.io^
@@ -250278,6 +250316,7 @@
 ||ruoyi.vip^
 ||ruozhu.shop^
 ||rupai.digital^
+||rupanya-see-mo.re^
 ||rupepelokufofilo.info^
 ||rupeuueslogouts.info^
 ||rupicoretrade.com^
@@ -255841,8 +255880,10 @@
 ||seductionuniversity.com^
 ||sedulousnessescolueembary.info^
 ||seduszinzi.cyou^
+||see---m0.re^
 ||see---mo.re^
 ||see--m0.re^
+||see--m00.re^
 ||see--mo0.re^
 ||see--moo.re^
 ||see--moor.re^
@@ -255901,6 +255942,7 @@
 ||seedsufe.com^
 ||seedtag.com^#Seedtag^-^Advertising^
 ||seedybrain.best^
+||seee--m0.re^
 ||seee--mo.re^
 ||seee-m0.re^
 ||seee-m0r.re^
@@ -255935,8 +255977,10 @@
 ||seemiunswo.cyou^
 ||seemmo.re^
 ||seemno.re^
+||seemo-re.re^
 ||seemoo.re^
 ||seemoonbed.com^
+||seemore-e.re^
 ||seemoree.re^
 ||seemorre.re^
 ||seemro.re^
@@ -257172,6 +257216,7 @@
 ||service-creditagricole.fr^
 ||service-critair.fr^
 ||service-critvignette.fr^
+||service-cuitura-cergy.fr^
 ||service-customer.cfd^
 ||service-customer.site^
 ||service-de-paiement-des-infractions.fr^
@@ -261085,6 +261130,7 @@
 ||shortycoffee.mom^
 ||shoshishine.com^
 ||shotdujour.com^
+||shotguntickets.fr^
 ||shotnba.com^
 ||shou-qi.com^
 ||shoubaiart.com^
@@ -267462,6 +267508,7 @@
 ||sondaammor.cyou^
 ||sondakikahaber.org^
 ||sondawiesci.pro^
+||soneparfr.fr^
 ||sonepart.fr^
 ||sonerurush.store^
 ||soneta.biz^
@@ -272244,6 +272291,7 @@
 ||stokkefrance.fr^
 ||stokomani-group.fr^
 ||stokomanie.fr^
+||stokomanisas.fr^
 ||stokomanl.fr^
 ||stokson.azurewebsites.net^
 ||stolicakwiatow.live^
@@ -286130,6 +286178,7 @@
 ||ticketparty.fr^
 ||ticketpulse.fr^
 ||ticketrevente.fr^
+||ticketrnaster.fr^
 ||tickets-bill.com^
 ||tickets-celinedion.fr^
 ||tickets-en.fr^
@@ -288812,6 +288861,7 @@
 ||toysmyk.top^
 ||toysol.com^
 ||toysrus-fr.fr^
+||toysrus-france.fr^
 ||toystargliders.shop^
 ||toystodolls.com^
 ||toytemple.shop^
@@ -323747,6 +323797,7 @@
 ||xn--rsultat-dpistage-bqbi.fr^
 ||xn--ruqs20ac8b5z7av8ir2u.net^
 ||xn--ruqz9zcojm5sf19a.com^
+||xn--s-mo-lpaa.re^
 ||xn--s1ru0x93t.xn--3ds443g^
 ||xn--s4t325g.com^
 ||xn--sant-ameli-e7a.fr^
@@ -323802,6 +323853,7 @@
 ||xn--se-mo-4ra.re^
 ||xn--se-mo-bsa.re^
 ||xn--se-mo-csa.re^
+||xn--se-mo-osa.re^
 ||xn--secures-imptsgouv-accs-v8b7w.fr^
 ||xn--securit-ameli-hhb.fr^
 ||xn--securit-assurance-maladie-hic.fr^

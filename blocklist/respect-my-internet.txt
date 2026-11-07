@@ -42527,6 +42527,7 @@
 0.0.0.0 applirilim.store
 0.0.0.0 appliste-24740.firebaseio.com
 0.0.0.0 applle.fr
+0.0.0.0 applocaliser.fr
 0.0.0.0 applock-6f6a1.firebaseio.com
 0.0.0.0 applock.owenwow.com
 0.0.0.0 applog.matrix.easebar.com #First Party - Tracker
@@ -43807,6 +43808,7 @@
 0.0.0.0 aruba-bet-en-ligne.fr
 0.0.0.0 aruba-bet-fr.fr
 0.0.0.0 aruba-bet-france.fr
+0.0.0.0 aruba-bet.fr
 0.0.0.0 aruba-fr.fr
 0.0.0.0 aruba-hosting.8d-securiscore.com
 0.0.0.0 aruba-secure.connessione-sicura.online
@@ -46820,6 +46822,7 @@
 0.0.0.0 avendrico.com
 0.0.0.0 avendrixnolthertrade.de
 0.0.0.0 avendrrwo.shop
+0.0.0.0 avenefr.fr
 0.0.0.0 avenico.shop
 0.0.0.0 avenid.top
 0.0.0.0 avenida-fdad0.firebaseio.com
@@ -47733,9 +47736,14 @@
 0.0.0.0 azur-casinofr.fr
 0.0.0.0 azur-casinos.fr
 0.0.0.0 azuratrustbank.com
+0.0.0.0 azurcasino-app.fr
 0.0.0.0 azurcasino-en-ligne.fr
 0.0.0.0 azurcasino-enligne.fr
 0.0.0.0 azurcasino-france.fr
+0.0.0.0 azurcasino-game.fr
+0.0.0.0 azurcasino-jeux.fr
+0.0.0.0 azurcasino-mobile.fr
+0.0.0.0 azurcasino-online.fr
 0.0.0.0 azurcasinoconnexion.fr
 0.0.0.0 azurcasinofr.fr
 0.0.0.0 azurcasinofrance.fr
@@ -51154,6 +51162,7 @@
 0.0.0.0 beckconan.shop
 0.0.0.0 becker-china.com
 0.0.0.0 beckettswhisky.com
+0.0.0.0 beckmancoulter-fr.fr
 0.0.0.0 beckmannpolska.com
 0.0.0.0 beckouravale.pro
 0.0.0.0 beckwai.com
@@ -66577,6 +66586,8 @@
 0.0.0.0 cassianwhitlock.com
 0.0.0.0 cassidacapital.com
 0.0.0.0 cassidaholdings.com
+0.0.0.0 cassino-en-lignes-fr.fr
+0.0.0.0 cassino-en-lignes.fr
 0.0.0.0 cassino-extra-fr.fr
 0.0.0.0 cassino-extra-france.fr
 0.0.0.0 cassino-extrafr.fr
@@ -66584,6 +66595,9 @@
 0.0.0.0 cassino-extras-france.fr
 0.0.0.0 cassino-extrasfr.fr
 0.0.0.0 cassino770.fr
+0.0.0.0 cassinoen-lignes.fr
+0.0.0.0 cassinoenlignes-fr.fr
+0.0.0.0 cassinoenlignes-france.fr
 0.0.0.0 cassinoextras-fr.fr
 0.0.0.0 cassinoextras-france.fr
 0.0.0.0 cassinoextrasfr.fr
@@ -68938,6 +68952,7 @@
 0.0.0.0 centredelivraison-chronopost.fr
 0.0.0.0 centredepaiement-amazon.fr
 0.0.0.0 centrefinrivotrade.com
+0.0.0.0 centrehospitaliercalvibalagne.fr
 0.0.0.0 centrehospitalierdechaumont.fr
 0.0.0.0 centreinffo.fr
 0.0.0.0 centrelitige-ppl.fr
@@ -95374,6 +95389,8 @@
 0.0.0.0 dragon-fr.fr
 0.0.0.0 dragon-guide.net
 0.0.0.0 dragon-hotel.com
+0.0.0.0 dragon-money1.fr
+0.0.0.0 dragon-moneys.fr
 0.0.0.0 dragon1a-fr.fr
 0.0.0.0 dragon1a-fra.fr
 0.0.0.0 dragon1a-france.fr
@@ -95386,6 +95403,8 @@
 0.0.0.0 dragonfly.fun
 0.0.0.0 dragonfly.twitch.tv
 0.0.0.0 dragonheir-tools.com
+0.0.0.0 dragonia-app.fr
+0.0.0.0 dragonia-bonus.fr
 0.0.0.0 dragonia-casino-101.fr
 0.0.0.0 dragonia-casino-24.fr
 0.0.0.0 dragonia-casino-365.fr
@@ -95395,12 +95414,17 @@
 0.0.0.0 dragonia-casino.fr
 0.0.0.0 dragonia-casinos.fr
 0.0.0.0 dragonia-fr.fr
+0.0.0.0 dragonia-game.fr
+0.0.0.0 dragonia-mobile.fr
+0.0.0.0 dragonia-slots.fr
 0.0.0.0 dragoniacasino-fr.fr
 0.0.0.0 dragoniacasino.fr
 0.0.0.0 dragoniacasinos.fr
 0.0.0.0 dragoniaofficial.fr
 0.0.0.0 dragonlab.org
 0.0.0.0 dragonlcm.com
+0.0.0.0 dragonmoneyfr.fr
+0.0.0.0 dragonmoneys.fr
 0.0.0.0 dragonnewsru.com
 0.0.0.0 dragonsandgiants.com
 0.0.0.0 dragonsea-china.com
@@ -117607,6 +117631,7 @@
 0.0.0.0 france-lucky8.fr
 0.0.0.0 france-mafia-casino.fr
 0.0.0.0 france-magicalspin.fr
+0.0.0.0 france-mailjet.fr
 0.0.0.0 france-maladie-enligne.fr
 0.0.0.0 france-marriott.fr
 0.0.0.0 france-materaiux.fr
@@ -128076,6 +128101,7 @@
 0.0.0.0 groupcybertekfr.fr
 0.0.0.0 groupe-adelaide.fr
 0.0.0.0 groupe-aema.fr
+0.0.0.0 groupe-aldi.fr
 0.0.0.0 groupe-alstom.fr
 0.0.0.0 groupe-ants.fr
 0.0.0.0 groupe-aspen.fr
@@ -129050,6 +129076,7 @@
 0.0.0.0 gucbirligihareketi.org
 0.0.0.0 gucci-france.fr
 0.0.0.0 gucciblog.net
+0.0.0.0 guccifr.fr
 0.0.0.0 guccifrance.fr
 0.0.0.0 guccimoinscher.fr
 0.0.0.0 gucciparis.fr
@@ -139321,6 +139348,7 @@
 0.0.0.0 hoodiesale.fr
 0.0.0.0 hoodinn.com
 0.0.0.0 hoodong.com
+0.0.0.0 hoodrich-fr.fr
 0.0.0.0 hoodrich-france.fr
 0.0.0.0 hoodrich-paris.fr
 0.0.0.0 hoodrich.fr
@@ -167784,6 +167812,7 @@
 0.0.0.0 lchqxnykj.com
 0.0.0.0 lchzzs.com
 0.0.0.0 lci-direct.ovh
+0.0.0.0 lcioudld.fr
 0.0.0.0 lciuyou.com
 0.0.0.0 lcjh.com
 0.0.0.0 lcjrfg.com
@@ -178386,10 +178415,15 @@
 0.0.0.0 magical-spinfr.fr
 0.0.0.0 magical-spins.fr
 0.0.0.0 magicalcasino.fr
+0.0.0.0 magicalspin-app.fr
+0.0.0.0 magicalspin-bonus.fr
 0.0.0.0 magicalspin-com.fr
 0.0.0.0 magicalspin-en-ligne.fr
 0.0.0.0 magicalspin-enligne.fr
 0.0.0.0 magicalspin-france.fr
+0.0.0.0 magicalspin-game.fr
+0.0.0.0 magicalspin-jeux.fr
+0.0.0.0 magicalspin-mobile.fr
 0.0.0.0 magicalspin-online.fr
 0.0.0.0 magicalspin24.fr
 0.0.0.0 magicalspincasino1.fr
@@ -202135,6 +202169,7 @@
 0.0.0.0 mystake-enligne.fr
 0.0.0.0 mystake-fr-casino.fr
 0.0.0.0 mystake-fr.fr
+0.0.0.0 mystake-francais.fr
 0.0.0.0 mystake-france.fr
 0.0.0.0 mystake-jouer.fr
 0.0.0.0 mystake-online-fr.fr
@@ -204882,6 +204917,7 @@
 0.0.0.0 netflix-verif.fr
 0.0.0.0 netflix-verifi.fr
 0.0.0.0 netflix-verification-login.fr
+0.0.0.0 netflix-verification.fr
 0.0.0.0 netflix-web-site-three.vercel.app
 0.0.0.0 netflix-za.com
 0.0.0.0 netflix.com.bd
@@ -231528,6 +231564,7 @@
 0.0.0.0 postloe.web.app
 0.0.0.0 postmaster.facebook.com
 0.0.0.0 postmaster.google.com
+0.0.0.0 postmaster.ovh
 0.0.0.0 postmbittke.cyou
 0.0.0.0 postmesterpr.firebaseapp.com
 0.0.0.0 postmesterpr.web.app
@@ -248142,6 +248179,7 @@
 0.0.0.0 rn6cca.casa
 0.0.0.0 rn802lz5ow4d8.deduicedesigns.com
 0.0.0.0 rn802lz5ow4d8.dilocs.shop
+0.0.0.0 rna-gov.re
 0.0.0.0 rnac.fr
 0.0.0.0 rnarkdills52-my-cheetah-website.site.builderallsite.com
 0.0.0.0 rncc.webflow.io
@@ -250280,6 +250318,7 @@
 0.0.0.0 ruoyi.vip
 0.0.0.0 ruozhu.shop
 0.0.0.0 rupai.digital
+0.0.0.0 rupanya-see-mo.re
 0.0.0.0 rupepelokufofilo.info
 0.0.0.0 rupeuueslogouts.info
 0.0.0.0 rupicoretrade.com
@@ -255843,8 +255882,10 @@
 0.0.0.0 seductionuniversity.com
 0.0.0.0 sedulousnessescolueembary.info
 0.0.0.0 seduszinzi.cyou
+0.0.0.0 see---m0.re
 0.0.0.0 see---mo.re
 0.0.0.0 see--m0.re
+0.0.0.0 see--m00.re
 0.0.0.0 see--mo0.re
 0.0.0.0 see--moo.re
 0.0.0.0 see--moor.re
@@ -255903,6 +255944,7 @@
 0.0.0.0 seedsufe.com
 0.0.0.0 seedtag.com #Seedtag - Advertising
 0.0.0.0 seedybrain.best
+0.0.0.0 seee--m0.re
 0.0.0.0 seee--mo.re
 0.0.0.0 seee-m0.re
 0.0.0.0 seee-m0r.re
@@ -255937,8 +255979,10 @@
 0.0.0.0 seemiunswo.cyou
 0.0.0.0 seemmo.re
 0.0.0.0 seemno.re
+0.0.0.0 seemo-re.re
 0.0.0.0 seemoo.re
 0.0.0.0 seemoonbed.com
+0.0.0.0 seemore-e.re
 0.0.0.0 seemoree.re
 0.0.0.0 seemorre.re
 0.0.0.0 seemro.re
@@ -257174,6 +257218,7 @@
 0.0.0.0 service-creditagricole.fr
 0.0.0.0 service-critair.fr
 0.0.0.0 service-critvignette.fr
+0.0.0.0 service-cuitura-cergy.fr
 0.0.0.0 service-customer.cfd
 0.0.0.0 service-customer.site
 0.0.0.0 service-de-paiement-des-infractions.fr
@@ -261087,6 +261132,7 @@
 0.0.0.0 shortycoffee.mom
 0.0.0.0 shoshishine.com
 0.0.0.0 shotdujour.com
+0.0.0.0 shotguntickets.fr
 0.0.0.0 shotnba.com
 0.0.0.0 shou-qi.com
 0.0.0.0 shoubaiart.com
@@ -267464,6 +267510,7 @@
 0.0.0.0 sondaammor.cyou
 0.0.0.0 sondakikahaber.org
 0.0.0.0 sondawiesci.pro
+0.0.0.0 soneparfr.fr
 0.0.0.0 sonepart.fr
 0.0.0.0 sonerurush.store
 0.0.0.0 soneta.biz
@@ -272246,6 +272293,7 @@
 0.0.0.0 stokkefrance.fr
 0.0.0.0 stokomani-group.fr
 0.0.0.0 stokomanie.fr
+0.0.0.0 stokomanisas.fr
 0.0.0.0 stokomanl.fr
 0.0.0.0 stokson.azurewebsites.net
 0.0.0.0 stolicakwiatow.live
@@ -286132,6 +286180,7 @@
 0.0.0.0 ticketparty.fr
 0.0.0.0 ticketpulse.fr
 0.0.0.0 ticketrevente.fr
+0.0.0.0 ticketrnaster.fr
 0.0.0.0 tickets-bill.com
 0.0.0.0 tickets-celinedion.fr
 0.0.0.0 tickets-en.fr
@@ -288814,6 +288863,7 @@
 0.0.0.0 toysmyk.top
 0.0.0.0 toysol.com
 0.0.0.0 toysrus-fr.fr
+0.0.0.0 toysrus-france.fr
 0.0.0.0 toystargliders.shop
 0.0.0.0 toystodolls.com
 0.0.0.0 toytemple.shop
@@ -323749,6 +323799,7 @@
 0.0.0.0 xn--rsultat-dpistage-bqbi.fr
 0.0.0.0 xn--ruqs20ac8b5z7av8ir2u.net
 0.0.0.0 xn--ruqz9zcojm5sf19a.com
+0.0.0.0 xn--s-mo-lpaa.re
 0.0.0.0 xn--s1ru0x93t.xn--3ds443g
 0.0.0.0 xn--s4t325g.com
 0.0.0.0 xn--sant-ameli-e7a.fr
@@ -323804,6 +323855,7 @@
 0.0.0.0 xn--se-mo-4ra.re
 0.0.0.0 xn--se-mo-bsa.re
 0.0.0.0 xn--se-mo-csa.re
+0.0.0.0 xn--se-mo-osa.re
 0.0.0.0 xn--secures-imptsgouv-accs-v8b7w.fr
 0.0.0.0 xn--securit-ameli-hhb.fr
 0.0.0.0 xn--securit-assurance-maladie-hic.fr
