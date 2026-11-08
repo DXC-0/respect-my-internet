@@ -49612,6 +49612,7 @@
 ||banquepopulaire-secure.fr^
 ||banquepopulaire-webid.fr^
 ||banquepopulaire-webinfo.fr^
+||banquepopulairebpce.fr^
 ||banquepopulairecotedazur.fr^
 ||banquepopulairedesalpes.fr^
 ||banquepopulairedunord.fr^
@@ -54038,6 +54039,7 @@
 ||billetaccess.fr^
 ||billetdeconcert.fr^
 ||billeterie-fortnite-arena.fr^
+||billeterie-rclens.fr^
 ||billeterieffr.fr^
 ||billeteriejul.fr^
 ||billetevent.fr^
@@ -57300,6 +57302,7 @@
 ||bodsaihioi.53qqm.cn.livecdn.liveplay.myqcloud.com^
 ||bodu.com^
 ||boduhappiness.com^
+||bodumfrance.fr^
 ||body-trixrise.top^
 ||bodyandfit.mom^
 ||bodyandyou.live^
@@ -82653,6 +82656,7 @@
 ||creditmutuel-opposition.fr^
 ||creditmutuel-rhonealpes.fr^
 ||creditmutuel-s.fr^
+||creditmutuel-signature.fr^
 ||creditmutueleasing.fr^
 ||creditmutuelfrance.fr^
 ||creditmutuellearkea.fr^
@@ -102294,7 +102298,7 @@
 ||enelcorazondemarta.com^
 ||eneleness.live^
 ||enercon.live^
-||enercoop-ardennes-champagne.fr^
+||enercoop-ardennes.fr^
 ||enercop.fr^
 ||energetic-rose-pony.31-22-7-7.cpanel.site^
 ||energeticflag.lhe-designs.com^
@@ -127954,6 +127958,7 @@
 ||groupeagricole.fr^
 ||groupeangevin.fr^
 ||groupeauto.fr^
+||groupebati-pro.fr^
 ||groupecanal.fr^
 ||groupecasino1.fr^
 ||groupecible.fr^
@@ -132566,6 +132571,7 @@
 ||haha9911.com^
 ||hahack.com^
 ||hahaertong.com^
+||hahahahahahahaha-mo.re^
 ||hahait.com^
 ||hahajing.com^
 ||hahasou.com^
@@ -273738,6 +273744,7 @@
 ||summer-clothes.fr^
 ||summer-sun-8b7b.alvertahenderson790c9b1.workers.dev^
 ||summercampschina.com^
+||summerclothes.fr^
 ||summerclothingstore-eu-vip.shop^
 ||summerdiscounts.shop^
 ||summerfarm.net^
