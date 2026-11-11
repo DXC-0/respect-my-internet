@@ -43365,6 +43365,7 @@
 ||arity.com^#Arity^-^Tracker^
 ||aritziafr.fr^
 ||aritziafrance.fr^
+||aritziaoutlet.fr^
 ||arixa-trade.com^
 ||arizenomi.eu^
 ||arizona.gov-nazn.help^
@@ -65242,6 +65243,7 @@
 ||cashedcasinos.fr^
 ||cashedd.fr^
 ||cashedenligne.fr^
+||cashedfr.fr^
 ||cashedfrance.fr^
 ||casheds.fr^
 ||cashelbondmere.com^
@@ -66116,6 +66118,7 @@
 ||casinostonevegas.fr^
 ||casinosupremefrancais.fr^
 ||casinosvegasplus.fr^
+||casinosvirtuels.fr^
 ||casinotalismania.fr^
 ||casinotemple.fr^
 ||casinotikitakaenligne.fr^
@@ -82594,10 +82597,15 @@
 ||cresus-enligne-fr.fr^
 ||cresus-enligne-france.fr^
 ||cresus-enligne.fr^
+||cresus-fr-online.fr^
 ||cresus-fr.fr^
 ||cresus-game.fr^
+||cresus-login.fr^
 ||cresus-mobile.fr^
 ||cresus-officiel.fr^
+||cresus-online-fr.fr^
+||cresus-online.fr^
+||cresus-play-fr.fr^
 ||cresus-promo.fr^
 ||cresus-vip-france.fr^
 ||cresus2.fr^
@@ -89878,6 +89886,7 @@
 ||dgfip-lyon.fr^
 ||dgfip-portail.fr^
 ||dgfip-service.fr^
+||dgfip-tva.fr^
 ||dgfip-var.fr^
 ||dgfip94.fr^
 ||dgfipay.fr^
@@ -125640,6 +125649,7 @@
 ||googleepway.com^
 ||googlef.fr^
 ||googlefiber.net^
+||googlefrance.fr^
 ||googlegoogle.fr^
 ||googlegroups.com^
 ||googlehomefoyer-pa.googleapis.com^
@@ -133461,6 +133471,7 @@
 ||hasartespit.org^
 ||hasatdijital.com^
 ||hasatmedya.com^
+||hasbrofrance.fr^
 ||hasbyk.com^
 ||hasco-group.com^
 ||hasco.fr^
@@ -153212,6 +153223,7 @@
 ||jetmobo.com^
 ||jetnaflab.site^
 ||jetneed.com^
+||jeton-fortnite.fr^
 ||jeton-rouge-casino.fr^
 ||jeton-rouge-fr.fr^
 ||jeton-rouge-france.fr^
@@ -169996,6 +170008,7 @@
 ||lindex.brightbasket.top^
 ||lindexparis.fr^
 ||lindmik.com^
+||lindtfrance.fr^
 ||lindverdinode.net^
 ||lindvinstfjord.net^
 ||lindvinstvikpro.com^
@@ -243305,6 +243318,7 @@
 ||regularisation-amende-antai.fr^
 ||regularisation-amende.fr^
 ||regularisation-amendes.fr^
+||regularisation-amiens.fr^
 ||regularisation-antai.fr^
 ||regularisation-antail.fr^
 ||regularisation-banquefrance.fr^
@@ -267421,6 +267435,7 @@
 ||spiinbara.fr^
 ||spiinboss.fr^
 ||spiingranny.fr^
+||spiinogambino.fr^
 ||spike-axid.live^
 ||spike-flarex-nx.net^
 ||spike-imovaxneo.com^
@@ -267485,6 +267500,7 @@
 ||spin-mama-casinoapp.fr^
 ||spin-mama-casinoenligne.fr^
 ||spin-mama-fr.fr^
+||spin-mama-france.fr^
 ||spin-mama-login.fr^
 ||spin-mamabet.fr^
 ||spin-mamabonus-app.fr^
@@ -267768,7 +267784,9 @@
 ||spinmamalogin.fr^
 ||spinmamaofficial.fr^
 ||spinmamaonline.fr^
+||spinmamas-fr.fr^
 ||spinmamascasino.fr^
+||spinmamasfr.fr^
 ||spinmania-casino.fr^
 ||spinmaniacasino.fr^
 ||spinmayacasino.fr^
@@ -269252,6 +269270,7 @@
 ||stakeappengine.com^
 ||stakeapppro.com^
 ||stakeapptrade.com^
+||stakebonus.fr^
 ||stakecas1no.fr^
 ||stakecasino-app.fr^
 ||stakecasino-fr.fr^
@@ -269264,9 +269283,11 @@
 ||stakecasinonl.fr^
 ||stakecasinoo.fr^
 ||stakecasinosocial.fr^
+||stakecode.fr^
 ||staked-casino.fr^
 ||staked.fr^
 ||stakedcasino.fr^
+||stakederetour.fr^
 ||stakefinapp.net^
 ||stakefr.fr^
 ||stakefrance.fr^
@@ -287122,6 +287143,7 @@
 ||toysol.com^
 ||toysrus-fr.fr^
 ||toysrus-france.fr^
+||toysrusfr.fr^
 ||toystargliders.shop^
 ||toystodolls.com^
 ||toytemple.shop^

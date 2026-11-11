@@ -3990,6 +3990,7 @@
 0.0.0.0 ariatparis.fr
 0.0.0.0 aritziafr.fr
 0.0.0.0 aritziafrance.fr
+0.0.0.0 aritziaoutlet.fr
 0.0.0.0 arjel-casino.fr
 0.0.0.0 arkea-cmb.fr
 0.0.0.0 arkea-conseil.fr
@@ -8269,6 +8270,7 @@
 0.0.0.0 cashedcasinos.fr
 0.0.0.0 cashedd.fr
 0.0.0.0 cashedenligne.fr
+0.0.0.0 cashedfr.fr
 0.0.0.0 cashedfrance.fr
 0.0.0.0 casheds.fr
 0.0.0.0 cashexpres.fr
@@ -9111,6 +9113,7 @@
 0.0.0.0 casinostonevegas.fr
 0.0.0.0 casinosupremefrancais.fr
 0.0.0.0 casinosvegasplus.fr
+0.0.0.0 casinosvirtuels.fr
 0.0.0.0 casinotalismania.fr
 0.0.0.0 casinotemple.fr
 0.0.0.0 casinotikitakaenligne.fr
@@ -12965,10 +12968,15 @@
 0.0.0.0 cresus-enligne-fr.fr
 0.0.0.0 cresus-enligne-france.fr
 0.0.0.0 cresus-enligne.fr
+0.0.0.0 cresus-fr-online.fr
 0.0.0.0 cresus-fr.fr
 0.0.0.0 cresus-game.fr
+0.0.0.0 cresus-login.fr
 0.0.0.0 cresus-mobile.fr
 0.0.0.0 cresus-officiel.fr
+0.0.0.0 cresus-online-fr.fr
+0.0.0.0 cresus-online.fr
+0.0.0.0 cresus-play-fr.fr
 0.0.0.0 cresus-promo.fr
 0.0.0.0 cresus-vip-france.fr
 0.0.0.0 cresus2.fr
@@ -13791,6 +13799,7 @@
 0.0.0.0 dgfip-lyon.fr
 0.0.0.0 dgfip-portail.fr
 0.0.0.0 dgfip-service.fr
+0.0.0.0 dgfip-tva.fr
 0.0.0.0 dgfip-var.fr
 0.0.0.0 dgfip94.fr
 0.0.0.0 dgfipay.fr
@@ -18416,6 +18425,7 @@
 0.0.0.0 googledrives.fr
 0.0.0.0 googlee.fr
 0.0.0.0 googlef.fr
+0.0.0.0 googlefrance.fr
 0.0.0.0 googlegoogle.fr
 0.0.0.0 googleia.fr
 0.0.0.0 googleimage.fr
@@ -19149,6 +19159,7 @@
 0.0.0.0 hartamann.fr
 0.0.0.0 hartier-clic.fr
 0.0.0.0 hartman.fr
+0.0.0.0 hasbrofrance.fr
 0.0.0.0 hasco.fr
 0.0.0.0 hasmarkfr.fr
 0.0.0.0 hatchette-multimedia.fr
@@ -21300,6 +21311,7 @@
 0.0.0.0 jesuislola.fr
 0.0.0.0 jetcasino.fr
 0.0.0.0 jetem.fr
+0.0.0.0 jeton-fortnite.fr
 0.0.0.0 jeton-rouge-casino.fr
 0.0.0.0 jeton-rouge-fr.fr
 0.0.0.0 jeton-rouge-france.fr
@@ -23182,6 +23194,7 @@
 0.0.0.0 lindependnant.fr
 0.0.0.0 lindependnt.fr
 0.0.0.0 lindexparis.fr
+0.0.0.0 lindtfrance.fr
 0.0.0.0 line-prime.fr
 0.0.0.0 linekdin.fr
 0.0.0.0 linekin.fr
@@ -32916,6 +32929,7 @@
 0.0.0.0 regularisation-amende-antai.fr
 0.0.0.0 regularisation-amende.fr
 0.0.0.0 regularisation-amendes.fr
+0.0.0.0 regularisation-amiens.fr
 0.0.0.0 regularisation-antai.fr
 0.0.0.0 regularisation-antail.fr
 0.0.0.0 regularisation-banquefrance.fr
@@ -37385,6 +37399,7 @@
 0.0.0.0 spiinbara.fr
 0.0.0.0 spiinboss.fr
 0.0.0.0 spiingranny.fr
+0.0.0.0 spiinogambino.fr
 0.0.0.0 spin--boss.fr
 0.0.0.0 spin-247.fr
 0.0.0.0 spin-altos.fr
@@ -37422,6 +37437,7 @@
 0.0.0.0 spin-mama-casinoapp.fr
 0.0.0.0 spin-mama-casinoenligne.fr
 0.0.0.0 spin-mama-fr.fr
+0.0.0.0 spin-mama-france.fr
 0.0.0.0 spin-mama-login.fr
 0.0.0.0 spin-mamabet.fr
 0.0.0.0 spin-mamabonus-app.fr
@@ -37699,7 +37715,9 @@
 0.0.0.0 spinmamalogin.fr
 0.0.0.0 spinmamaofficial.fr
 0.0.0.0 spinmamaonline.fr
+0.0.0.0 spinmamas-fr.fr
 0.0.0.0 spinmamascasino.fr
+0.0.0.0 spinmamasfr.fr
 0.0.0.0 spinmania-casino.fr
 0.0.0.0 spinmaniacasino.fr
 0.0.0.0 spinmayacasino.fr
@@ -37998,6 +38016,7 @@
 0.0.0.0 stake7casinodeposit.fr
 0.0.0.0 stake7casinologin.fr
 0.0.0.0 stake7online.fr
+0.0.0.0 stakebonus.fr
 0.0.0.0 stakecas1no.fr
 0.0.0.0 stakecasino-app.fr
 0.0.0.0 stakecasino-fr.fr
@@ -38010,9 +38029,11 @@
 0.0.0.0 stakecasinonl.fr
 0.0.0.0 stakecasinoo.fr
 0.0.0.0 stakecasinosocial.fr
+0.0.0.0 stakecode.fr
 0.0.0.0 staked-casino.fr
 0.0.0.0 staked.fr
 0.0.0.0 stakedcasino.fr
+0.0.0.0 stakederetour.fr
 0.0.0.0 stakefr.fr
 0.0.0.0 stakefrance.fr
 0.0.0.0 stakegratuit.fr
@@ -39911,6 +39932,7 @@
 0.0.0.0 toxicasino.fr
 0.0.0.0 toysrus-fr.fr
 0.0.0.0 toysrus-france.fr
+0.0.0.0 toysrusfr.fr
 0.0.0.0 tpepascher.fr
 0.0.0.0 tplinkfrance.fr
 0.0.0.0 tpmpreplay.fr
