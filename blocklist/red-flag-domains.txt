@@ -271,6 +271,7 @@
 0.0.0.0 3dbourso.fr
 0.0.0.0 3dhjzjz.fr
 0.0.0.0 3dpaysecurefacturation.fr
+0.0.0.0 3dprlnt.fr
 0.0.0.0 3dsecure.fr
 0.0.0.0 3dsecuredauthentification.fr
 0.0.0.0 3mfrances.fr
@@ -6929,6 +6930,7 @@
 0.0.0.0 bonrpix.fr
 0.0.0.0 bonus-betify.fr
 0.0.0.0 bonus-stake.fr
+0.0.0.0 bonus4casino.fr
 0.0.0.0 bonusbetcasinoapp.fr
 0.0.0.0 bonusbetcasinobonus.fr
 0.0.0.0 bonusbetcasinobonus777.fr
@@ -11387,6 +11389,7 @@
 0.0.0.0 coinbase-supportdesk.fr
 0.0.0.0 coinbase.re
 0.0.0.0 coinbasepro.fr
+0.0.0.0 coinbasesupport.fr
 0.0.0.0 coincasino-france.fr
 0.0.0.0 coincasino.fr
 0.0.0.0 coincasinopro.fr
@@ -13814,6 +13817,7 @@
 0.0.0.0 dgfipgouvfinances.fr
 0.0.0.0 dgfipgroupe.fr
 0.0.0.0 dgfipimpot.fr
+0.0.0.0 dgfipvisio.fr
 0.0.0.0 dgflip-finance.fr
 0.0.0.0 dgfp-france.fr
 0.0.0.0 dgfp-ma-tva-scfp.fr
@@ -15312,6 +15316,7 @@
 0.0.0.0 espace-activations.fr
 0.0.0.0 espace-actualisation-assure-enligne.fr
 0.0.0.0 espace-actualisation.fr
+0.0.0.0 espace-adherent-ffst.fr
 0.0.0.0 espace-agricol.fr
 0.0.0.0 espace-aidesante.fr
 0.0.0.0 espace-amande.fr
@@ -24214,6 +24219,7 @@
 0.0.0.0 lyonn.fr
 0.0.0.0 lyonnaisedes-eaux.fr
 0.0.0.0 lyophililse.fr
+0.0.0.0 lyra-france.fr
 0.0.0.0 lyrabetcasino.fr
 0.0.0.0 lyracasino.fr
 0.0.0.0 lzboncoin.fr
@@ -25166,6 +25172,7 @@
 0.0.0.0 maxxed-casino.fr
 0.0.0.0 maxxifoot.fr
 0.0.0.0 may-connect.fr
+0.0.0.0 maybelee-n.fr
 0.0.0.0 maybellinefrance.fr
 0.0.0.0 mayday-online.fr
 0.0.0.0 mayhem-billetterie.fr
@@ -25352,7 +25359,9 @@
 0.0.0.0 merignaccybertek.fr
 0.0.0.0 merino-chaussure.fr
 0.0.0.0 merkur-casino.fr
+0.0.0.0 merkur-casinos.fr
 0.0.0.0 merkurcasino.fr
+0.0.0.0 merkurcasinos.fr
 0.0.0.0 merlin-casino.fr
 0.0.0.0 merlin-outlet.fr
 0.0.0.0 merlincasino.fr
@@ -28699,6 +28708,7 @@
 0.0.0.0 novaskiin.fr
 0.0.0.0 novaskin-paris.fr
 0.0.0.0 novaskinfr.fr
+0.0.0.0 novesta-fr.fr
 0.0.0.0 novibet-casino.fr
 0.0.0.0 novibetcasino.fr
 0.0.0.0 novoline-casino.fr
@@ -40640,6 +40650,7 @@
 0.0.0.0 univtoursambitieuseresponsablehumaine.fr
 0.0.0.0 univubs.fr
 0.0.0.0 unkbet.fr
+0.0.0.0 unlv-lyon2.fr
 0.0.0.0 unme-asso.fr
 0.0.0.0 unmericable.fr
 0.0.0.0 unodieuxconnard.fr
@@ -43592,6 +43603,7 @@
 0.0.0.0 xn--rsiliation-esim-sfr-bzb.fr
 0.0.0.0 xn--rsiliation-prlvement-b2bmb.fr
 0.0.0.0 xn--rsultat-dpistage-bqbi.fr
+0.0.0.0 xn--s-mo-5oaa.re
 0.0.0.0 xn--s-mo-lpaa.re
 0.0.0.0 xn--sant-ameli-e7a.fr
 0.0.0.0 xn--sant-amli-e4ad.fr

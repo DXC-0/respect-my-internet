@@ -7002,6 +7002,7 @@
 0.0.0.0 3dniz.com
 0.0.0.0 3doe.com
 0.0.0.0 3dpaysecurefacturation.fr
+0.0.0.0 3dprlnt.fr
 0.0.0.0 3drrr.com
 0.0.0.0 3dsecure.fr
 0.0.0.0 3dsecuredauthentification.fr
@@ -57998,6 +57999,7 @@
 0.0.0.0 bonus-betify.fr
 0.0.0.0 bonus-stake.fr
 0.0.0.0 bonus.shop-pontlivel.click
+0.0.0.0 bonus4casino.fr
 0.0.0.0 bonusbetcasinoapp.fr
 0.0.0.0 bonusbetcasinobonus.fr
 0.0.0.0 bonusbetcasinobonus777.fr
@@ -78211,6 +78213,7 @@
 0.0.0.0 coinbaseincauth.netflixuae.com
 0.0.0.0 coinbasepro.fr
 0.0.0.0 coinbaseprotect.com
+0.0.0.0 coinbasesupport.fr
 0.0.0.0 coinbaseverificationcode-loindaetsgseyeg2541dds.verificationmails.com
 0.0.0.0 coinbaseverify.vercel.app
 0.0.0.0 coinbasevip2012.net
@@ -90574,6 +90577,7 @@
 0.0.0.0 dgfipgouvfinances.fr
 0.0.0.0 dgfipgroupe.fr
 0.0.0.0 dgfipimpot.fr
+0.0.0.0 dgfipvisio.fr
 0.0.0.0 dgflip-finance.fr
 0.0.0.0 dgfp-france.fr
 0.0.0.0 dgfp-ma-tva-scfp.fr
@@ -104196,6 +104200,7 @@
 0.0.0.0 espace-activations.fr
 0.0.0.0 espace-actualisation-assure-enligne.fr
 0.0.0.0 espace-actualisation.fr
+0.0.0.0 espace-adherent-ffst.fr
 0.0.0.0 espace-agricol.fr
 0.0.0.0 espace-aidesante.fr
 0.0.0.0 espace-amande.fr
@@ -177814,6 +177819,7 @@
 0.0.0.0 lyqgm.com
 0.0.0.0 lyqlm.com
 0.0.0.0 lyquanshunmall.com
+0.0.0.0 lyra-france.fr
 0.0.0.0 lyra-vestgrove-au.com
 0.0.0.0 lyrabetcasino.fr
 0.0.0.0 lyracasino.fr
@@ -181688,6 +181694,7 @@
 0.0.0.0 maybankinvest.net
 0.0.0.0 maybankinvestments.com
 0.0.0.0 maybe2016.com
+0.0.0.0 maybelee-n.fr
 0.0.0.0 maybellinefrance.fr
 0.0.0.0 maybuysnow.sbs
 0.0.0.0 maycpay.com
@@ -183379,7 +183386,9 @@
 0.0.0.0 merklechina.com
 0.0.0.0 merkpd.com
 0.0.0.0 merkur-casino.fr
+0.0.0.0 merkur-casinos.fr
 0.0.0.0 merkurcasino.fr
+0.0.0.0 merkurcasinos.fr
 0.0.0.0 merlaterza.cyou
 0.0.0.0 merlavo.shop
 0.0.0.0 merlesmacr.store
@@ -210570,6 +210579,7 @@
 0.0.0.0 novepath.com
 0.0.0.0 noverdecer.cyou
 0.0.0.0 noverocidsaxals.site
+0.0.0.0 novesta-fr.fr
 0.0.0.0 novestraxtrade.com
 0.0.0.0 novexafin.com
 0.0.0.0 novexai.net
@@ -296480,6 +296490,7 @@
 0.0.0.0 unlockme-a9230.firebaseio.com
 0.0.0.0 unlockon.com
 0.0.0.0 unloqmathu.cyou
+0.0.0.0 unlv-lyon2.fr
 0.0.0.0 unmanspiri.online
 0.0.0.0 unmartial.xyz
 0.0.0.0 unmasidoli.store
@@ -324917,6 +324928,7 @@
 0.0.0.0 xn--rsultat-dpistage-bqbi.fr
 0.0.0.0 xn--ruqs20ac8b5z7av8ir2u.net
 0.0.0.0 xn--ruqz9zcojm5sf19a.com
+0.0.0.0 xn--s-mo-5oaa.re
 0.0.0.0 xn--s-mo-lpaa.re
 0.0.0.0 xn--s1ru0x93t.xn--3ds443g
 0.0.0.0 xn--s4t325g.com
