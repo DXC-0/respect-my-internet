@@ -16966,6 +16966,7 @@
 0.0.0.0 accountupdate.fr
 0.0.0.0 accountvalidations.fr
 0.0.0.0 accountverify.fr
+0.0.0.0 accountviva.fr
 0.0.0.0 accountx-sync-outex.vercel.app
 0.0.0.0 accovcopac.store
 0.0.0.0 accovpretr.cyou
@@ -39775,6 +39776,8 @@
 0.0.0.0 amunbet-france.fr
 0.0.0.0 amunbetcasino.fr
 0.0.0.0 amunbetfrance.fr
+0.0.0.0 amunbetonline.fr
+0.0.0.0 amunbetplay.fr
 0.0.0.0 amunion.com
 0.0.0.0 amunra-casinos.fr
 0.0.0.0 amunra-en-ligne.fr
@@ -41836,8 +41839,11 @@
 0.0.0.0 aphidic.com
 0.0.0.0 apholidaylighting.com
 0.0.0.0 aphprp.fr
+0.0.0.0 aphrodite-casino24.fr
 0.0.0.0 aphrodite-casinos.fr
+0.0.0.0 aphroditecasino24.fr
 0.0.0.0 aphroditecasinoo.fr
+0.0.0.0 aphroditecasinos.fr
 0.0.0.0 aphroditescasino.fr
 0.0.0.0 aphrosestates.net
 0.0.0.0 api-a.chat.twitch.tv
@@ -47121,6 +47127,8 @@
 0.0.0.0 avehav.top
 0.0.0.0 aveibi.top
 0.0.0.0 avelduro.click
+0.0.0.0 avelia-paris.fr
+0.0.0.0 aveliaparis.fr
 0.0.0.0 avelicio.click
 0.0.0.0 avelicio.live
 0.0.0.0 avelicioai-it.live
@@ -47290,6 +47298,7 @@
 0.0.0.0 avis-bourso-app.fr
 0.0.0.0 avis-contravention.fr
 0.0.0.0 avis-is.m.facebook.com
+0.0.0.0 avis-pagejaune.fr
 0.0.0.0 avis-penal.fr
 0.0.0.0 avis-penalite.fr
 0.0.0.0 avis-penalites.fr
@@ -49481,6 +49490,7 @@
 0.0.0.0 balrog-public-v2-lb-450722629.us-east-1.elb.amazonaws.com
 0.0.0.0 balrog.nonprod.cloudops.mozgcp.net
 0.0.0.0 balrog.prod.cloudops.mozgcp.net
+0.0.0.0 balsamhill-fr.fr
 0.0.0.0 balsamichawksssbills.info
 0.0.0.0 balsamick.fr
 0.0.0.0 baltamatica.com
@@ -52503,6 +52513,7 @@
 0.0.0.0 bet365casino.fr
 0.0.0.0 bet3739.com
 0.0.0.0 bet45.fr
+0.0.0.0 bet4fun.fr
 0.0.0.0 bet4star.fr
 0.0.0.0 bet4win.fr
 0.0.0.0 bet5993.com
@@ -53043,6 +53054,7 @@
 0.0.0.0 betsamigo.fr
 0.0.0.0 betsat.fr
 0.0.0.0 betsbunny.fr
+0.0.0.0 betscarabcasino.fr
 0.0.0.0 betsclic.fr
 0.0.0.0 betscore-fr.fr
 0.0.0.0 betscorecasino.fr
@@ -66115,6 +66127,7 @@
 0.0.0.0 casinobrutal.fr
 0.0.0.0 casinobuck.fr
 0.0.0.0 casinoburan.fr
+0.0.0.0 casinobyzance.fr
 0.0.0.0 casinocandyspinz.fr
 0.0.0.0 casinocannes.fr
 0.0.0.0 casinocasea.fr
@@ -66206,6 +66219,7 @@
 0.0.0.0 casinofortuna1.fr
 0.0.0.0 casinofrance55.fr
 0.0.0.0 casinofrancebest.fr
+0.0.0.0 casinofranceenligne.fr
 0.0.0.0 casinofreshbet.fr
 0.0.0.0 casinofrumzi.fr
 0.0.0.0 casinofunbet.fr
@@ -80031,6 +80045,7 @@
 0.0.0.0 constoltra.cyou
 0.0.0.0 constquadr.cyou
 0.0.0.0 constructaidng.com
+0.0.0.0 constructionelec-group.fr
 0.0.0.0 constructionguy.com
 0.0.0.0 constructoravision.com
 0.0.0.0 constructstagecorp.su
@@ -115329,6 +115344,7 @@
 0.0.0.0 flourishing-nasturtium-beac6c.netlify.app
 0.0.0.0 flourishingchurches.org
 0.0.0.0 flouspl.shop
+0.0.0.0 flouz-casino.fr
 0.0.0.0 flouz-fr.fr
 0.0.0.0 flouz-online.fr
 0.0.0.0 floventra.click
@@ -173041,6 +173057,7 @@
 0.0.0.0 lizard-outsourcing.lovable.app
 0.0.0.0 lizaro-casino-fr.fr
 0.0.0.0 lizaro-casino-online.fr
+0.0.0.0 lizaro-casino24.fr
 0.0.0.0 lizaro-casinos.fr
 0.0.0.0 lizaro-french.fr
 0.0.0.0 lizaro-offical.fr
@@ -173617,6 +173634,8 @@
 0.0.0.0 loadbalancer.webproxypromo.webproxy.idqqimg.com
 0.0.0.0 loadbee-production-981938583.eu-central-1.elb.amazonaws.com
 0.0.0.0 loadcorewave.com
+0.0.0.0 loaded-casino.fr
+0.0.0.0 loadedcasino.fr
 0.0.0.0 loadflowbase.site
 0.0.0.0 loading-chronopostlivraison.fr
 0.0.0.0 loading-connection-in-action.firebaseapp.com
@@ -175222,6 +175241,7 @@
 0.0.0.0 lotame.com #Lotame - Tracker
 0.0.0.0 lotemaxlab.net
 0.0.0.0 lotericacaixabrasil.com
+0.0.0.0 loterie-nationale.fr
 0.0.0.0 lotevision.com
 0.0.0.0 lotianshangx.com
 0.0.0.0 lotifverru.cyou
@@ -178816,6 +178836,7 @@
 0.0.0.0 mafia-casino-france.fr
 0.0.0.0 mafia-casino-online.fr
 0.0.0.0 mafia-casino1.fr
+0.0.0.0 mafia-casino24.fr
 0.0.0.0 mafia-casinoofficiel.fr
 0.0.0.0 mafia-casinos.fr
 0.0.0.0 mafia-en-ligne.fr
@@ -178833,6 +178854,7 @@
 0.0.0.0 mafia2-online.fr
 0.0.0.0 mafiacasino-fr.fr
 0.0.0.0 mafiacasino-france.fr
+0.0.0.0 mafiacasino-online.fr
 0.0.0.0 mafiacasino.fr
 0.0.0.0 mafiacasinoapp.fr
 0.0.0.0 mafiacasinoavis.fr
@@ -178842,6 +178864,7 @@
 0.0.0.0 mafiacasinofr1.fr
 0.0.0.0 mafiacasinologin777.fr
 0.0.0.0 mafiacasinoo.fr
+0.0.0.0 mafiacasinos-fr.fr
 0.0.0.0 mafiaenligne.fr
 0.0.0.0 mafias-play.fr
 0.0.0.0 mafichedeclasse.fr
@@ -179435,6 +179458,7 @@
 0.0.0.0 mailing-prime.fr
 0.0.0.0 mailixing.com
 0.0.0.0 mailizc.com
+0.0.0.0 mailjet-e-mail.fr
 0.0.0.0 mailjet-update.fr
 0.0.0.0 mailjob.net
 0.0.0.0 maillboxupdatesupport.weebly.com
@@ -207615,6 +207639,7 @@
 0.0.0.0 ninecasino-online.fr
 0.0.0.0 ninecasino0.fr
 0.0.0.0 ninecasino2.fr
+0.0.0.0 ninecasino24.fr
 0.0.0.0 ninecasino4.fr
 0.0.0.0 ninecasino7.fr
 0.0.0.0 ninecasino9.fr
@@ -220354,6 +220379,7 @@
 0.0.0.0 outlet-kway.fr
 0.0.0.0 outlet-lacoste.fr
 0.0.0.0 outlet-luxe.fr
+0.0.0.0 outlet-luxury.fr
 0.0.0.0 outlet-militaria.shop
 0.0.0.0 outlet-moncler.fr
 0.0.0.0 outlet-nb.fr
@@ -220370,6 +220396,7 @@
 0.0.0.0 outlet-star.fr
 0.0.0.0 outlet-stock.fr
 0.0.0.0 outlet-stoneisland.fr
+0.0.0.0 outlet-store.fr
 0.0.0.0 outlet-ugg.fr
 0.0.0.0 outlet-uggs.fr
 0.0.0.0 outlet-uggstore.fr
@@ -225706,6 +225733,7 @@
 0.0.0.0 pgyidc.com
 0.0.0.0 pgzs.com
 0.0.0.0 pgzx.net
+0.0.0.0 ph-ants.fr
 0.0.0.0 ph-fc.com
 0.0.0.0 ph-jiliee.com
 0.0.0.0 ph-jljl2.com
@@ -249900,6 +249928,7 @@
 0.0.0.0 rossoarts.com
 0.0.0.0 rossoarts.net
 0.0.0.0 rossopharm.com
+0.0.0.0 rossowincasino.fr
 0.0.0.0 rossroma.com
 0.0.0.0 rossvermoheim.net
 0.0.0.0 rostartdesign.com
@@ -265451,6 +265480,7 @@
 0.0.0.0 smart-room9993.com
 0.0.0.0 smart-rooms2801.com
 0.0.0.0 smart-speech.com
+0.0.0.0 smart-ticket.fr
 0.0.0.0 smart-tutorial.com
 0.0.0.0 smart.com
 0.0.0.0 smart.link #Kochava - Tracker
@@ -269673,6 +269703,7 @@
 0.0.0.0 spin-festcasino.fr
 0.0.0.0 spin-fever.fr
 0.0.0.0 spin-fin-casino.fr
+0.0.0.0 spin-formula.fr
 0.0.0.0 spin-hub.fr
 0.0.0.0 spin-hubcasino.fr
 0.0.0.0 spin-madness.fr
@@ -269860,6 +269891,7 @@
 0.0.0.0 spindynastyfrance.fr
 0.0.0.0 spineliteclub.info
 0.0.0.0 spinello.fr
+0.0.0.0 spinergy.fr
 0.0.0.0 spinerino.fr
 0.0.0.0 spinfest-fr.fr
 0.0.0.0 spinfest1.fr
@@ -270138,6 +270170,7 @@
 0.0.0.0 spinwin-casino.fr
 0.0.0.0 spinwincasino.fr
 0.0.0.0 spinwinera-fr.fr
+0.0.0.0 spinwintercasino.fr
 0.0.0.0 spinxtremecasino.fr
 0.0.0.0 spinybet.fr
 0.0.0.0 spinzen.fr
@@ -271829,6 +271862,7 @@
 0.0.0.0 starlightdwelling.com
 0.0.0.0 starlightstakemarket.com
 0.0.0.0 starlingbalsa.shop
+0.0.0.0 starlink-abonnement.fr
 0.0.0.0 starlink-fr.fr
 0.0.0.0 starlink-france.fr
 0.0.0.0 starlink.uno
@@ -288510,6 +288544,7 @@
 0.0.0.0 tomax.xyz
 0.0.0.0 tombaundes.cyou
 0.0.0.0 tombill.shop
+0.0.0.0 tombluckcasino.fr
 0.0.0.0 tomdiy.com
 0.0.0.0 tomezaro.com
 0.0.0.0 tomfloral.net
