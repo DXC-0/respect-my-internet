@@ -2092,6 +2092,7 @@
 0.0.0.0 amazonppc.fr
 0.0.0.0 amazonprime-abonnement.fr
 0.0.0.0 amazonprime-connexion.fr
+0.0.0.0 amazonprime-network.fr
 0.0.0.0 amazonprime-video.fr
 0.0.0.0 amazonprimesec.fr
 0.0.0.0 amazonrenouvellement.fr
@@ -6043,6 +6044,7 @@
 0.0.0.0 betifyonline.fr
 0.0.0.0 betifyparis.fr
 0.0.0.0 betifyreview.fr
+0.0.0.0 betifys-casino.fr
 0.0.0.0 betifys-french.fr
 0.0.0.0 betifysh.fr
 0.0.0.0 betigma-casino.fr
@@ -14871,6 +14873,7 @@
 0.0.0.0 edfetmoi.fr
 0.0.0.0 edfmaconso.fr
 0.0.0.0 edfmoncompte.fr
+0.0.0.0 edfmoncontrat.fr
 0.0.0.0 edfnumero.fr
 0.0.0.0 edfpaiement.fr
 0.0.0.0 edfpartenaires.fr
@@ -21865,6 +21868,7 @@
 0.0.0.0 kokobet-casino.fr
 0.0.0.0 kokobetcasino.fr
 0.0.0.0 komatsu-france.fr
+0.0.0.0 kombini.fr
 0.0.0.0 kommersant.re
 0.0.0.0 komo-bet.fr
 0.0.0.0 komobet-casino.fr
@@ -23494,6 +23498,7 @@
 0.0.0.0 loakesfrance.fr
 0.0.0.0 locaiisation.fr
 0.0.0.0 locaiiser-app.fr
+0.0.0.0 locaiiser-map.fr
 0.0.0.0 local-prime.fr
 0.0.0.0 locales-insee.fr
 0.0.0.0 localisation-connect.fr
@@ -33918,9 +33923,11 @@
 0.0.0.0 rockstar-casino-777.fr
 0.0.0.0 rockstar-casino-888.fr
 0.0.0.0 rockstar-casino-99.fr
+0.0.0.0 rockstar-casinos.fr
 0.0.0.0 rockstar-france.fr
 0.0.0.0 rockstarcasino-france.fr
 0.0.0.0 rockstarcasino-officiel.fr
+0.0.0.0 rockstarcasino.fr
 0.0.0.0 rockstarscasino.fr
 0.0.0.0 rockthebretzel.fr
 0.0.0.0 rocky-spin-casino.fr
@@ -34592,6 +34599,7 @@
 0.0.0.0 sberbank.re
 0.0.0.0 sc-ugap.fr
 0.0.0.0 scamdoc.fr
+0.0.0.0 scaouest-france.fr
 0.0.0.0 scapest-leclerc.fr
 0.0.0.0 scapnor-leclerc.fr
 0.0.0.0 scarmor-sa.fr
@@ -37762,6 +37770,7 @@
 0.0.0.0 spinmamasfr.fr
 0.0.0.0 spinmania-casino.fr
 0.0.0.0 spinmaniacasino.fr
+0.0.0.0 spinmas.fr
 0.0.0.0 spinmayacasino.fr
 0.0.0.0 spinmillion-casino.fr
 0.0.0.0 spinmillion-com.fr
@@ -37827,6 +37836,7 @@
 0.0.0.0 spins-aura.fr
 0.0.0.0 spins-casino.fr
 0.0.0.0 spins-heaven.fr
+0.0.0.0 spins-mama.fr
 0.0.0.0 spins-of-glory-casino.fr
 0.0.0.0 spins-of-glorycasino.fr
 0.0.0.0 spinsahara-casino.fr
@@ -39143,6 +39153,7 @@
 0.0.0.0 swisslife-info.fr
 0.0.0.0 swisslifesbanque.fr
 0.0.0.0 swisslive.fr
+0.0.0.0 swisspay.fr
 0.0.0.0 swisspost-suivi.fr
 0.0.0.0 swisspost-tck.fr
 0.0.0.0 sx-prime.fr
@@ -40575,6 +40586,7 @@
 0.0.0.0 univ-picardie.fr
 0.0.0.0 univ-polesup.fr
 0.0.0.0 univ-psaclay.fr
+0.0.0.0 univ-pucvl.fr
 0.0.0.0 univ-renne.fr
 0.0.0.0 univ-rennes-2.fr
 0.0.0.0 univ-sciencespo-grenoble-alpes.fr
@@ -40628,6 +40640,7 @@
 0.0.0.0 universite-cotedazur.fr
 0.0.0.0 universite-evry.fr
 0.0.0.0 universite-jfc-rodez.fr
+0.0.0.0 universite-lemans.fr
 0.0.0.0 universite-lyon1.fr
 0.0.0.0 universite-lyon3.fr
 0.0.0.0 universite-mlp.fr
@@ -42952,6 +42965,7 @@
 0.0.0.0 wwwaste.fr
 0.0.0.0 wwwauchan.fr
 0.0.0.0 wwwautoscout24.fr
+0.0.0.0 wwwaveniq.fr
 0.0.0.0 wwwavis.fr
 0.0.0.0 wwwbalmain.fr
 0.0.0.0 wwwbanquepostale.fr
