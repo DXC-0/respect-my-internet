@@ -16391,6 +16391,7 @@
 0.0.0.0 ac-habitat.fr
 0.0.0.0 ac-liille.fr
 0.0.0.0 ac-limooges.fr
+0.0.0.0 ac-marseille-aix.fr
 0.0.0.0 ac-matrinique.fr
 0.0.0.0 ac-monptellier.fr
 0.0.0.0 ac-montepellier.fr
@@ -37407,6 +37408,7 @@
 0.0.0.0 allyspin-com.fr
 0.0.0.0 allyspin-fr.fr
 0.0.0.0 allyspin-france.fr
+0.0.0.0 allyspin-online.fr
 0.0.0.0 allyspin.fr
 0.0.0.0 allyspin1.fr
 0.0.0.0 allyspin2.fr
@@ -39660,6 +39662,7 @@
 0.0.0.0 amon-casino-fr.fr
 0.0.0.0 amon-casino-france.fr
 0.0.0.0 amon-casinos.fr
+0.0.0.0 amon-online.fr
 0.0.0.0 amonapp.fr
 0.0.0.0 amonbe-t.fr
 0.0.0.0 amonbet-casino.fr
@@ -50211,6 +50214,7 @@
 0.0.0.0 barbosritel.com
 0.0.0.0 barbour-outlet.fr
 0.0.0.0 barbourfr.fr
+0.0.0.0 barbourfrance.fr
 0.0.0.0 barbourfranceoutlet.fr
 0.0.0.0 barbourofficial.fr
 0.0.0.0 barbourofficiel.fr
@@ -58739,6 +58743,7 @@
 0.0.0.0 bouyguestelcom-entreprises.fr
 0.0.0.0 bouyguestelecom-connect.fr
 0.0.0.0 bouyguestelecom-fibre.fr
+0.0.0.0 bouyguestelecom-newsletter.fr
 0.0.0.0 bouyguestelecommarketing.fr
 0.0.0.0 bouyguestelecomr.fr
 0.0.0.0 bouyguesteleom.fr
@@ -60393,6 +60398,7 @@
 0.0.0.0 brutal-casino.fr
 0.0.0.0 brutal-casinos.fr
 0.0.0.0 brutal-enligne.fr
+0.0.0.0 brutal-online.fr
 0.0.0.0 brutalcas1no.fr
 0.0.0.0 brutalcasino-en-ligne.fr
 0.0.0.0 brutalcasino-enligne.fr
@@ -68549,6 +68555,7 @@
 0.0.0.0 cefcub.co.com
 0.0.0.0 cefluno.shop
 0.0.0.0 cefsv.top
+0.0.0.0 cegetels.fr
 0.0.0.0 ceggd.com
 0.0.0.0 cegid-amb.fr
 0.0.0.0 cegid-public.fr
@@ -82388,6 +82395,7 @@
 0.0.0.0 crdnk.com
 0.0.0.0 crdp-strsbourg.fr
 0.0.0.0 cre.net
+0.0.0.0 creacit.fr
 0.0.0.0 cread.com
 0.0.0.0 creadit-agricole-serviceclient.fr
 0.0.0.0 creaenaltura.com
@@ -135799,6 +135807,7 @@
 0.0.0.0 hermes-destock.fr
 0.0.0.0 hermes-fr.fr
 0.0.0.0 hermes-france.fr
+0.0.0.0 hermes-online.fr
 0.0.0.0 hermes-outlet.fr
 0.0.0.0 hermes.twitch.tv
 0.0.0.0 hermescasino-fr.fr
@@ -159470,6 +159479,7 @@
 0.0.0.0 kaannotebook.com
 0.0.0.0 kaanyacht.com
 0.0.0.0 kaasino-casino.fr
+0.0.0.0 kaasino-online.fr
 0.0.0.0 kaasinocasino.fr
 0.0.0.0 kaasinofrance.fr
 0.0.0.0 kaayou.com
@@ -173142,6 +173152,7 @@
 0.0.0.0 locowin-fr.fr
 0.0.0.0 locowin-fra.fr
 0.0.0.0 locowin-france.fr
+0.0.0.0 locowin-online.fr
 0.0.0.0 locowin-promo.fr
 0.0.0.0 locowin7.fr
 0.0.0.0 locowincasino-fr.fr
@@ -175332,6 +175343,7 @@
 0.0.0.0 lucky-8casino.fr
 0.0.0.0 lucky-8france.fr
 0.0.0.0 lucky-block-fr.fr
+0.0.0.0 lucky-block-online.fr
 0.0.0.0 lucky-bonus.fr
 0.0.0.0 lucky-boom-fr.fr
 0.0.0.0 lucky-boom.fr
@@ -179122,6 +179134,7 @@
 0.0.0.0 malina-casino1.fr
 0.0.0.0 malina-casinos.fr
 0.0.0.0 malina-fr.fr
+0.0.0.0 malina-online.fr
 0.0.0.0 malinaacasinos.fr
 0.0.0.0 malinabonus.fr
 0.0.0.0 malinacasino-fr.fr
@@ -181734,6 +181747,7 @@
 0.0.0.0 megawin-enligne.fr
 0.0.0.0 megawin-fr.fr
 0.0.0.0 megawin-france.fr
+0.0.0.0 megawin-online.fr
 0.0.0.0 megawin3.fr
 0.0.0.0 megawin303trade.com
 0.0.0.0 megawincas1no.fr
@@ -201461,6 +201475,7 @@
 0.0.0.0 myeladereg.cyou
 0.0.0.0 myempire-casinos.fr
 0.0.0.0 myempire-fr.fr
+0.0.0.0 myempire-online.fr
 0.0.0.0 myempirecasino-fr.fr
 0.0.0.0 myempirecasino1.fr
 0.0.0.0 myempirecasinofrance.fr
@@ -206500,6 +206515,7 @@
 0.0.0.0 nickel-one-app.fr
 0.0.0.0 nickel-service-appli.fr
 0.0.0.0 nickel-service.fr
+0.0.0.0 nickelclient.fr
 0.0.0.0 nickelcom.fr
 0.0.0.0 nickelcompte.fr
 0.0.0.0 nickelcomptes.fr
@@ -209487,6 +209503,8 @@
 0.0.0.0 novaluxfrance.fr
 0.0.0.0 novaluxtrade.com
 0.0.0.0 novalvith.cfd
+0.0.0.0 novalyxlabs.fr
+0.0.0.0 novalyxlabsfr.fr
 0.0.0.0 novamindtrade.com
 0.0.0.0 novamiova.site
 0.0.0.0 novaobud.fitpatootie.com
@@ -217133,14 +217151,17 @@
 0.0.0.0 onlin-login.fr
 0.0.0.0 online-3rvers-authy.firebaseapp.com
 0.0.0.0 online-3rvers-authy.web.app
+0.0.0.0 online-alexander.fr
 0.0.0.0 online-asset-manager.firebaseapp.com
 0.0.0.0 online-asset-manager.web.app
 0.0.0.0 online-auchan.fr
 0.0.0.0 online-banquepostal.fr
 0.0.0.0 online-casino.fr
 0.0.0.0 online-casinoruna.fr
+0.0.0.0 online-cazeus.fr
 0.0.0.0 online-clearance.shop
 0.0.0.0 online-cmcc.net
+0.0.0.0 online-coolzino.fr
 0.0.0.0 online-cresus.fr
 0.0.0.0 online-data-management.com
 0.0.0.0 online-device-deny.firebaseapp.com
@@ -217149,10 +217170,13 @@
 0.0.0.0 online-edu.org
 0.0.0.0 online-express-53.firebaseapp.com
 0.0.0.0 online-express-53.web.app
+0.0.0.0 online-extra.fr
 0.0.0.0 online-fast-slots.fr
 0.0.0.0 online-fastslots.fr
 0.0.0.0 online-franprix.fr
+0.0.0.0 online-frumzi.fr
 0.0.0.0 online-gobik-store-jt.shop
+0.0.0.0 online-godz.fr
 0.0.0.0 online-gransino.fr
 0.0.0.0 online-hpsports.com
 0.0.0.0 online-impots-gouv-infos.fr
@@ -217161,6 +217185,7 @@
 0.0.0.0 online-leon-casino.fr
 0.0.0.0 online-leon.fr
 0.0.0.0 online-leoncasino.fr
+0.0.0.0 online-magius.fr
 0.0.0.0 online-manage-device.firebaseapp.com
 0.0.0.0 online-manage-device.web.app
 0.0.0.0 online-meand-em-store.top
@@ -217170,6 +217195,7 @@
 0.0.0.0 online-oriders.cfd
 0.0.0.0 online-pharmacy.vip
 0.0.0.0 online-pl.shop
+0.0.0.0 online-play-regal.fr
 0.0.0.0 online-primadonna.top
 0.0.0.0 online-remove-payee.firebaseapp.com
 0.0.0.0 online-remove-payee.web.app
@@ -217179,9 +217205,12 @@
 0.0.0.0 online-rossmann.sbs
 0.0.0.0 online-secured-access-webmail-confi.vercel.app
 0.0.0.0 online-simmsfishing-vip.top
+0.0.0.0 online-spinaura.fr
+0.0.0.0 online-spinsy.fr
 0.0.0.0 online-support.fr
 0.0.0.0 online-support.id-001561628461.com
 0.0.0.0 online-swapzone.gr.com
+0.0.0.0 online-talismania.fr
 0.0.0.0 online-tchibosale.shop
 0.0.0.0 online-tcufinancialgroup.com
 0.0.0.0 online-tikitaka.fr
@@ -231508,6 +231537,7 @@
 0.0.0.0 posido-casino-france.fr
 0.0.0.0 posido-casinoonline.fr
 0.0.0.0 posido-casinos.fr
+0.0.0.0 posido-online.fr
 0.0.0.0 posidocasino-fr.fr
 0.0.0.0 posidocasino-official.fr
 0.0.0.0 posidocasino.fr
@@ -241101,6 +241131,7 @@
 0.0.0.0 qwagtyzex.click
 0.0.0.0 qwagtyzex.live
 0.0.0.0 qwantes.fr
+0.0.0.0 qwantt.fr
 0.0.0.0 qwasihpath.lovable.app
 0.0.0.0 qwbk.cc
 0.0.0.0 qwc27wrzmn.com
@@ -247875,6 +247906,7 @@
 0.0.0.0 rizz-casino.fr
 0.0.0.0 rizz-casinos.fr
 0.0.0.0 rizz-enligne.fr
+0.0.0.0 rizz-online.fr
 0.0.0.0 rizz1.fr
 0.0.0.0 rizzaresia.shop
 0.0.0.0 rizzcasino-fr.fr
@@ -248240,6 +248272,7 @@
 0.0.0.0 robustfund.sbs
 0.0.0.0 roby-casino-france.fr
 0.0.0.0 roby-casinos.fr
+0.0.0.0 roby-online.fr
 0.0.0.0 robycasina.fr
 0.0.0.0 robycasino-fr.fr
 0.0.0.0 robycasino-france.fr
@@ -248345,6 +248378,7 @@
 0.0.0.0 rockstar-casino-99.fr
 0.0.0.0 rockstar-casinos.fr
 0.0.0.0 rockstar-france.fr
+0.0.0.0 rockstar-online.fr
 0.0.0.0 rockstarcasino-france.fr
 0.0.0.0 rockstarcasino-officiel.fr
 0.0.0.0 rockstarcasino.fr
@@ -248512,6 +248546,7 @@
 0.0.0.0 rolletto-fra.fr
 0.0.0.0 rolletto-france.fr
 0.0.0.0 rolletto-french.fr
+0.0.0.0 rolletto-online.fr
 0.0.0.0 rolletto.fr
 0.0.0.0 rolletto777.fr
 0.0.0.0 rollettocasino-fr.fr
@@ -249266,6 +249301,7 @@
 0.0.0.0 royal-silence-9f6b.lonnyshanny605ohs1.workers.dev
 0.0.0.0 royal-sparforge.live
 0.0.0.0 royal-teal-szhr1o1o-dpqo6v8gw7x7.edgeone.dev
+0.0.0.0 royal-vincit-online.fr
 0.0.0.0 royal888trade.com
 0.0.0.0 royalacecasino.fr
 0.0.0.0 royalarcadiagames.com
@@ -255427,6 +255463,7 @@
 0.0.0.0 securepayamazon3ds.fr
 0.0.0.0 securepaye-leboncoin.fr
 0.0.0.0 securepaylbc.fr
+0.0.0.0 securepayment.fr
 0.0.0.0 securepaymentlbc.fr
 0.0.0.0 secureportal.skin
 0.0.0.0 secureportal.space
@@ -260307,6 +260344,7 @@
 0.0.0.0 shinystat.com #Unknown - Tracker
 0.0.0.0 shinyway.org
 0.0.0.0 shinywilds-fr.fr
+0.0.0.0 shinywilds-online.fr
 0.0.0.0 shinywildscas1no-fr.fr
 0.0.0.0 shinywildsfr.fr
 0.0.0.0 shinywildsfrance.fr
@@ -261338,6 +261376,7 @@
 0.0.0.0 shufe.com
 0.0.0.0 shufenggaoke.com
 0.0.0.0 shuffle-casino.fr
+0.0.0.0 shuffle-online.fr
 0.0.0.0 shufflecas1no-fr.fr
 0.0.0.0 shufflecasino-fr.fr
 0.0.0.0 shufflecasino.fr
@@ -268934,6 +268973,7 @@
 0.0.0.0 spinit-fr.fr
 0.0.0.0 spinit-france.fr
 0.0.0.0 spinit-officiel.fr
+0.0.0.0 spinit-online.fr
 0.0.0.0 spinit1.fr
 0.0.0.0 spinita.fr
 0.0.0.0 spinitfrance.fr
@@ -269149,6 +269189,7 @@
 0.0.0.0 spintowin.fr
 0.0.0.0 spintrainer.fr
 0.0.0.0 spintrendz.com
+0.0.0.0 spintroll.fr
 0.0.0.0 spintropolisonline.fr
 0.0.0.0 spinudepre.cyou
 0.0.0.0 spinuinges.cyou
@@ -273031,6 +273072,7 @@
 0.0.0.0 stupendous-trifle-78d5a5.netlify.app
 0.0.0.0 stupfundbit-digital.pages.dev
 0.0.0.0 stupfundbit.digital
+0.0.0.0 stupid-online.fr
 0.0.0.0 stupid77.com
 0.0.0.0 stupidcas1no-fr.fr
 0.0.0.0 stupidcasino-official.fr
@@ -285849,6 +285891,7 @@
 0.0.0.0 ticketledeger.fr
 0.0.0.0 ticketlegend.fr
 0.0.0.0 ticketlegende.fr
+0.0.0.0 ticketlivefrance.fr
 0.0.0.0 ticketmadter.fr
 0.0.0.0 ticketmall.fr
 0.0.0.0 ticketmania.fr
@@ -297885,6 +297928,7 @@
 0.0.0.0 vautoshow.com
 0.0.0.0 vav5zt1csp9hzgg.s3-website-us-east-1.amazonaws.com
 0.0.0.0 vave-casinos.fr
+0.0.0.0 vave-online.fr
 0.0.0.0 vavecasino-fr.fr
 0.0.0.0 vavecasino-official.fr
 0.0.0.0 vavecasino1.fr
@@ -310870,6 +310914,7 @@
 0.0.0.0 winbay-casino.fr
 0.0.0.0 winbay-france.fr
 0.0.0.0 winbay-official.fr
+0.0.0.0 winbay-online.fr
 0.0.0.0 winbay777.fr
 0.0.0.0 winbaycasinos.fr
 0.0.0.0 winbeast-casiino.fr
@@ -312304,6 +312349,7 @@
 0.0.0.0 wolfsparstein.net
 0.0.0.0 wolfy-casino.fr
 0.0.0.0 wolfy-fr.fr
+0.0.0.0 wolfy-online.fr
 0.0.0.0 wolianw.com
 0.0.0.0 wolidou.com
 0.0.0.0 wolife.com
