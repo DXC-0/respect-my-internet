@@ -413,9 +413,7 @@
 0.0.0.0 03bcyh2069.xin
 0.0.0.0 03cl.xin
 0.0.0.0 03cz8604316.xin
-0.0.0.0 03d882c8810271.beer
 0.0.0.0 03dq.com
-0.0.0.0 03f99b91610271.beer
 0.0.0.0 03fcw.com
 0.0.0.0 03k.org
 0.0.0.0 03supin.com
@@ -878,7 +876,6 @@
 0.0.0.0 0941.org
 0.0.0.0 09451.com
 0.0.0.0 094j35.com
-0.0.0.0 095.xin
 0.0.0.0 095196555.com
 0.0.0.0 09527.xin
 0.0.0.0 0952xh.com
@@ -912,7 +909,6 @@
 0.0.0.0 0b4xq91061.xin
 0.0.0.0 0b6e0659811021.beer
 0.0.0.0 0b8ky116130.xin
-0.0.0.0 0bb875c361022.beer
 0.0.0.0 0bbd0e535194e7f7.com
 0.0.0.0 0bdfe52341114.beer
 0.0.0.0 0bef0493410272.beer
@@ -945,7 +941,6 @@
 0.0.0.0 0duw.com
 0.0.0.0 0dxkge0412.xin
 0.0.0.0 0e0c2e9e94622290.com
-0.0.0.0 0e38e883511032.beer
 0.0.0.0 0e7o6216306.xin
 0.0.0.0 0easy.com
 0.0.0.0 0ee18d4c192243b3.com
@@ -1876,7 +1871,6 @@
 0.0.0.0 16885.com
 0.0.0.0 16886000.com
 0.0.0.0 16888.com
-0.0.0.0 1688988.com
 0.0.0.0 1688du.com
 0.0.0.0 1688e.com
 0.0.0.0 1688eric.com
@@ -3046,7 +3040,6 @@
 0.0.0.0 26923.com
 0.0.0.0 26a9118418e77c84.com
 0.0.0.0 26c23b9f311042.beer
-0.0.0.0 26ce3e05310251.beer
 0.0.0.0 26d124fdb11032.beer
 0.0.0.0 26duc.com
 0.0.0.0 26e02ca8210272.beer
@@ -3093,7 +3086,6 @@
 0.0.0.0 288idc.com
 0.0.0.0 289.com
 0.0.0.0 2898.com
-0.0.0.0 28d4cc3671024.beer
 0.0.0.0 28e4cd79f1023.beer
 0.0.0.0 28gl.com
 0.0.0.0 28ka.com
@@ -3162,7 +3154,6 @@
 0.0.0.0 2dph.com
 0.0.0.0 2du.net
 0.0.0.0 2dyou.com
-0.0.0.0 2e30175771022.beer
 0.0.0.0 2e30a72a21023.beer
 0.0.0.0 2ea31935add3d6b0.com
 0.0.0.0 2eb4189e6451af49.com
@@ -3175,7 +3166,6 @@
 0.0.0.0 2f.com
 0.0.0.0 2f24ad2dc10261.beer
 0.0.0.0 2fa.vip
-0.0.0.0 2facb31bb10272.beer
 0.0.0.0 2fda37d4c10292.beer
 0.0.0.0 2gdt.com
 0.0.0.0 2gei.com
@@ -3557,7 +3547,6 @@
 0.0.0.0 346888.com
 0.0.0.0 346g4247o9.world
 0.0.0.0 346tudx.com
-0.0.0.0 34f04e8d410291.beer
 0.0.0.0 34lou.com
 0.0.0.0 34wl.com
 0.0.0.0 34xian.com
@@ -4458,7 +4447,6 @@
 0.0.0.0 437zhifu.com
 0.0.0.0 43803a8c410261.beer
 0.0.0.0 4393ce88a10272.beer
-0.0.0.0 4395e6c8b10291.beer
 0.0.0.0 4399.com
 0.0.0.0 4399.net
 0.0.0.0 43999yx.com
@@ -4571,7 +4559,6 @@
 0.0.0.0 47964154c11021.beer
 0.0.0.0 479d8573510301.beer
 0.0.0.0 47daili.com
-0.0.0.0 47e17a13ee18fa43.com
 0.0.0.0 47gs.com
 0.0.0.0 47rq.com
 0.0.0.0 47zu.com
@@ -4597,7 +4584,6 @@
 0.0.0.0 4901.com
 0.0.0.0 490186.com
 0.0.0.0 491.com
-0.0.0.0 492f2622e64c138e.com
 0.0.0.0 4930.com
 0.0.0.0 4933.com
 0.0.0.0 49358.com
@@ -4654,7 +4640,6 @@
 0.0.0.0 4ef06207210281.beer
 0.0.0.0 4ef870db01022.beer
 0.0.0.0 4everdns.com
-0.0.0.0 4f0b987b410311.beer
 0.0.0.0 4f61.com
 0.0.0.0 4f89.com
 0.0.0.0 4fang.net
@@ -4978,7 +4963,6 @@
 0.0.0.0 51ean.com
 0.0.0.0 51ean.xin
 0.0.0.0 51easymaster.com
-0.0.0.0 51eb0685c11021.beer
 0.0.0.0 51ebo.com
 0.0.0.0 51ebooks.com
 0.0.0.0 51eduline.com
@@ -6821,7 +6805,6 @@
 0.0.0.0 68u.co
 0.0.0.0 68websoft.com
 0.0.0.0 68zhan.net
-0.0.0.0 69090.com
 0.0.0.0 6912s.com
 0.0.0.0 6917.com
 0.0.0.0 692657.com
@@ -7079,7 +7062,6 @@
 0.0.0.0 72287o.xyz
 0.0.0.0 7230.com
 0.0.0.0 7239ll.net
-0.0.0.0 723e7a5a510261.beer
 0.0.0.0 7245f7d6211012.beer
 0.0.0.0 724pride.com
 0.0.0.0 724pridecryogenics.com
@@ -7394,7 +7376,6 @@
 0.0.0.0 7down.net
 0.0.0.0 7e.hk
 0.0.0.0 7e051eec511021.beer
-0.0.0.0 7e9dba1891021.beer
 0.0.0.0 7east.com
 0.0.0.0 7ed.net
 0.0.0.0 7edown.com
@@ -8956,7 +8937,6 @@
 0.0.0.0 9duw.com
 0.0.0.0 9dwork.com
 0.0.0.0 9e.gs
-0.0.0.0 9eacc080d10291.beer
 0.0.0.0 9earth.com
 0.0.0.0 9eip.com
 0.0.0.0 9ele.com
@@ -9101,7 +9081,6 @@
 0.0.0.0 a-startech.com
 0.0.0.0 a-sy.com
 0.0.0.0 a-xun.com
-0.0.0.0 a049636971024.beer
 0.0.0.0 a04d48409e40ca3f.com
 0.0.0.0 a0598.com
 0.0.0.0 a0770.com
@@ -9597,6 +9576,7 @@
 0.0.0.0 adpfm513.com
 0.0.0.0 adplusx.com
 0.0.0.0 adpsh.com
+0.0.0.0 adqiyu.com
 0.0.0.0 adqtt.net
 0.0.0.0 adquan.com
 0.0.0.0 adrkwai.com
@@ -9687,7 +9667,6 @@
 0.0.0.0 adznb.com
 0.0.0.0 adzshd.com
 0.0.0.0 ae-inbr.xin
-0.0.0.0 ae0f9d6cf11021.beer
 0.0.0.0 ae1234.com
 0.0.0.0 ae256.com
 0.0.0.0 ae3a6d6e09359c15.com
@@ -14756,7 +14735,6 @@
 0.0.0.0 bf-jxqc.com
 0.0.0.0 bf-z.com
 0.0.0.0 bf-zhengzhou.com
-0.0.0.0 bf07e33c810281.beer
 0.0.0.0 bf35.com
 0.0.0.0 bf99.com
 0.0.0.0 bfcdnbf.com
@@ -15985,7 +15963,6 @@
 0.0.0.0 bjxf315.com
 0.0.0.0 bjxhly.com
 0.0.0.0 bjximei.com
-0.0.0.0 bjxingma.com
 0.0.0.0 bjxingzheng.com
 0.0.0.0 bjxinku.com
 0.0.0.0 bjxjyy666.com
@@ -17858,7 +17835,6 @@
 0.0.0.0 caiweiming.com
 0.0.0.0 caiwennews.com
 0.0.0.0 caiwuchina.com
-0.0.0.0 caixadirectaanalisar.com
 0.0.0.0 caixin.com
 0.0.0.0 caixinfoundation.org
 0.0.0.0 caixinmedia.com
@@ -19123,7 +19099,6 @@
 0.0.0.0 ce-air.com
 0.0.0.0 ce04.com
 0.0.0.0 ce2293.com
-0.0.0.0 cea45b9f61023.beer
 0.0.0.0 ceacq.com
 0.0.0.0 ceair.com
 0.0.0.0 ceairdutyfree.com
@@ -21702,7 +21677,6 @@
 0.0.0.0 chuanshanqundao.com
 0.0.0.0 chuansinfo.com
 0.0.0.0 chuantec.com
-0.0.0.0 chuantiegroup.com
 0.0.0.0 chuanye.com
 0.0.0.0 chuanyejinxuan.xyz
 0.0.0.0 chuanyifu.com
@@ -23857,7 +23831,6 @@
 0.0.0.0 college-ing.com
 0.0.0.0 college.globalsign.com
 0.0.0.0 collt.org
-0.0.0.0 colly-pink.com
 0.0.0.0 colobu.com
 0.0.0.0 colocess.com
 0.0.0.0 color-measure.com
@@ -26300,7 +26273,6 @@
 0.0.0.0 daduoduo.com
 0.0.0.0 daduofa.com
 0.0.0.0 dadushixiecheng.com
-0.0.0.0 daeac4faf10292.beer
 0.0.0.0 daerzhu.com
 0.0.0.0 daeshin-china.com
 0.0.0.0 daetool.com
@@ -26381,7 +26353,6 @@
 0.0.0.0 daigou.com
 0.0.0.0 daihing.com
 0.0.0.0 daijun.com
-0.0.0.0 daikandq.com
 0.0.0.0 daikuan.com
 0.0.0.0 daili321.com
 0.0.0.0 dailianmama.com
@@ -27243,7 +27214,6 @@
 0.0.0.0 de1000.com
 0.0.0.0 de123.net
 0.0.0.0 de1919.com
-0.0.0.0 de2edec3011032.beer
 0.0.0.0 de83cc01111.xin
 0.0.0.0 de9745f491023.beer
 0.0.0.0 deaconhousewuxi.com
@@ -27618,7 +27588,6 @@
 0.0.0.0 dfdinsin.com
 0.0.0.0 dfebda0512.vip
 0.0.0.0 dfedu.com
-0.0.0.0 dfeeb7ee91022.beer
 0.0.0.0 dfev.net
 0.0.0.0 dffcw.net
 0.0.0.0 dfgiso.com
@@ -31523,7 +31492,6 @@
 0.0.0.0 enjoyor.net
 0.0.0.0 enjoyyue.com
 0.0.0.0 enjoyz.com
-0.0.0.0 enketu.com
 0.0.0.0 enkichen.com
 0.0.0.0 enkj.com
 0.0.0.0 enkris.com
@@ -32473,7 +32441,6 @@
 0.0.0.0 f79ca805111881f6.com
 0.0.0.0 f7aa9093710281.beer
 0.0.0.0 f7chinavip.com
-0.0.0.0 f7e84829210281.beer
 0.0.0.0 f7yuncdn.com
 0.0.0.0 f831fb9ce11031.beer
 0.0.0.0 f92ec0629f52f064.com
@@ -34834,7 +34801,6 @@
 0.0.0.0 fumiaoyinpin.com
 0.0.0.0 fumin.com
 0.0.0.0 fumu.com
-0.0.0.0 fumubang.com
 0.0.0.0 fumuhui.com
 0.0.0.0 fun.tv
 0.0.0.0 fun4go.com
@@ -37774,7 +37740,6 @@
 0.0.0.0 google-hub.com
 0.0.0.0 googlebbs.net
 0.0.0.0 googlenav.com
-0.0.0.0 googleplus.party
 0.0.0.0 googleppy.com
 0.0.0.0 googlevoice.org
 0.0.0.0 googleyixia.com
@@ -49215,7 +49180,6 @@
 0.0.0.0 iikuzhan.com
 0.0.0.0 iikx.com
 0.0.0.0 iinhotel.com
-0.0.0.0 iinorii.com
 0.0.0.0 iiolink.com
 0.0.0.0 iiong.com
 0.0.0.0 iipcloud.com
@@ -51877,7 +51841,6 @@
 0.0.0.0 jiancepai.com
 0.0.0.0 jiancepaper.com
 0.0.0.0 jiancesys.com
-0.0.0.0 jianchiapp.com
 0.0.0.0 jianchihu.net
 0.0.0.0 jiandaima.com
 0.0.0.0 jiandan.net
@@ -54857,7 +54820,6 @@
 0.0.0.0 juming-xz.com
 0.0.0.0 juming.com
 0.0.0.0 jumingwang.com
-0.0.0.0 jumold.com
 0.0.0.0 jumore.com
 0.0.0.0 jump-center.com
 0.0.0.0 jump-game.com
@@ -56449,7 +56411,6 @@
 0.0.0.0 kfhome.com
 0.0.0.0 kfhty.com
 0.0.0.0 kfj.cc
-0.0.0.0 kfjd.com
 0.0.0.0 kfjyd.com
 0.0.0.0 kfjyjt.com
 0.0.0.0 kflhgs.com
@@ -57043,7 +57004,6 @@
 0.0.0.0 kopperchem.com
 0.0.0.0 koreabt.com
 0.0.0.0 koreavisa-wh.com
-0.0.0.0 korirl.com
 0.0.0.0 kormee.com
 0.0.0.0 kornsweets.com
 0.0.0.0 koronsoft.com
@@ -65194,7 +65154,6 @@
 0.0.0.0 mrjjxw.com
 0.0.0.0 mrlian.club
 0.0.0.0 mrlika.com
-0.0.0.0 mrlxc51byo.com
 0.0.0.0 mrmfsc.ltd
 0.0.0.0 mro365.com
 0.0.0.0 mro9.com
@@ -67548,7 +67507,6 @@
 0.0.0.0 njnewgreen.com
 0.0.0.0 njnfwl.com
 0.0.0.0 njnhsx.net
-0.0.0.0 njnhyx.net
 0.0.0.0 njnii.com
 0.0.0.0 njningyi.com
 0.0.0.0 njnkxt.com
@@ -72095,7 +72053,6 @@
 0.0.0.0 pzfc.com
 0.0.0.0 pzfcw.com
 0.0.0.0 pzhccb.com
-0.0.0.0 pzhdahe.com
 0.0.0.0 pzhedu.com
 0.0.0.0 pzhl.net
 0.0.0.0 pzhol.com
@@ -72180,7 +72137,6 @@
 0.0.0.0 qc6.com
 0.0.0.0 qc99.com
 0.0.0.0 qca.org
-0.0.0.0 qcaipiao.com
 0.0.0.0 qcbaas.com
 0.0.0.0 qcbone.com
 0.0.0.0 qcc.com
@@ -79807,7 +79763,6 @@
 0.0.0.0 shootmedia.net
 0.0.0.0 shop-isv.com
 0.0.0.0 shop.globalsign.com
-0.0.0.0 shop265.com
 0.0.0.0 shop2cn.com
 0.0.0.0 shopbackdrop.com
 0.0.0.0 shopchaoren.com
@@ -80249,7 +80204,6 @@
 0.0.0.0 shujubang.com
 0.0.0.0 shujubo.com
 0.0.0.0 shujujishi.com
-0.0.0.0 shujulin.com
 0.0.0.0 shujupie.com
 0.0.0.0 shujutang.com
 0.0.0.0 shujuwa.net
@@ -95237,7 +95191,6 @@
 0.0.0.0 wwejds.com
 0.0.0.0 wwenglish.com
 0.0.0.0 wwenglish.org
-0.0.0.0 wwentua.com
 0.0.0.0 wwfchina.org
 0.0.0.0 wwhlian.com
 0.0.0.0 wwjie.com
@@ -106232,7 +106185,6 @@
 0.0.0.0 zhhaitai.com
 0.0.0.0 zhheo.com
 0.0.0.0 zhhfedu.com
-0.0.0.0 zhhlaw.com
 0.0.0.0 zhhlogistics.com
 0.0.0.0 zhhrm.com
 0.0.0.0 zhhs-china.com
@@ -109506,7 +109458,6 @@
 0.0.0.0 zzwonder.com
 0.0.0.0 zzwqqx.com
 0.0.0.0 zzwro.com
-0.0.0.0 zzwtjx.com
 0.0.0.0 zzwwiidd.com
 0.0.0.0 zzwzj.com
 0.0.0.0 zzxca.com
