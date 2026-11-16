@@ -1581,6 +1581,7 @@
 0.0.0.0 airgrance.fr
 0.0.0.0 airhelp-plus.fr
 0.0.0.0 airhelpplus.fr
+0.0.0.0 airindia.fr
 0.0.0.0 airjordan4.fr
 0.0.0.0 airjordanfemme.fr
 0.0.0.0 airjordanlowparis.fr
@@ -10070,6 +10071,7 @@
 0.0.0.0 checkout-leboncoin.fr
 0.0.0.0 checkout-prime.fr
 0.0.0.0 checkout-secure3ds.fr
+0.0.0.0 checkout-store.fr
 0.0.0.0 checkout3dsecure.fr
 0.0.0.0 checkverif.fr
 0.0.0.0 chemise-milano.fr
@@ -14269,6 +14271,7 @@
 0.0.0.0 doctotlib.fr
 0.0.0.0 doctssimo.fr
 0.0.0.0 docttolib.fr
+0.0.0.0 docu-france.fr
 0.0.0.0 docu-sign.fr
 0.0.0.0 docu-signs.fr
 0.0.0.0 document-caf.fr
@@ -14841,6 +14844,7 @@
 0.0.0.0 edf-ecowatt.fr
 0.0.0.0 edf-en.fr
 0.0.0.0 edf-enedis-edf.fr
+0.0.0.0 edf-energiesnouvelles.fr
 0.0.0.0 edf-energy.fr
 0.0.0.0 edf-espaceinfo.fr
 0.0.0.0 edf-espacesecurise.fr
@@ -19827,6 +19831,7 @@
 0.0.0.0 icloud-lost.fr
 0.0.0.0 icloud-photos.fr
 0.0.0.0 icloud-support.fr
+0.0.0.0 icloud-web.fr
 0.0.0.0 icloud.pm
 0.0.0.0 icloud.tf
 0.0.0.0 icloud.wf
@@ -21654,6 +21659,8 @@
 0.0.0.0 karllagerfeldparis.fr
 0.0.0.0 karsher.fr
 0.0.0.0 kartables.fr
+0.0.0.0 kashee-payment.fr
+0.0.0.0 kasheepayment.fr
 0.0.0.0 kasiopefrance.fr
 0.0.0.0 kaspa-france.fr
 0.0.0.0 katanaspin-casino.fr
@@ -21958,6 +21965,7 @@
 0.0.0.0 l-histoire.fr
 0.0.0.0 l-oreal.fr
 0.0.0.0 l1-cic.fr
+0.0.0.0 l8casino.fr
 0.0.0.0 l9ifrancetvinfo.fr
 0.0.0.0 la-1banquepopulaire.fr
 0.0.0.0 la-assurance-retraite.fr
@@ -31933,6 +31941,7 @@
 0.0.0.0 primesouscription.fr
 0.0.0.0 primestore.fr
 0.0.0.0 primestreaming.fr
+0.0.0.0 primesync.fr
 0.0.0.0 primetechcasino.fr
 0.0.0.0 primeticket.fr
 0.0.0.0 primetv.fr
@@ -36523,6 +36532,7 @@
 0.0.0.0 signup-prime.fr
 0.0.0.0 signvpaypl.fr
 0.0.0.0 siliconf.fr
+0.0.0.0 silkorafrance.fr
 0.0.0.0 silverplaycasino.fr
 0.0.0.0 sim-sfr-service.fr
 0.0.0.0 sim-sfr.fr
@@ -37019,6 +37029,7 @@
 0.0.0.0 snapmail.pm
 0.0.0.0 snappass.fr
 0.0.0.0 snappasse.fr
+0.0.0.0 snappchat.fr
 0.0.0.0 snappro.fr
 0.0.0.0 snappydriver.fr
 0.0.0.0 snappydriverinstaller.fr
@@ -38179,6 +38190,7 @@
 0.0.0.0 starlink-abonnement.fr
 0.0.0.0 starlink-fr.fr
 0.0.0.0 starlink-france.fr
+0.0.0.0 starlink-wallis.wf
 0.0.0.0 starlitcasino.fr
 0.0.0.0 starmaillot.fr
 0.0.0.0 starsbet.fr

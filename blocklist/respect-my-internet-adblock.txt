@@ -21558,6 +21558,7 @@
 ||airguilin.com^
 ||airhelp-plus.fr^
 ||airhelpplus.fr^
+||airindia.fr^
 ||airinuk.net^
 ||airizu.com^
 ||airj.website^
@@ -70835,6 +70836,7 @@
 ||checkout-leboncoin.fr^
 ||checkout-prime.fr^
 ||checkout-secure3ds.fr^
+||checkout-store.fr^
 ||checkout.bestfybr.com.br^
 ||checkout.desbau.com^
 ||checkout.drbanacu-luminita.ro^
@@ -93505,6 +93507,7 @@
 ||doctssimo.fr^
 ||docttolib.fr^
 ||docu-2025.2025-doc2026.workers.dev^
+||docu-france.fr^
 ||docu-sign.fr^
 ||docu-signs.fr^
 ||docuarea.org^
@@ -99145,6 +99148,7 @@
 ||edf-ecowatt.fr^
 ||edf-en.fr^
 ||edf-enedis-edf.fr^
+||edf-energiesnouvelles.fr^
 ||edf-energy.fr^
 ||edf-espaceinfo.fr^
 ||edf-espacesecurise.fr^
@@ -143888,6 +143892,7 @@
 ||icloud-photos.fr^
 ||icloud-power.com^
 ||icloud-support.fr^
+||icloud-web.fr^
 ||icloud-zx.info^
 ||icloud.doboxa.biz^
 ||icloud.fairbox.pl^
@@ -160421,6 +160426,8 @@
 ||kasese-pepano.info^
 ||kasetsart.facebook.com^
 ||kashangwl.com^
+||kashee-payment.fr^
+||kasheepayment.fr^
 ||kashen8.com^
 ||kashengauto.com^
 ||kashikaselfdrive.com^
@@ -165577,6 +165584,7 @@
 ||l8.o8fgwc.top^
 ||l80j5odbxqr06iof9jpz.s3.us-east-1.amazonaws.com^
 ||l8b4.yy8wxg.top^
+||l8casino.fr^
 ||l8npostpolska-du52.nh5tin.cfd^
 ||l8sd17.yl029.com^
 ||l8v2ke.lat^
@@ -233170,6 +233178,7 @@
 ||primestreaming.fr^
 ||primesuretance.net^
 ||primesuummit.com^
+||primesync.fr^
 ||primetechcasino.fr^
 ||primetechtrades.net^
 ||primetexaura.com^
@@ -262110,6 +262119,7 @@
 ||silk-trend.shop^
 ||silkinef.lovable.app^
 ||silkmarsh.digital^
+||silkorafrance.fr^
 ||silkpresent.com^
 ||silkquake.com^
 ||silkroad-ec.com^
@@ -265818,6 +265828,7 @@
 ||snapp.taxi^
 ||snappass.fr^
 ||snappasse.fr^
+||snappchat.fr^
 ||snappcloud.io^
 ||snappea.com^
 ||snapplay.com^
@@ -270745,6 +270756,7 @@
 ||starlink-abonnement.fr^
 ||starlink-fr.fr^
 ||starlink-france.fr^
+||starlink-wallis.wf^
 ||starlink.uno^
 ||starlitcasino.fr^
 ||starllbridge.top^

@@ -21560,6 +21560,7 @@
 0.0.0.0 airguilin.com
 0.0.0.0 airhelp-plus.fr
 0.0.0.0 airhelpplus.fr
+0.0.0.0 airindia.fr
 0.0.0.0 airinuk.net
 0.0.0.0 airizu.com
 0.0.0.0 airj.website
@@ -70837,6 +70838,7 @@
 0.0.0.0 checkout-leboncoin.fr
 0.0.0.0 checkout-prime.fr
 0.0.0.0 checkout-secure3ds.fr
+0.0.0.0 checkout-store.fr
 0.0.0.0 checkout.bestfybr.com.br
 0.0.0.0 checkout.desbau.com
 0.0.0.0 checkout.drbanacu-luminita.ro
@@ -93507,6 +93509,7 @@
 0.0.0.0 doctssimo.fr
 0.0.0.0 docttolib.fr
 0.0.0.0 docu-2025.2025-doc2026.workers.dev
+0.0.0.0 docu-france.fr
 0.0.0.0 docu-sign.fr
 0.0.0.0 docu-signs.fr
 0.0.0.0 docuarea.org
@@ -99147,6 +99150,7 @@
 0.0.0.0 edf-ecowatt.fr
 0.0.0.0 edf-en.fr
 0.0.0.0 edf-enedis-edf.fr
+0.0.0.0 edf-energiesnouvelles.fr
 0.0.0.0 edf-energy.fr
 0.0.0.0 edf-espaceinfo.fr
 0.0.0.0 edf-espacesecurise.fr
@@ -143890,6 +143894,7 @@
 0.0.0.0 icloud-photos.fr
 0.0.0.0 icloud-power.com
 0.0.0.0 icloud-support.fr
+0.0.0.0 icloud-web.fr
 0.0.0.0 icloud-zx.info
 0.0.0.0 icloud.doboxa.biz
 0.0.0.0 icloud.fairbox.pl
@@ -160423,6 +160428,8 @@
 0.0.0.0 kasese-pepano.info
 0.0.0.0 kasetsart.facebook.com
 0.0.0.0 kashangwl.com
+0.0.0.0 kashee-payment.fr
+0.0.0.0 kasheepayment.fr
 0.0.0.0 kashen8.com
 0.0.0.0 kashengauto.com
 0.0.0.0 kashikaselfdrive.com
@@ -165579,6 +165586,7 @@
 0.0.0.0 l8.o8fgwc.top
 0.0.0.0 l80j5odbxqr06iof9jpz.s3.us-east-1.amazonaws.com
 0.0.0.0 l8b4.yy8wxg.top
+0.0.0.0 l8casino.fr
 0.0.0.0 l8npostpolska-du52.nh5tin.cfd
 0.0.0.0 l8sd17.yl029.com
 0.0.0.0 l8v2ke.lat
@@ -233172,6 +233180,7 @@
 0.0.0.0 primestreaming.fr
 0.0.0.0 primesuretance.net
 0.0.0.0 primesuummit.com
+0.0.0.0 primesync.fr
 0.0.0.0 primetechcasino.fr
 0.0.0.0 primetechtrades.net
 0.0.0.0 primetexaura.com
@@ -262112,6 +262121,7 @@
 0.0.0.0 silk-trend.shop
 0.0.0.0 silkinef.lovable.app
 0.0.0.0 silkmarsh.digital
+0.0.0.0 silkorafrance.fr
 0.0.0.0 silkpresent.com
 0.0.0.0 silkquake.com
 0.0.0.0 silkroad-ec.com
@@ -265820,6 +265830,7 @@
 0.0.0.0 snapp.taxi
 0.0.0.0 snappass.fr
 0.0.0.0 snappasse.fr
+0.0.0.0 snappchat.fr
 0.0.0.0 snappcloud.io
 0.0.0.0 snappea.com
 0.0.0.0 snapplay.com
@@ -270747,6 +270758,7 @@
 0.0.0.0 starlink-abonnement.fr
 0.0.0.0 starlink-fr.fr
 0.0.0.0 starlink-france.fr
+0.0.0.0 starlink-wallis.wf
 0.0.0.0 starlink.uno
 0.0.0.0 starlitcasino.fr
 0.0.0.0 starllbridge.top
