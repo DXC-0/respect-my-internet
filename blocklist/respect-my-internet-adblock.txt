@@ -17176,6 +17176,7 @@
 ||acloud.com^
 ||acloudbaas.com^
 ||acloudrender.com^
+||aclyon.fr^
 ||acmamaskwdosqwe.site^
 ||acmarsef.weebly.com^
 ||acmcoder.com^
@@ -26718,6 +26719,8 @@
 ||aleplpro.digital^
 ||alerions-notaires.fr^
 ||alert-activation-prime.fr^
+||alert-fmi-com.fr^
+||alert-fmi-us.fr^
 ||alert-papaya-893836.framer.app^
 ||alert.cns1718.com^
 ||alert.hbkj17.com^
@@ -52831,6 +52834,10 @@
 ||betappcasino.fr^
 ||betaquantity.com^
 ||betara.gtimg.com^
+||betarctica-casino.fr^
+||betarctica.fr^
+||betarcticacasino.fr^
+||betartica.fr^
 ||betasign.site^
 ||betasmart.tech^
 ||betaspirit.fr^
@@ -65984,6 +65991,7 @@
 ||casino-igobet.fr^
 ||casino-ilede.fr^
 ||casino-incognito.fr^
+||casino-infernos.fr^
 ||casino-infinite.fr^
 ||casino-infinity-com.fr^
 ||casino-infinity-france.fr^
@@ -66194,6 +66202,7 @@
 ||casinobit.fr^
 ||casinobit1.fr^
 ||casinoblitzfrance.fr^
+||casinoblueprint.fr^
 ||casinobonus365.fr^
 ||casinobonuszone.fr^
 ||casinoboomerang.fr^
@@ -69156,6 +69165,7 @@
 ||centrale-g7-numero.fr^
 ||centrale-g7-officiel.fr^
 ||centrale-g7-reservations-france.fr^
+||centrale-toulouse.fr^
 ||centralepneu.fr^
 ||centralgranvia.com^
 ||centralgrocer.shop^
@@ -80447,6 +80457,7 @@
 ||convecompi.cyou^
 ||convenance-resolution-idm.firebaseapp.com^
 ||convenance-resolution-idm.web.app^
+||convention-ants.fr^
 ||convention-partenaires-particuliers.fr^
 ||convention-securitaire-franc.firebaseapp.com^
 ||convention-securitaire-franc.web.app^
@@ -99023,6 +99034,7 @@
 ||ecogqlow.shop^
 ||ecoiccydon.store^
 ||ecoland-plan.com^
+||ecole-centrale-toulouse.fr^
 ||ecole-gouvernement.fr^
 ||ecolearninghub.info^
 ||ecoliving168.com^
@@ -104466,6 +104478,7 @@
 ||espacecontraventions.fr^
 ||espacecourriel.fr^
 ||espacecourrier.fr^
+||espacecpam65.fr^
 ||espacecredit-agricole.fr^
 ||espacecreditagricole.fr^
 ||espacecreditmutuel.fr^
@@ -125304,6 +125317,7 @@
 ||goldenplaycasino.fr^
 ||goldenplaycasinofr.fr^
 ||goldenplayonline.fr^
+||goldenplays.fr^
 ||goldenporch.eu^
 ||goldenquartzworks.info^
 ||goldenr.fr^
@@ -128498,6 +128512,7 @@
 ||gt6t3g.pcfb.pl^
 ||gt7taxisvtc.fr^
 ||gta5xforce.com^
+||gta6-officiel.fr^
 ||gta6keji.com^
 ||gtac.cc^
 ||gtadata.com^
@@ -147447,6 +147462,7 @@
 ||infernos-casino.fr^
 ||infernos-official.fr^
 ||infernos-officiel.fr^
+||infernoscasino-fr.fr^
 ||infernoscasino.fr^
 ||inferoey.com^
 ||inferrise.site^
@@ -151223,6 +151239,7 @@
 ||iptv-irontvpro.fr^
 ||iptv-rocket-pro.pages.dev^
 ||iptv-rocket.pro^
+||iptv-supreme.fr^
 ||iptvdazn.fr^
 ||iptvdefrance.fr^
 ||iptvfr1.fr^
@@ -151235,6 +151252,7 @@
 ||iptvpro-france.fr^
 ||iptvrevendeurs.fr^
 ||iptvservice.fr^
+||iptvsmarte8k.fr^
 ||iptvsubscription.fr^
 ||iptvzone.fr^
 ||ipumu.earthgreen.com.co^
@@ -162331,6 +162349,7 @@
 ||kings3d.com^
 ||kingscasino.fr^
 ||kingschance-casino.fr^
+||kingschance-fr.fr^
 ||kingschance-france.fr^
 ||kingschance-online.fr^
 ||kingschance1.fr^
@@ -180354,6 +180373,7 @@
 ||marigoldrow.eu^
 ||marilia-boticario.vercel.app^
 ||marimeasdaasfi.com^
+||marimekko-france.fr^
 ||marimekko.mom^
 ||marindicol.cyou^
 ||marine-dancer.com^
@@ -208446,6 +208466,7 @@
 ||no-bull.fr^
 ||no-bullfrance.fr^
 ||no-ip.biz^
+||no-limit-accorarena-freestyle.fr^
 ||no-mad-sub.one^
 ||no-mad-world.club^
 ||no-reply-chrono-delivery-france.fr^
@@ -232790,11 +232811,19 @@
 ||prefants.fr^
 ||prefecture-ants.fr^
 ||prefecture-bobigny.fr^
+||prefecture-cergy.fr^
+||prefecture-creteil.fr^
+||prefecture-evry.fr^
 ||prefecture-gov.fr^
 ||prefecture-laon.fr^
+||prefecture-marseille.fr^
 ||prefecture-melun.fr^
+||prefecture-montpellier.fr^
+||prefecture-nanterre.fr^
 ||prefecture-nimes.fr^
 ||prefecture-sarcelles.fr^
+||prefecture-toulouse.fr^
+||prefecture-versailles.fr^
 ||prefecture-vitale.fr^
 ||prefectureants.fr^
 ||prefecturedepolicegouv.fr^
@@ -245286,6 +245315,7 @@
 ||remicentrevaldeloire.fr^
 ||remigiorizzo3orr.blogspot.com^
 ||reminders-pa.googleapis.com^
+||remington-france.fr^
 ||reminunwee.online^
 ||remise-prime.fr^
 ||remiseenligne.fr^
@@ -264902,6 +264932,7 @@
 ||smarterinvestment.de^
 ||smartermicro.com^
 ||smarterpreturn.shop^
+||smarterstv8k.fr^
 ||smartfinancecover.info^
 ||smartforgelabs.org^
 ||smartforms.dev^
@@ -268104,9 +268135,16 @@
 ||sourongjie.com^
 ||sourov-vip-hack-top-dp7rh5buv1ks.edgeone.dev^
 ||sous-amende.fr^
+||sous-prefecture-antony.fr^
 ||sous-prefecture-argenteuil.fr^
+||sous-prefecture-boulogne-billancourt.fr^
+||sous-prefecture-l-hay-les-roses.fr^
 ||sous-prefecture-le-raincy.fr^
 ||sous-prefecture-meaux.fr^
+||sous-prefecture-nogent-sur-marne.fr^
+||sous-prefecture-palaiseau.fr^
+||sous-prefecture-saint-denis.fr^
+||sous-prefecture-saint-germain-en-laye.fr^
 ||sous-prefecture-sarcelles.fr^
 ||sous-prefecture-torcy.fr^
 ||souscription-abonnements.fr^
@@ -286259,6 +286297,7 @@
 ||ticketmasterfrance.fr^
 ||ticketmastermarketplace.fr^
 ||ticketmastet.fr^
+||ticketmastrer.fr^
 ||ticketmastter.fr^
 ||ticketmastwr.fr^
 ||ticketmater.fr^
@@ -299622,6 +299661,7 @@
 ||verifications-securite.fr^
 ||verificationsclients.fr^
 ||verificationsservice.com^
+||verificationtickets.fr^
 ||verificationtransaction.fr^
 ||verificator-ticket.fr^
 ||verificator.cc^
@@ -300051,6 +300091,7 @@
 ||vesuvianitlle.guru^
 ||vesystem.com^
 ||veta.naver.com^#First^Party^-^Tracker^
+||vetalfort.fr^
 ||vetbaudet.fr^
 ||vetcddhlings.info^
 ||vetcompare.com^
@@ -311631,6 +311672,7 @@
 ||winherocasino.fr^
 ||winhlb.com^
 ||winhong.com^
+||winica-casino.fr^
 ||winicssec.com^
 ||winitcasino.fr^
 ||winiwin.fr^
@@ -311732,6 +311774,7 @@
 ||winocasino-fr.fr^
 ||winocasino-france.fr^
 ||winocasino.fr^
+||winolot-fr.fr^
 ||winolot.fr^
 ||winolympia-casino.fr^
 ||winolympia.fr^
@@ -311940,6 +311983,7 @@
 ||wipertorvlp.com^
 ||wipica-zibicu.info^
 ||wipikedia.fr^
+||wiplay-officiel.fr^
 ||wiranilaiwan.net^
 ||wirealertgrid.com^
 ||wirebriefdaily.xyz^

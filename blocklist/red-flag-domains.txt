@@ -920,6 +920,7 @@
 0.0.0.0 achilles-sport.fr
 0.0.0.0 acima.fr
 0.0.0.0 aclimoges.fr
+0.0.0.0 aclyon.fr
 0.0.0.0 acmen.fr
 0.0.0.0 acnancymetz.fr
 0.0.0.0 acocoon.fr
@@ -1670,6 +1671,8 @@
 0.0.0.0 alemonde.fr
 0.0.0.0 alerions-notaires.fr
 0.0.0.0 alert-activation-prime.fr
+0.0.0.0 alert-fmi-com.fr
+0.0.0.0 alert-fmi-us.fr
 0.0.0.0 alerte-ameli.fr
 0.0.0.0 alerte-amende.fr
 0.0.0.0 alerte-amendes.fr
@@ -5802,6 +5805,10 @@
 0.0.0.0 betanocasino.fr
 0.0.0.0 betanoo.fr
 0.0.0.0 betappcasino.fr
+0.0.0.0 betarctica-casino.fr
+0.0.0.0 betarctica.fr
+0.0.0.0 betarcticacasino.fr
+0.0.0.0 betartica.fr
 0.0.0.0 betaspirit.fr
 0.0.0.0 betbarter.fr
 0.0.0.0 betbeast-casino.fr
@@ -8489,6 +8496,7 @@
 0.0.0.0 casino-igobet.fr
 0.0.0.0 casino-ilede.fr
 0.0.0.0 casino-incognito.fr
+0.0.0.0 casino-infernos.fr
 0.0.0.0 casino-infinite.fr
 0.0.0.0 casino-infinity-com.fr
 0.0.0.0 casino-infinity-france.fr
@@ -8698,6 +8706,7 @@
 0.0.0.0 casinobit.fr
 0.0.0.0 casinobit1.fr
 0.0.0.0 casinoblitzfrance.fr
+0.0.0.0 casinoblueprint.fr
 0.0.0.0 casinobonus365.fr
 0.0.0.0 casinobonuszone.fr
 0.0.0.0 casinoboomerang.fr
@@ -9566,6 +9575,7 @@
 0.0.0.0 centrale-g7-numero.fr
 0.0.0.0 centrale-g7-officiel.fr
 0.0.0.0 centrale-g7-reservations-france.fr
+0.0.0.0 centrale-toulouse.fr
 0.0.0.0 centralepneu.fr
 0.0.0.0 centraloutlet.fr
 0.0.0.0 centralpneu.fr
@@ -12467,6 +12477,7 @@
 0.0.0.0 controlewebpostale.fr
 0.0.0.0 controllissimo.fr
 0.0.0.0 controlmobilepyl.fr
+0.0.0.0 convention-ants.fr
 0.0.0.0 convention-partenaires-particuliers.fr
 0.0.0.0 converse--france.fr
 0.0.0.0 converse-fr.fr
@@ -14779,6 +14790,7 @@
 0.0.0.0 eclairinfo.fr
 0.0.0.0 eclercdrive.fr
 0.0.0.0 eco-critair.fr
+0.0.0.0 ecole-centrale-toulouse.fr
 0.0.0.0 ecole-gouvernement.fr
 0.0.0.0 ecologie-gouv-france.fr
 0.0.0.0 econnect-prime.fr
@@ -15769,6 +15781,7 @@
 0.0.0.0 espacecontraventions.fr
 0.0.0.0 espacecourriel.fr
 0.0.0.0 espacecourrier.fr
+0.0.0.0 espacecpam65.fr
 0.0.0.0 espacecredit-agricole.fr
 0.0.0.0 espacecreditagricole.fr
 0.0.0.0 espacecreditmutuel.fr
@@ -18344,6 +18357,7 @@
 0.0.0.0 goldenplaycasino.fr
 0.0.0.0 goldenplaycasinofr.fr
 0.0.0.0 goldenplayonline.fr
+0.0.0.0 goldenplays.fr
 0.0.0.0 goldenr.fr
 0.0.0.0 goldensgoose.fr
 0.0.0.0 goldenshoes.fr
@@ -19030,6 +19044,7 @@
 0.0.0.0 gt-bets-france.fr
 0.0.0.0 gt-bets.fr
 0.0.0.0 gt7taxisvtc.fr
+0.0.0.0 gta6-officiel.fr
 0.0.0.0 gtah.fr
 0.0.0.0 gtamoding.fr
 0.0.0.0 gtapro.fr
@@ -20147,6 +20162,7 @@
 0.0.0.0 infernos-casino.fr
 0.0.0.0 infernos-official.fr
 0.0.0.0 infernos-officiel.fr
+0.0.0.0 infernoscasino-fr.fr
 0.0.0.0 infernoscasino.fr
 0.0.0.0 infigreffe.fr
 0.0.0.0 infinite-casino.fr
@@ -21128,6 +21144,7 @@
 0.0.0.0 ipi9.fr
 0.0.0.0 iprof-mailbox.fr
 0.0.0.0 iptv-irontvpro.fr
+0.0.0.0 iptv-supreme.fr
 0.0.0.0 iptvdazn.fr
 0.0.0.0 iptvdefrance.fr
 0.0.0.0 iptvfr1.fr
@@ -21139,6 +21156,7 @@
 0.0.0.0 iptvpro-france.fr
 0.0.0.0 iptvrevendeurs.fr
 0.0.0.0 iptvservice.fr
+0.0.0.0 iptvsmarte8k.fr
 0.0.0.0 iptvsubscription.fr
 0.0.0.0 iptvzone.fr
 0.0.0.0 iqmatrix.fr
@@ -21814,6 +21832,7 @@
 0.0.0.0 kings-chancecasino.fr
 0.0.0.0 kingscasino.fr
 0.0.0.0 kingschance-casino.fr
+0.0.0.0 kingschance-fr.fr
 0.0.0.0 kingschance-france.fr
 0.0.0.0 kingschance-online.fr
 0.0.0.0 kingschance1.fr
@@ -25112,6 +25131,7 @@
 0.0.0.0 marie-curie-nogent-sur-oise-ac-amiens.fr
 0.0.0.0 marie-gerardmer.fr
 0.0.0.0 mariefrancemagazine.fr
+0.0.0.0 marimekko-france.fr
 0.0.0.0 marinerecrute.fr
 0.0.0.0 marinescence.fr
 0.0.0.0 marinland.fr
@@ -28492,6 +28512,7 @@
 0.0.0.0 nnty-maillots.fr
 0.0.0.0 no-bull.fr
 0.0.0.0 no-bullfrance.fr
+0.0.0.0 no-limit-accorarena-freestyle.fr
 0.0.0.0 no-reply-chrono-delivery-france.fr
 0.0.0.0 no-reply-credit-agr.fr
 0.0.0.0 no-reply-france-chrono-livraison.fr
@@ -31632,11 +31653,19 @@
 0.0.0.0 prefants.fr
 0.0.0.0 prefecture-ants.fr
 0.0.0.0 prefecture-bobigny.fr
+0.0.0.0 prefecture-cergy.fr
+0.0.0.0 prefecture-creteil.fr
+0.0.0.0 prefecture-evry.fr
 0.0.0.0 prefecture-gov.fr
 0.0.0.0 prefecture-laon.fr
+0.0.0.0 prefecture-marseille.fr
 0.0.0.0 prefecture-melun.fr
+0.0.0.0 prefecture-montpellier.fr
+0.0.0.0 prefecture-nanterre.fr
 0.0.0.0 prefecture-nimes.fr
 0.0.0.0 prefecture-sarcelles.fr
+0.0.0.0 prefecture-toulouse.fr
+0.0.0.0 prefecture-versailles.fr
 0.0.0.0 prefecture-vitale.fr
 0.0.0.0 prefectureants.fr
 0.0.0.0 prefecturedepolicegouv.fr
@@ -33226,6 +33255,7 @@
 0.0.0.0 rembourseticket.fr
 0.0.0.0 remboursprocedur.fr
 0.0.0.0 remicentrevaldeloire.fr
+0.0.0.0 remington-france.fr
 0.0.0.0 remise-prime.fr
 0.0.0.0 remiseenligne.fr
 0.0.0.0 remiseetprivilege.fr
@@ -36865,6 +36895,7 @@
 0.0.0.0 smapchat.fr
 0.0.0.0 smart-ticket.fr
 0.0.0.0 smartcart.fr
+0.0.0.0 smarterstv8k.fr
 0.0.0.0 smartgrids-enedis.fr
 0.0.0.0 smarthbox.fr
 0.0.0.0 smartphonespaschers.fr
@@ -37414,9 +37445,16 @@
 0.0.0.0 sothebys-france.fr
 0.0.0.0 sourbonne-nouvelle.fr
 0.0.0.0 sous-amende.fr
+0.0.0.0 sous-prefecture-antony.fr
 0.0.0.0 sous-prefecture-argenteuil.fr
+0.0.0.0 sous-prefecture-boulogne-billancourt.fr
+0.0.0.0 sous-prefecture-l-hay-les-roses.fr
 0.0.0.0 sous-prefecture-le-raincy.fr
 0.0.0.0 sous-prefecture-meaux.fr
+0.0.0.0 sous-prefecture-nogent-sur-marne.fr
+0.0.0.0 sous-prefecture-palaiseau.fr
+0.0.0.0 sous-prefecture-saint-denis.fr
+0.0.0.0 sous-prefecture-saint-germain-en-laye.fr
 0.0.0.0 sous-prefecture-sarcelles.fr
 0.0.0.0 sous-prefecture-torcy.fr
 0.0.0.0 souscription-abonnements.fr
@@ -39658,6 +39696,7 @@
 0.0.0.0 ticketmasterfrance.fr
 0.0.0.0 ticketmastermarketplace.fr
 0.0.0.0 ticketmastet.fr
+0.0.0.0 ticketmastrer.fr
 0.0.0.0 ticketmastter.fr
 0.0.0.0 ticketmastwr.fr
 0.0.0.0 ticketmater.fr
@@ -41331,6 +41370,7 @@
 0.0.0.0 verifications-prime.fr
 0.0.0.0 verifications-securite.fr
 0.0.0.0 verificationsclients.fr
+0.0.0.0 verificationtickets.fr
 0.0.0.0 verificationtransaction.fr
 0.0.0.0 verificator-ticket.fr
 0.0.0.0 verificlbc.fr
@@ -41400,6 +41440,7 @@
 0.0.0.0 verywellcasino.fr
 0.0.0.0 vessishoes.fr
 0.0.0.0 vestemonclerhommepascher.fr
+0.0.0.0 vetalfort.fr
 0.0.0.0 vetbaudet.fr
 0.0.0.0 vetementschina.fr
 0.0.0.0 vetementselegants.fr
@@ -42612,6 +42653,7 @@
 0.0.0.0 wingoat.fr
 0.0.0.0 winhero-casino.fr
 0.0.0.0 winherocasino.fr
+0.0.0.0 winica-casino.fr
 0.0.0.0 winitcasino.fr
 0.0.0.0 winiwin.fr
 0.0.0.0 wink-kingdom-fr.fr
@@ -42683,6 +42725,7 @@
 0.0.0.0 winocasino-fr.fr
 0.0.0.0 winocasino-france.fr
 0.0.0.0 winocasino.fr
+0.0.0.0 winolot-fr.fr
 0.0.0.0 winolot.fr
 0.0.0.0 winolympia-casino.fr
 0.0.0.0 winolympia.fr
@@ -42815,6 +42858,7 @@
 0.0.0.0 winztercasinos.fr
 0.0.0.0 winzzcasino.fr
 0.0.0.0 wipikedia.fr
+0.0.0.0 wiplay-officiel.fr
 0.0.0.0 wireshark.fr
 0.0.0.0 wirl.fr
 0.0.0.0 wise-bank.fr
