@@ -1116,6 +1116,8 @@
 0.0.0.0 actus24.fr
 0.0.0.0 actusetinfosdupays.fr
 0.0.0.0 aculo.fr
+0.0.0.0 acustan-fr.fr
+0.0.0.0 acustan-gotas.fr
 0.0.0.0 acyu.fr
 0.0.0.0 ad-mo.re
 0.0.0.0 adam4adam.fr
@@ -7088,6 +7090,7 @@
 0.0.0.0 boulanger-remboursements.fr
 0.0.0.0 boulangerfrance.fr
 0.0.0.0 boulangerr.fr
+0.0.0.0 bouquetmat-france.fr
 0.0.0.0 bourgognefranchcomte.fr
 0.0.0.0 bourgognefrancheconte.fr
 0.0.0.0 bours-clients-particulier.fr
@@ -8464,6 +8467,7 @@
 0.0.0.0 casino-elysees-club.fr
 0.0.0.0 casino-en-ligne-argen-treel.fr
 0.0.0.0 casino-en-ligne-betify.fr
+0.0.0.0 casino-en-ligne-paysafecard.fr
 0.0.0.0 casino-en-ligne-sans-verification.fr
 0.0.0.0 casino-en-lignes-france.fr
 0.0.0.0 casino-enligne-argentreel.fr
@@ -11243,6 +11247,7 @@
 0.0.0.0 clover-spin.fr
 0.0.0.0 clover-spincasino.fr
 0.0.0.0 cloverspincasino.fr
+0.0.0.0 clovisfrance.fr
 0.0.0.0 clronopost.fr
 0.0.0.0 club--internet.fr
 0.0.0.0 club-iinternet.fr
@@ -11785,6 +11790,7 @@
 0.0.0.0 complete-prime.fr
 0.0.0.0 compressportfrance.fr
 0.0.0.0 compt-leboncoin.fr
+0.0.0.0 compta-lefigaro.fr
 0.0.0.0 compta-myfoncia.fr
 0.0.0.0 compta-purskin.fr
 0.0.0.0 compta-ugap.fr
@@ -13385,6 +13391,8 @@
 0.0.0.0 cydertek.fr
 0.0.0.0 cyfe.fr
 0.0.0.0 cyrillius.fr
+0.0.0.0 cystobact-fr.fr
+0.0.0.0 cystobacts.fr
 0.0.0.0 cyzu.pm
 0.0.0.0 czrglass.fr
 0.0.0.0 czrt.fr
@@ -14593,6 +14601,7 @@
 0.0.0.0 drouinsas.fr
 0.0.0.0 drout.fr
 0.0.0.0 drreo.yt
+0.0.0.0 drrt-centre.fr
 0.0.0.0 drsd.fr
 0.0.0.0 drwhh.yt
 0.0.0.0 drxr.fr
@@ -14923,6 +14932,7 @@
 0.0.0.0 edfmoncompte.fr
 0.0.0.0 edfmoncontrat.fr
 0.0.0.0 edfnumero.fr
+0.0.0.0 edfoamoncontrat.fr
 0.0.0.0 edfpaiement.fr
 0.0.0.0 edfpartenaires.fr
 0.0.0.0 edfparticulieconnect.fr
@@ -16672,6 +16682,8 @@
 0.0.0.0 flequipe.fr
 0.0.0.0 flex2bet-casino.fr
 0.0.0.0 flexfone.fr
+0.0.0.0 flexosamine-fr.fr
+0.0.0.0 flexosamine.fr
 0.0.0.0 flexpay.fr
 0.0.0.0 flightams.fr
 0.0.0.0 flip-casino.fr
@@ -17839,6 +17851,7 @@
 0.0.0.0 gaminocasino.fr
 0.0.0.0 gamix-casino.fr
 0.0.0.0 gamonic.fr
+0.0.0.0 gan-services.fr
 0.0.0.0 gandinet.fr
 0.0.0.0 gangsta-sino.fr
 0.0.0.0 gangsta-sinos.fr
@@ -18126,6 +18139,7 @@
 0.0.0.0 gls-spain.fr
 0.0.0.0 glucavit-fr.fr
 0.0.0.0 gluck2027.fr
+0.0.0.0 glycorium-fr.fr
 0.0.0.0 gmaaf.fr
 0.0.0.0 gmaail.fr
 0.0.0.0 gmai1.fr
@@ -22660,6 +22674,7 @@
 0.0.0.0 leboncoij.fr
 0.0.0.0 leboncoimn.fr
 0.0.0.0 leboncoin-74.fr
+0.0.0.0 leboncoin-ad-voitures-3306054271-securise.fr
 0.0.0.0 leboncoin-ads.fr
 0.0.0.0 leboncoin-ai.fr
 0.0.0.0 leboncoin-aide.fr
@@ -28896,6 +28911,7 @@
 0.0.0.0 nutroftotal.fr
 0.0.0.0 nuumericable.fr
 0.0.0.0 nuvaskin-officiel.fr
+0.0.0.0 nuxe-france.fr
 0.0.0.0 nuxefrance.fr
 0.0.0.0 nuxitsupport.fr
 0.0.0.0 nv-casino-france.fr
@@ -29501,6 +29517,8 @@
 0.0.0.0 original-adidas.fr
 0.0.0.0 originalpenguin.fr
 0.0.0.0 orioncasino.fr
+0.0.0.0 orivelle-fr.fr
+0.0.0.0 orivelle-site-officiel.fr
 0.0.0.0 ornage.fr
 0.0.0.0 orner.fr
 0.0.0.0 orninar.fr
@@ -29552,6 +29570,8 @@
 0.0.0.0 ostal-services.fr
 0.0.0.0 ostalgie.fr
 0.0.0.0 ostalservices.fr
+0.0.0.0 osteo-nova.fr
+0.0.0.0 osteonova-fr.fr
 0.0.0.0 ot-marchiennes.fr
 0.0.0.0 otobet.fr
 0.0.0.0 otrange.fr
@@ -30018,6 +30038,8 @@
 0.0.0.0 parapharmaciedeparis.fr
 0.0.0.0 paratroopers.fr
 0.0.0.0 paravendu.fr
+0.0.0.0 parazax-fr.fr
+0.0.0.0 parazax.fr
 0.0.0.0 parcasterix-billet.fr
 0.0.0.0 parcasterix-parc.fr
 0.0.0.0 parcasterixfrance.fr
@@ -32201,6 +32223,8 @@
 0.0.0.0 propulse-ca.fr
 0.0.0.0 prorange.fr
 0.0.0.0 prosivinterieurgouv.fr
+0.0.0.0 prostalis-fr.fr
+0.0.0.0 prostalis-gelules.fr
 0.0.0.0 protect-prime.fr
 0.0.0.0 protection-ameli.fr
 0.0.0.0 protection-client.fr
@@ -32498,6 +32522,8 @@
 0.0.0.0 ragingbull-casino.fr
 0.0.0.0 ragingbull.fr
 0.0.0.0 ragingbulls.fr
+0.0.0.0 ragna-bet.fr
+0.0.0.0 ragnabet-fr.fr
 0.0.0.0 ragwearoutlet.fr
 0.0.0.0 rainbet-fr.fr
 0.0.0.0 rainbet-france.fr
@@ -34043,6 +34069,7 @@
 0.0.0.0 rockstar-casinos.fr
 0.0.0.0 rockstar-france.fr
 0.0.0.0 rockstar-online.fr
+0.0.0.0 rockstar1.fr
 0.0.0.0 rockstarcasino-france.fr
 0.0.0.0 rockstarcasino-officiel.fr
 0.0.0.0 rockstarcasino.fr
@@ -39301,6 +39328,8 @@
 0.0.0.0 swisspost-suivi.fr
 0.0.0.0 swisspost-tck.fr
 0.0.0.0 sx-prime.fr
+0.0.0.0 sx66-fr.fr
+0.0.0.0 sx66-officiel.fr
 0.0.0.0 sxb.yt
 0.0.0.0 sybonymo.fr
 0.0.0.0 sylae.fr
@@ -40570,6 +40599,7 @@
 0.0.0.0 umbrosfrance.fr
 0.0.0.0 umbrosoldes.fr
 0.0.0.0 umontpeiller.fr
+0.0.0.0 umontpeliler.fr
 0.0.0.0 umontpeller.fr
 0.0.0.0 un-ruly.fr
 0.0.0.0 unbog.fr
@@ -40902,6 +40932,7 @@
 0.0.0.0 upsfrance.fr
 0.0.0.0 upslivraison-colis.fr
 0.0.0.0 upsmonsuivi.fr
+0.0.0.0 upspinz1.fr
 0.0.0.0 upstrack.fr
 0.0.0.0 urassaf.fr
 0.0.0.0 urbact.fr
@@ -42767,6 +42798,7 @@
 0.0.0.0 winnerzcasino.fr
 0.0.0.0 winnerzfr.fr
 0.0.0.0 winning-casino.fr
+0.0.0.0 winning1.fr
 0.0.0.0 winningscasino.fr
 0.0.0.0 winningtogether.fr
 0.0.0.0 winningz-casinos.fr
@@ -42789,6 +42821,7 @@
 0.0.0.0 winocasino.fr
 0.0.0.0 winolot-fr.fr
 0.0.0.0 winolot.fr
+0.0.0.0 winolot1.fr
 0.0.0.0 winolympia-casino.fr
 0.0.0.0 winolympia.fr
 0.0.0.0 winolympiacasino.fr
@@ -42910,6 +42943,7 @@
 0.0.0.0 winwinonline.fr
 0.0.0.0 winwintercasino.fr
 0.0.0.0 winz-casino.fr
+0.0.0.0 winz1.fr
 0.0.0.0 winzcasino.fr
 0.0.0.0 winzcasino1.fr
 0.0.0.0 winzmax.fr
