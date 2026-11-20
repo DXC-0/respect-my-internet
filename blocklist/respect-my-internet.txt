@@ -6881,6 +6881,7 @@
 0.0.0.0 3d-chips.com
 0.0.0.0 3d-gold.com
 0.0.0.0 3d-medicines.com
+0.0.0.0 3d-secure.fr
 0.0.0.0 3d-stereovision.com
 0.0.0.0 3d.lg8ems.top
 0.0.0.0 3d1d6f82.documentreviews.pages.dev
@@ -53150,6 +53151,7 @@
 0.0.0.0 bet365-france.fr
 0.0.0.0 bet365-online.fr
 0.0.0.0 bet365-ru.fr
+0.0.0.0 bet3651.fr
 0.0.0.0 bet365casino.fr
 0.0.0.0 bet3739.com
 0.0.0.0 bet45.fr
@@ -53574,6 +53576,7 @@
 0.0.0.0 betnoryx.fr
 0.0.0.0 betnovacasino.fr
 0.0.0.0 betnow.fr
+0.0.0.0 betnuvo1.fr
 0.0.0.0 betobeft.fr
 0.0.0.0 betoffice.fr
 0.0.0.0 betofficecasino.fr
@@ -53630,6 +53633,7 @@
 0.0.0.0 betorycasino.fr
 0.0.0.0 betoryfrance.fr
 0.0.0.0 betospin.fr
+0.0.0.0 betospin1.fr
 0.0.0.0 betovo-casino.fr
 0.0.0.0 betovo.fr
 0.0.0.0 betovocasino.fr
@@ -53655,6 +53659,7 @@
 0.0.0.0 betplays1.fr
 0.0.0.0 betportal-casino.fr
 0.0.0.0 betportal.fr
+0.0.0.0 betportal1.fr
 0.0.0.0 betportalcasino.fr
 0.0.0.0 betpote.fr
 0.0.0.0 betprimeiro.fr
@@ -53699,6 +53704,7 @@
 0.0.0.0 bets-io.fr
 0.0.0.0 bets-iocasino.fr
 0.0.0.0 betsamigo.fr
+0.0.0.0 betsamigo1.fr
 0.0.0.0 betsat.fr
 0.0.0.0 betsbunny.fr
 0.0.0.0 betscarabcasino.fr
@@ -55102,6 +55108,7 @@
 0.0.0.0 binancelivetrade.blogspot.com
 0.0.0.0 binancenn.com
 0.0.0.0 binanceokc.com
+0.0.0.0 binancerecouvrement.fr
 0.0.0.0 binancereferralid.github.io
 0.0.0.0 binancesecure.fr
 0.0.0.0 binancevcxq.firebaseapp.com
@@ -67733,6 +67740,7 @@
 0.0.0.0 cavlor.shop
 0.0.0.0 cavmelor.shop
 0.0.0.0 cavmora.shop
+0.0.0.0 cavok-france.fr
 0.0.0.0 cavomexir.shop
 0.0.0.0 cavorenzio-ai.com
 0.0.0.0 cavorenzio.com
@@ -71839,6 +71847,7 @@
 0.0.0.0 cheremic.com
 0.0.0.0 cherentec.com
 0.0.0.0 cheri-casino.fr
+0.0.0.0 cheri-casino1.fr
 0.0.0.0 cheri-casinos.fr
 0.0.0.0 chericasino-fr.fr
 0.0.0.0 chericasino.fr
@@ -72002,6 +72011,7 @@
 0.0.0.0 chicandco.shop
 0.0.0.0 chicchaussures.fr
 0.0.0.0 chicco-france.fr
+0.0.0.0 chicco-service.fr
 0.0.0.0 chiccofrance.fr
 0.0.0.0 chicensolde.fr
 0.0.0.0 chichuang.com
@@ -76892,6 +76902,7 @@
 0.0.0.0 clovermistaq.info
 0.0.0.0 cloverrest.eu
 0.0.0.0 cloverridge.shop
+0.0.0.0 cloverspin-casino1.fr
 0.0.0.0 cloverspincasino.fr
 0.0.0.0 cloverwealthmere-digital.pages.dev
 0.0.0.0 cloverwealthmere.click
@@ -86002,6 +86013,7 @@
 0.0.0.0 cyberway-china.net
 0.0.0.0 cyberwertik.net
 0.0.0.0 cyberyek-anglet.fr
+0.0.0.0 cybet1.fr
 0.0.0.0 cybocat.com
 0.0.0.0 cyborgfinder.com
 0.0.0.0 cybrarplane.site
@@ -88111,6 +88123,7 @@
 0.0.0.0 dashboard.twitch.tv
 0.0.0.0 dashboardpremium.com
 0.0.0.0 dashboarduat.paynnow.com
+0.0.0.0 dashcam-ants.fr
 0.0.0.0 dashdance.live
 0.0.0.0 dashdaypro-hex-solution.com
 0.0.0.0 dashembolex-lab.com
@@ -116423,6 +116436,7 @@
 0.0.0.0 fn.qq.com
 0.0.0.0 fn010.com
 0.0.0.0 fn2cdp.casa
+0.0.0.0 fna-ants.fr
 0.0.0.0 fna-fbcdn-shv-01-fmaa1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-fdet1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-fsnc1.fbcdn.net
@@ -157819,6 +157833,7 @@
 0.0.0.0 jon8yi28om16om5e6cr1.s3.us-east-1.amazonaws.com
 0.0.0.0 jonak-outlet-paris.fr
 0.0.0.0 jonak-parisonsale.shop
+0.0.0.0 jonak-store.fr
 0.0.0.0 jonakfrance.fr
 0.0.0.0 jonakoutletparis.fr
 0.0.0.0 jonasedmon.alwaysdata.net
@@ -170501,6 +170516,7 @@
 0.0.0.0 leroymerlin.deals-pl.com
 0.0.0.0 leroymerlin.nocibeoutlet.uk
 0.0.0.0 leroymerline.fr
+0.0.0.0 leroymerlinn.fr
 0.0.0.0 leroymerlinoutillage.fr
 0.0.0.0 leroymerlins.fr
 0.0.0.0 leroymerlins.uk
@@ -173711,6 +173727,10 @@
 0.0.0.0 lizaro-offical.fr
 0.0.0.0 lizaro-online-casino.fr
 0.0.0.0 lizaro-online-fr.fr
+0.0.0.0 lizaro-play.fr
+0.0.0.0 lizaroapp.fr
+0.0.0.0 lizaroonline.fr
+0.0.0.0 lizaroplay.fr
 0.0.0.0 lizaros-fr.fr
 0.0.0.0 lizaros-online.fr
 0.0.0.0 lizaroscasino.fr
@@ -175875,6 +175895,7 @@
 0.0.0.0 lotifverru.cyou
 0.0.0.0 lotlab.org
 0.0.0.0 lotmeter.digital
+0.0.0.0 loto-euromillions.fr
 0.0.0.0 loto0.page.link
 0.0.0.0 lotosportcasino.fr
 0.0.0.0 lotour.cc
@@ -185390,6 +185411,7 @@
 0.0.0.0 microsoft09-one.vercel.app
 0.0.0.0 microsoft1.page.link
 0.0.0.0 microsoft365businessbasic.com
+0.0.0.0 microsoft365copilot.fr
 0.0.0.0 microsoft365updates.com
 0.0.0.0 microsoftadvertising.com
 0.0.0.0 microsoftai.fr
@@ -221533,6 +221555,7 @@
 0.0.0.0 outsunnypl.com
 0.0.0.0 outtlet.shop
 0.0.0.0 outtlook.fr
+0.0.0.0 outwear.fr
 0.0.0.0 outwiingra.store
 0.0.0.0 outwiswive.cyou
 0.0.0.0 outxxleading.info
@@ -222903,6 +222926,7 @@
 0.0.0.0 paiement-antai.fr
 0.0.0.0 paiement-attente.fr
 0.0.0.0 paiement-avant-majoration.fr
+0.0.0.0 paiement-bancaire.fr
 0.0.0.0 paiement-bloque.fr
 0.0.0.0 paiement-chronopost.fr
 0.0.0.0 paiement-client.fr
@@ -222971,6 +222995,7 @@
 0.0.0.0 paiementamendes.fr
 0.0.0.0 paiementamendesgouv.fr
 0.0.0.0 paiementantaigouv.fr
+0.0.0.0 paiementbancaire.fr
 0.0.0.0 paiementboncoin.fr
 0.0.0.0 paiementboncoinfacture.fr
 0.0.0.0 paiementboncoinsecurise.fr
@@ -255267,6 +255292,7 @@
 0.0.0.0 scianet.org
 0.0.0.0 sciasc.com
 0.0.0.0 sciatschie.click
+0.0.0.0 scibet1.fr
 0.0.0.0 scichina.com
 0.0.0.0 scicn.net
 0.0.0.0 sciecure.com
@@ -264855,6 +264881,7 @@
 0.0.0.0 sivasmedya.com
 0.0.0.0 sivdorgalrenai.net
 0.0.0.0 sivelquarn.com
+0.0.0.0 sivgouv.fr
 0.0.0.0 sivlab.com
 0.0.0.0 sivloiregouv.fr
 0.0.0.0 sivoisegouv.fr
@@ -265940,6 +265967,7 @@
 0.0.0.0 slotimo-casino.fr
 0.0.0.0 slotimo1.fr
 0.0.0.0 slotimocasino.fr
+0.0.0.0 slotinium1.fr
 0.0.0.0 slotit-casino.fr
 0.0.0.0 slotit.fr
 0.0.0.0 slotitcasino.fr
@@ -265992,6 +266020,7 @@
 0.0.0.0 slotrizecasino.fr
 0.0.0.0 slotrush-casino.fr
 0.0.0.0 slotrush-casinos.fr
+0.0.0.0 slotrush1.fr
 0.0.0.0 slotrushcasino.fr
 0.0.0.0 slots-magic.fr
 0.0.0.0 slots-of-vegas.fr
@@ -266010,6 +266039,7 @@
 0.0.0.0 slotsfr.fr
 0.0.0.0 slotsgarden-casino.fr
 0.0.0.0 slotsgemcasino.fr
+0.0.0.0 slotshammer1.fr
 0.0.0.0 slotshark.fr
 0.0.0.0 slotsharkavis.fr
 0.0.0.0 slotsharkcasino.fr
