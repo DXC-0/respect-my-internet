@@ -5341,6 +5341,7 @@
 0.0.0.0 bankrollfr.fr
 0.0.0.0 bannerbuzz.fr
 0.0.0.0 bannersnack.fr
+0.0.0.0 banq2france.fr
 0.0.0.0 banqepopulaire.fr
 0.0.0.0 banqne-france.fr
 0.0.0.0 banque-actualisations.fr
@@ -5646,6 +5647,7 @@
 0.0.0.0 beef-casino.fr
 0.0.0.0 beefcasino-fr.fr
 0.0.0.0 beetblast-fr.fr
+0.0.0.0 beetify.fr
 0.0.0.0 beetospin-fr.fr
 0.0.0.0 beetospin.fr
 0.0.0.0 beetsio.fr
@@ -9482,6 +9484,8 @@
 0.0.0.0 cbhbank.fr
 0.0.0.0 cbopposition.fr
 0.0.0.0 cbxza.yt
+0.0.0.0 cc-montauban-de-bretagne.fr
+0.0.0.0 cc-paysbilurien.fr
 0.0.0.0 ccaisse-epargne.fr
 0.0.0.0 ccaisse-epargnes.fr
 0.0.0.0 ccasmontpellier.fr
@@ -12303,6 +12307,7 @@
 0.0.0.0 consigner-amendes.fr
 0.0.0.0 consigner-mesamendes2023.fr
 0.0.0.0 consigner-votrepv.fr
+0.0.0.0 consogouv.fr
 0.0.0.0 consorsbank.fr
 0.0.0.0 constat-national-antai.fr
 0.0.0.0 constataccidentauto.fr
@@ -12636,6 +12641,7 @@
 0.0.0.0 coris-bourse.fr
 0.0.0.0 coris-bourses.fr
 0.0.0.0 corisbourses.fr
+0.0.0.0 corivitus-fr.fr
 0.0.0.0 cornermaillot.fr
 0.0.0.0 cornprime.fr
 0.0.0.0 correspondancesante.fr
@@ -17040,6 +17046,7 @@
 0.0.0.0 fr-cora.fr
 0.0.0.0 fr-corafrance.fr
 0.0.0.0 fr-corgibet.fr
+0.0.0.0 fr-corivitus.fr
 0.0.0.0 fr-crcindustriesfrancesas.fr
 0.0.0.0 fr-credindust.fr
 0.0.0.0 fr-cresus.fr
@@ -19107,6 +19114,7 @@
 0.0.0.0 gt-bets.fr
 0.0.0.0 gt7taxisvtc.fr
 0.0.0.0 gta6-officiel.fr
+0.0.0.0 gta6-shop.fr
 0.0.0.0 gtah.fr
 0.0.0.0 gtamoding.fr
 0.0.0.0 gtapro.fr
@@ -24487,6 +24495,7 @@
 0.0.0.0 maafetmoi.fr
 0.0.0.0 maafinsurance.fr
 0.0.0.0 maafsante.fr
+0.0.0.0 maagicalspin.fr
 0.0.0.0 maanageo.fr
 0.0.0.0 maatmut.fr
 0.0.0.0 maazon.fr
@@ -26323,6 +26332,7 @@
 0.0.0.0 mon-espace-client-prime.fr
 0.0.0.0 mon-espace-client-sfr.fr
 0.0.0.0 mon-espace-client-sofinco.fr
+0.0.0.0 mon-espace-clients.fr
 0.0.0.0 mon-espace-colis.fr
 0.0.0.0 mon-espace-colissimo.fr
 0.0.0.0 mon-espace-commercial.fr
@@ -35959,6 +35969,7 @@
 0.0.0.0 servicechronopost2024.fr
 0.0.0.0 servicechronoposte.fr
 0.0.0.0 serviceclient-amazonfrance.fr
+0.0.0.0 serviceclient-assurance-retraite.fr
 0.0.0.0 serviceclient-auth.fr
 0.0.0.0 serviceclient-banquedefrance.fr
 0.0.0.0 serviceclient-bitpanda.fr
@@ -36225,6 +36236,8 @@
 0.0.0.0 sevencasino-france.fr
 0.0.0.0 sevencasino-officiel.fr
 0.0.0.0 sevencasinos.fr
+0.0.0.0 sevenplay-fr.fr
+0.0.0.0 sevenplay1.fr
 0.0.0.0 sevice-mabanque-bnp-paribas.fr
 0.0.0.0 sevice-mabanque-bnpparibas.fr
 0.0.0.0 sexe-models.fr
@@ -37701,6 +37714,7 @@
 0.0.0.0 spin-polo.fr
 0.0.0.0 spin-rollz-casino.fr
 0.0.0.0 spin-rollzcasino.fr
+0.0.0.0 spin-shake.fr
 0.0.0.0 spin-shark.fr
 0.0.0.0 spin-spirit-casino.fr
 0.0.0.0 spin-star.fr
@@ -38054,6 +38068,7 @@
 0.0.0.0 spinscasinos.fr
 0.0.0.0 spinsdeluxe-casino.fr
 0.0.0.0 spinshadowpro.fr
+0.0.0.0 spinshake6.fr
 0.0.0.0 spinshark.fr
 0.0.0.0 spinshousecasino.fr
 0.0.0.0 spinsino-casino.fr
@@ -38121,6 +38136,8 @@
 0.0.0.0 spintowin.fr
 0.0.0.0 spintrainer.fr
 0.0.0.0 spintroll.fr
+0.0.0.0 spintropolis-fr.fr
+0.0.0.0 spintropolis8.fr
 0.0.0.0 spintropolisonline.fr
 0.0.0.0 spinvibe-casino.fr
 0.0.0.0 spinvibe.fr
@@ -39839,6 +39856,7 @@
 0.0.0.0 ticketsjul.fr
 0.0.0.0 ticketslive.fr
 0.0.0.0 ticketslouvre.fr
+0.0.0.0 ticketsmaster-fr.fr
 0.0.0.0 ticketsmaster-jul.fr
 0.0.0.0 ticketsmaster.fr
 0.0.0.0 ticketsmasters.fr
@@ -40269,6 +40287,7 @@
 0.0.0.0 transactions-prime.fr
 0.0.0.0 transactionsleboncoin.fr
 0.0.0.0 transactionsleboncoins.fr
+0.0.0.0 transaviasupport.fr
 0.0.0.0 transcach.fr
 0.0.0.0 transcash-activation.fr
 0.0.0.0 transcash-monespacepersonnel.fr
@@ -40587,6 +40606,7 @@
 0.0.0.0 uggs-store.fr
 0.0.0.0 uggsfrance.fr
 0.0.0.0 uggshoes.fr
+0.0.0.0 uggshop.fr
 0.0.0.0 uggsoldes.fr
 0.0.0.0 uggsparis.fr
 0.0.0.0 uggsshop.fr
