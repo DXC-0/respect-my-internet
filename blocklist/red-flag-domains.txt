@@ -8962,6 +8962,7 @@
 0.0.0.0 casinoluckyfr.fr
 0.0.0.0 casinoluckygem.fr
 0.0.0.0 casinoluckytreasure.fr
+0.0.0.0 casinolumiere.fr
 0.0.0.0 casinolunubet.fr
 0.0.0.0 casinoly-casino.fr
 0.0.0.0 casinoly-com.fr
@@ -18069,6 +18070,7 @@
 0.0.0.0 getaround-verification.fr
 0.0.0.0 getlucky-casino.fr
 0.0.0.0 getluckycasino.fr
+0.0.0.0 getrecharge.fr
 0.0.0.0 getrude-destock.fr
 0.0.0.0 getsbet.fr
 0.0.0.0 getsbetcasino.fr
@@ -35808,6 +35810,7 @@
 0.0.0.0 service-notifications.fr
 0.0.0.0 service-office.fr
 0.0.0.0 service-operateur.fr
+0.0.0.0 service-oppofrance.fr
 0.0.0.0 service-opposition-securite.fr
 0.0.0.0 service-opposition.fr
 0.0.0.0 service-oppositions.fr
