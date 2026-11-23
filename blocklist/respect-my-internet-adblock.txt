@@ -64794,6 +64794,7 @@
 ||caissedesdepots-dreets.fr^
 ||caissedesdepots-mcf.fr^
 ||caissedesdepots-recouvrement.fr^
+||caissedesdepots.paris^
 ||caissedesdepotsgard.fr^
 ||caissedesdpots.fr^
 ||caissee-epargnes.fr^
@@ -77071,6 +77072,7 @@
 ||cloudstudio.net^
 ||cloudstudio.run^
 ||cloudstudio.work^
+||cloudsubscption.fr^
 ||cloudsupport.googleapis.com^
 ||cloudsuqian.com^
 ||cloudswift.cloud^
@@ -81083,6 +81085,7 @@
 ||contact-paiementsecuriserleboncoin.fr^
 ||contact-paris2024.fr^
 ||contact-paypal.fr^
+||contact-police-national.fr^
 ||contact-prime.fr^
 ||contact-sante.fr^
 ||contact-santegouv.fr^
@@ -105829,6 +105832,7 @@
 ||ethereumtrader.app^
 ||ethericwaves.shop^
 ||etheriwwfying.info^
+||etherpay.fr^
 ||etherporta.autos^
 ||etherumcodetech.com^
 ||etherwallet.mobilelab.vn^
@@ -117233,6 +117237,7 @@
 ||formulaire-enligne.fr^
 ||formulaire-espaceclient.fr^
 ||formulaire-espacesante.fr^
+||formulaire-esta-gratuit.fr^
 ||formulaire-impots.fr^
 ||formulaire-inform.fr^
 ||formulaire-infos.fr^
@@ -214916,6 +214921,7 @@
 ||olivervalentine.com^
 ||oliveryang.net^
 ||olivetestates.com^
+||olivettifrance.fr^
 ||olix-n5jcf-ntf.y4cfcc.sbs^
 ||olix5mhn.wu9cpv.cfd^
 ||olixsl.shop^
@@ -270180,6 +270186,7 @@
 ||spinanga-france.fr^
 ||spinanga-vip.fr^
 ||spinanga1.fr^
+||spinanga7.fr^
 ||spinangacasinoapp.fr^
 ||spinangacasinoavis.fr^
 ||spinangacasinobonus.fr^
@@ -270309,6 +270316,7 @@
 ||spinerino.fr^
 ||spinfest-fr.fr^
 ||spinfest1.fr^
+||spinfest7.fr^
 ||spinfests.fr^
 ||spinfevercasino.fr^
 ||spinfiin.fr^
@@ -276430,6 +276438,7 @@
 ||supportauth-netflix.fr^
 ||supportbanbag.me^
 ||supportbinance.fr^
+||supportblockchain.fr^
 ||supportblueverificationrequestbusiness.click^
 ||supportbooking.fr^
 ||supportboursoramamisejour.fr^
@@ -297328,6 +297337,7 @@
 ||urbact.fr^
 ||urban-casino.fr^
 ||urban-fabric.shop^
+||urban-outlet.fr^
 ||urban-sling.shop^
 ||urban-trek.shop^
 ||urbanairship.com^#Unknown^-^Tracker^
@@ -299882,6 +299892,7 @@
 ||vegaspluscasino1.fr^
 ||vegaspluscasinofr.fr^
 ||vegaspluscasinoo.fr^
+||vegaspluscasinos.fr^
 ||vegasplusfr.fr^
 ||vegasrush.fr^
 ||vegasslot-casino.fr^
