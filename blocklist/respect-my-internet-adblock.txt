@@ -15224,10 +15224,6 @@
 ||9zhen.com^
 ||9znet.com^
 ||9zx.com^
-||<!DOCTYPE^html^PUBLIC^"-//W3C//DTD^XHTML^1.0^Strict//EN"^
-||</html>^
-||<?xml^version="1.0"^encoding="utf-8"?>^
-||<html>^
 ||S3-eu-west-1.amazonaws.com^
 ||_caldav._tcp.google.com^
 ||_domainkey.amazonaws.com^
