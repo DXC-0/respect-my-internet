@@ -945,6 +945,7 @@
 0.0.0.0 actalis.fr
 0.0.0.0 actes-deces.fr
 0.0.0.0 actif-prime.fr
+0.0.0.0 actifwise.fr
 0.0.0.0 action-ca.fr
 0.0.0.0 action-connect.fr
 0.0.0.0 action-france-sas.fr
@@ -957,6 +958,7 @@
 0.0.0.0 actionsdgfipgouv.fr
 0.0.0.0 actionsolde.fr
 0.0.0.0 actionsoldes.fr
+0.0.0.0 actionwise.fr
 0.0.0.0 activ-lyfreception.fr
 0.0.0.0 activate-cvitale.fr
 0.0.0.0 activate-prime.fr
@@ -12337,6 +12339,7 @@
 0.0.0.0 contact-amazon.fr
 0.0.0.0 contact-ameli.fr
 0.0.0.0 contact-amendes.fr
+0.0.0.0 contact-amf.fr
 0.0.0.0 contact-amzn.fr
 0.0.0.0 contact-amzon.fr
 0.0.0.0 contact-anj.fr
@@ -16356,6 +16359,7 @@
 0.0.0.0 fanniemae.fr
 0.0.0.0 fano-betcasino.fr
 0.0.0.0 fanobet-fr.fr
+0.0.0.0 fanobet.fr
 0.0.0.0 fanobet1.fr
 0.0.0.0 fanseat.fr
 0.0.0.0 fantasybetcasino.fr
@@ -21048,6 +21052,7 @@
 0.0.0.0 instantcasinoo1.fr
 0.0.0.0 instantcasinoonline.fr
 0.0.0.0 instantcasinos-com.fr
+0.0.0.0 instantcasinos.fr
 0.0.0.0 instantcasinos1.fr
 0.0.0.0 instantcassino.fr
 0.0.0.0 instante-casino.fr
@@ -27555,6 +27560,7 @@
 0.0.0.0 myhsbcbanking.fr
 0.0.0.0 myinfo-colis-enligne.fr
 0.0.0.0 myiptvstore.fr
+0.0.0.0 myjacketstore.fr
 0.0.0.0 myjackpot-casino.fr
 0.0.0.0 myjackpot-com.fr
 0.0.0.0 myjackpotcasino.fr
@@ -30435,6 +30441,7 @@
 0.0.0.0 patient-sante-ameli.fr
 0.0.0.0 patientez-prime.fr
 0.0.0.0 patientezprime.fr
+0.0.0.0 patientmsante.fr
 0.0.0.0 patientsante-ameli.fr
 0.0.0.0 patiofurnitureshop.fr
 0.0.0.0 patis-store.fr
@@ -35992,6 +35999,7 @@
 0.0.0.0 serviceclient-prime.fr
 0.0.0.0 serviceclient-sfr.fr
 0.0.0.0 serviceclient-younited-credit.fr
+0.0.0.0 serviceclient-younitedcredit.fr
 0.0.0.0 serviceclientaf.fr
 0.0.0.0 serviceclientameli.fr
 0.0.0.0 serviceclientassistance.fr
@@ -36059,6 +36067,7 @@
 0.0.0.0 servicepaiement.fr
 0.0.0.0 servicepaiementleboncoin.fr
 0.0.0.0 servicepaiements-frais.fr
+0.0.0.0 serviceparistransports.fr
 0.0.0.0 servicepatient-ameli.fr
 0.0.0.0 servicepay.fr
 0.0.0.0 servicepayes.fr
@@ -36936,6 +36945,7 @@
 0.0.0.0 slotrizecasino.fr
 0.0.0.0 slotrush-casino.fr
 0.0.0.0 slotrush-casinos.fr
+0.0.0.0 slotrush-france.fr
 0.0.0.0 slotrush1.fr
 0.0.0.0 slotrushcasino.fr
 0.0.0.0 slots-magic.fr
@@ -37833,6 +37843,8 @@
 0.0.0.0 spinbara-officiel.fr
 0.0.0.0 spinbara-online.fr
 0.0.0.0 spinbara-onlline.fr
+0.0.0.0 spinbara2.fr
+0.0.0.0 spinbara3.fr
 0.0.0.0 spinbara777.fr
 0.0.0.0 spinbaracasino-fr.fr
 0.0.0.0 spinbaracasino1.fr
@@ -37899,6 +37911,7 @@
 0.0.0.0 spinfin2.fr
 0.0.0.0 spinfin24.fr
 0.0.0.0 spinfin3.fr
+0.0.0.0 spinfin4.fr
 0.0.0.0 spinfinenligne.fr
 0.0.0.0 spinfinfrance.fr
 0.0.0.0 spinfinity.fr
@@ -37946,6 +37959,7 @@
 0.0.0.0 spinlandercasino.fr
 0.0.0.0 spinlogic.fr
 0.0.0.0 spinlycasino.fr
+0.0.0.0 spinlynx-fr.fr
 0.0.0.0 spinlynx1.fr
 0.0.0.0 spinlynxcasino-fr.fr
 0.0.0.0 spinmacho-fr.fr
@@ -38154,6 +38168,7 @@
 0.0.0.0 spinvibe.fr
 0.0.0.0 spinvibecasino.fr
 0.0.0.0 spinvoyagecasino.fr
+0.0.0.0 spinwave.fr
 0.0.0.0 spinwin-casino.fr
 0.0.0.0 spinwincasino.fr
 0.0.0.0 spinwinera-fr.fr
@@ -39011,6 +39026,7 @@
 0.0.0.0 support-amende.fr
 0.0.0.0 support-amendes-antai.fr
 0.0.0.0 support-amendes.fr
+0.0.0.0 support-amf.fr
 0.0.0.0 support-amzn.fr
 0.0.0.0 support-amzon.fr
 0.0.0.0 support-ankama.fr
@@ -39209,6 +39225,7 @@
 0.0.0.0 support-vital.fr
 0.0.0.0 support-vitale.fr
 0.0.0.0 support-vitaleameli.fr
+0.0.0.0 support-wise.fr
 0.0.0.0 support1289.fr
 0.0.0.0 support139.fr
 0.0.0.0 support2023.fr
@@ -40395,6 +40412,8 @@
 0.0.0.0 trixino-officiel.fr
 0.0.0.0 trixino-play.fr
 0.0.0.0 trixino.fr
+0.0.0.0 trixino2.fr
+0.0.0.0 trixino3.fr
 0.0.0.0 trixino7.fr
 0.0.0.0 trixinocasino.fr
 0.0.0.0 trixinoo.fr
@@ -41008,6 +41027,7 @@
 0.0.0.0 urgent-renouvellement.fr
 0.0.0.0 url-ameli.fr
 0.0.0.0 urologie-chu-montpellier.fr
+0.0.0.0 uropacasino.fr
 0.0.0.0 urps-santepublique.fr
 0.0.0.0 urrssaff.fr
 0.0.0.0 ursaf-pro.fr
@@ -42542,7 +42562,9 @@
 0.0.0.0 wiinbeastt.fr
 0.0.0.0 wiinbeatz.fr
 0.0.0.0 wiinhero.fr
+0.0.0.0 wiinmachance.fr
 0.0.0.0 wiinspin.fr
+0.0.0.0 wiinstler.fr
 0.0.0.0 wijamax.fr
 0.0.0.0 wikibetcasino.fr
 0.0.0.0 wikipedia.re
@@ -42619,6 +42641,8 @@
 0.0.0.0 wildsino-official.fr
 0.0.0.0 wildsino-officiel.fr
 0.0.0.0 wildsino-onlline.fr
+0.0.0.0 wildsino2.fr
+0.0.0.0 wildsino3.fr
 0.0.0.0 wildsino6.fr
 0.0.0.0 wildsinocasino1.fr
 0.0.0.0 wildsinofr.fr
