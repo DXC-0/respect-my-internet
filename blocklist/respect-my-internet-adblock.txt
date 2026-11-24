@@ -146636,7 +146636,6 @@
 ||images.iad3.imdb.com^
 ||images.imdb.com^
 ||images.instagram.com^
-||images.mail.nest.com^
 ||images.messenger.com^
 ||images.qqshow.gtimg.com^
 ||images.twitchcdn.net^
@@ -224796,8 +224795,6 @@
 ||pda.imdb.com^
 ||pdai.tech^
 ||pdarte.com^
-||pdb-mysql-proxy01.data01.iad01.hq.nest.com^
-||pdb-mysql-proxy02.data01.iad01.hq.nest.com^
 ||pdb2.com^
 ||pdbeta.com^
 ||pdc.micloud.xiaomi.net^

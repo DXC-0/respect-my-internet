@@ -146638,7 +146638,6 @@
 0.0.0.0 images.iad3.imdb.com
 0.0.0.0 images.imdb.com
 0.0.0.0 images.instagram.com
-0.0.0.0 images.mail.nest.com
 0.0.0.0 images.messenger.com
 0.0.0.0 images.qqshow.gtimg.com
 0.0.0.0 images.twitchcdn.net
@@ -224798,8 +224797,6 @@
 0.0.0.0 pda.imdb.com
 0.0.0.0 pdai.tech
 0.0.0.0 pdarte.com
-0.0.0.0 pdb-mysql-proxy01.data01.iad01.hq.nest.com
-0.0.0.0 pdb-mysql-proxy02.data01.iad01.hq.nest.com
 0.0.0.0 pdb2.com
 0.0.0.0 pdbeta.com
 0.0.0.0 pdc.micloud.xiaomi.net
