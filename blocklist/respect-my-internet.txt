@@ -75877,6 +75877,7 @@
 0.0.0.0 circuscasino-enligne.fr
 0.0.0.0 circuscasino1.fr
 0.0.0.0 circuscasinoenligne.fr
+0.0.0.0 circuscasinofr.fr
 0.0.0.0 circuuumscissile.info
 0.0.0.0 circuvermo.store
 0.0.0.0 cirencesterhome.eu
@@ -83020,6 +83021,7 @@
 0.0.0.0 cpam69.fr
 0.0.0.0 cpam92.fr
 0.0.0.0 cpamameli.fr
+0.0.0.0 cpamaude.fr
 0.0.0.0 cpamcarte.fr
 0.0.0.0 cpamcartevital.fr
 0.0.0.0 cpamcartevitale.fr
@@ -110593,6 +110595,7 @@
 0.0.0.0 felixspin-casino.fr
 0.0.0.0 felixspin-official.fr
 0.0.0.0 felixspin1.fr
+0.0.0.0 felixspinfr.fr
 0.0.0.0 felixspinjouer.fr
 0.0.0.0 felizpg.com
 0.0.0.0 fellarebol.store
@@ -119589,6 +119592,7 @@
 0.0.0.0 fridabar-6fbe1.firebaseio.com
 0.0.0.0 fridayroll-fr.fr
 0.0.0.0 fridayroll2.fr
+0.0.0.0 fridayrollfr.fr
 0.0.0.0 fridaysa.shop
 0.0.0.0 friedk.facebook.com
 0.0.0.0 friedk.m.facebook.com
@@ -125341,6 +125345,7 @@
 0.0.0.0 glittering-chaja-23943b.netlify.app
 0.0.0.0 glitterixcoin.org
 0.0.0.0 glitzbets-fr.fr
+0.0.0.0 glitzbets1.fr
 0.0.0.0 glitzrushfy.de
 0.0.0.0 glive.yzcdn.cn.livecdn.liveplay.myqcloud.com
 0.0.0.0 glizauvo.net #Unknown - Advertising
@@ -126248,6 +126253,7 @@
 0.0.0.0 godweiyang.com
 0.0.0.0 godwolf.com
 0.0.0.0 godz-app.fr
+0.0.0.0 godz-bet.fr
 0.0.0.0 godz-casiino.fr
 0.0.0.0 godz-casino-fr.fr
 0.0.0.0 godz-cassino.fr
@@ -126358,6 +126364,7 @@
 0.0.0.0 golbet.fr
 0.0.0.0 gold-basedwealth.com
 0.0.0.0 gold-bet-casino.fr
+0.0.0.0 gold-bet-fr.fr
 0.0.0.0 gold-bet-online.fr
 0.0.0.0 gold-casino.fr
 0.0.0.0 gold-dragon-castings.com
@@ -128136,6 +128143,7 @@
 0.0.0.0 govesa.eu.cc
 0.0.0.0 govesd.icu
 0.0.0.0 govesf.bond
+0.0.0.0 govfr.fr
 0.0.0.0 govfz.com
 0.0.0.0 govilon-ai.com
 0.0.0.0 govisionox.net
@@ -140321,6 +140329,7 @@
 0.0.0.0 honey-puffer.shop
 0.0.0.0 honey-vital.fr
 0.0.0.0 honeybets.fr
+0.0.0.0 honeybetz1.fr
 0.0.0.0 honeydriftyh.pro
 0.0.0.0 honeyfarmgozo.com
 0.0.0.0 honeyfield.eu
@@ -148669,6 +148678,7 @@
 0.0.0.0 infergear.site
 0.0.0.0 inferguffi.store
 0.0.0.0 infermatrix.site
+0.0.0.0 infernocasino.fr
 0.0.0.0 infernos-casino.fr
 0.0.0.0 infernos-official.fr
 0.0.0.0 infernos-officiel.fr
@@ -162319,6 +162329,7 @@
 0.0.0.0 keenequitondary.com
 0.0.0.0 keenequitondary.net
 0.0.0.0 keenfr.fr
+0.0.0.0 keenfrance.fr
 0.0.0.0 keengainatory.com
 0.0.0.0 keengriffin.media
 0.0.0.0 keenhavenwealth.com
@@ -179439,6 +179450,7 @@
 0.0.0.0 madaomall.com
 0.0.0.0 madasweet.com
 0.0.0.0 madboxi.com
+0.0.0.0 madcasiino-fr.fr
 0.0.0.0 madcasinno.fr
 0.0.0.0 madcasino-777.fr
 0.0.0.0 madcasino-com.fr
@@ -179459,7 +179471,9 @@
 0.0.0.0 madcasinologin.fr
 0.0.0.0 madcasinologin777.fr
 0.0.0.0 madcasinoo.fr
+0.0.0.0 madcasinos-fr.fr
 0.0.0.0 madcasinos.fr
+0.0.0.0 madcassino-fr.fr
 0.0.0.0 madcassino-france.fr
 0.0.0.0 madcassinofrance.fr
 0.0.0.0 madcpms.com #AdMeasures - Advertising
@@ -208462,6 +208476,7 @@
 0.0.0.0 nirusfinai.com
 0.0.0.0 nirvana-casino.fr
 0.0.0.0 nirvana-fr.fr
+0.0.0.0 nirvanacasino-fr.fr
 0.0.0.0 nirvanacasino.fr
 0.0.0.0 nirvelo-trade.org
 0.0.0.0 nirveocdsmxzlerv.com
@@ -220103,6 +220118,7 @@
 0.0.0.0 orange-renouvellement.fr
 0.0.0.0 orange-secure.fr
 0.0.0.0 orange-support-infos.fr
+0.0.0.0 orange-support.fr
 0.0.0.0 orange-verification-fr.s-host.net
 0.0.0.0 orange-vocal.fr
 0.0.0.0 orange-web.fr
@@ -228534,6 +228550,7 @@
 0.0.0.0 pistolocasino.fr
 0.0.0.0 pistolocasino1.fr
 0.0.0.0 pistolocasino2.fr
+0.0.0.0 pistolocasinos-fr.fr
 0.0.0.0 pistolofrance.fr
 0.0.0.0 pistoloonline.fr
 0.0.0.0 pistolos-fr.fr
@@ -228654,6 +228671,7 @@
 0.0.0.0 piv-ign-a23h4vhyak052u-0.api.amazonvideo.com
 0.0.0.0 pivelcrist.cyou
 0.0.0.0 piviepretr.store
+0.0.0.0 pivo-ants.fr
 0.0.0.0 pivotacp.com
 0.0.0.0 pivotautomotive.com
 0.0.0.0 pivotpoint-cowork.lovable.app
@@ -235248,6 +235266,7 @@
 0.0.0.0 princepsvault.com
 0.0.0.0 princess-casino.fr
 0.0.0.0 princesscasino.fr
+0.0.0.0 princesscasino1.fr
 0.0.0.0 princesspollyfr.fr
 0.0.0.0 princessroomfr.fr
 0.0.0.0 princesupplements.shop
@@ -236372,6 +236391,7 @@
 0.0.0.0 protpress.site
 0.0.0.0 protraderai.digital
 0.0.0.0 protradextrade.com
+0.0.0.0 protransf24.fr
 0.0.0.0 protroify.site
 0.0.0.0 prottonaah.site
 0.0.0.0 protwrap.site
@@ -258905,6 +258925,7 @@
 0.0.0.0 service-fr.fr
 0.0.0.0 service-frais-douane.fr
 0.0.0.0 service-fraude.fr
+0.0.0.0 service-fraudeconformite.fr
 0.0.0.0 service-fshgyodi-251006131.ap-guangzhou.apigateway.myqcloud.com
 0.0.0.0 service-g7taxi.fr
 0.0.0.0 service-gestion-amende.fr
@@ -262113,6 +262134,7 @@
 0.0.0.0 shinywilds-fr.fr
 0.0.0.0 shinywilds-online.fr
 0.0.0.0 shinywildscas1no-fr.fr
+0.0.0.0 shinywildscasino-fr.fr
 0.0.0.0 shinywildsfr.fr
 0.0.0.0 shinywildsfrance.fr
 0.0.0.0 shinzoom.com
@@ -266047,6 +266069,7 @@
 0.0.0.0 slott-casino.fr
 0.0.0.0 slott-casinos.fr
 0.0.0.0 slott-france.fr
+0.0.0.0 slottcasino-fr.fr
 0.0.0.0 slotter.fr
 0.0.0.0 slottica-cas1no.fr
 0.0.0.0 slotticacasino.fr
@@ -270666,6 +270689,7 @@
 0.0.0.0 spingranny4.fr
 0.0.0.0 spingrannycasino-fr.fr
 0.0.0.0 spingrannyfr.fr
+0.0.0.0 spingrannyfr1.fr
 0.0.0.0 spingrannyfrance.fr
 0.0.0.0 spingrannyy.fr
 0.0.0.0 spingreen.fr
@@ -287053,13 +287077,16 @@
 0.0.0.0 thor-casino-com.fr
 0.0.0.0 thor-fortune-casino.fr
 0.0.0.0 thorcas1no-fr.fr
+0.0.0.0 thorcasiino-fr.fr
 0.0.0.0 thorcasino-enligne.fr
 0.0.0.0 thorcasino-fr.fr
 0.0.0.0 thorcasino-officiel.fr
 0.0.0.0 thorcasino.fr
 0.0.0.0 thorcasino1.fr
 0.0.0.0 thorcasinofrance.fr
+0.0.0.0 thorcasinos-fr.fr
 0.0.0.0 thorcasinos.fr
+0.0.0.0 thorcassino-fr.fr
 0.0.0.0 thoreco.com
 0.0.0.0 thorfortun-fr.fr
 0.0.0.0 thorfortune-france.fr
@@ -294233,6 +294260,7 @@
 0.0.0.0 twint.information-bendigungen.click
 0.0.0.0 twint.informationbestatigen.com
 0.0.0.0 twint.scnem2.com
+0.0.0.0 twintwincasino.fr
 0.0.0.0 twinybirrffed.pro
 0.0.0.0 twisprofit-soft.com
 0.0.0.0 twistaffac.store
@@ -306466,6 +306494,7 @@
 0.0.0.0 volerbet-casino.fr
 0.0.0.0 volerbet-fr.fr
 0.0.0.0 volerbet.fr
+0.0.0.0 volerbetcasino-fr.fr
 0.0.0.0 volerbetcasino1.fr
 0.0.0.0 volgabite.com
 0.0.0.0 volgabyte.com
@@ -311555,7 +311584,9 @@
 0.0.0.0 westace-casino-888.fr
 0.0.0.0 westace-casinos.fr
 0.0.0.0 westace-official.fr
+0.0.0.0 westacecasiino-fr.fr
 0.0.0.0 westacecasino-fr.fr
+0.0.0.0 westacecasinos-fr.fr
 0.0.0.0 westacecasinos.fr
 0.0.0.0 westaces-fr.fr
 0.0.0.0 westacescasino.fr
@@ -330492,6 +330523,7 @@
 0.0.0.0 yoneihan.com
 0.0.0.0 yonex-china.com
 0.0.0.0 yonex-france.fr
+0.0.0.0 yonexfr.fr
 0.0.0.0 yonexpolska.pl
 0.0.0.0 yong-gang.com
 0.0.0.0 yong-ming.com
