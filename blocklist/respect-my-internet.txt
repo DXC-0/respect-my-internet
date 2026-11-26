@@ -41449,6 +41449,7 @@
 0.0.0.0 amonbet1.fr
 0.0.0.0 amonbetcasino-fr.fr
 0.0.0.0 amonbetcasino.fr
+0.0.0.0 amonbetcasinos.fr
 0.0.0.0 amonbetfrance.fr
 0.0.0.0 amonbetonline.fr
 0.0.0.0 amonbets-fr.fr
@@ -67665,6 +67666,7 @@
 0.0.0.0 casinoalexanderfr.fr
 0.0.0.0 casinoallwins.fr
 0.0.0.0 casinoallyspin.fr
+0.0.0.0 casinoamonbet.fr
 0.0.0.0 casinoamunbet.fr
 0.0.0.0 casinoamunra.fr
 0.0.0.0 casinoandfriends.fr
@@ -67760,6 +67762,7 @@
 0.0.0.0 casinoenclair.fr
 0.0.0.0 casinoenligneargentreel.fr
 0.0.0.0 casinoenlignefiable.fr
+0.0.0.0 casinoenlignefiables.fr
 0.0.0.0 casinoenlignefranceretraitrapide.fr
 0.0.0.0 casinoenlignenouveau.fr
 0.0.0.0 casinoenligneretraitimmediate.fr
@@ -77931,6 +77934,7 @@
 0.0.0.0 clubsainttrojanlesbains.fr
 0.0.0.0 clubsaintvaleryencaux.fr
 0.0.0.0 clubsaliesdebearn.fr
+0.0.0.0 clubtickets.fr
 0.0.0.0 clubtrouvillesurmer.fr
 0.0.0.0 clubveulettessurmer.fr
 0.0.0.0 clubvillerssurmer.fr
@@ -95296,10 +95300,12 @@
 0.0.0.0 docs2.google.com
 0.0.0.0 docs2.gtimg.com
 0.0.0.0 docs2.idqqimg.com
+0.0.0.0 docs24pro.fr
 0.0.0.0 docs3.google.com
 0.0.0.0 docs3.idqqimg.com
 0.0.0.0 docsavatar.gtimg.com
 0.0.0.0 docschina.org
+0.0.0.0 docsentpro.fr
 0.0.0.0 docsj.com
 0.0.0.0 docsmall.com
 0.0.0.0 docsmartens.fr
@@ -102954,6 +102960,7 @@
 0.0.0.0 eldegiwy.elda7e7a.com
 0.0.0.0 elderlawlv.info
 0.0.0.0 elderly-olive-fmxxeglx-dpirhv6e4e6s.edgeone.dev
+0.0.0.0 elderscrollsonline.fr
 0.0.0.0 eldorayapi.com
 0.0.0.0 eldravon.com
 0.0.0.0 eldvora.xyz
@@ -114819,6 +114826,8 @@
 0.0.0.0 fischsopra.cyou
 0.0.0.0 fiscusfin.com
 0.0.0.0 fisdhu.com
+0.0.0.0 fish-road-game.fr
+0.0.0.0 fish-road-machine-asous.fr
 0.0.0.0 fish2bird.com
 0.0.0.0 fish3000.com
 0.0.0.0 fishandspins.fr
@@ -114843,7 +114852,9 @@
 0.0.0.0 fishmobi.com
 0.0.0.0 fishnew.digital
 0.0.0.0 fishqc.org
+0.0.0.0 fishroad-game.fr
 0.0.0.0 fishroad-jeu.fr
+0.0.0.0 fishroad-machineasous.fr
 0.0.0.0 fishros.com
 0.0.0.0 fishs.com
 0.0.0.0 fishtui.com
@@ -150823,6 +150834,7 @@
 0.0.0.0 instagram-chi.vercel.app
 0.0.0.0 instagram-clone-gules.vercel.app
 0.0.0.0 instagram-cloud.blogspot.com
+0.0.0.0 instagram-com.fr
 0.0.0.0 instagram-compte.fr
 0.0.0.0 instagram-connexion.fr
 0.0.0.0 instagram-copy.vercel.app
@@ -155493,14 +155505,19 @@
 0.0.0.0 jeton-rouge-casino.fr
 0.0.0.0 jeton-rouge-fr.fr
 0.0.0.0 jeton-rouge-france.fr
+0.0.0.0 jeton-rouge-online.fr
+0.0.0.0 jeton-rouge-play.fr
 0.0.0.0 jeton-rougefr.fr
 0.0.0.0 jeton-rouges-fr.fr
 0.0.0.0 jeton-rouges-france.fr
 0.0.0.0 jeton-rouges.fr
 0.0.0.0 jeton-rougesfr.fr
 0.0.0.0 jeton-rougex.fr
+0.0.0.0 jetonrouge-app.fr
+0.0.0.0 jetonrouge-bonus.fr
 0.0.0.0 jetonrouge-enligne.fr
 0.0.0.0 jetonrouge-fr.fr
+0.0.0.0 jetonrouge-login.fr
 0.0.0.0 jetonrouge1.fr
 0.0.0.0 jetonrougecasino.fr
 0.0.0.0 jetonrougecasino1.fr
@@ -155511,6 +155528,9 @@
 0.0.0.0 jetonrougecasinologin.fr
 0.0.0.0 jetonrougecassinos.fr
 0.0.0.0 jetonrougefrance.fr
+0.0.0.0 jetonrougeofficial.fr
+0.0.0.0 jetonrougeonline.fr
+0.0.0.0 jetonrougeplay.fr
 0.0.0.0 jetonrouges-fr.fr
 0.0.0.0 jetonrouges-france.fr
 0.0.0.0 jetonrouges.fr
@@ -163648,6 +163668,7 @@
 0.0.0.0 king-makercasino.fr
 0.0.0.0 king-rain.com
 0.0.0.0 king-strong.com
+0.0.0.0 kinga-livraisons.fr
 0.0.0.0 kingandkey.com
 0.0.0.0 kingandwood.com
 0.0.0.0 kingarf.lovable.app
@@ -168413,6 +168434,7 @@
 0.0.0.0 laposte-frais-dedouanement.fr
 0.0.0.0 laposte-fraiscolis.fr
 0.0.0.0 laposte-france.fr
+0.0.0.0 laposte-labanquepostale.fr
 0.0.0.0 laposte-lenquetecarrepro.fr
 0.0.0.0 laposte-lettre.fr
 0.0.0.0 laposte-livraison.fr
@@ -177039,6 +177061,7 @@
 0.0.0.0 luckleopard-fr.fr
 0.0.0.0 lucklnk.com
 0.0.0.0 lucknow.facebook.com
+0.0.0.0 luckquackcasino.fr
 0.0.0.0 luckrio-casino.fr
 0.0.0.0 luckrio.fr
 0.0.0.0 luckriocasino.fr
@@ -219548,6 +219571,7 @@
 0.0.0.0 onlyspins1.fr
 0.0.0.0 onlyspins2.fr
 0.0.0.0 onlyspinscasino-fr.fr
+0.0.0.0 onlyspinscassino-fr.fr
 0.0.0.0 onlyspinsfr.fr
 0.0.0.0 onlyspinss-fr.fr
 0.0.0.0 onlyspinss-france.fr
@@ -242862,6 +242886,7 @@
 0.0.0.0 quickwin-mobile.fr
 0.0.0.0 quickwin-online.fr
 0.0.0.0 quickwin1.fr
+0.0.0.0 quickwincasino-fr.fr
 0.0.0.0 quickwincasino1.fr
 0.0.0.0 quickwincasinoapp.fr
 0.0.0.0 quickwincasinoavis.fr
@@ -251999,6 +252024,7 @@
 0.0.0.0 rubyslotsfrance.fr
 0.0.0.0 rubyvegas-enligne.fr
 0.0.0.0 rubyvegas-online.fr
+0.0.0.0 rubyvegascasino-fr.fr
 0.0.0.0 rubyvegascasino777.fr
 0.0.0.0 rubyvegascasinoapp.fr
 0.0.0.0 rubyvegascasinoavis.fr
@@ -288635,6 +288661,7 @@
 0.0.0.0 titanium1.firebaseio.com
 0.0.0.0 titanlaw.com
 0.0.0.0 titanlock-official.fr
+0.0.0.0 titanluck-fr.fr
 0.0.0.0 titanm.com
 0.0.0.0 titanmatrix.com
 0.0.0.0 titanmediainsight.pro
@@ -295666,6 +295693,7 @@
 0.0.0.0 ugahabe.net
 0.0.0.0 ugainian.com
 0.0.0.0 ugandahosting.com
+0.0.0.0 ugap-france.fr
 0.0.0.0 ugap-interne.fr
 0.0.0.0 ugapi.com
 0.0.0.0 ugapk.com
@@ -313143,6 +313171,7 @@
 0.0.0.0 wilddice-plays.fr
 0.0.0.0 wilddicecas1no-fr.fr
 0.0.0.0 wilddicecas1no.fr
+0.0.0.0 wilddicecasino-fr.fr
 0.0.0.0 wilddicecasino24.fr
 0.0.0.0 wilddicecasinoo.fr
 0.0.0.0 wilddicecasinos.fr
@@ -313189,6 +313218,7 @@
 0.0.0.0 wildrobin-online.fr
 0.0.0.0 wildrobincas1no-fr.fr
 0.0.0.0 wildrobincasino-fr.fr
+0.0.0.0 wildrobincasinos-fr.fr
 0.0.0.0 wildrobinfrance.fr
 0.0.0.0 wildrose-gainlux.net
 0.0.0.0 wildrosegainluxsystem.com
@@ -313208,6 +313238,7 @@
 0.0.0.0 wildsino2.fr
 0.0.0.0 wildsino3.fr
 0.0.0.0 wildsino6.fr
+0.0.0.0 wildsinocasino-fr.fr
 0.0.0.0 wildsinocasino1.fr
 0.0.0.0 wildsinofr.fr
 0.0.0.0 wildsinojouer.fr
