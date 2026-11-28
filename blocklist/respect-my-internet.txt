@@ -57433,6 +57433,7 @@
 0.0.0.0 bivonaxai.net
 0.0.0.0 bivrenckdlsmxa.com
 0.0.0.0 biwangxiao.com
+0.0.0.0 biwarden.fr
 0.0.0.0 biwipede.digital
 0.0.0.0 biwuke.com
 0.0.0.0 bixiaxs.net
@@ -63594,6 +63595,7 @@
 0.0.0.0 bulkquantapp.live
 0.0.0.0 bulksms.services
 0.0.0.0 bulky-music-772717.framer.app
+0.0.0.0 bull-spins.fr
 0.0.0.0 bull188official.shop
 0.0.0.0 bullbatshalloweaar.info
 0.0.0.0 bullcome.com
@@ -63609,6 +63611,7 @@
 0.0.0.0 bullmachinery.com
 0.0.0.0 bulloscate.cyou
 0.0.0.0 bullrsbizz.store
+0.0.0.0 bullspins.fr
 0.0.0.0 bullvet.net
 0.0.0.0 bullvex.live
 0.0.0.0 bulmaki.shop
@@ -90317,6 +90320,7 @@
 0.0.0.0 deckmanager.net
 0.0.0.0 deckprofessor.com
 0.0.0.0 deckpulsenet.com
+0.0.0.0 decl-ants.fr
 0.0.0.0 declaestim.cyou
 0.0.0.0 declaration-ameli.fr
 0.0.0.0 declarationameli.fr
@@ -112526,6 +112530,7 @@
 0.0.0.0 finances-gouv-brif.fr
 0.0.0.0 finances-gouv-dgfp-controle-tva.fr
 0.0.0.0 finances-gouv-info.fr
+0.0.0.0 finances-public.fr
 0.0.0.0 finances-publique.fr
 0.0.0.0 finances-verbalisations.fr
 0.0.0.0 financesendirect.com
@@ -118944,6 +118949,7 @@
 0.0.0.0 fr-funbetcasino.fr
 0.0.0.0 fr-galec.fr
 0.0.0.0 fr-galy.fr
+0.0.0.0 fr-gameavenue.fr
 0.0.0.0 fr-gatesofolympus.fr
 0.0.0.0 fr-gcc.fr
 0.0.0.0 fr-generixgroup.fr
@@ -154110,6 +154116,7 @@
 0.0.0.0 iwanshow.com
 0.0.0.0 iwanttodeliver.com #Unknown - Tracker
 0.0.0.0 iwapan.com
+0.0.0.0 iwarden.fr
 0.0.0.0 iwatani-gz.com
 0.0.0.0 iwatertech.com
 0.0.0.0 iway-tech.com
@@ -262225,6 +262232,8 @@
 0.0.0.0 shercontraining.com
 0.0.0.0 sherieastman.com
 0.0.0.0 sherlocky.com
+0.0.0.0 sherluck-casino.fr
+0.0.0.0 sherluck-online.fr
 0.0.0.0 shermanmarkets.com
 0.0.0.0 sherocirco.cyou
 0.0.0.0 sherowm.com
@@ -270999,6 +271008,7 @@
 0.0.0.0 spinalto-casino.fr
 0.0.0.0 spinalto-enligne.fr
 0.0.0.0 spinalto-fr.fr
+0.0.0.0 spinalto-france.fr
 0.0.0.0 spinalto1.fr
 0.0.0.0 spinaltocasino.fr
 0.0.0.0 spinaltofr.fr
@@ -271311,6 +271321,8 @@
 0.0.0.0 spinorhino-fr.fr
 0.0.0.0 spinorhinocasino-fr.fr
 0.0.0.0 spinorhinocasino1.fr
+0.0.0.0 spinostra-casino.fr
+0.0.0.0 spinostra.fr
 0.0.0.0 spinovax.com
 0.0.0.0 spinpanda-casino.fr
 0.0.0.0 spinpanda-fr.fr
@@ -271363,6 +271375,8 @@
 0.0.0.0 spinsino-fr.fr
 0.0.0.0 spinsino.fr
 0.0.0.0 spinsino1.fr
+0.0.0.0 spinsky-casino.fr
+0.0.0.0 spinsky-online.fr
 0.0.0.0 spinslynx.fr
 0.0.0.0 spinsofglory-casino.fr
 0.0.0.0 spinsofglory-fr.fr
@@ -288157,6 +288171,7 @@
 0.0.0.0 ticketselect.fr
 0.0.0.0 ticketsevents.fr
 0.0.0.0 ticketsflash.fr
+0.0.0.0 ticketshellfest.fr
 0.0.0.0 ticketshow.fr
 0.0.0.0 ticketsjoparis2024.fr
 0.0.0.0 ticketsjul.fr
@@ -288756,6 +288771,7 @@
 0.0.0.0 titamobi.com
 0.0.0.0 titan-casino.fr
 0.0.0.0 titan-fundrelix-software.com
+0.0.0.0 titan-luck-casino.fr
 0.0.0.0 titan-portdex.digital
 0.0.0.0 titan-x-gold.live
 0.0.0.0 titan-zinserix.click
@@ -288774,6 +288790,7 @@
 0.0.0.0 titanium1.firebaseio.com
 0.0.0.0 titanlaw.com
 0.0.0.0 titanlock-official.fr
+0.0.0.0 titanluck-casino.fr
 0.0.0.0 titanluck-fr.fr
 0.0.0.0 titanm.com
 0.0.0.0 titanmatrix.com
@@ -334675,6 +334692,7 @@
 0.0.0.0 zalando.blog
 0.0.0.0 zalando.shoppinglapa.com
 0.0.0.0 zalando.stadiumshop.sbs
+0.0.0.0 zalandofficiel.fr
 0.0.0.0 zalandofree.com
 0.0.0.0 zalandon.fr
 0.0.0.0 zalandopl.com

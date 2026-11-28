@@ -6709,6 +6709,7 @@
 0.0.0.0 bitwincasino.fr
 0.0.0.0 bitzamo.fr
 0.0.0.0 biucosmetics.fr
+0.0.0.0 biwarden.fr
 0.0.0.0 bizbet.fr
 0.0.0.0 bizzo-casino.fr
 0.0.0.0 bizzo-online.fr
@@ -7487,7 +7488,9 @@
 0.0.0.0 buildabearfr.fr
 0.0.0.0 buildabearfrance.fr
 0.0.0.0 bulkcrapuninstaller.fr
+0.0.0.0 bull-spins.fr
 0.0.0.0 bullesonore.fr
+0.0.0.0 bullspins.fr
 0.0.0.0 bundesanzeiger.fr
 0.0.0.0 bunqsupport.fr
 0.0.0.0 bunsbet.fr
@@ -13598,6 +13601,7 @@
 0.0.0.0 decathlonparis.fr
 0.0.0.0 decathlons.fr
 0.0.0.0 dechatlon.fr
+0.0.0.0 decl-ants.fr
 0.0.0.0 declaration-ameli.fr
 0.0.0.0 declarationameli.fr
 0.0.0.0 declarationca3dgfip.fr
@@ -16671,6 +16675,7 @@
 0.0.0.0 finances-gouv-brif.fr
 0.0.0.0 finances-gouv-dgfp-controle-tva.fr
 0.0.0.0 finances-gouv-info.fr
+0.0.0.0 finances-public.fr
 0.0.0.0 finances-publique.fr
 0.0.0.0 finances-verbalisations.fr
 0.0.0.0 financesgouv.fr
@@ -17142,6 +17147,7 @@
 0.0.0.0 fr-funbetcasino.fr
 0.0.0.0 fr-galec.fr
 0.0.0.0 fr-galy.fr
+0.0.0.0 fr-gameavenue.fr
 0.0.0.0 fr-gatesofolympus.fr
 0.0.0.0 fr-gcc.fr
 0.0.0.0 fr-generixgroup.fr
@@ -21351,6 +21357,7 @@
 0.0.0.0 ivybetcasinologin.fr
 0.0.0.0 ivybets.fr
 0.0.0.0 iwank.fr
+0.0.0.0 iwarden.fr
 0.0.0.0 iwetransfer.fr
 0.0.0.0 iwildcasino.fr
 0.0.0.0 iwnamax.fr
@@ -36699,6 +36706,8 @@
 0.0.0.0 shazam2-filmtickets.fr
 0.0.0.0 shein-coupon.fr
 0.0.0.0 sheinmystore.fr
+0.0.0.0 sherluck-casino.fr
+0.0.0.0 sherluck-online.fr
 0.0.0.0 shieldplsyp.fr
 0.0.0.0 shiiva.fr
 0.0.0.0 shikaka-fr.fr
@@ -37873,6 +37882,7 @@
 0.0.0.0 spinalto-casino.fr
 0.0.0.0 spinalto-enligne.fr
 0.0.0.0 spinalto-fr.fr
+0.0.0.0 spinalto-france.fr
 0.0.0.0 spinalto1.fr
 0.0.0.0 spinaltocasino.fr
 0.0.0.0 spinaltofr.fr
@@ -38181,6 +38191,8 @@
 0.0.0.0 spinorhino-fr.fr
 0.0.0.0 spinorhinocasino-fr.fr
 0.0.0.0 spinorhinocasino1.fr
+0.0.0.0 spinostra-casino.fr
+0.0.0.0 spinostra.fr
 0.0.0.0 spinpanda-casino.fr
 0.0.0.0 spinpanda-fr.fr
 0.0.0.0 spinpanda.fr
@@ -38232,6 +38244,8 @@
 0.0.0.0 spinsino-fr.fr
 0.0.0.0 spinsino.fr
 0.0.0.0 spinsino1.fr
+0.0.0.0 spinsky-casino.fr
+0.0.0.0 spinsky-online.fr
 0.0.0.0 spinslynx.fr
 0.0.0.0 spinsofglory-casino.fr
 0.0.0.0 spinsofglory-fr.fr
@@ -40017,6 +40031,7 @@
 0.0.0.0 ticketselect.fr
 0.0.0.0 ticketsevents.fr
 0.0.0.0 ticketsflash.fr
+0.0.0.0 ticketshellfest.fr
 0.0.0.0 ticketshow.fr
 0.0.0.0 ticketsjoparis2024.fr
 0.0.0.0 ticketsjul.fr
@@ -40137,8 +40152,10 @@
 0.0.0.0 tiseo.fr
 0.0.0.0 tissotfrance.fr
 0.0.0.0 titan-casino.fr
+0.0.0.0 titan-luck-casino.fr
 0.0.0.0 titanbetcasino.fr
 0.0.0.0 titanlock-official.fr
+0.0.0.0 titanluck-casino.fr
 0.0.0.0 titanluck-fr.fr
 0.0.0.0 tjparis-justice.fr
 0.0.0.0 tkees-france.fr
@@ -44474,6 +44491,7 @@
 0.0.0.0 zadigoutlet.fr
 0.0.0.0 zalanado.fr
 0.0.0.0 zalando-ptive.fr
+0.0.0.0 zalandofficiel.fr
 0.0.0.0 zalandon.fr
 0.0.0.0 zalandoutlet.fr
 0.0.0.0 zalanodo.fr
